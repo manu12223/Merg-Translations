@@ -98,5 +98,3 @@ Before submitting your pull request, verify that:
 Thank you for being part of the development of Merg and helping bring it to players around the world!
 
 🌍 Happy translating! 🌍
-
-test
