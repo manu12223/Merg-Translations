@@ -22,7 +22,7 @@ Contribute a translation and you *may* receive the **Translator** role on our Di
 ### File Structure
 
 ```
-merg-translations/
+Merg-Translations/
 ├── res/
 │   ├── values/
 │   │   └── strings.xml (English reference)
