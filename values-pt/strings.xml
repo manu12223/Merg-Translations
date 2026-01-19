@@ -25,7 +25,7 @@
     <string name="language_portuguese">Português</string>
     <string name="language_spanish">Español (Espanhol)</string>
     <string name="language_japanese">日本語 (Japonês)</string>
-    <string name="language_italian">Italiano</string>
+    <string name="language_italian">Italiano (Italiano)</string>
     <string name="background">Fundo</string>
     <string name="background_black">Preto</string>
     <string name="background_white">Branco</string>
@@ -257,11 +257,12 @@
     <string name="spectate">Telar</string>
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
-    <string name="left">Esquerda</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
     <string name="error">Erro</string>
     <string name="room_crash">A sala travou: %s</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência.</string>
+
 </resources>
