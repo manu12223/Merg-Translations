@@ -69,7 +69,7 @@
     <string name="max_split_pieces">最大スプリット数:</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールなし</string>
-    <string name="warning_no_holes">統計は保存しません</string>
+    <string name="warning_no_holes">統計は保存されません</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
