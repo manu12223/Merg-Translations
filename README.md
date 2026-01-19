@@ -23,14 +23,15 @@ Contribute a translation and you *may* receive the **Translator** role on our Di
 
 ```
 merg-translations/
-├── de/
-│   └── strings.xml
-├── en/
-│   └── strings.xml (English reference)
-├── it/
-│   └── strings.xml
-└── [language-code]/
-    └── strings.xml
+├── res/
+│   ├── values/
+│   │   └── strings.xml (English reference)
+│   ├── values-de/
+│   │   └── strings.xml
+│   ├── values-it/
+│   │   └── strings.xml
+│   └── values-[language-code]/
+│       └── strings.xml
 ```
 
 Use the **English file** as your reference for context, formatting, and structure. Keep your language file open side-by-side while translating.
