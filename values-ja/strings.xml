@@ -1,0 +1,267 @@
+<resources>
+    <string name="app_name" translatable="false">Merg</string>
+
+    <!-- Main menu !-->
+    <string name="singleplayer">シングルプレイ</string>
+    <string name="multiplayer">マルチプレイ</string>
+    <string name="options">オプション</string>
+    <string name="discord" translatable="false">Discord</string>
+
+    <!-- Support menu !-->
+    <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
+    <string name="email_copy">メールをコピー</string>
+    <string name="email_support">サポートメール:</string>
+    <string name="developer">開発者:</string>
+    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
+    <string name="skins">スキン:</string>
+    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
+    <string name="translations">翻訳</string>
+    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
+
+    <!-- Options menu !-->
+    <string name="language">言語</string>
+    <string name="language_english">English (英語)</string>
+    <string name="language_german">Deutsch (ドイツ語)</string>
+    <string name="language_portuguese">Português (ポルトガル語)</string>
+    <string name="language_spanish">Español (スペイン語)</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_italian">Italiano (イタリア語)</string>
+    <string name="background">背景</string>
+    <string name="background_black">黒</string>
+    <string name="background_white">白</string>
+    <string name="controls">コントロール</string>
+    <string name="control_joystick">スティック</string>
+    <string name="control_touch">タッチ</string>
+    <string name="button_layout">ボタンレイアウト</string>
+    <string name="customize">カスタムする</string>
+    <string name="leaderboard_size">リーダーボードサイズ</string>
+    <string name="show_performance_metrics">パフォーマンスメトリクスを表示</string>
+    <string name="skin_outlines">スキンボーダー</string>
+    <string name="direction_arrow">方向矢印</string>
+    <string name="border_above_entities">エンティティ上のボーダー</string>
+    <string name="name_position">名前の位置</string>
+    <string name="name_position_above">上部</string>
+    <string name="name_position_center">中部</string>
+    <string name="name_position_below">下部</string>
+    <string name="name_scale">プレイヤー名スケール</string>
+    <string name="auto_spectate_killer">自動でキラーを観戦</string>
+    <string name="cycle_progressbar">サイクル経験値進捗バーテキスト</string>
+
+    <!-- Game/room creation menu (singleplayer) -->
+    <string name="game_mode">ゲームモード</string>
+    <string name="select_mode">モードを選択</string>
+    <string name="decrease_time">残り時間を下げ</string>
+    <string name="increase_time">残り時間を上げ</string>
+    <string name="grace_period">リスポーン可能時間</string>
+    <string name="decrease_grace">リスポーン可能時間を下げ</string>
+    <string name="increase_grace">リスポーン可能時間を上げ</string>
+    <string name="elimination_count">撃破数</string>
+    <string name="decrease_elimination_count">撃破数を下げ</string>
+    <string name="increase_elimination_count">撃破数を上げ</string>
+    <string name="elimination_interval">撃破間隔</string>
+    <string name="decrease_elimination_interval">撃破間隔を下げ</string>
+    <string name="increase_elimination_interval">撃破間隔を上げ</string>
+    <string name="map_size">マップサイズ</string>
+    <string name="bot_count">ボット数</string>
+    <string name="bot_difficulty">ボット難易度</string>
+    <string name="decrease_bots">ボット量を下げ</string>
+    <string name="increase_bots">ボット量を上げ</string>
+    <string name="max_split_pieces">最大スプリット数:</string>
+    <string name="quick_merge">ブロブを即座にマージ</string>
+    <string name="no_holes">ホールなし</string>
+    <string name="warning_no_holes">統計は保存しません</string>
+
+    <!-- Profile -->
+    <string name="profile">プロフィール</string>
+    <string name="change_name">名前を変更</string>
+    <string name="copy_id">IDをコピー</string>
+    <string name="statistics">統計</string>
+    <string name="achievements">実績</string>
+    <string name="change_profile_name">プロフィールで名前を変更</string>
+    <string name="enter_profile_name">名前を入力</string>
+    <string name="profile_color">プロフィールカラー</string>
+    <string name="all">すべて</string>
+    <string name="stat_highest_size">最高サイズ:</string>
+    <string name="stat_size_gained">獲得サイズ量:</string>
+    <string name="stat_size_lost">失ったサイズ数:</string>
+    <string name="stat_total">合計:</string>
+    <string name="stat_regular_value">普通（値）：</string>
+    <string name="stat_regular_count">普通（数）：</string>
+    <string name="stat_gold_value">金（値）：</string>
+    <string name="stat_gold_count">金 (数)：</string>
+    <string name="stat_silver_value">銀（値）：</string>
+    <string name="stat_silver_count">銀（数）：</string>
+    <string name="stat_bronze_value">銅（値）：</string>
+    <string name="stat_bronze_count">銅（数）：</string>
+    <string name="stat_bonus">ボーナス:</string>
+    <string name="stat_food_eaten">食べたフード数:</string>
+    <string name="stat_players_eaten">食べたプレイヤー数:</string>
+    <string name="stat_bots_eaten">食べたボット数:</string>
+    <string name="stat_blobs_eaten">食べたブロブ数:</string>
+    <string name="stat_games_won">勝ったゲーム数:</string>
+    <string name="stat_stages_cleared">完了したステージ数:</string>
+    <string name="stat_highest_stage">最高ステージ:</string>
+    <string name="stat_adventures_completed">完了したアドベンチャー数:</string>
+    <string name="stat_collisions">衝突数:</string>
+    <string name="stat_boosts">ブースト数:</string>
+    <string name="stat_teleports">テレポート数:</string>
+
+    <!-- Gamemodes !-->
+    <string name="gamemode_classic">クラシック</string>
+    <string name="gamemode_teams">チーム</string>
+    <string name="gamemode_survival">サバイバル</string>
+    <string name="gamemode_team_survival">チームサバイバル</string>
+    <string name="gamemode_knockout">ノックアウト</string>
+    <string name="gamemode_adventure">アドベンチャー</string>
+    <string name="gamemode_coming_soon">近日公開</string>
+    <string name="description_classic">Eat smaller players and become the largest blob in the universe! Use your size to dominate the map, but watch out for bigger players who want to eat you!</string>
+    <string name="description_teams">Join forces with other players of the same color! Work together to trap enemies and become the dominant team on the leaderboard. Teammates cannot eat each other.</string>
+    <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めろ。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
+    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利だ！</string>
+    <string name="description_knockout">Compete in elimination rounds! Players can respawn freely until eliminated at regular intervals. The smallest players at each interval are eliminated permanently. Be the last one standing to win!</string>
+    <string name="description_adventure">Complete challenging stages with unique objectives! Progress through increasing difficulties, earn rewards, and see how far you can go. Each stage brings new challenges!</string>
+    <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
+
+    <!-- Map sizes !-->
+    <string name="mapsize_small">小</string>
+    <string name="mapsize_medium">普通</string>
+    <string name="mapsize_large">大</string>
+
+    <!-- Bot difficulties !-->
+    <string name="difficulty_easy">易しい</string>
+    <string name="difficulty_normal">普通</string>
+    <string name="difficulty_hard">難しい</string>
+
+    <!-- Adventure mode !-->
+    <string name="adventure_stage">ステージ</string>
+    <string name="adventure_obj_eat_all_bots">ボットをすべて食べる</string>
+    <string name="adventure_obj_survive">生き残る</string>
+    <string name="adventure_obj_high_speed">ハイスピード！</string>
+    <string name="adventure_obj_more_holes">もっとホール！</string>
+
+    <!-- Timer text !-->
+    <string name="timer_time">時間</string>
+    <string name="timer_grace">リスポーン可能</string>
+    <string name="timer_tiebreaker">タイブレーカー</string>
+    <string name="timer_winner">勝者</string>
+
+    <!-- Teams !-->
+    <string name="blue_team">ブルーチーム</string>
+    <string name="red_team">レッドチーム</string>
+    <string name="green_team">グリーンチーム</string>
+    <string name="yellow_team">イエローチーム</string>
+
+    <!-- Buttons !-->
+    <string name="buttons_shoot">イジェクトボタン</string>
+    <string name="select_shoot">イジェクト選択</string>
+    <string name="shoot">イジェクト</string>
+    <string name="buttons_split">スプリットボタン</string>
+    <string name="select_split">スプリット選択</string>
+    <string name="split">スプリット</string>
+    <string name="buttons_customize">ボタンをカスタムする</string>
+    <string name="buttons_orientation_message">ポットレートとランドスケープのカスタム設定は、別々に保存されます。</string>
+
+    <!-- Skins !-->
+    <string name="skin">スキン</string>
+    <string name="no_skin">スキンなし</string>
+    <string name="selected_skin">現在スキン</string>
+    <string name="select_skin_color">カラーを選択</string>
+    <string name="skin_color_preview">プレビュー:</string>
+    <string name="skin_tab_standard">組み込み</string>
+    <string name="skin_tab_level">レベル</string>
+    <string name="skin_tab_voidstones">ボイドストーン</string>
+    <string name="level_skin_locked">このスキンはレベル %d でアンロックされます。</string>
+    <string name="level_lock">レベルロック</string>
+
+    <!-- Chat !-->
+    <string name="chat">チャット</string>
+    <string name="chat_close">チャットを閉じる</string>
+    <string name="chat_message_hint">メッセージを入力…</string>
+    <string name="chat_send_message">メッセージを送信</string>
+
+    <!-- Notification box !-->
+    <string name="level_up">レベルアップ！ %d</string>
+    <string name="game_over">ゲームオーバー！</string>
+    <string name="stage_clear">ステージ %s 完了！</string>
+    <string name="stage_failed">ステージ %s 失敗れ</string>
+    <string name="restarting_adventure">アドベンチャーリスタート中…</string>
+
+    <!-- Suffixes for ORDINAL numbers !-->
+    <string name="ordinal_first">%d番目</string>
+    <string name="ordinal_second">%d番目</string>
+    <string name="ordinal_third">%d番目</string>
+    <string name="ordinal_fourth">%d番目</string>
+    <string name="ordinal_fifth">%d番目</string>
+    <string name="ordinal_sixth">%d番目</string>
+    <string name="ordinal_seventh">%d番目</string>
+    <string name="ordinal_eighth">%d番目</string>
+    <string name="ordinal_ninth">%d番目</string>
+    <string name="ordinal_zeroth">%d番目</string>
+    <string name="ordinal_fallback">%d番目</string>
+
+    <!-- In Game UI !-->
+    <string name="player_size">サイズ: %d</string>
+    <string name="effective_size">表示サイズ: %d</string>
+    <string name="decay">衰退: %.2f/s</string>
+    <string name="pieces">スプリット: %1d/%2d</string>
+    <string name="merge">マージ: %ss</string>
+    <string name="invincibility">無敵: %ss</string>
+    <string name="speed_boost">+スピード: %ss</string>
+    <string name="xp" translatable="true">経験値:</string>
+    <string name="level">レベル</string>
+    <string name="food">フード</string>
+    <string name="voidstones">ボイドストーン</string>
+    <string name="blobs_eaten">食べたブロブ数</string>
+    <string name="session_stat_size_gained">獲得サイズ</string>
+    <string name="highest_rank">最高ランク</string>
+    <string name="session_stat_highest_size">最高サイズ</string>
+    <string name="leaderboard">リーダーボード</string>
+    <string name="session_stats">Session Stats</string>
+    <string name="debug">デバッグ</string>
+    <string name="profiler">プロファイラー</string>
+
+    <!-- Miscellaneous !-->
+    <string name="play">プレイ</string>
+    <string name="respawn">リスポーン</string>
+    <string name="wait">お待ちください</string>
+    <string name="back">戻る</string>
+    <string name="save">保存</string>
+    <string name="saved">保存済み</string>
+    <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+    <string name="select">選択</string>
+    <string name="reset">リセット</string>
+    <string name="done">完了</string>
+    <string name="empty">空</string>
+    <string name="name">名前</string>
+    <string name="home">ホームページ</string>
+    <string name="settings">設定</string>
+    <string name="team">チーム</string>
+    <string name="game_menu">ゲームメニュー</string>
+    <string name="color_picker">カラーピッカー</string>
+    <string name="color_wheel">カラーホイール</string>
+    <string name="brightness">明るさ</string>
+    <string name="no_one">なし</string>
+    <string name="map">マップ</string>
+    <string name="size">サイズ</string>
+    <string name="shots">イジェクト数</string>
+    <string name="bot">ボット</string>
+    <string name="bots">ボット数</string>
+    <string name="fps" translatable="false">FPS</string>
+    <string name="tps" translatable="false">TPS</string>
+    <string name="mspt" translatable="false">MSPT</string>
+    <string name="ur" translatable="false">UR</string>
+    <string name="show_ui">UI を表示</string>
+    <string name="open_menu">メニューを開く</string>
+    <string name="stop_spectating">観戦者モードを終了</string>
+    <string name="spectate">観戦する</string>
+    <string name="previous_entity">Previous Entity</string>
+    <string name="next_entity">Next Entity</string>
+    <string name="left">退室済み</string> <!-- left as in remaining, not the left direction -->
+    <string name="total">合計</string>
+    <string name="unknown">不明</string>
+    <string name="invalid_selection">無効な選択です！</string>
+    <string name="error">エラー</string>
+    <string name="room_crash">ルームがクラッシュしました: %s</string>
+    <string name="copied_to_clipboard">クリップボードにコピーされました。</string>
+</resources>

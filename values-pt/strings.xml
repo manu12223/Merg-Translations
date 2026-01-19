@@ -1,0 +1,267 @@
+<resources>
+    <string name="app_name" translatable="false">Merg</string>
+
+    <!-- Main menu !-->
+    <string name="singleplayer">Um jogador</string>
+    <string name="multiplayer">Multijogador</string>
+    <string name="options">Opções</string>
+    <string name="discord" translatable="false">Discord</string>
+
+    <!-- Support menu !-->
+    <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
+    <string name="email_copy">Copiar E-mail</string>
+    <string name="email_support">E-mail para Suporte:</string>
+    <string name="developer">Desenvolvedor:</string>
+    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
+    <string name="skins">Skins:</string>
+    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
+    <string name="translations">Traduções:</string>
+    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
+
+    <!-- Options menu !-->
+    <string name="language">Idioma</string>
+    <string name="language_english">English (Inglês)</string>
+    <string name="language_german">Deutsch (Alemão)</string>
+    <string name="language_portuguese">Português</string>
+    <string name="language_spanish">Español (Espanhol)</string>
+    <string name="language_japanese">日本語 (Japonês)</string>
+    <string name="language_italian">Italiano</string>
+    <string name="background">Fundo</string>
+    <string name="background_black">Preto</string>
+    <string name="background_white">Branco</string>
+    <string name="controls">Controles</string>
+    <string name="control_joystick">Controlador</string>
+    <string name="control_touch">Toque</string>
+    <string name="button_layout">Layout dos Botões</string>
+    <string name="customize">Personalizar</string>
+    <string name="leaderboard_size">Tamanho do Placar</string>
+    <string name="show_performance_metrics">Mostrar Métricas de Desempenho</string>
+    <string name="skin_outlines">Bordas nas Skins</string>
+    <string name="direction_arrow">Seta de Direção</string>
+    <string name="border_above_entities">Borda Acima das Entidades</string>
+    <string name="name_position">Posição do Nome</string>
+    <string name="name_position_above">Cima</string>
+    <string name="name_position_center">Centro</string>
+    <string name="name_position_below">Baixo</string>
+    <string name="name_scale">Escala do Nome</string>
+    <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
+    <string name="cycle_progressbar">Texto da Barra de Progresso do Ciclo XP</string>
+
+    <!-- Game/room creation menu (singleplayer) -->
+    <string name="game_mode">Modo de Jogo</string>
+    <string name="select_mode">Selecionar Modo</string>
+    <string name="decrease_time">Reduzir Tempo</string>
+    <string name="increase_time">Aumentar Tempo</string>
+    <string name="grace_period">Tempo de Tolerância</string>
+    <string name="decrease_grace">Reduzir Tempo de Tolerância</string>
+    <string name="increase_grace">Aumentar Tempo de Tolerância</string>
+    <string name="elimination_count">Contagem de Eliminações</string>
+    <string name="decrease_elimination_count">Reduzir Contagem de Eliminações</string>
+    <string name="increase_elimination_count">Aumentar Contagem de Eliminações</string>
+    <string name="elimination_interval">Intervalo da Eliminação</string>
+    <string name="decrease_elimination_interval">Reduzir Intervalo da Eliminação</string>
+    <string name="increase_elimination_interval">Aumentar Intervalo da Eliminação</string>
+    <string name="map_size">Tamanho do Mapa</string>
+    <string name="bot_count">Contagem de Bots</string>
+    <string name="bot_difficulty">Dificuldade dos Bots</string>
+    <string name="decrease_bots">Diminuir Quantidade de Bots</string>
+    <string name="increase_bots">Aumentar Quantidade de Bots</string>
+    <string name="max_split_pieces">Núm. Máx. de Splits</string>
+    <string name="quick_merge">Juntar-se rapidamente</string>
+    <string name="no_holes">Sem Vírus</string>
+    <string name="warning_no_holes">Nenhuma estatística será salva</string>
+
+    <!-- Profile -->
+    <string name="profile">Perfil</string>
+    <string name="change_name">Alterar Nome</string>
+    <string name="copy_id">Copiar ID</string>
+    <string name="statistics">Estatísticas</string>
+    <string name="achievements">Conquistas</string>
+    <string name="change_profile_name">Alterar Nome no Perfil</string>
+    <string name="enter_profile_name">Insira um Nome no Perfil</string>
+    <string name="profile_color">COR DO PERFIL</string>
+    <string name="all">Tudo</string>
+    <string name="stat_highest_size">Maior Tamanho:</string>
+    <string name="stat_size_gained">Tamanho Obtido:</string>
+    <string name="stat_size_lost">Tamanho Perdido:</string>
+    <string name="stat_total">Total:</string>
+    <string name="stat_regular_value">Regular (Valor):</string>
+    <string name="stat_regular_count">Regular (Contagem):</string>
+    <string name="stat_gold_value">Ouro (Valor):</string>
+    <string name="stat_gold_count">Ouro (Contagem):</string>
+    <string name="stat_silver_value">Prata (Valor):</string>
+    <string name="stat_silver_count">Prata (Contagem):</string>
+    <string name="stat_bronze_value">Bronze (Valor):</string>
+    <string name="stat_bronze_count">Bronze (Contagem):</string>
+    <string name="stat_bonus">Bônus:</string>
+    <string name="stat_food_eaten">Massa Absorvida:</string>
+    <string name="stat_players_eaten">Jogadores Absorvidos:</string>
+    <string name="stat_bots_eaten">Bots Absorvidos:</string>
+    <string name="stat_blobs_eaten">Blobs Absorvidos:</string>
+    <string name="stat_games_won">Jogos Ganhos:</string>
+    <string name="stat_stages_cleared">Fases Concluídas:</string>
+    <string name="stat_highest_stage">Maior Fase:</string>
+    <string name="stat_adventures_completed">Aventuras Concluídas:</string>
+    <string name="stat_collisions">Colisões:</string>
+    <string name="stat_boosts">Incrementos:</string>
+    <string name="stat_teleports">Teletransportes:</string>
+
+    <!-- Gamemodes !-->
+    <string name="gamemode_classic">Clássico</string>
+    <string name="gamemode_teams">Equipes</string>
+    <string name="gamemode_survival">Sobrevivência</string>
+    <string name="gamemode_team_survival">Sobrevivência em Equipes</string>
+    <string name="gamemode_knockout">Nocaute</string>
+    <string name="gamemode_adventure">Aventura</string>
+    <string name="gamemode_coming_soon">Em Breve</string>
+    <string name="description_classic">Absorva jogadores menores e torne-se no maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
+    <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente oponentes junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
+    <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
+    <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
+    <string name="description_knockout">Compita em rodadas eliminatórias! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os jogadores menores serão eliminados permanentemente a cada intervalo. Seja o(a) último(a) jogador(a) restante para ganhar!</string>
+    <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar. Cada fase traz consigo novos desafios!</string>
+    <string name="description_coming_soon">Esse modo de jogo chegará em breve, esteja antenado(a)!</string>
+
+    <!-- Map sizes !-->
+    <string name="mapsize_small">Pequeno</string>
+    <string name="mapsize_medium">Médio</string>
+    <string name="mapsize_large">Grande</string>
+
+    <!-- Bot difficulties !-->
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Difícil</string>
+
+    <!-- Adventure mode !-->
+    <string name="adventure_stage">Fase</string>
+    <string name="adventure_obj_eat_all_bots">Absorva Todos os Bots</string>
+    <string name="adventure_obj_survive">Sobreviva</string>
+    <string name="adventure_obj_high_speed">Alta Velocidade!</string>
+    <string name="adventure_obj_more_holes">Mais Vírus!</string>
+
+    <!-- Timer text !-->
+    <string name="timer_time">Tempo</string>
+    <string name="timer_grace">Tolerância</string>
+    <string name="timer_tiebreaker">Desempate</string>
+    <string name="timer_winner">Ganhador(a)</string>
+
+    <!-- Teams !-->
+    <string name="blue_team">Equipe Azul</string>
+    <string name="red_team">Equipe Vermelha</string>
+    <string name="green_team">Equipe Verde</string>
+    <string name="yellow_team">Equipe Amarela</string>
+
+    <!-- Buttons !-->
+    <string name="buttons_shoot">Botão de Ejeção</string>
+    <string name="select_shoot">Selecionar Ejeção</string>
+    <string name="shoot">Ejeção</string>
+    <string name="buttons_split">Botão de Divisão</string>
+    <string name="select_split">Selecionar Divisão</string>
+    <string name="split">Divisão</string>
+    <string name="buttons_customize">Personalizar Botões</string>
+    <string name="buttons_orientation_message">As personalizações para os modos Retrato e Paisagem serão salvas separadamente.</string>
+
+    <!-- Skins !-->
+    <string name="skin">Skin</string>
+    <string name="no_skin">Sem Skin</string>
+    <string name="selected_skin">Skin Selecionada</string>
+    <string name="select_skin_color">SELECIONAR COR</string>
+    <string name="skin_color_preview">Prévia:</string>
+    <string name="skin_tab_standard">Padrão</string>
+    <string name="skin_tab_level">Nível</string>
+    <string name="skin_tab_voidstones">Pedras do Vazio</string>
+    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
+    <string name="level_lock">Bloqueio no nível</string>
+
+    <!-- Chat !-->
+    <string name="chat">CHAT</string>
+    <string name="chat_close">Fechar Chat</string>
+    <string name="chat_message_hint">Digite uma mensagem…</string>
+    <string name="chat_send_message">Enviar Mensagem</string>
+
+    <!-- Notification box !-->
+    <string name="level_up">Subiu de Nível! %d</string>
+    <string name="game_over">Fim de Jogo!</string>
+    <string name="stage_clear">Fase %s Concluída!</string>
+    <string name="stage_failed">Fase %s Falhada!</string>
+    <string name="restarting_adventure">Reiniciando aventura…</string>
+
+    <!-- Suffixes for ORDINAL numbers !-->
+    <string name="ordinal_first">%dº</string>
+    <string name="ordinal_second">%dº</string>
+    <string name="ordinal_third">%dº</string>
+    <string name="ordinal_fourth">%dº</string>
+    <string name="ordinal_fifth">%dº</string>
+    <string name="ordinal_sixth">%dº</string>
+    <string name="ordinal_seventh">%dº</string>
+    <string name="ordinal_eighth">%dº</string>
+    <string name="ordinal_ninth">%dº</string>
+    <string name="ordinal_zeroth">%dº</string>
+    <string name="ordinal_fallback">%dº</string>
+
+    <!-- In Game UI !-->
+    <string name="player_size">Tamanho: %d</string>
+    <string name="effective_size">Tam. Efetivo: %d</string>
+    <string name="decay">Decadência: %.2f/s</string>
+    <string name="pieces">Divisões: %1d/%2d</string>
+    <string name="merge">Juntar-se em: %ss</string>
+    <string name="invincibility">Invencibilidade: %ss</string>
+    <string name="speed_boost">+Velocidade: %ss</string>
+    <string name="xp" translatable="false">XP</string>
+    <string name="level">Nível</string>
+    <string name="food">Alimento</string>
+    <string name="voidstones">Pedras do Vazio</string>
+    <string name="blobs_eaten">Blobs Absorvidos</string>
+    <string name="session_stat_size_gained">Tamanho Obtido</string>
+    <string name="highest_rank">Maior Classificação</string>
+    <string name="session_stat_highest_size">Maior Tamanho</string>
+    <string name="leaderboard">Placar de Líderes</string>
+    <string name="session_stats">Estatísticas da Sessão</string>
+    <string name="debug">Depuração</string>
+    <string name="profiler">Perfilador</string>
+
+    <!-- Miscellaneous !-->
+    <string name="play">Jogar</string>
+    <string name="respawn">Renascer</string>
+    <string name="wait">Aguarde</string>
+    <string name="back">Voltar</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Salvo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="close">Fechar</string>
+    <string name="select">Selecionar</string>
+    <string name="reset">Redefinir</string>
+    <string name="done">Feito</string>
+    <string name="empty">Vazio</string>
+    <string name="name">Nome</string>
+    <string name="home">Início</string>
+    <string name="settings">Configurações</string>
+    <string name="team">Equipe</string>
+    <string name="game_menu">MENU DO JOGO</string>
+    <string name="color_picker">SELETOR DE CORES</string>
+    <string name="color_wheel">Roda das Cores</string>
+    <string name="brightness">Brilho</string>
+    <string name="no_one">Nenhum</string>
+    <string name="map">Mapa</string>
+    <string name="size">Tamanho</string>
+    <string name="shots">Ejeções</string>
+    <string name="bot">Bot</string>
+    <string name="bots">Bots</string>
+    <string name="fps" translatable="false">FPS</string>
+    <string name="tps" translatable="false">TPS</string>
+    <string name="mspt" translatable="false">MSPT</string>
+    <string name="ur" translatable="false">UR</string>
+    <string name="show_ui">Mostrar IU</string>
+    <string name="open_menu">Abrir Menu</string>
+    <string name="stop_spectating">Parar de Telar</string>
+    <string name="spectate">Telar</string>
+    <string name="previous_entity">Entidade Anterior</string>
+    <string name="next_entity">Próxima Entidade</string>
+    <string name="left">Esquerda</string> <!-- left as in remaining, not the left direction -->
+    <string name="total">Total</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="invalid_selection">Seleção inválida!</string>
+    <string name="error">Erro</string>
+    <string name="room_crash">A sala travou: %s</string>
+    <string name="copied_to_clipboard">Copiado para a área de transferência.</string>
+</resources>
