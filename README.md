@@ -94,6 +94,6 @@ Before submitting your pull request, verify that:
 
 ## Thank You!
 
-Thank you for being part of the development of Merg and helping bring it to players around the world. Your contributions make a real difference in making gaming accessible to everyone.
+Thank you for being part of the development of Merg and helping bring it to players around the world!
 
 🌍 Happy translating! 🌍
