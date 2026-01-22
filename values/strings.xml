@@ -271,6 +271,7 @@
     <string name="dialog_confirm">Confirm</string>
     <string name="dialog_leave_game">Leave Game?</string>
     <string name="dialog_respawn_warning">Respawn? You will lose all your Size.</string>
+    <string name="dialog_change_language">Change language to %s? The app will be reloaded.</string>
     <string name="room_crash">Room crashed: %s</string>
     <string name="dialog_yes">YES</string>
     <string name="dialog_no">NO</string>
