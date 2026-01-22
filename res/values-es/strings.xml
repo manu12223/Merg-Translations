@@ -2,9 +2,9 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Singleplayer</string>
+    <string name="singleplayer">Un Solo Jugador</string>
     <string name="multiplayer">Multiplayer</string>
-    <string name="options">Options</string>
+    <string name="options">Opciones</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
@@ -62,7 +62,7 @@
     <string name="decrease_elimination_interval">Disminuir el intervalo de eliminación</string>
     <string name="increase_elimination_interval">Aumentar el intervalo de eliminación</string>
     <string name="map_size">Tamaño de mapa</string>
-    <string name="bot_count">recuento de bots</string>
+    <string name="bot_count">Recuento de bots</string>
     <string name="bot_difficulty">Dificultad del bot</string>
     <string name="decrease_bots">Disminuir Bots</string>
     <string name="increase_bots">Aumentar Bots</string>
@@ -172,7 +172,7 @@
     <string name="skin_tab_level">Nivel</string>
     <string name="skin_tab_voidstones">Voidstones</string>
     <string name="level_skin_locked">La piel se desbloquea en el nivel %d</string>
-    <string name="level_lock">Nivel bloqueado</string>
+    <string name="level_lock">Nivel Bloqueado</string>
 
 
     <!-- Chat !-->
@@ -264,7 +264,7 @@
     <string name="unknown">Desconocido</string>
     <string name="invalid_selection">¡Selección no válida!</string>
     <string name="error">Error</string>
-    <string name="room_crash">Room crashed: %s</string>
+    <string name="room_crash">Sala Crasheada: %s</string>
     <string name="copied_to_clipboard">Copiado al portapapeles.</string>
 
 </resources>
