@@ -45,7 +45,7 @@
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
-    <string name="cycle_progressbar">Texto da Barra de Progresso do Ciclo XP</string>
+    <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
 
     <!-- Game/room creation menu (singleplayer) -->
     <string name="game_mode">Modo de Jogo</string>
