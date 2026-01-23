@@ -45,7 +45,7 @@
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
-    <string name="cycle_progressbar">Texto da Barra de Progresso do Ciclo XP</string>
+    <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
 
     <!-- Game/room creation menu (singleplayer) -->
     <string name="game_mode">Modo de Jogo</string>
@@ -115,7 +115,7 @@
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_coming_soon">Em Breve</string>
     <string name="description_classic">Absorva jogadores menores e torne-se no maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
-    <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente oponentes junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
+    <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
     <string name="description_knockout">Compita em rodadas eliminatórias! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os jogadores menores serão eliminados permanentemente a cada intervalo. Seja o(a) último(a) jogador(a) restante para ganhar!</string>
@@ -231,7 +231,7 @@
     <string name="close">Fechar</string>
     <string name="select">Selecionar</string>
     <string name="reset">Redefinir</string>
-    <string name="done">Feito</string>
+    <string name="done">Concluído</string>
     <string name="empty">Vazio</string>
     <string name="name">Nome</string>
     <string name="home">Início</string>
@@ -262,7 +262,17 @@
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
     <string name="error">Erro</string>
-    <string name="room_crash">A sala travou: %s</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência.</string>
 
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Confirmar</string>
+    <string name="dialog_leave_game">Sair do Jogo?</string>
+    <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
+    <string name="dialog_language_change">Alterar idioma para %s? O aplicativo será recarregado.</string>
+    <string name="room_crash">A sala travou: %s</string>
+    <string name="dialog_yes">SIM</string>
+    <string name="dialog_no">NÃO</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_copy">COPIAR</string>
+    <string name="toast_please_wait">Aguarde</string>
 </resources>

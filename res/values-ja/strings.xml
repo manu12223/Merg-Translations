@@ -33,7 +33,7 @@
     <string name="control_joystick">スティック</string>
     <string name="control_touch">タッチ</string>
     <string name="button_layout">ボタンレイアウト</string>
-    <string name="customize">カスタムする</string>
+    <string name="customize">カスタマイズ</string>
     <string name="leaderboard_size">リーダーボードサイズ</string>
     <string name="show_performance_metrics">パフォーマンスメトリクスを表示</string>
     <string name="skin_outlines">スキンボーダー</string>
@@ -45,7 +45,7 @@
     <string name="name_position_below">下部</string>
     <string name="name_scale">プレイヤー名スケール</string>
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
-    <string name="cycle_progressbar">サイクル経験値進捗バーテキスト</string>
+    <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
 
     <!-- Game/room creation menu (singleplayer) -->
     <string name="game_mode">ゲームモード</string>
@@ -83,22 +83,22 @@
     <string name="all">すべて</string>
     <string name="stat_highest_size">最高サイズ:</string>
     <string name="stat_size_gained">獲得サイズ量:</string>
-    <string name="stat_size_lost">失ったサイズ数:</string>
+    <string name="stat_size_lost">失ったサイズの数:</string>
     <string name="stat_total">合計:</string>
-    <string name="stat_regular_value">普通（値）：</string>
-    <string name="stat_regular_count">普通（数）：</string>
-    <string name="stat_gold_value">金（値）：</string>
-    <string name="stat_gold_count">金 (数)：</string>
-    <string name="stat_silver_value">銀（値）：</string>
-    <string name="stat_silver_count">銀（数）：</string>
-    <string name="stat_bronze_value">銅（値）：</string>
-    <string name="stat_bronze_count">銅（数）：</string>
+    <string name="stat_regular_value">普通 (値):</string>
+    <string name="stat_regular_count">普通 (数):</string>
+    <string name="stat_gold_value">金 (値):</string>
+    <string name="stat_gold_count">金 (数):</string>
+    <string name="stat_silver_value">銀 (値):</string>
+    <string name="stat_silver_count">銀 (数):</string>
+    <string name="stat_bronze_value">銅 (値):</string>
+    <string name="stat_bronze_count">銅 (数):</string>
     <string name="stat_bonus">ボーナス:</string>
-    <string name="stat_food_eaten">食べたフード数:</string>
-    <string name="stat_players_eaten">食べたプレイヤー数:</string>
-    <string name="stat_bots_eaten">食べたボット数:</string>
-    <string name="stat_blobs_eaten">食べたブロブ数:</string>
-    <string name="stat_games_won">勝ったゲーム数:</string>
+    <string name="stat_food_eaten">食べたフードの数:</string>
+    <string name="stat_players_eaten">食べたプレイヤーの数:</string>
+    <string name="stat_bots_eaten">食べたボットの数:</string>
+    <string name="stat_blobs_eaten">食べたブロブの数:</string>
+    <string name="stat_games_won">勝ったゲームの数:</string>
     <string name="stat_stages_cleared">完了したステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
     <string name="stat_adventures_completed">完了したアドベンチャー数:</string>
@@ -262,7 +262,18 @@
     <string name="unknown">不明</string>
     <string name="invalid_selection">無効な選択です！</string>
     <string name="error">エラー</string>
-    <string name="room_crash">ルームがクラッシュしました: %s</string>
     <string name="copied_to_clipboard">クリップボードにコピーされました。</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">確認</string>
+    <string name="dialog_leave_game">ゲームを終了？</string>
+    <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズを失われます！</string>
+    <string name="dialog_language_change">言語を『%s』に変更しますか？アプリが再起動されます。</string>
+    <string name="room_crash">ルームがクラッシュされました: %s</string>
+    <string name="dialog_yes">はい</string>
+    <string name="dialog_no">いいえ</string>
+    <string name="dialog_ok">はい</string>
+    <string name="dialog_copy">コピー</string>
+    <string name="toast_please_wait">お待ちください</string>
 </resources>
 
