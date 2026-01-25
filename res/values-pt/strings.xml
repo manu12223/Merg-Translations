@@ -268,7 +268,7 @@
     <string name="dialog_confirm">Confirmar</string>
     <string name="dialog_leave_game">Sair do Jogo?</string>
     <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
-    <string name="dialog_language_change">Alterar idioma para %s? O aplicativo será recarregado.</string>
+    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
     <string name="room_crash">A sala travou: %s</string>
     <string name="dialog_yes">SIM</string>
     <string name="dialog_no">NÃO</string>
