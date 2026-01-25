@@ -123,9 +123,12 @@
     <string name="description_coming_soon">This mode is coming soon, stay tuned!</string>
 
     <!-- Map sizes !-->
+    <string name="mapsize_tiny">Tiny</string>
     <string name="mapsize_small">Small</string>
     <string name="mapsize_medium">Medium</string>
     <string name="mapsize_large">Large</string>
+    <string name="mapsize_xl">XL</string>
+
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Easy</string>
