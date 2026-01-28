@@ -35,6 +35,7 @@
     <string name="button_layout">ボタンレイアウト</string>
     <string name="customize">カスタマイズ</string>
     <string name="leaderboard_size">リーダーボードサイズ</string>
+    <string name="show_grid">グリッドを表示</string>
     <string name="show_performance_metrics">パフォーマンスメトリクスを表示</string>
     <string name="skin_outlines">スキンボーダー</string>
     <string name="direction_arrow">方向矢印</string>
@@ -119,7 +120,7 @@
     <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めろ。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
     <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利だ！</string>
     <string name="description_knockout">Compete in elimination rounds! Players can respawn freely until eliminated at regular intervals. The smallest players at each interval are eliminated permanently. Be the last one standing to win!</string>
-    <string name="description_adventure">唯一の目的のアドベンチャーステージを完了しよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
+    <string name="description_adventure">ユニークな目的のアドベンチャーステージを完了しよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
 
     <!-- Map sizes !-->
