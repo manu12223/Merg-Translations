@@ -123,9 +123,11 @@
     <string name="description_coming_soon">Esse modo de jogo chegará em breve, esteja antenado(a)!</string>
 
     <!-- Map sizes !-->
+    <string name="mapsize_tiny">Minúsculo</string>
     <string name="mapsize_small">Pequeno</string>
     <string name="mapsize_medium">Médio</string>
     <string name="mapsize_large">Grande</string>
+    <string name="mapsize_xl">Muito Grande</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Fácil</string>
