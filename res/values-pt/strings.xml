@@ -137,6 +137,7 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">Fase</string>
+    <string name="adventure_initializing">Inicializando…</string>
     <string name="adventure_obj_eat_all_bots">Absorva Todos os Bots</string>
     <string name="adventure_obj_survive">Sobreviva</string>
     <string name="adventure_obj_high_speed">Alta Velocidade!</string>
