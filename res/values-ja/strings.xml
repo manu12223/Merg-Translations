@@ -84,7 +84,7 @@
     <string name="all">すべて</string>
     <string name="stat_highest_size">最高サイズ:</string>
     <string name="stat_size_gained">獲得サイズ量:</string>
-    <string name="stat_size_lost">失ったサイズの数:</string>
+    <string name="stat_size_lost">失ったサイズ量:</string>
     <string name="stat_total">合計:</string>
     <string name="stat_regular_value">普通 (値):</string>
     <string name="stat_regular_count">普通 (数):</string>
