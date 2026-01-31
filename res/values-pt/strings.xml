@@ -251,6 +251,7 @@
     <string name="shots">Ejeções</string>
     <string name="bot">Bot</string>
     <string name="bots">Bots</string>
+    <string name="minimum_players">Núm. Mín. de Jogadores</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
