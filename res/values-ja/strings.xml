@@ -251,6 +251,7 @@
     <string name="shots">イジェクト数</string>
     <string name="bot">ボット</string>
     <string name="bots">ボット数</string>
+    <string name="minimum_players">最小プレイヤー数</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
