@@ -12,11 +12,8 @@
     <string name="email_copy">Copy Email</string>
     <string name="email_support">Support Mail:</string>
     <string name="developer">Developer:</string>
-    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
     <string name="skins">Skins:</string>
-    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
     <string name="translations">Translations:</string>
-    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
 
     <!-- Options menu !-->
     <string name="language">Language</string>
@@ -254,6 +251,7 @@
     <string name="shots">Shots</string>
     <string name="bot">Bot</string>
     <string name="bots">Bots</string>
+    <string name="minimum_players">Minimum Players</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
@@ -268,6 +266,7 @@
     <string name="total">Total</string>
     <string name="unknown">Unknown</string>
     <string name="invalid_selection">Invalid selection!</string>
+    <string name="invalid_name">Invalid Name!</string>
     <string name="error">Error</string>
     <string name="copied_to_clipboard">Copied to clipboard.</string>
 
