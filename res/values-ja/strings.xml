@@ -84,7 +84,7 @@
     <string name="all">すべて</string>
     <string name="stat_highest_size">最高サイズ:</string>
     <string name="stat_size_gained">獲得サイズ量:</string>
-    <string name="stat_size_lost">失ったサイズの数:</string>
+    <string name="stat_size_lost">失ったサイズ量:</string>
     <string name="stat_total">合計:</string>
     <string name="stat_regular_value">普通 (値):</string>
     <string name="stat_regular_count">普通 (数):</string>
@@ -137,9 +137,10 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">ステージ</string>
+    <string name="adventure_initializing">初期化中…</string>
     <string name="adventure_obj_eat_all_bots">ボットをすべて食べる</string>
     <string name="adventure_obj_survive">生き残る</string>
-    <string name="adventure_obj_high_speed">ハイスピード！</string>
+    <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
 
     <!-- Timer text !-->
@@ -237,7 +238,7 @@
     <string name="done">完了</string>
     <string name="empty">空</string>
     <string name="name">名前</string>
-    <string name="home">ホームページ</string>
+    <string name="home">ホーム</string>
     <string name="settings">設定</string>
     <string name="team">チーム</string>
     <string name="game_menu">ゲームメニュー</string>
