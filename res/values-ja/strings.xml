@@ -258,7 +258,7 @@
     <string name="ur" translatable="false">UR</string>
     <string name="show_ui">UI を表示</string>
     <string name="open_menu">メニューを開く</string>
-    <string name="stop_spectating">観戦者モードを終了</string>
+    <string name="stop_spectating">観戦モードを終了</string>
     <string name="spectate">観戦する</string>
     <string name="previous_entity">前のエンティティ</string>
     <string name="next_entity">次のエンティティ</string>
