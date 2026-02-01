@@ -174,7 +174,7 @@
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボイドストーン</string>
-    <string name="level_skin_locked">このスキンはレベル %d でアンロックされます。</string>
+    <string name="level_skin_locked">このスキンはレベル%d以降にアンロックされます。</string>
     <string name="level_lock">レベルロック</string>
 
     <!-- Chat !-->
