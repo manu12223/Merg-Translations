@@ -213,7 +213,7 @@
     <string name="food">フード</string>
     <string name="voidstones">収集したボイドストーンの数</string>
     <string name="blobs_eaten">食べたブロブの数</string>
-    <string name="session_stat_size_gained">獲得したサイズ量</string>
+    <string name="session_stat_size_gained">獲得サイズ量</string>
     <string name="highest_rank">最高ランク</string>
     <string name="session_stat_highest_size">最高サイズ</string>
     <string name="leaderboard">リーダーボード</string>
