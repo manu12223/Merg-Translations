@@ -119,7 +119,7 @@
     <string name="description_teams">同じカラーのプレイヤーに参加しよう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
     <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めろ。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
     <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利だ！</string>
-    <string name="description_knockout">Compete in elimination rounds! Players can respawn freely until eliminated at regular intervals. The smallest players at each interval are eliminated permanently. Be the last one standing to win!</string>
+    <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
     <string name="description_adventure">ユニークな目的のアドベンチャーステージを完了しよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
 
