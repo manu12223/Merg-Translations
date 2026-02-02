@@ -12,11 +12,8 @@
     <string name="email_copy">メールをコピー</string>
     <string name="email_support">サポートメール:</string>
     <string name="developer">開発者:</string>
-    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
     <string name="skins">スキン:</string>
-    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
-    <string name="translations">翻訳</string>
-    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
+    <string name="translations">翻訳:</string>
 
     <!-- Options menu !-->
     <string name="language">言語</string>
