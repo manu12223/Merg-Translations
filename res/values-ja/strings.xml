@@ -232,7 +232,7 @@
     <!-- Miscellaneous !-->
     <string name="play">プレイ</string>
     <string name="respawn">リスポーン</string>
-    <string name="wait">お待ちください</string>
+    <string name="wait">お待ち</string>
     <string name="back">戻る</string>
     <string name="save">保存</string>
     <string name="saved">保存済み</string>
