@@ -33,10 +33,17 @@
     <string name="customize">Customize</string>
     <string name="leaderboard_size">Leaderboard Size</string>
     <string name="show_grid">Show Grid</string>
+    <string name="custom_background_image">Custom Background Image</string>
+    <string name="custom_background_select">Select Image</string>
+    <string name="custom_background_opacity">Background Opacity</string>
     <string name="show_performance_metrics">Show Performance Metrics</string>
     <string name="skin_outlines">Skin Outlines</string>
     <string name="direction_arrow">Direction Arrow</string>
     <string name="border_above_entities">Border Above Entities</string>
+    <string name="map_border_visible">Show Map Border</string>
+    <string name="star_background_enabled">Stars</string>
+    <string name="star_color_white">White</string>
+    <string name="star_color_black">Black</string>
     <string name="name_position">Name Position</string>
     <string name="name_position_above">Above</string>
     <string name="name_position_center">Center</string>
@@ -68,6 +75,7 @@
     <string name="quick_merge">Quick Merge</string>
     <string name="no_holes">No Holes</string>
     <string name="warning_no_holes">No statistics will be saved</string>
+    <string name="gold_holes">Gold Holes</string>
 
     <!-- Profile -->
     <string name="profile">Profile</string>
@@ -281,5 +289,6 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPY</string>
     <string name="toast_please_wait">Please Wait</string>
+    <string name="permission_denied">Permission denied</string>
 
 </resources>
