@@ -12,11 +12,8 @@
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
     <string name="developer">Desenvolvedor:</string>
-    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
     <string name="skins">Skins:</string>
-    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
     <string name="translations">Traduções:</string>
-    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
@@ -65,7 +62,7 @@
     <string name="map_size">Tamanho do Mapa</string>
     <string name="bot_count">Contagem de Bots</string>
     <string name="bot_difficulty">Dificuldade dos Bots</string>
-    <string name="decrease_bots">Diminuir Quantidade de Bots</string>
+    <string name="decrease_bots">Reduzir Quantidade de Bots</string>
     <string name="increase_bots">Aumentar Quantidade de Bots</string>
     <string name="max_split_pieces">Núm. Máx. de Splits</string>
     <string name="quick_merge">Juntar-se rapidamente</string>
@@ -251,6 +248,7 @@
     <string name="shots">Ejeções</string>
     <string name="bot">Bot</string>
     <string name="bots">Bots</string>
+    <string name="minimum_players">Núm. Mín. de Jogadores</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>

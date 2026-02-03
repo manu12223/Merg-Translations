@@ -12,11 +12,8 @@
     <string name="email_copy">メールをコピー</string>
     <string name="email_support">サポートメール:</string>
     <string name="developer">開発者:</string>
-    <string name="developer_names" translatable="false">Manu1223\nKuchen</string>
     <string name="skins">スキン:</string>
-    <string name="skins_names" translatable="false">𝑵𝒆𝒚𝒌𝒐𝒐𝒌 𖣂</string>
-    <string name="translations">翻訳</string>
-    <string name="translations_names" translatable="false">Japanese: John♡\nPortuguese: John♡\nSpanish: RagnarK</string>
+    <string name="translations">翻訳:</string>
 
     <!-- Options menu !-->
     <string name="language">言語</string>
@@ -119,7 +116,7 @@
     <string name="description_teams">同じカラーのプレイヤーに参加しよう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
     <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めろ。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
     <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利だ！</string>
-    <string name="description_knockout">Compete in elimination rounds! Players can respawn freely until eliminated at regular intervals. The smallest players at each interval are eliminated permanently. Be the last one standing to win!</string>
+    <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
     <string name="description_adventure">ユニークな目的のアドベンチャーステージを完了しよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
 
@@ -168,13 +165,13 @@
     <!-- Skins !-->
     <string name="skin">スキン</string>
     <string name="no_skin">スキンなし</string>
-    <string name="selected_skin">現在スキン</string>
+    <string name="selected_skin">現在のスキン</string>
     <string name="select_skin_color">カラーを選択</string>
     <string name="skin_color_preview">プレビュー:</string>
-    <string name="skin_tab_standard">組み込み</string>
+    <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボイドストーン</string>
-    <string name="level_skin_locked">このスキンはレベル %d でアンロックされます。</string>
+    <string name="level_skin_locked">このスキンはレベル%d以降にアンロックされます。</string>
     <string name="level_lock">レベルロック</string>
 
     <!-- Chat !-->
@@ -214,13 +211,13 @@
     <string name="xp" translatable="true">経験値:</string>
     <string name="level">レベル</string>
     <string name="food">フード</string>
-    <string name="voidstones">ボイドストーン</string>
-    <string name="blobs_eaten">食べたブロブ数</string>
-    <string name="session_stat_size_gained">獲得サイズ</string>
+    <string name="voidstones">収集したボイドストーンの数</string>
+    <string name="blobs_eaten">食べたブロブの数</string>
+    <string name="session_stat_size_gained">獲得サイズ量</string>
     <string name="highest_rank">最高ランク</string>
     <string name="session_stat_highest_size">最高サイズ</string>
     <string name="leaderboard">リーダーボード</string>
-    <string name="session_stats">現在ゲームの統計</string>
+    <string name="session_stats">現在のゲームの統計</string>
     <string name="debug">デバッグ</string>
     <string name="profiler">プロファイラー</string>
 
@@ -251,13 +248,14 @@
     <string name="shots">イジェクト数</string>
     <string name="bot">ボット</string>
     <string name="bots">ボット数</string>
+    <string name="minimum_players">最小プレイヤー数</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
     <string name="show_ui">UI を表示</string>
     <string name="open_menu">メニューを開く</string>
-    <string name="stop_spectating">観戦者モードを終了</string>
+    <string name="stop_spectating">観戦モードを終了</string>
     <string name="spectate">観戦する</string>
     <string name="previous_entity">前のエンティティ</string>
     <string name="next_entity">次のエンティティ</string>
