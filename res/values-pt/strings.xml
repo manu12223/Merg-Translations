@@ -33,10 +33,17 @@
     <string name="customize">Personalizar</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
     <string name="show_grid">Mostrar Grade</string>
+    <string name="custom_background_image">Imagem de Fundo Personalizada</string> 
+    <string name="custom_background_select">Selecionar Imagem</string> 
+    <string name="custom_background_opacity">Opacidade do Fundo</string>
     <string name="show_performance_metrics">Mostrar Métricas de Desempenho</string>
     <string name="skin_outlines">Bordas nas Skins</string>
     <string name="direction_arrow">Seta de Direção</string>
     <string name="border_above_entities">Borda Acima das Entidades</string>
+    <string name="map_border_visible">Mostrar Borda do Mapa</string> 
+    <string name="star_background_enabled">Estrelas</string> 
+    <string name="star_color_white">Brancas</string> 
+    <string name="star_color_black">Pretas</string>
     <string name="name_position">Posição do Nome</string>
     <string name="name_position_above">Cima</string>
     <string name="name_position_center">Centro</string>
@@ -68,6 +75,7 @@
     <string name="quick_merge">Juntar-se rapidamente</string>
     <string name="no_holes">Sem Vírus</string>
     <string name="warning_no_holes">Nenhuma estatística será salva</string>
+    <string name="gold_holes">Vírus Dourados</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
@@ -277,4 +285,5 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPIAR</string>
     <string name="toast_please_wait">Aguarde</string>
+    <string name="permission_denied">Permissão negada</string>
 </resources>
