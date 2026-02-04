@@ -33,10 +33,17 @@
     <string name="customize">カスタマイズ</string>
     <string name="leaderboard_size">リーダーボードサイズ</string>
     <string name="show_grid">グリッドを表示</string>
+    <string name="custom_background_image">背景のカスタム画像</string>
+    <string name="custom_background_select">画像を選択</string>
+    <string name="custom_background_opacity">背景の不透明度</string>
     <string name="show_performance_metrics">パフォーマンスメトリクスを表示</string>
     <string name="skin_outlines">スキンボーダー</string>
     <string name="direction_arrow">方向矢印</string>
     <string name="border_above_entities">エンティティ上のボーダー</string>
+    <string name="map_border_visible">マップボーダーを表示</string>
+    <string name="star_background_enabled">スター</string>
+    <string name="star_color_white">白</string>
+    <string name="star_color_black">黒</string>
     <string name="name_position">名前の位置</string>
     <string name="name_position_above">上部</string>
     <string name="name_position_center">中部</string>
@@ -68,6 +75,7 @@
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールなし</string>
     <string name="warning_no_holes">統計は保存されません</string>
+    <string name="gold_holes">ゴールドホール</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
@@ -224,7 +232,7 @@
     <!-- Miscellaneous !-->
     <string name="play">プレイ</string>
     <string name="respawn">リスポーン</string>
-    <string name="wait">お待ちください</string>
+    <string name="wait">お待ち</string>
     <string name="back">戻る</string>
     <string name="save">保存</string>
     <string name="saved">保存済み</string>
@@ -277,5 +285,6 @@
     <string name="dialog_ok">はい</string>
     <string name="dialog_copy">コピー</string>
     <string name="toast_please_wait">お待ちください</string>
+    <string name="permission_denied">許可拒否</string>
 </resources>
 
