@@ -10,8 +10,8 @@
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
-    <string name="email_support">E-mail para Suporte:</string>
-    <string name="developer">Desenvolvedor:</string>
+    <string name="email_support">E-mail de Suporte:</string>
+    <string name="developer">Desenvolvedores:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
 
@@ -49,7 +49,7 @@
     <string name="name_position_center">Centro</string>
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
-    <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
+    <string name="auto_spectate_killer">Espectar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
 
     <!-- Game/room creation menu (singleplayer) -->
@@ -83,8 +83,8 @@
     <string name="copy_id">Copiar ID</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
-    <string name="change_profile_name">Alterar Nome no Perfil</string>
-    <string name="enter_profile_name">Insira um Nome no Perfil</string>
+    <string name="change_profile_name">Alterar Nome do Perfil</string>
+    <string name="enter_profile_name">Insira um Nome de Perfil</string>
     <string name="profile_color">COR DO PERFIL</string>
     <string name="all">Tudo</string>
     <string name="stat_highest_size">Maior Tamanho:</string>
@@ -120,8 +120,8 @@
     <string name="gamemode_knockout">Nocaute</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_coming_soon">Em Breve</string>
-    <string name="description_classic">Absorva jogadores menores e torne-se no maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
-    <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
+    <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
+    <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários juntos e façam a sua equipe dominar o placar. Os companheiros de equipe não poderão se matarem entre si.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
     <string name="description_knockout">Compita em rodadas eliminatórias! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os jogadores menores serão eliminados permanentemente a cada intervalo. Seja o(a) último(a) jogador(a) restante para ganhar!</string>
@@ -179,7 +179,7 @@
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Pedras do Vazio</string>
-    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
+    <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
     <!-- Chat !-->
@@ -263,8 +263,8 @@
     <string name="ur" translatable="false">UR</string>
     <string name="show_ui">Mostrar IU</string>
     <string name="open_menu">Abrir Menu</string>
-    <string name="stop_spectating">Parar de Telar</string>
-    <string name="spectate">Telar</string>
+    <string name="stop_spectating">Parar de Espectar</string>
+    <string name="spectate">Espectar</string>
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
     <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
@@ -278,7 +278,7 @@
     <string name="dialog_confirm">Confirmar</string>
     <string name="dialog_leave_game">Sair do Jogo?</string>
     <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
-    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
+    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será reiniciado.</string>
     <string name="room_crash">A sala travou: %s</string>
     <string name="dialog_yes">SIM</string>
     <string name="dialog_no">NÃO</string>
