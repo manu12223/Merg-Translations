@@ -11,7 +11,7 @@
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
-    <string name="developer">Desenvolvedor:</string>
+    <string name="developer">Desenvolvedores:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
 
@@ -120,7 +120,7 @@
     <string name="gamemode_knockout">Nocaute</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_coming_soon">Em Breve</string>
-    <string name="description_classic">Absorva jogadores menores e torne-se no maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
+    <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
@@ -179,7 +179,7 @@
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Pedras do Vazio</string>
-    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
+    <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
     <!-- Chat !-->
