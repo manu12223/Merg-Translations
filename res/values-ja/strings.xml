@@ -153,7 +153,7 @@
     <string name="name_colors_not_unlocked">ネームカラーがアンロックされていません</string>
     <string name="name_change_success">名前は『%s』に変更しました</string>
     <string name="name_change_invalid_length">名前は長すぎます</string>
-    <string name="name_change_taken">名前は送信されています</string>
+    <string name="name_change_taken">名前は使用されています</string>
     <string name="unlock_profile_colors">プロフィールカラーをアンロック</string>
     <string name="unlock_profile_colors_gradient">グラデーションをアンロック</string>
     <string name="unlock_profile_colors_gradient_2">グラデーション 2 をアンロック</string>
