@@ -144,7 +144,7 @@
     <string name="profile_delete_type_prompt">「%s」を入力して削除を確認してください。</string>
     <string name="profile_delete_confirm_text">削除</string>
     <string name="profile_delete_failed">削除に失敗</string>
-    <string name="profile_created_label">『%s』は作成しました</string>
+    <string name="profile_created_label">作成日付: %s</string>
     <string name="unlock_name_colors">ネームカラーをアンロック</string>
     <string name="unlock_name_colors_success">ネームカラーアンロック完了！</string>
     <string name="name_colors_already_unlocked">ネームカラーはアンロック済</string>
