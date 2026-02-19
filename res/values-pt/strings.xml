@@ -159,14 +159,14 @@
     <string name="unlock_profile_colors_gradient_2">Desbloquear Gradiente 2 do Perfil</string>
     <string name="unlock_profile_colors_success">Cores do perfil desbloqueadas!</string>
     <string name="unlock_profile_colors_gradient_success">Gradiente do Perfil desbloqueado!</string>
-    <string name="unlock_profile_colors_gradient_2_success">Gradient 2 do Perfil desbloqueado!</string>
+    <string name="unlock_profile_colors_gradient_2_success">Gradiente 2 do Perfil desbloqueado!</string>
     <string name="unlock_profile_colors_already_unlocked">Cores do perfil já desbloqueadas</string>
     <string name="unlock_profile_colors_gradient_already_unlocked">Gradiente do Perfil já desbloqueado</string>
     <string name="unlock_profile_colors_gradient_2_already_unlocked">Gradiente 2 do Perfil já desbloqueado</string>
     <string name="profile_color_save_success">Cores do perfil salvas!</string>
     <string name="unlock_profile_colors_not_unlocked">Cores do perfil não desbloqueadas</string>
     <string name="unlock_profile_colors_gradient_not_unlocked">Gradiente do Perfil não desbloqueado</string>
-    <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradient 2 do Perfil não desbloqueado</string>
+    <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradiente 2 do Perfil não desbloqueado</string>
     <string name="profile_color_save_failed">Falha ao salvar as cores do perfil</string>
 
     <!-- Search Profile -->
