@@ -414,7 +414,7 @@
     <string name="error_with_string">エラー: %s</string>
     <string name="copied_to_clipboard">クリップボードにコピーされました。</string>
     <string name="invalid_request">必須フィールドが未入力です</string>
-    <string name="invalid_token">無効または期限切れのセクションです。再度ログインしてください。</string>
+    <string name="invalid_token">無効または期限切れのセッションです。再度ログインしてください。</string>
     <string name="rate_limited">%d秒お待ちください</string>
     <string name="nonexistent_user">このユーザーは見つかりませんでした</string>
     <string name="not_enough_voidstones">ボイドストーンが足りません</string>
