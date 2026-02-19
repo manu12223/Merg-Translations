@@ -326,7 +326,7 @@
 
     <!-- Dialogs -->
     <string name="dialog_confirm">確認</string>
-    <string name="dialog_confirm_account_deletion">DELETE ACCOUNT</string>
+    <string name="dialog_confirm_account_deletion">アカウントを削除</string>
     <string name="dialog_leave_game">ゲームを終了？</string>
     <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズを失われます！</string>
     <string name="dialog_change_language">言語を『%s』に変更しますか？アプリが再起動されます。</string>
