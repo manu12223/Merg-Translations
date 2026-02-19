@@ -30,18 +30,18 @@
     <string name="controls">コントロール</string>
     <string name="control_joystick">スティック</string>
     <string name="control_touch">タッチ</string>
-    <string name="button_layout">ボタンレイアウト</string>
+    <string name="button_layout">ボタンのレイアウト</string>
     <string name="customize">カスタマイズ</string>
-    <string name="leaderboard_size">リーダーボードサイズ</string>
+    <string name="leaderboard_size">リーダーボードのサイズ</string>
     <string name="show_grid">グリッドを表示</string>
     <string name="custom_background_image">背景のカスタム画像</string>
     <string name="custom_background_select">画像を選択</string>
     <string name="custom_background_opacity">背景の不透明度</string>
     <string name="show_performance_metrics">パフォーマンスメトリクスを表示</string>
-    <string name="skin_outlines">スキンボーダー</string>
+    <string name="skin_outlines">スキンのボーダー</string>
     <string name="direction_arrow">方向矢印</string>
     <string name="border_above_entities">エンティティ上のボーダー</string>
-    <string name="map_border_visible">マップボーダーを表示</string>
+    <string name="map_border_visible">マップのボーダーを表示</string>
     <string name="star_background_enabled">スター</string>
     <string name="star_color_white">白</string>
     <string name="star_color_black">黒</string>
@@ -49,7 +49,7 @@
     <string name="name_position_above">上部</string>
     <string name="name_position_center">中部</string>
     <string name="name_position_below">下部</string>
-    <string name="name_scale">プレイヤー名スケール</string>
+    <string name="name_scale">プレイヤー名のスケール</string>
     <string name="timer_format">タイマー形式</string>
     <string name="timer_format_normal">普通</string>
     <string name="timer_format_arcade">アーケード</string>
@@ -353,7 +353,7 @@
     <string name="join">参加</string>
     <string name="timeout">%dms後でタイムアウト</string>
     <string name="room_full">満員</string>
-    <string name="players_count">プレイヤー</string>
+    <string name="players_count">プレイヤー数</string>
     <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZを有効にする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
 
     <!-- Miscellaneous !-->
