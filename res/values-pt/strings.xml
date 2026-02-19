@@ -62,7 +62,7 @@
     <string name="game_mode">Modo de Jogo</string>
     <string name="select_mode">Selecionar Modo</string>
     <string name="minimum_players">Núm. Mín. de Jogadores</string>
-    <string name="maximum_players">Maximum Players</string>
+    <string name="maximum_players">Núm. Máx. de Jogadores</string>
     <string name="decrease_time">Reduzir Tempo</string>
     <string name="increase_time">Aumentar Tempo</string>
     <string name="grace_period">Tempo de Tolerância</string>
