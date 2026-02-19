@@ -280,7 +280,7 @@
     <string name="chat_message_hint">Digite uma mensagem…</string>
     <string name="chat_send_message">Enviar Mensagem</string>
     <string name="copy_name">Copiar Nome</string>
-    <string name="copy_message">Copiad Mensagem</string>
+    <string name="copy_message">Copiar Mensagem</string>
 
     <!-- Notification box !-->
     <string name="level_up">Subiu de Nível! %d</string>
