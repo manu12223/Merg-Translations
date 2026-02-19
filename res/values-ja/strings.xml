@@ -3,7 +3,8 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">シングルプレイ</string>
-    <string name="multiplayer">マルチプレイ</string>
+    <string name="lan_multiplayer">LAN Multiplayer</string>
+    <string name="online_multiplayer">Online Multiplayer</string>
     <string name="options">オプション</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -29,9 +30,9 @@
     <string name="controls">コントロール</string>
     <string name="control_joystick">スティック</string>
     <string name="control_touch">タッチ</string>
-    <string name="button_layout">ボタンのレイアウト</string>
+    <string name="button_layout">ボタンレイアウト</string>
     <string name="customize">カスタマイズ</string>
-    <string name="leaderboard_size">リーダーボードのサイズ</string>
+    <string name="leaderboard_size">リーダーボードサイズ</string>
     <string name="show_grid">グリッドを表示</string>
     <string name="custom_background_image">背景のカスタム画像</string>
     <string name="custom_background_select">画像を選択</string>
@@ -44,17 +45,24 @@
     <string name="star_background_enabled">スター</string>
     <string name="star_color_white">白</string>
     <string name="star_color_black">黒</string>
-    <string name="name_position">プレイヤー名の位置</string>
+    <string name="name_position">名前の位置</string>
     <string name="name_position_above">上部</string>
     <string name="name_position_center">中部</string>
     <string name="name_position_below">下部</string>
-    <string name="name_scale">プレイヤー名のスケール</string>
+    <string name="name_scale">プレイヤー名スケール</string>
+    <string name="timer_format">Timer Format</string>
+    <string name="timer_format_normal">Normal</string>
+    <string name="timer_format_arcade">Arcade</string>
+    <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
+    <string name="jitter_buffer">Jitter Buffer</string>
 
-    <!-- Game/room creation menu (singleplayer) -->
+    <!-- Game/room creation menu-->
     <string name="game_mode">ゲームモード</string>
     <string name="select_mode">モードを選択</string>
+    <string name="minimum_players">最小プレイヤー数</string>
+    <string name="maximum_players">Maximum Players</string>
     <string name="decrease_time">残り時間を下げ</string>
     <string name="increase_time">残り時間を上げ</string>
     <string name="grace_period">リスポーン可能時間</string>
@@ -77,15 +85,96 @@
     <string name="warning_no_holes">統計は保存されません</string>
     <string name="gold_holes">ゴールドホール</string>
 
+    <!-- Shop -->
+    <string name="shop">Shop</string>
+    <string name="voidstone_history">Voidstone History</string>
+    <string name="purchase_history">Purchase History</string>
+    <string name="page_x_of_y">Page %s of %s</string>
+    <string name="no_transactions_yet">No transactions yet</string>
+
+    <string name="admin_reward">Admin reward</string>
+    <string name="in_app_purchase">in-app purchase</string>
+    <string name="ad_reward">Ad reward</string>
+    <string name="voidstone_gift_received">Voidstone gift received</string>
+    <string name="voidstone_gift_send">Voidstone gift send</string>
+    <string name="skin_bought">Skin bought</string>
+    <string name="profile_name_change_bought">Profile name change bought</string>
+    <string name="profile_name_color_bought">Profile name color bought</string>
+    <string name="profile_color_bought">Profile color bought</string>
+    <string name="profile_color_gradient_bought">Profile color gradient bought</string>
+    <string name="profile_color_gradient_2_bought">Profile color gradient 2 bought</string>
+
     <!-- Profile -->
     <string name="profile">プロフィール</string>
+    <string name="not_logged_in">Not logged in!</string>
+    <string name="login">Login</string>
+    <string name="login_google">Sign in with Google</string>
+    <string name="logout">Logout</string>
+    <string name="logout_all_devices">Logout All Devices</string>
     <string name="change_name">名前を変更</string>
     <string name="copy_id">IDをコピー</string>
     <string name="statistics">統計</string>
     <string name="achievements">実績</string>
+    <string name="delete_account">DELETE ACCOUNT</string>
     <string name="change_profile_name">プロフィールで名前を変更</string>
     <string name="enter_profile_name">名前を入力</string>
     <string name="profile_color">プロフィールカラー</string>
+    <string name="profile_text_color_white">White text</string>
+    <string name="profile_text_color_black">Black text</string>
+    <string name="profile_gradient_color">Gradient color</string>
+    <string name="profile_3_gradient_color">Gradient color 2</string>
+    <string name="profile_animated_gradient">Animated Gradient</string>
+    <string name="profile_animated_circle_gradient">Animated circle Gradient</string>
+    <string name="prerequisite_not_met">You must unlock %s first</string>
+    <string name="prerequisite_feature">required feature</string>
+    <string name="profile_name_color">PROFILE NAME COLOR</string>
+    <string name="profile_not_logged_in_error">Not logged in. Please log in first.</string>
+    <string name="profile_name_changed_success">Name changed to %s</string>
+    <string name="profile_name_change_failed">Failed to change name</string>
+    <string name="profile_name_change_error">Failed to change name: %d</string>
+    <string name="profile_goodbye">Goodbye! :(</string>
+    <string name="profile_logged_in_with_name">Logged in to %s</string>
+    <string name="profile_logged_in">Logged in</string>
+    <string name="profile_logout_confirm">Log out of %s?</string>
+    <string name="profile_logout_confirm_no_name">Log out?</string>
+    <string name="profile_logout_all_confirm">Log out all devices of %s? This may take up to an hour.</string>
+    <string name="profile_logout_all_confirm_no_name">Log out all devices? This may take up to an hour.</string>
+    <string name="profile_logout_failed">Logout failed</string>
+    <string name="profile_delete_warning">Are you sure you want to delete your Merg account and all data associated with it? THIS CANNOT BE UNDONE!</string>
+    <string name="profile_delete_type_prompt">Type %s to confirm account deletion:</string>
+    <string name="profile_delete_confirm_text">DELETE</string>
+    <string name="profile_delete_failed">Delete failed</string>
+    <string name="profile_created_label">Created %s</string>
+    <string name="unlock_name_colors">Unlock Name Colors</string>
+    <string name="unlock_name_colors_success">Name colors unlocked!</string>
+    <string name="name_colors_already_unlocked">Name colors already unlocked</string>
+    <string name="name_color_save_success">Name colors saved!</string>
+    <string name="name_color_save_failed">Failed to save colors</string>
+    <string name="name_colors_not_unlocked">Name colors not unlocked</string>
+    <string name="name_change_success">Name changed to: %s</string>
+    <string name="name_change_invalid_length">Invalid name length</string>
+    <string name="name_change_taken">Name taken</string>
+    <string name="unlock_profile_colors">Unlock Profile Colors</string>
+    <string name="unlock_profile_colors_gradient">Unlock Gradient Profile Colors</string>
+    <string name="unlock_profile_colors_gradient_2">Unlock Gradient Profile Colors 2</string>
+    <string name="unlock_profile_colors_success">Profile colors unlocked!</string>
+    <string name="unlock_profile_colors_gradient_success">Gradient Profile colors unlocked!</string>
+    <string name="unlock_profile_colors_gradient_2_success">Gradient Profile colors 2 unlocked!</string>
+    <string name="unlock_profile_colors_already_unlocked">Profile colors already unlocked</string>
+    <string name="unlock_profile_colors_gradient_already_unlocked">Gradient Profile colors already unlocked</string>
+    <string name="unlock_profile_colors_gradient_2_already_unlocked">Gradient Profile colors 2 already unlocked</string>
+    <string name="profile_color_save_success">Profile colors saved!</string>
+    <string name="unlock_profile_colors_not_unlocked">Profile colors not unlocked</string>
+    <string name="unlock_profile_colors_gradient_not_unlocked">Gradient Profile colors not unlocked</string>
+    <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradient Profile colors 2 not unlocked</string>
+    <string name="profile_color_save_failed">Failed to save Profile colors</string>
+
+    <!-- Search Profile -->
+    <string name="search_account">Search Account</string>
+    <string name="search_account_by_id_or_name">Search for an account by ID or name</string>
+    <string name="no_account_found">No account found</string>
+
+    <!-- Statistics !-->
     <string name="all">すべて</string>
     <string name="stat_highest_size">最高サイズ:</string>
     <string name="stat_size_gained">獲得サイズ量:</string>
@@ -105,6 +194,7 @@
     <string name="stat_bots_eaten">食べたボットの数:</string>
     <string name="stat_blobs_eaten">食べたブロブの数:</string>
     <string name="stat_games_won">勝ったゲームの数:</string>
+    <string name="stat_longest_session">Longest Session:</string>
     <string name="stat_stages_cleared">完了したステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
     <string name="stat_adventures_completed">完了したアドベンチャー数:</string>
@@ -170,6 +260,7 @@
     <string name="buttons_customize">ボタンをカスタムする</string>
     <string name="buttons_orientation_message">ポットレートとランドスケープのカスタム設定は、別々に保存されます。</string>
 
+
     <!-- Skins !-->
     <string name="skin">スキン</string>
     <string name="no_skin">スキンなし</string>
@@ -182,11 +273,14 @@
     <string name="level_skin_locked">このスキンはレベル%d以降にアンロックされます。</string>
     <string name="level_lock">レベルロック</string>
 
+
     <!-- Chat !-->
     <string name="chat">チャット</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_message_hint">メッセージを入力…</string>
     <string name="chat_send_message">メッセージを送信</string>
+    <string name="copy_name">Copy Name</string>
+    <string name="copy_message">Copy Message</string>
 
     <!-- Notification box !-->
     <string name="level_up">レベルアップ！ %d</string>
@@ -216,7 +310,7 @@
     <string name="merge">マージ: %ss</string>
     <string name="invincibility">無敵: %ss</string>
     <string name="speed_boost">+スピード: %ss</string>
-    <string name="xp" translatable="true">経験値:</string>
+    <string name="xp" translatable="false">XP</string>
     <string name="level">レベル</string>
     <string name="food">フード</string>
     <string name="voidstones">収集したボイドストーンの数</string>
@@ -229,18 +323,57 @@
     <string name="debug">デバッグ</string>
     <string name="profiler">プロファイラー</string>
 
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">確認</string>
+    <string name="dialog_confirm_account_deletion">DELETE ACCOUNT</string>
+    <string name="dialog_leave_game">ゲームを終了？</string>
+    <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズを失われます！</string>
+    <string name="dialog_change_language">言語を『%s』に変更しますか？アプリが再起動されます。</string>
+    <string name="dialog_connection_error">Connection Error</string>
+    <string name="dialog_disconnected">Disconnected</string>
+    <string name="dialog_disconnected_message">Lost connection to the server.</string>
+    <string name="room_crash">ルームがクラッシュされました: %s</string>
+    <string name="dialog_yes">はい</string>
+    <string name="dialog_no">いいえ</string>
+    <string name="dialog_ok">はい</string>
+    <string name="dialog_copy">コピー</string>
+    <string name="toast_please_wait">お待ちください</string>
+    <string name="permission_denied">許可拒否</string>
+    <string name="dialog_locked">Locked</string>
+
+    <!-- LAN Multiplayer -->
+    <string name="host_local_game">HOST LOCAL GAME</string>
+    <string name="local_ip">Local IP: %s</string>
+    <string name="public_ip">Public IP: %s</string>
+    <string name="searching_rooms">Searching for available rooms…</string>
+    <string name="host">Host</string>
+    <string name="enter_ip">Enter IP</string>
+    <string name="join_ip_title">Join IP Address</string>
+    <string name="join">Join</string>
+    <string name="timeout">Timed out after %dms</string>
+    <string name="room_full">Room Full</string>
+    <string name="players_count">Players</string>
+    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router\'s settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
+
     <!-- Miscellaneous !-->
     <string name="play">プレイ</string>
     <string name="respawn">リスポーン</string>
     <string name="wait">お待ち</string>
     <string name="back">戻る</string>
+    <string name="mode">Mode</string>
     <string name="save">保存</string>
     <string name="saved">保存済み</string>
+    <string name="saving">Saving…</string>
+    <string name="buy">Buy</string>
+    <string name="buying">Buying…</string>
+    <string name="search">Search</string>
     <string name="cancel">キャンセル</string>
     <string name="close">閉じる</string>
     <string name="select">選択</string>
     <string name="reset">リセット</string>
     <string name="done">完了</string>
+    <string name="info">Info</string>
     <string name="empty">空</string>
     <string name="name">名前</string>
     <string name="home">ホーム</string>
@@ -251,12 +384,16 @@
     <string name="color_wheel">カラーホイール</string>
     <string name="brightness">明るさ</string>
     <string name="no_one">なし</string>
+    <string name="multiplayer">マルチプレイ</string>
+    <string name="loading">Loading…</string>
+    <string name="room_type_local">Local: %s</string>
+    <string name="room_type_public">Public: %s</string>
+    <string name="room_type_private">Private: %s</string>
     <string name="map">マップ</string>
     <string name="size">サイズ</string>
     <string name="shots">イジェクト数</string>
     <string name="bot">ボット</string>
     <string name="bots">ボット数</string>
-    <string name="minimum_players">最小プレイヤー数</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
@@ -271,20 +408,18 @@
     <string name="total">合計</string>
     <string name="unknown">不明</string>
     <string name="invalid_selection">無効な選択です！</string>
+    <string name="invalid_name">Invalid Name!</string>
+    <string name="connecting">Connecting%s</string>
     <string name="error">エラー</string>
+    <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">クリップボードにコピーされました。</string>
-
-    <!-- Dialogs -->
-    <string name="dialog_confirm">確認</string>
-    <string name="dialog_leave_game">ゲームを終了？</string>
-    <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズを失われます！</string>
-    <string name="dialog_change_language">言語を『%s』に変更しますか？アプリが再起動されます。</string>
-    <string name="room_crash">ルームがクラッシュされました: %s</string>
-    <string name="dialog_yes">はい</string>
-    <string name="dialog_no">いいえ</string>
-    <string name="dialog_ok">はい</string>
-    <string name="dialog_copy">コピー</string>
-    <string name="toast_please_wait">お待ちください</string>
-    <string name="permission_denied">許可拒否</string>
+    <string name="invalid_request">Missing required fields</string>
+    <string name="invalid_token">Invalid or expired session. Please log in again.</string>
+    <string name="rate_limited">Please wait %d second(s) and try again</string>
+    <string name="nonexistent_user">User not found</string>
+    <string name="not_enough_voidstones">Not enough voidstones</string>
+    <string name="database_write_fail">Database write failed</string>
+    <string name="database_read_fail">Database read failed</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="unknown_error_code">Unknown error Code %d</string>
 </resources>
-
