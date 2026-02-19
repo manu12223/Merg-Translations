@@ -45,7 +45,7 @@
     <string name="star_background_enabled">スター</string>
     <string name="star_color_white">白</string>
     <string name="star_color_black">黒</string>
-    <string name="name_position">名前の位置</string>
+    <string name="name_position">プレイヤー名の位置</string>
     <string name="name_position_above">上部</string>
     <string name="name_position_center">中部</string>
     <string name="name_position_below">下部</string>
