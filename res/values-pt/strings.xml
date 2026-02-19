@@ -3,7 +3,8 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">Um jogador</string>
-    <string name="multiplayer">Multijogador</string>
+    <string name="lan_multiplayer">LAN Multiplayer</string>
+    <string name="online_multiplayer">Online Multiplayer</string>
     <string name="options">Opções</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -11,7 +12,7 @@
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
-    <string name="developer">Desenvolvedores:</string>
+    <string name="developer">Desenvolvedor:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
 
@@ -33,28 +34,35 @@
     <string name="customize">Personalizar</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
     <string name="show_grid">Mostrar Grade</string>
-    <string name="custom_background_image">Imagem de Fundo Personalizada</string> 
-    <string name="custom_background_select">Selecionar Imagem</string> 
+    <string name="custom_background_image">Imagem de Fundo Personalizada</string>
+    <string name="custom_background_select">Selecionar Imagem</string>
     <string name="custom_background_opacity">Opacidade do Fundo</string>
     <string name="show_performance_metrics">Mostrar Métricas de Desempenho</string>
     <string name="skin_outlines">Bordas nas Skins</string>
     <string name="direction_arrow">Seta de Direção</string>
     <string name="border_above_entities">Borda Acima das Entidades</string>
-    <string name="map_border_visible">Mostrar Borda do Mapa</string> 
-    <string name="star_background_enabled">Estrelas</string> 
-    <string name="star_color_white">Brancas</string> 
+    <string name="map_border_visible">Mostrar Borda do Mapa</string>
+    <string name="star_background_enabled">Estrelas</string>
+    <string name="star_color_white">Brancas</string>
     <string name="star_color_black">Pretas</string>
     <string name="name_position">Posição do Nome</string>
     <string name="name_position_above">Cima</string>
     <string name="name_position_center">Centro</string>
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
+    <string name="timer_format">Timer Format</string>
+    <string name="timer_format_normal">Normal</string>
+    <string name="timer_format_arcade">Arcade</string>
+    <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
+    <string name="jitter_buffer">Jitter Buffer</string>
 
-    <!-- Game/room creation menu (singleplayer) -->
+    <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Jogo</string>
     <string name="select_mode">Selecionar Modo</string>
+    <string name="minimum_players">Núm. Mín. de Jogadores</string>
+    <string name="maximum_players">Maximum Players</string>
     <string name="decrease_time">Reduzir Tempo</string>
     <string name="increase_time">Aumentar Tempo</string>
     <string name="grace_period">Tempo de Tolerância</string>
@@ -77,15 +85,96 @@
     <string name="warning_no_holes">Nenhuma estatística será salva</string>
     <string name="gold_holes">Vírus Dourados</string>
 
+    <!-- Shop -->
+    <string name="shop">Shop</string>
+    <string name="voidstone_history">Voidstone History</string>
+    <string name="purchase_history">Purchase History</string>
+    <string name="page_x_of_y">Page %s of %s</string>
+    <string name="no_transactions_yet">No transactions yet</string>
+
+    <string name="admin_reward">Admin reward</string>
+    <string name="in_app_purchase">in-app purchase</string>
+    <string name="ad_reward">Ad reward</string>
+    <string name="voidstone_gift_received">Voidstone gift received</string>
+    <string name="voidstone_gift_send">Voidstone gift send</string>
+    <string name="skin_bought">Skin bought</string>
+    <string name="profile_name_change_bought">Profile name change bought</string>
+    <string name="profile_name_color_bought">Profile name color bought</string>
+    <string name="profile_color_bought">Profile color bought</string>
+    <string name="profile_color_gradient_bought">Profile color gradient bought</string>
+    <string name="profile_color_gradient_2_bought">Profile color gradient 2 bought</string>
+
     <!-- Profile -->
     <string name="profile">Perfil</string>
+    <string name="not_logged_in">Not logged in!</string>
+    <string name="login">Login</string>
+    <string name="login_google">Sign in with Google</string>
+    <string name="logout">Logout</string>
+    <string name="logout_all_devices">Logout All Devices</string>
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
+    <string name="delete_account">DELETE ACCOUNT</string>
     <string name="change_profile_name">Alterar Nome no Perfil</string>
     <string name="enter_profile_name">Insira um Nome no Perfil</string>
     <string name="profile_color">COR DO PERFIL</string>
+    <string name="profile_text_color_white">White text</string>
+    <string name="profile_text_color_black">Black text</string>
+    <string name="profile_gradient_color">Gradient color</string>
+    <string name="profile_3_gradient_color">Gradient color 2</string>
+    <string name="profile_animated_gradient">Animated Gradient</string>
+    <string name="profile_animated_circle_gradient">Animated circle Gradient</string>
+    <string name="prerequisite_not_met">You must unlock %s first</string>
+    <string name="prerequisite_feature">required feature</string>
+    <string name="profile_name_color">PROFILE NAME COLOR</string>
+    <string name="profile_not_logged_in_error">Not logged in. Please log in first.</string>
+    <string name="profile_name_changed_success">Name changed to %s</string>
+    <string name="profile_name_change_failed">Failed to change name</string>
+    <string name="profile_name_change_error">Failed to change name: %d</string>
+    <string name="profile_goodbye">Goodbye! :(</string>
+    <string name="profile_logged_in_with_name">Logged in to %s</string>
+    <string name="profile_logged_in">Logged in</string>
+    <string name="profile_logout_confirm">Log out of %s?</string>
+    <string name="profile_logout_confirm_no_name">Log out?</string>
+    <string name="profile_logout_all_confirm">Log out all devices of %s? This may take up to an hour.</string>
+    <string name="profile_logout_all_confirm_no_name">Log out all devices? This may take up to an hour.</string>
+    <string name="profile_logout_failed">Logout failed</string>
+    <string name="profile_delete_warning">Are you sure you want to delete your Merg account and all data associated with it? THIS CANNOT BE UNDONE!</string>
+    <string name="profile_delete_type_prompt">Type %s to confirm account deletion:</string>
+    <string name="profile_delete_confirm_text">DELETE</string>
+    <string name="profile_delete_failed">Delete failed</string>
+    <string name="profile_created_label">Created %s</string>
+    <string name="unlock_name_colors">Unlock Name Colors</string>
+    <string name="unlock_name_colors_success">Name colors unlocked!</string>
+    <string name="name_colors_already_unlocked">Name colors already unlocked</string>
+    <string name="name_color_save_success">Name colors saved!</string>
+    <string name="name_color_save_failed">Failed to save colors</string>
+    <string name="name_colors_not_unlocked">Name colors not unlocked</string>
+    <string name="name_change_success">Name changed to: %s</string>
+    <string name="name_change_invalid_length">Invalid name length</string>
+    <string name="name_change_taken">Name taken</string>
+    <string name="unlock_profile_colors">Unlock Profile Colors</string>
+    <string name="unlock_profile_colors_gradient">Unlock Gradient Profile Colors</string>
+    <string name="unlock_profile_colors_gradient_2">Unlock Gradient Profile Colors 2</string>
+    <string name="unlock_profile_colors_success">Profile colors unlocked!</string>
+    <string name="unlock_profile_colors_gradient_success">Gradient Profile colors unlocked!</string>
+    <string name="unlock_profile_colors_gradient_2_success">Gradient Profile colors 2 unlocked!</string>
+    <string name="unlock_profile_colors_already_unlocked">Profile colors already unlocked</string>
+    <string name="unlock_profile_colors_gradient_already_unlocked">Gradient Profile colors already unlocked</string>
+    <string name="unlock_profile_colors_gradient_2_already_unlocked">Gradient Profile colors 2 already unlocked</string>
+    <string name="profile_color_save_success">Profile colors saved!</string>
+    <string name="unlock_profile_colors_not_unlocked">Profile colors not unlocked</string>
+    <string name="unlock_profile_colors_gradient_not_unlocked">Gradient Profile colors not unlocked</string>
+    <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradient Profile colors 2 not unlocked</string>
+    <string name="profile_color_save_failed">Failed to save Profile colors</string>
+
+    <!-- Search Profile -->
+    <string name="search_account">Search Account</string>
+    <string name="search_account_by_id_or_name">Search for an account by ID or name</string>
+    <string name="no_account_found">No account found</string>
+
+    <!-- Statistics !-->
     <string name="all">Tudo</string>
     <string name="stat_highest_size">Maior Tamanho:</string>
     <string name="stat_size_gained">Tamanho Obtido:</string>
@@ -105,6 +194,7 @@
     <string name="stat_bots_eaten">Bots Absorvidos:</string>
     <string name="stat_blobs_eaten">Blobs Absorvidos:</string>
     <string name="stat_games_won">Jogos Ganhos:</string>
+    <string name="stat_longest_session">Longest Session:</string>
     <string name="stat_stages_cleared">Fases Concluídas:</string>
     <string name="stat_highest_stage">Maior Fase:</string>
     <string name="stat_adventures_completed">Aventuras Concluídas:</string>
@@ -120,7 +210,7 @@
     <string name="gamemode_knockout">Nocaute</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_coming_soon">Em Breve</string>
-    <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
+    <string name="description_classic">Absorva jogadores menores e torne-se no maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
@@ -170,6 +260,7 @@
     <string name="buttons_customize">Personalizar Botões</string>
     <string name="buttons_orientation_message">As personalizações para os modos Retrato e Paisagem serão salvas separadamente.</string>
 
+
     <!-- Skins !-->
     <string name="skin">Skin</string>
     <string name="no_skin">Sem Skin</string>
@@ -179,14 +270,17 @@
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Pedras do Vazio</string>
-    <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
+    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
+
 
     <!-- Chat !-->
     <string name="chat">CHAT</string>
     <string name="chat_close">Fechar Chat</string>
     <string name="chat_message_hint">Digite uma mensagem…</string>
     <string name="chat_send_message">Enviar Mensagem</string>
+    <string name="copy_name">Copy Name</string>
+    <string name="copy_message">Copy Message</string>
 
     <!-- Notification box !-->
     <string name="level_up">Subiu de Nível! %d</string>
@@ -229,18 +323,57 @@
     <string name="debug">Depuração</string>
     <string name="profiler">Perfilador</string>
 
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Confirmar</string>
+    <string name="dialog_confirm_account_deletion">DELETE ACCOUNT</string>
+    <string name="dialog_leave_game">Sair do Jogo?</string>
+    <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
+    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
+    <string name="dialog_connection_error">Connection Error</string>
+    <string name="dialog_disconnected">Disconnected</string>
+    <string name="dialog_disconnected_message">Lost connection to the server.</string>
+    <string name="room_crash">A sala travou: %s</string>
+    <string name="dialog_yes">SIM</string>
+    <string name="dialog_no">NÃO</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_copy">COPIAR</string>
+    <string name="toast_please_wait">Aguarde</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="dialog_locked">Locked</string>
+
+    <!-- LAN Multiplayer -->
+    <string name="host_local_game">HOST LOCAL GAME</string>
+    <string name="local_ip">Local IP: %s</string>
+    <string name="public_ip">Public IP: %s</string>
+    <string name="searching_rooms">Searching for available rooms…</string>
+    <string name="host">Host</string>
+    <string name="enter_ip">Enter IP</string>
+    <string name="join_ip_title">Join IP Address</string>
+    <string name="join">Join</string>
+    <string name="timeout">Timed out after %dms</string>
+    <string name="room_full">Room Full</string>
+    <string name="players_count">Players</string>
+    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router\'s settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
+
     <!-- Miscellaneous !-->
     <string name="play">Jogar</string>
     <string name="respawn">Renascer</string>
     <string name="wait">Aguarde</string>
     <string name="back">Voltar</string>
+    <string name="mode">Mode</string>
     <string name="save">Salvar</string>
     <string name="saved">Salvo</string>
+    <string name="saving">Saving…</string>
+    <string name="buy">Buy</string>
+    <string name="buying">Buying…</string>
+    <string name="search">Search</string>
     <string name="cancel">Cancelar</string>
     <string name="close">Fechar</string>
     <string name="select">Selecionar</string>
     <string name="reset">Redefinir</string>
     <string name="done">Concluído</string>
+    <string name="info">Info</string>
     <string name="empty">Vazio</string>
     <string name="name">Nome</string>
     <string name="home">Início</string>
@@ -251,12 +384,16 @@
     <string name="color_wheel">Roda das Cores</string>
     <string name="brightness">Brilho</string>
     <string name="no_one">Nenhum</string>
+    <string name="multiplayer">Multijogador</string>
+    <string name="loading">Loading…</string>
+    <string name="room_type_local">Local: %s</string>
+    <string name="room_type_public">Public: %s</string>
+    <string name="room_type_private">Private: %s</string>
     <string name="map">Mapa</string>
     <string name="size">Tamanho</string>
     <string name="shots">Ejeções</string>
     <string name="bot">Bot</string>
     <string name="bots">Bots</string>
-    <string name="minimum_players">Núm. Mín. de Jogadores</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
@@ -271,19 +408,18 @@
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
+    <string name="invalid_name">Invalid Name!</string>
+    <string name="connecting">Connecting%s</string>
     <string name="error">Erro</string>
+    <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência.</string>
-
-    <!-- Dialogs -->
-    <string name="dialog_confirm">Confirmar</string>
-    <string name="dialog_leave_game">Sair do Jogo?</string>
-    <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
-    <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
-    <string name="room_crash">A sala travou: %s</string>
-    <string name="dialog_yes">SIM</string>
-    <string name="dialog_no">NÃO</string>
-    <string name="dialog_ok">OK</string>
-    <string name="dialog_copy">COPIAR</string>
-    <string name="toast_please_wait">Aguarde</string>
-    <string name="permission_denied">Permissão negada</string>
+    <string name="invalid_request">Missing required fields</string>
+    <string name="invalid_token">Invalid or expired session. Please log in again.</string>
+    <string name="rate_limited">Please wait %d second(s) and try again</string>
+    <string name="nonexistent_user">User not found</string>
+    <string name="not_enough_voidstones">Not enough voidstones</string>
+    <string name="database_write_fail">Database write failed</string>
+    <string name="database_read_fail">Database read failed</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="unknown_error_code">Unknown error Code %d</string>
 </resources>
