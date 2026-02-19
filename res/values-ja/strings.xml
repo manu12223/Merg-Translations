@@ -3,8 +3,8 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">シングルプレイ</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
+    <string name="lan_multiplayer">LANマルチプレイ</string>
+    <string name="online_multiplayer">オンラインマルチプレイ</string>
     <string name="options">オプション</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -50,10 +50,10 @@
     <string name="name_position_center">中部</string>
     <string name="name_position_below">下部</string>
     <string name="name_scale">プレイヤー名スケール</string>
-    <string name="timer_format">Timer Format</string>
-    <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arcade</string>
-    <string name="timer_format_ticks">Ticks</string>
+    <string name="timer_format">タイマー形式</string>
+    <string name="timer_format_normal">普通</string>
+    <string name="timer_format_arcade">アーケード</string>
+    <string name="timer_format_ticks">ティック</string>
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
     <string name="jitter_buffer">ジッターバッファー</string>
