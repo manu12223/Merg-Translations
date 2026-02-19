@@ -62,7 +62,7 @@
     <string name="game_mode">ゲームモード</string>
     <string name="select_mode">モードを選択</string>
     <string name="minimum_players">最小プレイヤー数</string>
-    <string name="maximum_players">Maximum Players</string>
+    <string name="maximum_players">最大プレイヤー数</string>
     <string name="decrease_time">残り時間を下げ</string>
     <string name="increase_time">残り時間を上げ</string>
     <string name="grace_period">リスポーン可能時間</string>
@@ -421,5 +421,5 @@
     <string name="database_write_fail">データベース書き込みに失敗</string>
     <string name="database_read_fail">データベース読み込みに失敗</string>
     <string name="internal_server_error">内部サーバーエラー</string>
-    <string name="unknown_error_code">不明なエラー。コード %d</string>
+    <string name="unknown_error_code">不明なエラーです。コード %d</string>
 </resources>
