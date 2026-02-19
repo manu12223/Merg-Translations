@@ -93,7 +93,7 @@
     <string name="no_transactions_yet">取引はありません</string>
 
     <string name="admin_reward">アドミンリワード</string>
-    <string name="in_app_purchase">アプリ内購入可能</string>
+    <string name="in_app_purchase">アプリ内購入</string>
     <string name="ad_reward">広告リワード</string>
     <string name="voidstone_gift_received">ボイドストーンのギフト受取済</string>
     <string name="voidstone_gift_send">ボイドストーンのギフトを送る</string>
