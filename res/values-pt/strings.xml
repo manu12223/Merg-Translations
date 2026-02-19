@@ -3,8 +3,8 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">Um jogador</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
+    <string name="lan_multiplayer">Multijogador via LAN</string>
+    <string name="online_multiplayer">Multijogador Online</string>
     <string name="options">Opções</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -50,13 +50,13 @@
     <string name="name_position_center">Centro</string>
     <string name="name_position_below">Baixo</string>
     <string name="name_scale">Escala do Nome</string>
-    <string name="timer_format">Timer Format</string>
+    <string name="timer_format">Formato do Temporizador</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
-    <string name="jitter_buffer">Jitter Buffer</string>
+    <string name="jitter_buffer">Buffer de Jitter</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Jogo</string>
