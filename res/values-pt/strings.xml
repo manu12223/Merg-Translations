@@ -330,9 +330,9 @@
     <string name="dialog_leave_game">Sair do Jogo?</string>
     <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
     <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
-    <string name="dialog_connection_error">Connection Error</string>
-    <string name="dialog_disconnected">Disconnected</string>
-    <string name="dialog_disconnected_message">Lost connection to the server.</string>
+    <string name="dialog_connection_error">Erro de Conexão</string>
+    <string name="dialog_disconnected">Desconectado</string>
+    <string name="dialog_disconnected_message">Conexão com o servidor perdida.</string>
     <string name="room_crash">A sala travou: %s</string>
     <string name="dialog_yes">SIM</string>
     <string name="dialog_no">NÃO</string>
