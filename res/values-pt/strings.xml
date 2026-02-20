@@ -326,7 +326,7 @@
 
     <!-- Dialogs -->
     <string name="dialog_confirm">Confirmar</string>
-    <string name="dialog_confirm_account_deletion">DELETE ACCOUNT</string>
+    <string name="dialog_confirm_account_deletion">EXCLUIR CONTA</string>
     <string name="dialog_leave_game">Sair do Jogo?</string>
     <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
     <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
