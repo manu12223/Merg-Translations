@@ -13,6 +13,7 @@
     <string name="email_copy">メールをコピー</string>
     <string name="email_support">サポートメール:</string>
     <string name="developer">開発者:</string>
+    <string name="code_contribution">Code Contributions:</string>
     <string name="skins">スキン:</string>
     <string name="translations">翻訳:</string>
 
@@ -24,14 +25,18 @@
     <string name="language_spanish">Español (スペイン語)</string>
     <string name="language_japanese">日本語</string>
     <string name="language_italian">Italiano (イタリア語)</string>
+    <string name="language_arabic">عربي</string>
+    <string name="language_turkish">Türkçe</string>
     <string name="background">背景</string>
     <string name="background_black">黒</string>
     <string name="background_white">白</string>
     <string name="controls">コントロール</string>
     <string name="control_joystick">スティック</string>
+    <string name="control_relative">Relative</string>
     <string name="control_touch">タッチ</string>
     <string name="button_layout">ボタンのレイアウト</string>
     <string name="customize">カスタマイズ</string>
+    <string name="opacity">Opacity</string>
     <string name="leaderboard_size">リーダーボードのサイズ</string>
     <string name="show_grid">グリッドを表示</string>
     <string name="custom_background_image">背景のカスタム画像</string>
@@ -82,19 +87,44 @@
     <string name="max_split_pieces">最大スプリット数:</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールなし</string>
+    <string name="circle_map">Circle Map</string>
     <string name="warning_no_holes">統計は保存されません</string>
     <string name="gold_holes">ゴールドホール</string>
 
+    <!-- Multiplayer -->
+    <string name="private_room">Private Room</string>
+    <string name="clan">Clan</string>
+    <string name="friends">Friends</string>
+    <string name="send_friend_request">Send Friend Request</string>
+    <string name="friend_request_accepted">You are now friends!</string>
+    <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
+    <string name="cancel_friend_request">Cancel Friend Request</string>
+    <string name="remove_friend">Remove Friend</string>
+    <string name="friend_request_sent">Friend request sent</string>
+    <string name="friend_requests_received">Friend Requests</string>
+    <string name="friend_requests_sent">Sent Requests</string>
+    <string name="no_friends">No friends yet…</string>
+    <string name="remove_friend_title">Remove Friend</string>
+    <string name="remove_friend_message">Are you sure you want to remove \"%1$s\" (ID: %2$d) as a friend?</string>
+    <string name="cancel_request_title">Cancel Request</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to \"%1$s\" (ID: %2$d)?</string>
+    <string name="friend_request_error_self">Can\'t send friend request to yourself</string>
+    <string name="friend_request_error_already_sent">Friend request already sent</string>
+    <string name="friend_request_error_already_friends">Already friends</string>
+    <string name="friend_request_error_list_full">Friend list full</string>
+
     <!-- Shop -->
     <string name="shop">ショップ</string>
+    <string name="free_voidstones">Free Voidstones!</string>
+    <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
+    <string name="free_voidstones_won">You got %d voidstones!</string>
+    <string name="pick">Pick</string>
+    <string name="purchase_id">Purchase ID: %d</string>
     <string name="voidstone_history">ボイドストーンの歴史</string>
     <string name="purchase_history">購入の歴史</string>
-    <string name="page_x_of_y">ページ：%s／%s</string>
     <string name="no_transactions_yet">取引はありません</string>
-
     <string name="admin_reward">アドミンリワード</string>
     <string name="in_app_purchase">アプリ内購入</string>
-    <string name="ad_reward">広告リワード</string>
     <string name="voidstone_gift_received">ボイドストーンのギフト受取済</string>
     <string name="voidstone_gift_send">ボイドストーンのギフトを送る</string>
     <string name="skin_bought">購入したスキン</string>
@@ -103,6 +133,22 @@
     <string name="profile_color_bought">プロフィールカラー購入完了</string>
     <string name="profile_color_gradient_bought">プロフィールのグラデーション購入完了</string>
     <string name="profile_color_gradient_2_bought">プロフィールのグラデーション 2 購入完了</string>
+    <string name="profile_name_font_bought">Profile name font unlock</string>
+    <string name="admin_deduction">Admin Deduction</string>
+    <string name="giveaway">Giveaway Prize</string>
+    <string name="admin_reward_sent">Admin Reward Sent</string>
+    <string name="admin_deduction_sent">Admin Deduction Sent</string>
+    <string name="verify_reward">Verify Reward</string>
+
+    <!-- Ads -->
+    <string name="ad_not_loaded">Ad not loaded yet</string>
+    <string name="ad_show_failed">Failed to show ad</string>
+    <string name="ad_load_failed">Failed to load ad</string>
+    <string name="ad_rate_limited">You\'ve watched too many ads recently. Please try again in %s.</string>
+    <string name="time_hrs">hrs</string>
+    <string name="time_min">min</string>
+    <string name="time_sec">sec</string>
+    <string name="ad_reward">広告リワード</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
@@ -113,6 +159,15 @@
     <string name="logout_all_devices">すべてのデバイスでログアウト</string>
     <string name="change_name">名前を変更</string>
     <string name="copy_id">IDをコピー</string>
+    <string name="save_profile_description">Save Profile Description</string>
+    <string name="profile_description_placeholder">Type a description…</string>
+    <string name="profile_description_save_success">Profile description saved</string>
+    <string name="profile_description_save_failed">Failed to save profile description</string>
+    <string name="profile_description_too_long">Description is too long! (max %d characters)</string>
+    <string name="unlock_description_color">Unlock Description Text Color</string>
+    <string name="description_text_color">Description Text Color</string>
+    <string name="unlock_description_color_success">Description text color unlocked!</string>
+    <string name="unlock_description_color_already_unlocked">Description text color already unlocked</string>
     <string name="statistics">統計</string>
     <string name="achievements">実績</string>
     <string name="delete_account">アカウントを削除</string>
@@ -151,6 +206,12 @@
     <string name="name_color_save_success">ネームカラー保存完了</string>
     <string name="name_color_save_failed">カラーの保存に失敗</string>
     <string name="name_colors_not_unlocked">ネームカラーがアンロックされていません</string>
+    <string name="unlock_name_fonts">Unlock Name Fonts</string>
+    <string name="unlock_name_fonts_success">Name fonts unlocked!</string>
+    <string name="unlock_name_fonts_already_unlocked">Name fonts already unlocked</string>
+    <string name="name_font_save_success">Font saved!</string>
+    <string name="name_fonts_not_unlocked">Name fonts not unlocked</string>
+    <string name="profile_name_font">Profile Name Font</string>
     <string name="name_change_success">名前は『%s』に変更しました</string>
     <string name="name_change_invalid_length">名前は長すぎます</string>
     <string name="name_change_taken">名前は使用されています</string>
@@ -169,6 +230,13 @@
     <string name="unlock_profile_colors_gradient_2_not_unlocked">グラデーション 2 がアンロックされていません</string>
     <string name="profile_color_save_failed">プロフィールカラーの保存に失敗する</string>
 
+    <!-- Profile Tags -->
+    <string name="admin">ADMIN</string>
+    <string name="mod">MOD</string>
+    <string name="verified">Verified</string>
+    <string name="youtube">YouTube</string>
+    <string name="translator">Translator</string>
+
     <!-- Search Profile -->
     <string name="search_account">アカウントを検索</string>
     <string name="search_account_by_id_or_name">IDまたは名前で検索</string>
@@ -182,6 +250,8 @@
     <string name="stat_total">合計:</string>
     <string name="stat_regular_value">普通 (値):</string>
     <string name="stat_regular_count">普通 (数):</string>
+    <string name="stat_rainbow_value">Rainbow (Value):</string>
+    <string name="stat_rainbow_count">Rainbow (Count):</string>
     <string name="stat_gold_value">ゴールド (値):</string>
     <string name="stat_gold_count">ゴールド (数):</string>
     <string name="stat_silver_value">シルバー (値):</string>
@@ -201,6 +271,29 @@
     <string name="stat_collisions">衝突数:</string>
     <string name="stat_boosts">ブースト数:</string>
     <string name="stat_teleports">テレポート数:</string>
+    <string name="stat_rewarded_ads_watched">Reward Ads Watched:</string>
+
+    <!-- Mail !-->
+    <string name="mail">Mail</string>
+    <string name="sent_mail_to_id">Sent Mail to %d</string>
+    <string name="mail_id">Mail ID: %d</string>
+    <string name="no_mail_yet">No mail yet</string>
+    <string name="mail_from">From:</string>
+    <string name="mail_to">To:</string>
+    <string name="received">Received</string>
+    <string name="refresh">Refresh</string>
+    <string name="write_mail">Write Mail</string>
+    <string name="mail_reply">Reply</string>
+    <string name="mail_title_hint">Title</string>
+    <string name="mail_content_hint">Content</string>
+    <string name="mail_recipient_not_found">Recipient not found</string>
+    <string name="mail_send_to_self">Cannot send mail to yourself</string>
+    <string name="mail_title_too_long">Title too long</string>
+    <string name="mail_content_too_long">Content too long</string>
+    <string name="mail_sent_success">Sent</string>
+    <string name="mark_unread">Mark Unread</string>
+    <string name="copy_verification_code">Copy Verification Code</string>
+    <string name="code_copied">Code copied to clipboard!</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">クラシック</string>
@@ -237,9 +330,16 @@
     <string name="adventure_obj_survive">生き残る</string>
     <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
+    <string name="adventure_obj_collect_food">Collect %d Food</string>
+    <string name="adventure_obj_invisible_bots">Invisible Bots!</string>
+    <string name="adventure_obj_growing_bots">Growing Bots!</string>
+    <string name="adventure_obj_reach_size">Reach %d Size</string>
+    <string name="adventure_obj_finish_first">Finish 1st</string>
 
     <!-- Timer text !-->
     <string name="timer_time">時間</string>
+    <string name="timer_overtime">Overtime</string>
+    <string name="timer_overtime_count">Overtime %d</string>
     <string name="timer_grace">リスポーン可能</string>
     <string name="timer_tiebreaker">タイブレーカー</string>
     <string name="timer_winner">勝者</string>
@@ -312,6 +412,7 @@
     <string name="speed_boost">+スピード: %ss</string>
     <string name="xp" translatable="false">XP</string>
     <string name="level">レベル</string>
+    <string name="level_number">Level %d</string>
     <string name="food">フード</string>
     <string name="voidstones">収集したボイドストーンの数</string>
     <string name="blobs_eaten">食べたブロブの数</string>
@@ -333,6 +434,8 @@
     <string name="dialog_connection_error">接続エラー</string>
     <string name="dialog_disconnected">切断されました</string>
     <string name="dialog_disconnected_message">サーバーから切断されました。</string>
+    <string name="kicked_from_room">Kicked from Room!</string>
+    <string name="banned_from_room">Banned from Room!</string>
     <string name="room_crash">ルームがクラッシュされました: %s</string>
     <string name="dialog_yes">はい</string>
     <string name="dialog_no">いいえ</string>
@@ -341,6 +444,20 @@
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
+
+    <!-- Block Player -->
+    <string name="blocked_players">Blocked Players</string>
+    <string name="no_blocked_players">No blocked players</string>
+    <string name="unblock_confirm_message">Unblock \"%1$s\" (ID: %2$d)?</string>
+    <string name="block_player">Block Player</string>
+    <string name="unblock_player">Unblock Player</string>
+    <string name="block_confirm_title">Block Player?</string>
+    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other\'s friends list.</string>
+    <string name="player_unblocked">Player unblocked</string>
+    <string name="player_blocked">Player blocked</string>
+    <string name="you_blocked_user">You blocked this user</string>
+    <string name="user_blocked_you">Blocked</string>
+    <string name="both_blocked">Both users blocked each other</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">ローカルゲームをホスト</string>
@@ -354,17 +471,37 @@
     <string name="timeout">%dms後でタイムアウト</string>
     <string name="room_full">満員</string>
     <string name="players_count">プレイヤー数</string>
+    <string name="tap_to_reveal">Tap to reveal</string>
     <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZを有効にする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
+
+    <!-- Player List -->
+    <string name="player_list_title">PLAYER LIST</string>
+    <string name="player_list_count">Players: %d ⋅ Bots: %d ⋅ Total: %d</string>
+    <string name="kick_confirm_title">Kick Player</string>
+    <string name="kick_confirm_message">Kick %s from this room? They may rejoin.</string>
+    <string name="ban_confirm_title">Ban Player</string>
+    <string name="ban_confirm_message">Are you sure you want to ban %s from this room? They will never be able to rejoin and this cannot be undone!</string>
 
     <!-- Miscellaneous !-->
     <string name="play">プレイ</string>
+    <string name="id">ID:</string>
+    <string name="sort_id_desc">ID ↓</string>
+    <string name="sort_id_asc">ID ↑</string>
+    <string name="sort_xp_desc">XP ↓</string>
+    <string name="sort_xp_asc">XP ↑</string>
+    <string name="arrow_expanded">▼</string>
+    <string name="arrow_collapsed">▶</string>
     <string name="respawn">リスポーン</string>
     <string name="wait">お待ち</string>
     <string name="back">戻る</string>
     <string name="mode">モード</string>
+    <string name="confirm">Confirm</string>
     <string name="save">保存</string>
     <string name="saved">保存済み</string>
     <string name="saving">保存中…</string>
+    <string name="sent">Sent</string>
+    <string name="send">Send</string>
+    <string name="sending">Sending…</string>
     <string name="buy">購入</string>
     <string name="buying">購入中…</string>
     <string name="search">検索</string>
@@ -376,6 +513,10 @@
     <string name="info">情報</string>
     <string name="empty">空</string>
     <string name="name">名前</string>
+    <string name="owner">Owner</string>
+    <string name="kick">Kick</string>
+    <string name="ban">Ban</string>
+    <string name="signal">Signal</string>
     <string name="home">ホーム</string>
     <string name="settings">設定</string>
     <string name="team">チーム</string>
@@ -398,12 +539,14 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
+    <string name="uptime">Uptime: %s</string>
     <string name="show_ui">UI を表示</string>
     <string name="open_menu">メニューを開く</string>
     <string name="stop_spectating">観戦モードを終了</string>
     <string name="spectate">観戦する</string>
     <string name="previous_entity">前のエンティティ</string>
     <string name="next_entity">次のエンティティ</string>
+    <string name="level_abbreviated">Lv.%d</string>
     <string name="left">残り</string> <!-- left as in remaining, not the left direction -->
     <string name="total">合計</string>
     <string name="unknown">不明</string>
@@ -420,6 +563,10 @@
     <string name="not_enough_voidstones">ボイドストーンが足りません</string>
     <string name="database_write_fail">データベース書き込みに失敗</string>
     <string name="database_read_fail">データベース読み込みに失敗</string>
+    <string name="banned">Banned</string>
+    <string name="muted">Muted</string>
+    <string name="forbidden">Forbidden</string>
     <string name="internal_server_error">内部サーバーエラー</string>
     <string name="unknown_error_code">不明なエラーです。コード %d</string>
+    <string name="page_x_of_y">ページ：%s／%s</string>
 </resources>
