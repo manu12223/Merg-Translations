@@ -407,7 +407,7 @@
     <string name="effective_size">表示サイズ: %d</string>
     <string name="decay">衰退: %.2f/s</string>
     <string name="pieces">スプリット: %1d/%2d</string>
-    <string name="merge">マージ: %ss</string>
+    <string name="merge">マージまで: %ss</string>
     <string name="invincibility">無敵: %ss</string>
     <string name="speed_boost">+スピード: %ss</string>
     <string name="xp" translatable="true">経験値</string>
