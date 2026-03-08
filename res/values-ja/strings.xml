@@ -32,7 +32,7 @@
     <string name="background_white">白</string>
     <string name="controls">コントロール</string>
     <string name="control_joystick">スティック</string>
-    <string name="control_relative">Relative</string>
+    <string name="control_relative">相対</string>
     <string name="control_touch">タッチ</string>
     <string name="button_layout">ボタンのレイアウト</string>
     <string name="customize">カスタマイズ</string>
