@@ -448,7 +448,7 @@
     <!-- Block Player -->
     <string name="blocked_players">ブロックしたプレイヤーのリスト</string>
     <string name="no_blocked_players">もしプレイヤーをブロックするとき、こちらに表示されます</string>
-    <string name="unblock_confirm_message">Unblock 「%1$s」さん（ID: %2$d）をブロック解除してもよろしいですか？</string>
+    <string name="unblock_confirm_message">「%1$s」さん（ID %2$d）をブロック解除してもよろしいですか？</string>
     <string name="block_player">ブロック</string>
     <string name="unblock_player">ブロック解除</string>
     <string name="block_confirm_title">プレイヤーをブロック？</string>
