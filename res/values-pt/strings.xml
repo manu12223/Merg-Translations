@@ -12,7 +12,7 @@
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
-    <string name="developer">Desenvolvedor:</string>
+    <string name="developer">Desenvolvedores:</string>
     <string name="code_contribution">Contribuidores para o código:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
@@ -32,21 +32,21 @@
     <string name="background_white">Branco</string>
     <string name="controls">Controles</string>
     <string name="control_joystick">Controlador</string>
-    <string name="control_relative">Relative</string>
+    <string name="control_relative">Relativo</string>
     <string name="control_touch">Toque</string>
     <string name="button_layout">Layout dos Botões</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidade</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
-    <string name="show_grid">Mostrar Grades</string>
+    <string name="show_grid">Exibir Grades</string>
     <string name="custom_background_image">Imagem de Fundo Personalizada</string>
     <string name="custom_background_select">Selecionar Imagem</string>
     <string name="custom_background_opacity">Opacidade do Fundo</string>
-    <string name="show_performance_metrics">Mostrar Métricas de Desempenho</string>
+    <string name="show_performance_metrics">Exibir Métricas de Desempenho</string>
     <string name="skin_outlines">Bordas nas Skins</string>
     <string name="direction_arrow">Seta de Direção</string>
     <string name="border_above_entities">Borda Acima das Entidades</string>
-    <string name="map_border_visible">Mostrar Borda do Mapa</string>
+    <string name="map_border_visible">Exibir Borda do Mapa</string>
     <string name="star_background_enabled">Estrelas</string>
     <string name="star_color_white">Brancas</string>
     <string name="star_color_black">Pretas</string>
@@ -303,7 +303,7 @@
     <string name="gamemode_knockout">Nocaute</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_coming_soon">Em Breve</string>
-    <string name="description_classic">Absorva jogadores menores e torne-se no maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
+    <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
@@ -370,7 +370,7 @@
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Pedras do Vazio</string>
-    <string name="level_skin_locked">A skin será desbloqueada no nível %d</string>
+    <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
 
