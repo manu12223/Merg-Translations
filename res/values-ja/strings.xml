@@ -110,7 +110,7 @@
     <string name="cancel_request_message">「%1$s」さん（ID: %2$d）とのフレンドリクエストを取り消してもよろしいですか？</string>
     <string name="friend_request_error_self">フレンドリクエストを自分へ送信できません。</string>
     <string name="friend_request_error_already_sent">このリクエストは保留中です。</string>
-    <string name="friend_request_error_already_friends">既に友達です。</string>
+    <string name="friend_request_error_already_friends">既に追加されています。</string>
     <string name="friend_request_error_list_full">フレンドリストは満員です。</string>
 
     <!-- Shop -->
@@ -277,7 +277,7 @@
     <string name="mail">メールボックス</string>
     <string name="sent_mail_to_id">「%d」へメール送信完了</string>
     <string name="mail_id">メールID: %d</string>
-    <string name="no_mail_yet">受信メールはこちらに表示されます</string>
+    <string name="no_mail_yet">メールはこちらに表示されます</string>
     <string name="mail_from">送信者:</string>
     <string name="mail_to">受信者:</string>
     <string name="received">受信済</string>
@@ -407,10 +407,10 @@
     <string name="effective_size">表示サイズ: %d</string>
     <string name="decay">衰退: %.2f/s</string>
     <string name="pieces">スプリット: %1d/%2d</string>
-    <string name="merge">マージ: %ss</string>
+    <string name="merge">マージまで: %ss</string>
     <string name="invincibility">無敵: %ss</string>
     <string name="speed_boost">+スピード: %ss</string>
-    <string name="xp" translatable="false">XP</string>
+    <string name="xp" translatable="true">経験値</string>
     <string name="level">レベル</string>
     <string name="level_number">レベル: %d</string>
     <string name="food">フード</string>
@@ -448,7 +448,7 @@
     <!-- Block Player -->
     <string name="blocked_players">ブロックしたプレイヤーのリスト</string>
     <string name="no_blocked_players">もしプレイヤーをブロックするとき、こちらに表示されます</string>
-    <string name="unblock_confirm_message">Unblock 「%1$s」さん（ID: %2$d）をブロック解除してもよろしいですか？</string>
+    <string name="unblock_confirm_message">「%1$s」さん（ID %2$d）をブロック解除してもよろしいですか？</string>
     <string name="block_player">ブロック</string>
     <string name="unblock_player">ブロック解除</string>
     <string name="block_confirm_title">プレイヤーをブロック？</string>
@@ -471,7 +471,7 @@
     <string name="timeout">%dms後でタイムアウト</string>
     <string name="room_full">満員</string>
     <string name="players_count">プレイヤー数</string>
-    <string name="tap_to_reveal">Tap to reveal</string>
+    <string name="tap_to_reveal">タップして表示</string>
     <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZを有効にする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
 
     <!-- Player List -->
@@ -513,10 +513,10 @@
     <string name="info">情報</string>
     <string name="empty">空</string>
     <string name="name">名前</string>
-    <string name="owner">Owner</string>
-    <string name="kick">Kick</string>
-    <string name="ban">Ban</string>
-    <string name="signal">Signal</string>
+    <string name="owner">オーナー</string>
+    <string name="kick">キック</string>
+    <string name="ban">バン</string>
+    <string name="signal">シグナル</string>
     <string name="home">ホーム</string>
     <string name="settings">設定</string>
     <string name="team">チーム</string>
@@ -540,7 +540,7 @@
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
     <string name="uptime">稼働時間: %s</string>
-    <string name="show_ui">UI を表示</string>
+    <string name="show_ui">UI を表示化</string>
     <string name="open_menu">メニューを開く</string>
     <string name="stop_spectating">観戦モードを終了</string>
     <string name="spectate">観戦する</string>
