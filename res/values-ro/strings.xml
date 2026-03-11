@@ -64,13 +64,13 @@
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
-    <string name="game_mode">Game Mode</string>
-    <string name="select_mode">Select Mode</string>
-    <string name="minimum_players">Minimum Players</string>
-    <string name="maximum_players">Maximum Players</string>
-    <string name="decrease_time">Decrease Time</string>
-    <string name="increase_time">Increase Time</string>
-    <string name="grace_period">Grace Period</string>
+    <string name="game_mode">Mod de joc</string>
+    <string name="select_mode">Selectează mod</string>
+    <string name="minimum_players">Minim de jucători</string>
+    <string name="maximum_players">Maxim de jucători</string>
+    <string name="decrease_time">Reduceți timpul</string>
+    <string name="increase_time">Măriți timpul</string>
+    <string name="grace_period">Period grace</string>
     <string name="decrease_grace">Decrease Grace Period</string>
     <string name="increase_grace">Increase Grace Period</string>
     <string name="elimination_count">Elimination Count</string>
