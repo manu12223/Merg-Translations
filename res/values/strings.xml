@@ -118,6 +118,7 @@
     <string name="free_voidstones">Free Voidstones!</string>
     <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
     <string name="free_voidstones_won">You got %d voidstones!</string>
+    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
     <string name="pick">Pick</string>
     <string name="purchase_id">Purchase ID: %d</string>
     <string name="voidstone_history">Voidstone History</string>
@@ -231,11 +232,17 @@
     <string name="profile_color_save_failed">Failed to save Profile colors</string>
 
     <!-- Profile Tags -->
+    <string name="developer_tag">Developer</string>
+    <string name="code_contribution_tag">Code Contribution</string>
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
     <string name="verified">Verified</string>
     <string name="youtube">YouTube</string>
     <string name="translator">Translator</string>
+    <string name="internal_tester">Internal Tester</string>
+    <string name="alpha_tester">Alpha Tester</string>
+    <string name="beta_tester">Beta Tester</string>
+    <string name="discord_staff">Discord Staff</string>
 
     <!-- Search Profile -->
     <string name="search_account">Search Account</string>

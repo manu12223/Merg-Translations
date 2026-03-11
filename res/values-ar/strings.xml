@@ -118,6 +118,7 @@
     <string name="free_voidstones">فويدستون مجاني!</string>
     <string name="free_voidstones_subtitle">اختر مربعا وشاهد اعلان فيديو قصيرا لتربح فويدستون!</string>
     <string name="free_voidstones_won">لقد حصلت على %d فويدستون!</string>
+    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
     <string name="pick">يختار</string>
     <string name="purchase_id">معرف الشراء: %d</string>
     <string name="voidstone_history">تاريخ الفويدستون</string>
@@ -231,11 +232,17 @@
     <string name="profile_color_save_failed">فشل حفظ الوان الملف الشخصي</string>
 
     <!-- Profile Tags -->
+    <string name="developer_tag">Developer</string>
+    <string name="code_contribution_tag">Code Contribution</string>
     <string name="admin">مشرف</string>
     <string name="mod">مدير</string>
     <string name="verified">موثق</string>
     <string name="youtube">يوتيوبر</string>
     <string name="translator">مترجم</string>
+    <string name="internal_tester">Internal Tester</string>
+    <string name="alpha_tester">Alpha Tester</string>
+    <string name="beta_tester">Beta Tester</string>
+    <string name="discord_staff">Discord Staff</string>
 
     <!-- Search Profile -->
     <string name="search_account">البحث عن حساب</string>
