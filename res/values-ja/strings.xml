@@ -97,7 +97,7 @@
     <string name="friends">フレンド</string>
     <string name="send_friend_request">フレンドリクエスト</string>
     <string name="friend_request_accepted">フレンドリストへ追加完了！</string>
-    <string name="send_friend_request_by_id_or_name">IDまたはネームを入力してリクエストを送信します</string>
+    <string name="send_friend_request_by_id_or_name">IDまたは名前を入力してリクエストを送信します</string>
     <string name="cancel_friend_request">リクエストを取り消す</string>
     <string name="remove_friend">フレンドリストから解除</string>
     <string name="friend_request_sent">リクエスト送信済み</string>
@@ -107,7 +107,7 @@
     <string name="remove_friend_title">フレンドリストから解除</string>
     <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドリストから解除してもよろしいですか？</string>
     <string name="cancel_request_title">リクエストを取り消す</string>
-    <string name="cancel_request_message">「%1$s」さん（ID: %2$d）とのフレンドリクエストを取り消してもよろしいですか？</string>
+    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンドリクエストを取り消してもよろしいですか？</string>
     <string name="friend_request_error_self">フレンドリクエストを自分へ送信できません。</string>
     <string name="friend_request_error_already_sent">このリクエストは保留中です。</string>
     <string name="friend_request_error_already_friends">既にリストで追加されました。</string>
