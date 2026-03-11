@@ -5,21 +5,21 @@
     <string name="singleplayer">Singleplayer</string>
     <string name="lan_multiplayer">LAN Multiplayer</string>
     <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string>
+    <string name="options">Options</string> opțiuni 
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
+    <string name="email_copy">Copy Email</string> copiază email
     <string name="email_support">Support Mail:</string>
     <string name="developer">Developer:</string>
-    <string name="code_contribution">Code Contributions:</string>
-    <string name="skins">Skins:</string>
-    <string name="translations">Translations:</string>
+    <string name="code_contribution">Code Contributions:</string> contribuire coduri
+    <string name="skins">Skins:</string> skinuri
+    <string name="translations">Translations:</string> traduceri
 
     <!-- Options menu !-->
     <string name="language">Limbă</string>
-    <string name="language_english">English (Ingleză)</string>
+    <string name="language_english">English (Engleză)</string>
     <string name="language_german">Deutsch (Germană)</string>
     <string name="language_portuguese">Português (Portugheză)</string>
     <string name="language_spanish">Español (Spaniolă)</string>
@@ -27,40 +27,40 @@
     <string name="language_italian">Italiano (Italiană)</string>
     <string name="language_arabic">عربي (Arabă)</string>
     <string name="language_turkish">Türkçe (Turcă)</string>
-    <string name="background">Background</string>
-    <string name="background_black">Black</string>
-    <string name="background_white">White</string>
-    <string name="controls">Controls</string>
+    <string name="background">Fundal</string>
+    <string name="background_black">Negru</string>
+    <string name="background_white">Alb</string>
+    <string name="controls">Controluri</string>
     <string name="control_joystick">Joystick</string>
-    <string name="control_relative">Relative</string>
-    <string name="control_touch">Touch</string>
-    <string name="button_layout">Button Layout</string>
-    <string name="customize">Customize</string>
-    <string name="opacity">Opacity</string>
-    <string name="leaderboard_size">Leaderboard Size</string>
-    <string name="show_grid">Show Grid</string>
-    <string name="custom_background_image">Custom Background Image</string>
-    <string name="custom_background_select">Select Image</string>
-    <string name="custom_background_opacity">Background Opacity</string>
-    <string name="show_performance_metrics">Show Performance Metrics</string>
-    <string name="skin_outlines">Skin Outlines</string>
-    <string name="direction_arrow">Direction Arrow</string>
-    <string name="border_above_entities">Border Above Entities</string>
-    <string name="map_border_visible">Show Map Border</string>
-    <string name="star_background_enabled">Stars</string>
-    <string name="star_color_white">White</string>
-    <string name="star_color_black">Black</string>
-    <string name="name_position">Name Position</string>
-    <string name="name_position_above">Above</string>
-    <string name="name_position_center">Center</string>
-    <string name="name_position_below">Below</string>
-    <string name="name_scale">Name Scale</string>
-    <string name="timer_format">Timer Format</string>
+    <string name="control_relative">Relativ</string>
+    <string name="control_touch">Control atingere</string>
+    <string name="button_layout">Buton aspect </string> 
+    <string name="customize">Customizează</string>
+    <string name="opacity">Opacitate</string>
+    <string name="leaderboard_size">Clasament mărime</string>
+    <string name="show_grid">Afișați grilă</string>
+    <string name="custom_background_image">Imagine custom de fundal</string>
+    <string name="custom_background_select">Selectează imaginea</string>
+    <string name="custom_background_opacity">Opacitate fundal</string>
+    <string name="show_performance_metrics">Afișează performanța matrici</string>
+    <string name="skin_outlines">Contur skin</string>
+    <string name="direction_arrow">Săgeată de direcție</string>
+    <string name="border_above_entities">Bordură deasupra entităților</string>
+    <string name="map_border_visible">Afișează bordura hărții</string>
+    <string name="star_background_enabled">Stele</string>
+    <string name="star_color_white">Alb</string>
+    <string name="star_color_black">Negru</string>
+    <string name="name_position">Poziție nume</string>
+    <string name="name_position_above">Deasupra</string>
+    <string name="name_position_center">Centru</string>
+    <string name="name_position_below">Dedesubt</string>
+    <string name="name_scale">Scală nume</string>
+    <string name="timer_format">Format cronometru</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
-    <string name="auto_spectate_killer">Auto Spectate Killer</string>
-    <string name="cycle_progressbar">Cycle XP Progress Bar Text</string>
+    <string name="auto_spectate_killer">Spectează killer automat</string>
+    <string name="cycle_progressbar">Textul barei de progres XP pentru ciclu</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
