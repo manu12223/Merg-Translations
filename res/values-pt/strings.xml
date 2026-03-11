@@ -118,7 +118,7 @@
     <string name="free_voidstones">Pedras do Vazio Gratuitas!</string>
     <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Pedras do Vazio!</string>
     <string name="free_voidstones_won">%d Pedras do Vazio foram adicionadas à conta!</string>
-    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
+    <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="pick">Escolher</string>
     <string name="purchase_id">ID da Compra: %d</string>
     <string name="voidstone_history">Histórico de Compras com Pds. Vz.</string>
@@ -232,17 +232,17 @@
     <string name="profile_color_save_failed">Falha ao salvar as cores do perfil</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">Developer</string>
-    <string name="code_contribution_tag">Code Contribution</string>
+    <string name="developer_tag">Desenvolvedor(a)</string>
+    <string name="code_contribution_tag">Contribuidor(a) com o Código</string>
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
     <string name="verified">Verificado(a)</string>
     <string name="youtube">YouTube</string>
     <string name="translator">Tradutor(a)</string>
-    <string name="internal_tester">Internal Tester</string>
-    <string name="alpha_tester">Alpha Tester</string>
-    <string name="beta_tester">Beta Tester</string>
-    <string name="discord_staff">Discord Staff</string>
+    <string name="internal_tester">Testador(a) da Versão Interna</string>
+    <string name="alpha_tester">Testador(a) da Versão Alpha</string>
+    <string name="beta_tester">Testador(a) da Versão Beta</string>
+    <string name="discord_staff">Membro Staff no Servidor do Discord</string>
 
     <!-- Search Profile -->
     <string name="search_account">Procurar Conta</string>
