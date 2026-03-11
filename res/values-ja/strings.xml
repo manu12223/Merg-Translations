@@ -239,10 +239,10 @@
     <string name="verified">確認済</string>
     <string name="youtube">YouTube</string>
     <string name="translator">翻訳者</string>
-    <string name="internal_tester">Internal Tester</string>
-    <string name="alpha_tester">Alpha Tester</string>
-    <string name="beta_tester">Beta Tester</string>
-    <string name="discord_staff">Discord Staff</string>
+    <string name="internal_tester">内部テスター</string>
+    <string name="alpha_tester">アルファテスター</string>
+    <string name="beta_tester">ベータテスター</string>
+    <string name="discord_staff">Discordサーバーのスタッフ</string>
 
     <!-- Search Profile -->
     <string name="search_account">アカウントを検索</string>
