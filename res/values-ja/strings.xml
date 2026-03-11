@@ -417,7 +417,7 @@
     <string name="merge">マージまで: %ss</string>
     <string name="invincibility">無敵: %ss</string>
     <string name="speed_boost">+スピード: %ss</string>
-    <string name="xp" translatable="false">XP</string>
+    <string name="xp" translatable="true">経験値</string>
     <string name="level">レベル</string>
     <string name="level_number">レベル: %d</string>
     <string name="food">フード</string>
