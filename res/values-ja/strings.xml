@@ -95,22 +95,22 @@
     <string name="private_room">プライベートルーム</string>
     <string name="clan">クラン</string>
     <string name="friends">フレンド</string>
-    <string name="send_friend_request">フレンドリクエスト</string>
-    <string name="friend_request_accepted">フレンドリストへ追加完了！</string>
-    <string name="send_friend_request_by_id_or_name">IDまたは名前を入力してリクエストを送信する</string>
-    <string name="cancel_friend_request">リクエストを取り消す</string>
+    <string name="send_friend_request">フレンド申請</string>
+    <string name="friend_request_accepted">フレンドリストへ追加済み！</string>
+    <string name="send_friend_request_by_id_or_name">IDまたは名前を入力して申請を送信する</string>
+    <string name="cancel_friend_request">申請を取り消す</string>
     <string name="remove_friend">フレンドリストから解除</string>
-    <string name="friend_request_sent">リクエスト送信済み</string>
-    <string name="friend_requests_received">受信したリクエスト</string>
-    <string name="friend_requests_sent">保留中のリクエスト</string>
+    <string name="friend_request_sent">申請送信済み</string>
+    <string name="friend_requests_received">受信した申請</string>
+    <string name="friend_requests_sent">保留中の申請</string>
     <string name="no_friends">フレンドはこちらに表示されます</string>
     <string name="remove_friend_title">フレンドリストから解除</string>
     <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドリストから解除してもよろしいですか？</string>
-    <string name="cancel_request_title">リクエストを取り消す</string>
-    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンドリクエストを取り消してもよろしいですか？</string>
-    <string name="friend_request_error_self">フレンドリクエストを自分へ送信できません。</string>
-    <string name="friend_request_error_already_sent">このリクエストは保留中です。</string>
-    <string name="friend_request_error_already_friends">既にリストで追加されました。</string>
+    <string name="cancel_request_title">申請を取り消す</string>
+    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請を取り消してもよろしいですか？</string>
+    <string name="friend_request_error_self">フレンド申請を自分へ送信できません。</string>
+    <string name="friend_request_error_already_sent">この申請は保留中です。</string>
+    <string name="friend_request_error_already_friends">既に追加されました。</string>
     <string name="friend_request_error_list_full">フレンドリストは満員です。</string>
 
     <!-- Shop -->
@@ -129,16 +129,16 @@
     <string name="voidstone_gift_received">ボイドストーンのギフト受取済</string>
     <string name="voidstone_gift_send">ボイドストーンのギフトを送る</string>
     <string name="skin_bought">購入したスキン</string>
-    <string name="profile_name_change_bought">名前の変更購入完了</string>
-    <string name="profile_name_color_bought">ネームカラー購入完了</string>
-    <string name="profile_color_bought">プロフィールカラー購入完了</string>
-    <string name="profile_color_gradient_bought">プロフィールのグラデーション購入完了</string>
-    <string name="profile_color_gradient_2_bought">プロフィールのグラデーション 2 購入完了</string>
-    <string name="profile_name_font_bought">ネームフォントアンロック完了</string>
+    <string name="profile_name_change_bought">名前の変更購入済</string>
+    <string name="profile_name_color_bought">ネームカラー購入済</string>
+    <string name="profile_color_bought">プロフィールカラー購入済</string>
+    <string name="profile_color_gradient_bought">プロフィールのグラデーション購入済</string>
+    <string name="profile_color_gradient_2_bought">プロフィールのグラデーション 2 購入済</string>
+    <string name="profile_name_font_bought">ネームフォントアンロック済</string>
     <string name="admin_deduction">アドミン控除</string>
     <string name="giveaway">プレゼントリワード</string>
-    <string name="admin_reward_sent">アドミンリワード送信済み</string>
-    <string name="admin_deduction_sent">アドミン控除送信済み</string>
+    <string name="admin_reward_sent">アドミンリワード送信済</string>
+    <string name="admin_deduction_sent">アドミン控除送信済</string>
     <string name="verify_reward">リワードを確認</string>
 
     <!-- Ads -->
