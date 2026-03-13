@@ -86,7 +86,7 @@
     <string name="increase_bots">Măriți numărul de boți</string>
     <string name="max_split_pieces">Bucăți maxime divizate</string>
     <string name="quick_merge">Combinate rapidă</string>
-    <string name="no_holes">no holes</string>
+    <string name="no_holes">Fără viruși</string>
     <string name="circle_map">Hartă in formă de cerc</string>
     <string name="warning_no_holes">Statisticile nu vor fi salvate</string>
     <string name="gold_holes">Gold Holes</string>
@@ -114,32 +114,32 @@
     <string name="friend_request_error_list_full">Lista de prieteni este plină</string>
 
     <!-- Shop -->
-    <string name="shop">Shop</string>
+    <string name="shop">Magazin</string>
     <string name="free_voidstones">Free Voidstones!</string>
-    <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
-    <string name="free_voidstones_won">You got %d voidstones!</string>
-    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
-    <string name="pick">Pick</string>
-    <string name="purchase_id">Purchase ID: %d</string>
-    <string name="voidstone_history">Voidstone History</string>
-    <string name="purchase_history">Purchase History</string>
-    <string name="no_transactions_yet">No transactions yet</string>
-    <string name="admin_reward">Admin Reward</string>
-    <string name="in_app_purchase">In-app purchase</string>
-    <string name="voidstone_gift_received">Voidstone Gift Received</string>
-    <string name="voidstone_gift_send">Voidstone Gift Sent</string>
+    <string name="free_voidstones_subtitle">Alege un pătrat și urmărește o scurtă reclamă video pentru a câștiga voidstones!</string>
+    <string name="free_voidstones_won">Ai primit %d voidstones!</string>
+    <string name="free_voidstones_status">%1$d rămas⋅ Restartare în %2$s</string>
+    <string name="pick">Alege</string>
+    <string name="purchase_id">Achizițiile ID-ului: %d</string>
+    <string name="voidstone_history">Istoric Voidstone</string>
+    <string name="purchase_history">Istoric de achiziții</string>
+    <string name="no_transactions_yet">Nicio tranzacție încă</string>
+    <string name="admin_reward">Recompensă pentru admin</string>
+    <string name="in_app_purchase">Achiziții in aplicație</string>
+    <string name="voidstone_gift_received">Cadou primit de Voidstone</string>
+    <string name="voidstone_gift_send">Cadou voidstone trimis</string>
     <string name="skin_bought">Skin</string>
-    <string name="profile_name_change_bought">Profile name change</string>
-    <string name="profile_name_color_bought">Profile name color unlock</string>
-    <string name="profile_color_bought">Profile color unlock</string>
-    <string name="profile_color_gradient_bought">Profile color gradient unlock</string>
-    <string name="profile_color_gradient_2_bought">Profile color gradient 2 unlock</string>
-    <string name="profile_name_font_bought">Profile name font unlock</string>
-    <string name="admin_deduction">Admin Deduction</string>
-    <string name="giveaway">Giveaway Prize</string>
-    <string name="admin_reward_sent">Admin Reward Sent</string>
-    <string name="admin_deduction_sent">Admin Deduction Sent</string>
-    <string name="verify_reward">Verify Reward</string>
+    <string name="profile_name_change_bought">Numele profilului achiziționat!</string>
+    <string name="profile_name_color_bought">Culoarea pentru nume în profil a fost deblocată!</string>
+    <string name="profile_color_bought">Culoare pentru profil achiziționată!</string>
+    <string name="profile_color_gradient_bought">Culoare gradient pentru profil achiziționată!</string>
+    <string name="profile_color_gradient_2_bought">Culoare gradient 2 achiziționată!</string>
+    <string name="profile_name_font_bought">Fonturi pentru nume in profil achiziționat!</string>
+    <string name="admin_deduction">Deducere admin</string>
+    <string name="giveaway">Premiu giveaway</string>
+    <string name="admin_reward_sent">Recompensa adminului trimisă</string>
+    <string name="admin_deduction_sent">Deducere admin trimisă</string>
+    <string name="verify_reward">Premiu pentru verificarea contului</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Ad not loaded yet</string>
