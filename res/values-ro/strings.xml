@@ -5,17 +5,17 @@
     <string name="singleplayer">Singleplayer</string>
     <string name="lan_multiplayer">LAN Multiplayer</string>
     <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string> opțiuni 
+    <string name="options">Opțiuni</string> 
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string> copiază email
+    <string name="email_copy">Copiază email</string> 
     <string name="email_support">Support Mail:</string>
     <string name="developer">Developer:</string>
-    <string name="code_contribution">Code Contributions:</string> contribuire coduri
-    <string name="skins">Skins:</string> skinuri
-    <string name="translations">Translations:</string> traduceri
+    <string name="code_contribution">Contribuire coduri:</string> 
+    <string name="skins">Skinuri:</string> 
+    <string name="translations">Traduceri:</string> 
 
     <!-- Options menu !-->
     <string name="language">Limbă</string>
