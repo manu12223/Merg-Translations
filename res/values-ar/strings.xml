@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">اللعب الفردي</string>
     <string name="lan_multiplayer">البحث عن غرفة</string>
-    <string name="online_multiplayer">اللعِب اونلاين</string>
+    <string name="online_multiplayer">اللعب أونلاين</string>
     <string name="options">الإعدادات</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -30,7 +30,7 @@
     <string name="background">الخلفية</string>
     <string name="background_black">أسود</string>
     <string name="background_white">أبيض</string>
-    <string name="controls">ازرار التحكم</string>
+    <string name="controls">أزرار التحكم</string>
     <string name="control_joystick">موجه الدائرة</string>
     <string name="control_relative">خاص</string>
     <string name="control_touch">اللمس</string>
@@ -38,11 +38,11 @@
     <string name="customize">تعديل</string>
     <string name="opacity">الشفافية</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
-    <string name="show_grid">إظهار الشبكة</string>
+    <string name="show_grid">اظهار الشبكة</string>
     <string name="custom_background_image">خلفية مخصصة</string>
     <string name="custom_background_select">اختر صورة</string>
     <string name="custom_background_opacity">شفافية الخلفية</string>
-    <string name="show_performance_metrics">عرض مقاييس الاداء</string>
+    <string name="show_performance_metrics">عرض مقاييس الأداء</string>
     <string name="skin_outlines">حواف الدائرة</string>
     <string name="direction_arrow">شكل السهم</string>
     <string name="border_above_entities">حافة الخريطة</string>
@@ -53,19 +53,19 @@
     <string name="name_position">موقع الاسم</string>
     <string name="name_position_above">فوق</string>
     <string name="name_position_center">وسط</string>
-    <string name="name_position_below">اسفل</string>
-    <string name="name_scale">مقياس الإسم</string>
+    <string name="name_position_below">أسفل</string>
+    <string name="name_scale">مقياس الاسم</string>
     <string name="timer_format">تنسيق المؤقت</string>
     <string name="timer_format_normal">عادي</string>
     <string name="timer_format_arcade">اركيد</string>
     <string name="timer_format_ticks">نقرات</string>
-    <string name="auto_spectate_killer">إظهار القاتل تلقائيا</string>
+    <string name="auto_spectate_killer">اظهار القاتل تلقائيا</string>
     <string name="cycle_progressbar">نص شريط تقدم المستوى XP</string>
     <string name="jitter_buffer">مخزن مؤقت</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">نوع اللعبة</string>
-    <string name="select_mode">إختر النوع</string>
+    <string name="select_mode">اختر النوع</string>
     <string name="minimum_players">الحد الادنى من اللاعبين</string>
     <string name="maximum_players">الحد الاقصى من اللاعبين</string>
     <string name="decrease_time">تقليل الوقت</string>
@@ -94,16 +94,16 @@
     <!-- Multiplayer -->
     <string name="private_room">غرفة خاصة</string>
     <string name="clan">عشيرة</string>
-    <string name="friends">أصدقاء</string>
-    <string name="send_friend_request">ارسال طلب صداقة</string>
+    <string name="friends">اصدقاء</string>
+    <string name="send_friend_request">إرسال طلب صداقة</string>
     <string name="friend_request_accepted">انتم الان اصدقاء!</string>
     <string name="send_friend_request_by_id_or_name">ارسل طلب صداقة باستخدام المعرف أو الاسم</string>
-    <string name="cancel_friend_request">الغاء طلب الصداقة</string>
+    <string name="cancel_friend_request">إلغاء طلب الصداقة</string>
     <string name="remove_friend">ازالة صديق</string>
     <string name="friend_request_sent">تم ارسال الطلب</string>
     <string name="friend_requests_received">طلبات الصداقة</string>
     <string name="friend_requests_sent">الطلبات المرسلة</string>
-    <string name="no_friends">ليس لديك اصدقاء بعد…</string>
+    <string name="no_friends">ليس لديك أصدقاء بعد…</string>
     <string name="remove_friend_title">ازالة صديق</string>
     <string name="remove_friend_message">هل انت متاكد من رغبتك في ازالة "%1$s" (المعرف: %2$d) كصديق؟</string>
     <string name="cancel_request_title">الغاء الطلب</string>
@@ -116,7 +116,7 @@
     <!-- Shop -->
     <string name="shop">المتجر</string>
     <string name="free_voidstones">فويدستون مجاني!</string>
-    <string name="free_voidstones_subtitle">إختر مربعا وشاهد اعلان فيديو قصيرا لتربح فويدستون!</string>
+    <string name="free_voidstones_subtitle">اختر مربعا وشاهد إعلان فيديو قصيرا لتربح فويدستون!</string>
     <string name="free_voidstones_won">لقد حصلت على %d فويدستون!</string>
     <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
     <string name="pick">يختار</string>
@@ -135,17 +135,17 @@
     <string name="profile_color_gradient_bought">تم شراء تدرج لون الملف الشخصي</string>
     <string name="profile_color_gradient_2_bought">تم شراء تدرج لون الملف الشخصي 2</string>
     <string name="profile_name_font_bought">فتح خط اسم الملف الشخصي</string>
-    <string name="admin_deduction">خصم اداري</string>
+    <string name="admin_deduction">خصم إداري</string>
     <string name="giveaway">جائزة السحب</string>
-    <string name="admin_reward_sent">تم إرسال مكافاة الادارة</string>
-    <string name="admin_deduction_sent">تم ارسال الخصم الاداري</string>
+    <string name="admin_reward_sent">تم ارسال مكافاة الادارة</string>
+    <string name="admin_deduction_sent">تم ارسال الخصم الإداري</string>
     <string name="verify_reward">مكافئة توثيق</string>
 
     <!-- Ads -->
-    <string name="ad_not_loaded">لم يتم تحميل الاعلان بعد</string>
-    <string name="ad_show_failed">فشل عرض الاعلان</string>
-    <string name="ad_load_failed">فشل تحميل الاعلان</string>
-    <string name="ad_rate_limited">لقد شاهدت الكثير من الاعلانات مؤخرا. يرجى المحاولة مرة اخرى خلال %s.</string>
+    <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
+    <string name="ad_show_failed">فشل عرض الإعلان</string>
+    <string name="ad_load_failed">فشل تحميل الإعلان</string>
+    <string name="ad_rate_limited">لقد شاهدت الكثير من الإعلانات مؤخرا. يرجى المحاولة مرة اخرى خلال %s.</string>
     <string name="time_hrs">ساعة</string>
     <string name="time_min">دقيقة</string>
     <string name="time_sec">ثانية</string>
@@ -204,16 +204,16 @@
     <string name="unlock_name_colors">فتح الوان الاسم</string>
     <string name="unlock_name_colors_success">تم فتح ألوان الاسم!</string>
     <string name="name_colors_already_unlocked">تم فتح الوان الاسم بالفعل</string>
-    <string name="name_color_save_success">تم حفظ الوان الإسم!</string>
-    <string name="name_color_save_failed">فشل في حفظ الوان الإسم</string>
+    <string name="name_color_save_success">تم حفظ الوان الاسم!</string>
+    <string name="name_color_save_failed">فشل في حفظ الوان الاسم</string>
     <string name="name_colors_not_unlocked">الوان الاسم غير مفتوحة</string>
-    <string name="unlock_name_fonts">فتح خطوط الإسم</string>
-    <string name="unlock_name_fonts_success">تم فتح خطوط الإسم!</string>
+    <string name="unlock_name_fonts">فتح خطوط الاسم</string>
+    <string name="unlock_name_fonts_success">تم فتح خطوط الاسم!</string>
     <string name="unlock_name_fonts_already_unlocked">خطوط الاسم مفتوح بالفعل</string>
     <string name="name_font_save_success">تم حفظ الخط!</string>
-    <string name="name_fonts_not_unlocked">لم يتم فتح خطوط الإسم</string>
-    <string name="profile_name_font">خط الإسم</string>
-    <string name="name_change_success">تم تغيير الإسم الى: %s</string>
+    <string name="name_fonts_not_unlocked">لم يتم فتح خطوط الاسم</string>
+    <string name="profile_name_font">خط الاسم</string>
+    <string name="name_change_success">تم تغيير الاسم الى: %s</string>
     <string name="name_change_invalid_length">طول الاسم غير صالح</string>
     <string name="name_change_taken">الاسم مأخوذ</string>
     <string name="unlock_profile_colors">فتح الوان الملف الشخصي</string>
@@ -278,11 +278,11 @@
     <string name="stat_collisions">التصادمات:</string>
     <string name="stat_boosts">التعزيزات:</string>
     <string name="stat_teleports">الانتقالات:</string>
-    <string name="stat_rewarded_ads_watched">جوائز الإعلانات:</string>
+    <string name="stat_rewarded_ads_watched">جوائز الاعلانات:</string>
 
     <!-- Mail !-->
     <string name="mail">بريد</string>
-    <string name="sent_mail_to_id">تم إرسال بريد الى %d</string>
+    <string name="sent_mail_to_id">تم ارسال بريد الى %d</string>
     <string name="mail_id">هوية البريد: %d</string>
     <string name="no_mail_yet">لم يصلك اي بريد بعد</string>
     <string name="mail_from">من:</string>
@@ -294,10 +294,10 @@
     <string name="mail_title_hint">العنوان</string>
     <string name="mail_content_hint">الوصف</string>
     <string name="mail_recipient_not_found">لم يتم العثور على المستلم</string>
-    <string name="mail_send_to_self">ﻻ يمكنك إرسال بريد لنفسك</string>
+    <string name="mail_send_to_self">ﻻ يمكنك ارسال بريد لنفسك</string>
     <string name="mail_title_too_long">العنوان طويل جدا</string>
     <string name="mail_content_too_long">الوصف طويل جدا</string>
-    <string name="mail_sent_success">إرسال</string>
+    <string name="mail_sent_success">ارسال</string>
     <string name="mark_unread">اجعله كغير مقروء</string>
     <string name="copy_verification_code">انسخ رمز التحقق</string>
     <string name="code_copied">تم نسخ الكود إلى الحافظة!</string>
@@ -361,8 +361,8 @@
     <string name="buttons_shoot">زر الإطلاق</string>
     <string name="select_shoot">اختر الإطلاق</string>
     <string name="shoot">اطلاق</string>
-    <string name="buttons_split">زر الإنقسام</string>
-    <string name="select_split">اختار الإنقسام</string>
+    <string name="buttons_split">زر الانقسام</string>
+    <string name="select_split">اختار الانقسام</string>
     <string name="split">انقسم</string>
     <string name="buttons_customize">تخصيص الأزرار</string>
     <string name="buttons_orientation_message">يتم حفظ تخصيصات الوضع الراسي والوضع الأفقي بشكل منفصل</string>
@@ -383,7 +383,7 @@
 
     <!-- Chat !-->
     <string name="chat">المحادثة</string>
-    <string name="chat_close">اغلاق المحادثة</string>
+    <string name="chat_close">إغلاق المحادثة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
     <string name="chat_send_message">ارسل الرسالة</string>
     <string name="copy_name">نسخ الاسم</string>
@@ -423,12 +423,12 @@
     <string name="food">الطعام</string>
     <string name="voidstones">فويدستون</string>
     <string name="blobs_eaten">الدوائر المأكولة</string>
-    <string name="session_stat_size_gained">الحجم الذي تم اكله</string>
+    <string name="session_stat_size_gained">الحجم الذي تم أكله</string>
     <string name="highest_rank">أعلى رتبة</string>
-    <string name="session_stat_highest_size">اعلى حجم</string>
+    <string name="session_stat_highest_size">أعلى حجم</string>
     <string name="leaderboard">لوحة الصدارة</string>
     <string name="session_stats">إحصائيات الجلسة</string>
-    <string name="debug">تصحيح الاخطاء</string>
+    <string name="debug">تصحيح الأخطاء</string>
     <string name="profiler">محلل الملفات الشخصية</string>
 
 
@@ -437,8 +437,8 @@
     <string name="dialog_confirm_account_deletion">حذف الحساب</string>
     <string name="dialog_leave_game">إالخروج من اللعبة?</string>
     <string name="dialog_respawn_warning">إعادة الظهور؟ ستفقد كل حجمك.</string>
-    <string name="dialog_change_language">هل تريد تغيير اللغة الى %s؟ سيتم اعادة تحميل التطبيق.</string>
-    <string name="dialog_connection_error">خطا في الإتصال</string>
+    <string name="dialog_change_language">هل تريد تغيير اللغة الى %s؟ سيتم إعادة تحميل التطبيق.</string>
+    <string name="dialog_connection_error">خطأ في الاتصال</string>
     <string name="dialog_disconnected">غير متصل</string>
     <string name="dialog_disconnected_message">انقطع الاتصال بالخادم.</string>
     <string name="kicked_from_room">تم طردك من الغرفة!</string>
@@ -512,21 +512,21 @@
     <string name="buy">شراء</string>
     <string name="buying">جاري الشراء…</string>
     <string name="search">بحث</string>
-    <string name="cancel">الغاء</string>
-    <string name="close">اغلاق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="close">إغلاق</string>
     <string name="select">اختيار</string>
     <string name="reset">اعادة</string>
     <string name="done">تم</string>
     <string name="info">معلومات</string>
     <string name="empty">فارغ</string>
-    <string name="name">إسم</string>
+    <string name="name">اسم</string>
     <string name="owner">المالك</string>
     <string name="kick">طرد</string>
     <string name="ban">حضر</string>
     <string name="signal">إشارة</string>
-    <string name="home">الواجة</string>
-    <string name="settings">الاعدادات</string>
-    <string name="team">إفريق</string>
+    <string name="home">الواجهة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="team">الفريق</string>
     <string name="game_menu">قائمة اللعبة</string>
     <string name="color_picker">منتقي الالوان</string>
     <string name="color_wheel">عجلة الالوان</string>
@@ -573,7 +573,7 @@
     <string name="banned">محضور</string>
     <string name="muted">مكتوم من الدردشة</string>
     <string name="forbidden">ممنوع من الحلبة</string>
-    <string name="internal_server_error">خطا في الخادم الداخلي</string>
-    <string name="unknown_error_code">رمز خطا غير معروف %d</string>
+    <string name="internal_server_error">خطأ في الخادم الداخلي</string>
+    <string name="unknown_error_code">رمز خطأ غير معروف %d</string>
     <string name="page_x_of_y">الصفحة %s من %s</string>
 </resources>
