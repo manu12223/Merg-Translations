@@ -142,9 +142,9 @@
     <string name="verify_reward">リワードを確認</string>
 
     <!-- Ads -->
-    <string name="ad_not_loaded">広告はまだ読み込みません</string>
-    <string name="ad_show_failed">広告は表示できませんでした</string>
-    <string name="ad_load_failed">広告は読み込めませんでした</string>
+    <string name="ad_not_loaded">広告がまだ読み込みません</string>
+    <string name="ad_show_failed">広告が表示できませんでした</string>
+    <string name="ad_load_failed">広告が読み込めませんでした</string>
     <string name="ad_rate_limited">多くの広告を視聴しました。%s後に再度お試しください。</string>
     <string name="time_hrs">時間</string>
     <string name="time_min">分</string>
@@ -337,7 +337,7 @@
     <string name="adventure_obj_survive">生き残って！</string>
     <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
-    <string name="adventure_obj_collect_food">%d個のフードを収集して！</string>
+    <string name="adventure_obj_collect_food">%d個のフードを集めて！</string>
     <string name="adventure_obj_invisible_bots">不可視のボット！</string>
     <string name="adventure_obj_growing_bots">サイズを稼いでいるボット！</string>
     <string name="adventure_obj_reach_size">%dサイズに到達して！</string>
@@ -392,7 +392,7 @@
     <!-- Notification box !-->
     <string name="level_up">レベルアップ！ %d</string>
     <string name="game_over">ゲームオーバー！</string>
-    <string name="stage_clear">ステージ %s 完了！</string>
+    <string name="stage_clear">ステージ %s クリア！</string>
     <string name="stage_failed">ステージ %s 失敗！</string>
     <string name="restarting_adventure">アドベンチャー再起動中…</string>
 
