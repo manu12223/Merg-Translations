@@ -32,11 +32,11 @@
     <string name="background_white">Blanco</string>
     <string name="controls">Controles</string>
     <string name="control_joystick">Mando</string>
-    <string name="control_relative">Relative</string>
+    <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocar</string>
     <string name="button_layout">Diseño de botones</string>
     <string name="customize">Personalizar</string>
-    <string name="opacity">Opacity</string>
+    <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la tabla de clasificación</string>
     <string name="show_grid">Mostrar cuadricula</string>
     <string name="custom_background_image">Imagen de fondo personalizada</string>
@@ -92,21 +92,21 @@
     <string name="gold_holes">Agujeros dorados</string>
 
     <!-- Multiplayer -->
-    <string name="private_room">Private Room</string>
+    <string name="private_room">Sala Privada</string>
     <string name="clan">Clan</string>
     <string name="friends">Amigos</string>
     <string name="send_friend_request">Enviar Solicitud de Amistad</string>
     <string name="friend_request_accepted">Ahora son amigos!</string>
     <string name="send_friend_request_by_id_or_name">Envía una Solicitud de Amistad por ID o Nombre</string>
     <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
-    <string name="remove_friend">Remove Friend</string>
+    <string name="remove_friend">Eliminar Amigo</string>
     <string name="friend_request_sent">Solicitud de amistad enviada</string>
     <string name="friend_requests_received">Solicitudes de Amistad</string>
     <string name="friend_requests_sent">Solicitudes Enviadas</string>
     <string name="no_friends">Todavía no tienes amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
     <string name="remove_friend_message">¿Seguro de que quieres eliminar a \"%1$s\" (ID: %2$d) como amigo?</string>
-    <string name="cancel_request_title">Cancel Request</string>
+    <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro que quieres cancelar la solicitud de amistad de \"%1$s\" (ID: %2$d)?</string>
     <string name="friend_request_error_self">No puedes enviarte una solicitud de amistad a ti mismo</string>
     <string name="friend_request_error_already_sent">Ya has enviado una solicitud de amistad</string>
@@ -127,7 +127,7 @@
     <string name="admin_reward">Recompensa del Admin</string>
     <string name="in_app_purchase">Compras en la aplicación</string>
     <string name="voidstone_gift_received">Regalo de Voidstones recibido</string>
-    <string name="voidstone_gift_send">Voidstone gift send</string>
+    <string name="voidstone_gift_send">Regalo de Voidstones enviado</string>
     <string name="skin_bought">Skin comprada</string>
     <string name="profile_name_change_bought">Cambio de nombre de perfil comprado</string>
     <string name="profile_name_color_bought">Color del nombre del perfil comprado</string>
@@ -136,10 +136,10 @@
     <string name="profile_color_gradient_2_bought">Perfil degradado de color 2 comprado</string>
     <string name="profile_name_font_bought">Profile name font unlock</string>
     <string name="admin_deduction">Admin Deduction</string>
-    <string name="giveaway">Giveaway Prize</string>
-    <string name="admin_reward_sent">Admin Reward Sent</string>
+    <string name="giveaway">Premio del Sorteo</string>
+    <string name="admin_reward_sent">Recompensa del Admin Enviado</string>
     <string name="admin_deduction_sent">Admin Deduction Sent</string>
-    <string name="verify_reward">Verify Reward</string>
+    <string name="verify_reward">Verificar Recompensa</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">El anuncio aún no se ha cargado</string>
@@ -232,13 +232,13 @@
     <string name="profile_color_save_failed">No se pudieron guardar los colores del perfil</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">Developer</string>
-    <string name="code_contribution_tag">Code Contribution</string>
+    <string name="developer_tag">Desarrollador</string>
+    <string name="code_contribution_tag">Contribución de código</string>
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
-    <string name="verified">Verified</string>
+    <string name="verified">Verificado</string>
     <string name="youtube">YouTube</string>
-    <string name="translator">Translator</string>
+    <string name="translator">Traductor</string>
     <string name="internal_tester">Internal Tester</string>
     <string name="alpha_tester">Alpha Tester</string>
     <string name="beta_tester">Beta Tester</string>
@@ -278,27 +278,27 @@
     <string name="stat_collisions">Colisiones:</string>
     <string name="stat_boosts">Mejoras:</string>
     <string name="stat_teleports">Teletransportes:</string>
-    <string name="stat_rewarded_ads_watched">Reward Ads Watched:</string>
+    <string name="stat_rewarded_ads_watched">Recompensa de anuncios vistos:</string>
 
     <!-- Mail !-->
-    <string name="mail">Mail</string>
-    <string name="sent_mail_to_id">Sent Mail to %d</string>
-    <string name="mail_id">Mail ID: %d</string>
-    <string name="no_mail_yet">No mail yet</string>
+    <string name="mail">Correo</string>
+    <string name="sent_mail_to_id">Correo Enviado a %d</string>
+    <string name="mail_id">ID del Correo: %d</string>
+    <string name="no_mail_yet">Aún no hay Correo</string>
     <string name="mail_from">From:</string>
     <string name="mail_to">To:</string>
-    <string name="received">Received</string>
-    <string name="refresh">Refresh</string>
-    <string name="write_mail">Write Mail</string>
-    <string name="mail_reply">Reply</string>
-    <string name="mail_title_hint">Title</string>
-    <string name="mail_content_hint">Content</string>
-    <string name="mail_recipient_not_found">Recipient not found</string>
-    <string name="mail_send_to_self">Cannot send mail to yourself</string>
-    <string name="mail_title_too_long">Title too long</string>
-    <string name="mail_content_too_long">Content too long</string>
-    <string name="mail_sent_success">Sent</string>
-    <string name="mark_unread">Mark Unread</string>
+    <string name="received">Recibido</string>
+    <string name="refresh">Recargar</string>
+    <string name="write_mail">Escribir Correo</string>
+    <string name="mail_reply">Responder</string>
+    <string name="mail_title_hint">Titulo</string>
+    <string name="mail_content_hint">Contenido</string>
+    <string name="mail_recipient_not_found">Destinatario no encontrado</string>
+    <string name="mail_send_to_self">No puedes enviarte un correo a ti mismo</string>
+    <string name="mail_title_too_long">Titulo demasiado largo</string>
+    <string name="mail_content_too_long">Contenido demasiado largo</string>
+    <string name="mail_sent_success">Enviado</string>
+    <string name="mark_unread">Marcar como no leído</string>
     <string name="copy_verification_code">Copy Verification Code</string>
     <string name="code_copied">Code copied to clipboard!</string>
 
@@ -339,9 +339,9 @@
     <string name="adventure_obj_more_holes">¡Más agujeros!</string>
     <string name="adventure_obj_collect_food">Collect %d Food</string>
     <string name="adventure_obj_invisible_bots">Invisible Bots!</string>
-    <string name="adventure_obj_growing_bots">Growing Bots!</string>
-    <string name="adventure_obj_reach_size">Reach %d Size</string>
-    <string name="adventure_obj_finish_first">Finish 1st</string>
+    <string name="adventure_obj_growing_bots">Bots en crecimiento!</string>
+    <string name="adventure_obj_reach_size">Alcanza este %d Tamaño</string>
+    <string name="adventure_obj_finish_first">Terminar primero</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tiempo</string>
@@ -377,7 +377,7 @@
     <string name="skin_tab_standard">Estándar</string>
     <string name="skin_tab_level">Nivel</string>
     <string name="skin_tab_voidstones">Voidstones</string>
-    <string name="level_skin_locked">La piel se desbloquea en el nivel %d</string>
+    <string name="level_skin_locked">La skin se desbloquea en el nivel %d</string>
     <string name="level_lock">Nivel Bloqueado</string>
 
 
@@ -502,7 +502,7 @@
     <string name="wait">Esperar</string>
     <string name="back">Volver</string>
     <string name="mode">Modo</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">Confirmar</string>
     <string name="save">Guardar</string>
     <string name="saved">Guardado</string>
     <string name="saving">Guardado…</string>
@@ -570,10 +570,10 @@
     <string name="not_enough_voidstones">No hay suficientes piedras del vacío</string>
     <string name="database_write_fail">Error al escribir la base de datos</string>
     <string name="database_read_fail">La lectura de la base de datos falló</string>
-    <string name="banned">Banned</string>
-    <string name="muted">Muted</string>
-    <string name="forbidden">Forbidden</string>
+    <string name="banned">Baneado</string>
+    <string name="muted">Muteado</string>
+    <string name="forbidden">Prohibido</string>
     <string name="internal_server_error">Error Interno del Servidor</string>
     <string name="unknown_error_code">Error desconocido. Código %d</string>
-    <string name="page_x_of_y">Page %s of %s</string>
+    <string name="page_x_of_y">Pagina %s de %s</string>
 </resources>
