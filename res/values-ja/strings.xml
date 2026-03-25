@@ -568,8 +568,8 @@
     <string name="rate_limited">%d秒お待ちください</string>
     <string name="nonexistent_user">このユーザーは見つかりませんでした</string>
     <string name="not_enough_voidstones">ボイドストーンが足りません</string>
-    <string name="database_write_fail">データベース書き込みに失敗</string>
-    <string name="database_read_fail">データベース読み込みに失敗</string>
+    <string name="database_write_fail">データベースが書き込めませんでした</string>
+    <string name="database_read_fail">データベースが読み込めませんでした</string>
     <string name="banned">バン中</string>
     <string name="muted">ミュート中</string>
     <string name="forbidden">禁止中</string>
