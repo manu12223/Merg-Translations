@@ -19,14 +19,32 @@
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
-    <string name="language_english">English</string>
-    <string name="language_german">Deutsch</string>
-    <string name="language_portuguese">Português</string>
-    <string name="language_spanish">Español</string>
-    <string name="language_japanese">日本語</string>
-    <string name="language_italian">Italiano</string>
     <string name="language_arabic">العربية</string>
+    <string name="language_bengali">বাংলা</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_czech">Čeština</string>
+    <string name="language_danish">Dansk</string>
+    <string name="language_dutch">Nederlands</string>
+    <string name="language_english">English</string>
+    <string name="language_filipino">Filipino</string>
+    <string name="language_finnish">Suomi</string>
+    <string name="language_french">Français</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_greek">Ελληνικά</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_italian">Italiano</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_korean">한국어</string>
+    <string name="language_polish">Polski</string>
+    <string name="language_portuguese">Português</string>
+    <string name="language_romanian">Română</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_swedish">Svenska</string>
+    <string name="language_thai">ไทย</string>
     <string name="language_turkish">Türkçe</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
     <string name="background">الخلفية</string>
     <string name="background_black">أسود</string>
     <string name="background_white">أبيض</string>
@@ -92,7 +110,19 @@
     <string name="gold_holes">ثقوب ذهبية</string>
 
     <!-- Multiplayer -->
+    <string name="play_online">PLAY ONLINE</string>
+    <string name="switch_server">Switch Server</string>
+    <string name="x_players">%s players</string>
+    <string name="x_online">%s online</string>
+    <string name="x_requests">%s request(s)</string>
     <string name="private_room">غرفة خاصة</string>
+    <string name="private_rooms">Private Rooms</string>
+    <string name="connected">Connected</string>
+    <string name="select_server">Select Server</string>
+    <string name="server_europe">Europe</string>
+    <string name="competitive">Competitive</string>
+    <string name="join">دخول</string>
+    <string name="room_full">الغرفة ممتلئة</string>
     <string name="clan">عشيرة</string>
     <string name="friends">اصدقاء</string>
     <string name="send_friend_request">إرسال طلب صداقة</string>
@@ -120,7 +150,22 @@
     <string name="free_voidstones_won">لقد حصلت على %d فويدستون!</string>
     <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
     <string name="pick">يختار</string>
+    <string name="redeem_code">Redeem Code</string>
+    <string name="invalid_code">Invalid Code</string>
+    <string name="code_already_claimed">Code Already Claimed!</string>
+    <string name="successfully_claimed_code">Reward Claimed</string>
+    <string name="reward_voidstones">+%s Voidstones</string>
+    <string name="reward_unlock">Unlocked: %s</string>
+    <string name="reward_name_color">Name Color</string>
+    <string name="reward_name_color_gradient">Name Color Gradient</string>
+    <string name="reward_profile_color">Profile Color</string>
+    <string name="reward_profile_gradient">Profile Color Gradient</string>
+    <string name="reward_profile_triple_gradient">Profile Triple Gradient</string>
+    <string name="reward_profile_description_color">Profile Description Color</string>
+    <string name="reward_name_font">Name Font</string>
+    <string name="reward_already_owned_compensation">Already Owned. Converted to Voidstones</string>
     <string name="purchase_id">معرف الشراء: %d</string>
+    <string name="history">History</string>
     <string name="voidstone_history">تاريخ الفويدستون</string>
     <string name="purchase_history">تاريخ المشتريات</string>
     <string name="no_transactions_yet">لم يتم اجراء اي معاملات حتى الان</string>
@@ -160,11 +205,14 @@
     <string name="logout_all_devices">تسجيل خروج من جميع الأجهزة</string>
     <string name="change_name">تغيير الاسم</string>
     <string name="copy_id">نسخ الهوية</string>
+    <string name="created">Created %s</string>
+    <string name="last_seen">Last seen %s</string>
     <string name="save_profile_description">حفظ وصف الملف الشخصي</string>
     <string name="profile_description_placeholder">اكتب وصفا…</string>
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
     <string name="profile_description_save_failed">فشل حفظ وصف الملف الشخصي</string>
     <string name="profile_description_too_long">الوصف طويل جدا! (الحد الأقصى %d حرفا)</string>
+    <string name="profile_description_too_large">Profile description is larger than %s</string>
     <string name="unlock_description_color">فتح قفل لون نص الوصف</string>
     <string name="description_text_color">لون نص الوصف</string>
     <string name="unlock_description_color_success">تم فتح لون نص الوصف!</string>
@@ -200,10 +248,12 @@
     <string name="profile_delete_type_prompt">اكتب %s لتأكيد حذف الحساب:</string>
     <string name="profile_delete_confirm_text">حذف</string>
     <string name="profile_delete_failed">فشل الحذف</string>
-    <string name="profile_created_label">تم إنشاء %s</string>
+    <string name="name_color">Name Color</string>
     <string name="unlock_name_colors">فتح الوان الاسم</string>
     <string name="unlock_name_colors_success">تم فتح ألوان الاسم!</string>
     <string name="name_colors_already_unlocked">تم فتح الوان الاسم بالفعل</string>
+    <string name="unlock_name_color_gradient_success">Name color gradient unlocked!</string>
+    <string name="unlock_name_color_gradient_already_unlocked">Name color gradient is already unlocked</string>
     <string name="name_color_save_success">تم حفظ الوان الاسم!</string>
     <string name="name_color_save_failed">فشل في حفظ الوان الاسم</string>
     <string name="name_colors_not_unlocked">الوان الاسم غير مفتوحة</string>
@@ -249,6 +299,126 @@
     <string name="search_account_by_id_or_name">البحث عن حساب بواسطة رقم الهوية او الاسم</string>
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
+    <!-- Clan -->
+    <string name="clan_create">Create Clan</string>
+    <string name="clan_name">Clan Name</string>
+    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_tag">Clan Tag</string>
+    <string name="clan_tag_hint">Tag (1-4 letters)</string>
+    <string name="clan_list">Public Clans</string>
+    <string name="clan_no_clans">No clans found</string>
+    <string name="no_clan">No clan</string>
+    <string name="clan_request_clans">Request Only Clans</string>
+    <string name="clan_my_invites">My Invites</string>
+    <string name="clan_invite_declined">Invite declined.</string>
+    <string name="clan_joined">Clan joined!</string>
+    <string name="clan_private">This clan is private or no longer active.</string>
+    <string name="clan_members">Members</string>
+    <string name="clan_members_count">%1$d / %2$d members</string>
+    <string name="clan_request_join">Request to Join</string>
+    <string name="clan_leave">Leave Clan</string>
+    <string name="clan_leave_confirm">Are you sure you want to leave this clan?</string>
+    <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
+    <string name="clan_request_sent">Join request sent.</string>
+    <string name="clan_disband">Disband Clan</string>
+    <string name="clan_disband_confirm">Are you sure you want to disband this clan? This cannot be undone!</string>
+    <string name="clan_invite">Invite Player</string>
+    <string name="clan_invite_hint">Invite by ID or Name</string>
+    <string name="clan_settings">Clan Settings</string>
+    <string name="clan_join_mode">Join Mode</string>
+    <string name="clan_join_mode_open">Open</string>
+    <string name="clan_join_mode_request">Request Only</string>
+    <string name="clan_join_mode_private">Private</string>
+    <string name="clan_join_mode_abandoned">Abandoned</string>
+    <string name="clan_pending_requests">Join Requests</string>
+    <string name="clan_role_owner">Owner</string>
+    <string name="clan_role_co_owner">Co-Owner</string>
+    <string name="clan_role_admin">Admin</string>
+    <string name="clan_role_elder">Elder</string>
+    <string name="clan_role_member">Member</string>
+    <string name="clan_name_taken">Clan name is already taken.</string>
+    <string name="clan_already_member">You are already in a clan.</string>
+    <string name="clan_accept_invite_leave_confirm">You are already in a clan. Leave your current clan and accept this invite?</string>
+    <string name="clan_promoted">Promoted to %1$s.</string>
+    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_kick_confirm_title">Kick Member</string>
+    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_ban_confirm_title">Ban Member</string>
+    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_unban_confirm_title">Unban Member</string>
+    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
+    <string name="clan_unkick_confirm_title">Unkick Member</string>
+    <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_invited">Invited</string>
+    <string name="clan_revoke_invite_confirm_title">Revoke Invite</string>
+    <string name="clan_revoke_invite_confirm_message">Revoke invite for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_invite_sent">Invite sent!</string>
+    <string name="clan_player_not_found">Player not found.</string>
+    <string name="clan_player_banned">This player is banned from your clan.</string>
+    <string name="clan_already_invited">Player is already invited or in the clan.</string>
+    <string name="clan_full">The clan is full.</string>
+    <string name="clan_join_button_full">Clan Full</string>
+    <string name="clan_join_request_sent">Request Sent</string>
+    <string name="clan_invite_list_full">This clan\'s invite list is full (max 100).</string>
+    <string name="clan_player_invite_list_full">This player already has the maximum number of pending invites.</string>
+    <string name="clan_request_list_full">This clan\'s join request list is full (max 100).</string>
+    <string name="clan_donate_voidstones">Donate Voidstones</string>
+    <string name="clan_donate_hint">100 – 100,000</string>
+    <string name="clan_donate_sent">Donation sent!</string>
+    <string name="clan_not_a_member">You are not a member of this clan.</string>
+    <string name="clan_already_requested">You already have a pending join request to another clan.</string>
+    <string name="clan_copy_tag">Copy Tag</string>
+    <string name="clan_creator">Creator</string>
+    <string name="clan_history">Clan History</string>
+    <string name="clan_history_no_entries">No history yet</string>
+    <string name="clan_history_event_join">Joined</string>
+    <string name="clan_history_event_leave">Left</string>
+    <string name="clan_history_event_kick">Kicked</string>
+    <string name="clan_history_event_ban">Banned</string>
+    <string name="clan_history_event_promote">Promoted</string>
+    <string name="clan_history_event_demote">Demoted</string>
+    <string name="clan_history_event_donation">Donated</string>
+    <string name="clan_history_id">History ID: %d</string>
+    <string name="clan_public_profile">Public Clan Profile</string>
+    <string name="clan_kicked_banned_players">Kicked/Banned Players</string>
+    <string name="clan_unkick_confirm">Are you sure you want to unkick \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Are you sure you want to unban \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_search_hint">Search by ID or Name</string>
+    <string name="clan_promote_to_owner">Promote to Owner</string>
+    <string name="clan_transfer_ownership_title">Transfer Ownership</string>
+    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player\'s ID to confirm:</string>
+    <string name="clan_transfer_ownership_id_mismatch">ID does not match</string>
+    <string name="clan_customize_name_color">Clan Name Color</string>
+    <string name="clan_customize_tag_color">Clan Tag Color</string>
+    <string name="clan_customize_color">Clan Color</string>
+    <string name="clan_unlock_name_color">Unlock Clan Name Colors</string>
+    <string name="clan_unlock_color">Unlock Clan Colors</string>
+    <string name="clan_unlock_gradient">Unlock Clan Gradient Colors</string>
+    <string name="clan_unlock_triple_gradient">Unlock Clan Gradient Colors 2</string>
+    <string name="clan_unlock_name_font">Unlock Clan Name Fonts</string>
+    <string name="clan_unlock_description_color">Unlock Clan Description Color</string>
+    <string name="clan_unlock_name_gradient">Unlock Clan Name Gradient</string>
+    <string name="clan_color_saved">Clan colors saved!</string>
+    <string name="clan_color_save_failed">Failed to save clan colors</string>
+    <string name="clan_name_color_saved">Clan name colors saved!</string>
+    <string name="clan_name_color_save_failed">Failed to save clan name colors</string>
+    <string name="clan_name_font">Clan Name Font</string>
+    <string name="clan_name_font_saved">Clan font saved!</string>
+    <string name="clan_name_font_save_failed">Failed to save clan font</string>
+    <string name="clan_description_saved">Clan description saved</string>
+    <string name="clan_description_save">Save Clan Description</string>
+    <string name="clan_description_save_failed">Failed to save clan description</string>
+
+    <string name="clan_feature_not_unlocked">Feature not unlocked</string>
+    <string name="clan_history_event_purchase_name_color">Purchased Clan Name Colors</string>
+    <string name="clan_history_event_purchase_name_gradient">Purchased Clan Name Gradient</string>
+    <string name="clan_history_event_purchase_name_font">Purchased Clan Name Font</string>
+    <string name="clan_history_event_purchase_color">Purchased Clan Color</string>
+    <string name="clan_history_event_purchase_gradient">Purchased Clan Gradient</string>
+    <string name="clan_history_event_purchase_triple_gradient">Purchased Clan Triple Gradient</string>
+    <string name="clan_history_event_purchase_description_color">Purchased Clan Description Color</string>
+    <string name="clan_history_event_rename">Renamed Clan</string>
+
     <!-- Statistics !-->
     <string name="all">الجميع</string>
     <string name="stat_highest_size">اعلى حجم:</string>
@@ -275,6 +445,7 @@
     <string name="stat_stages_cleared">تم الإنتهاء من المراحل:</string>
     <string name="stat_highest_stage">اعلى مرحلة:</string>
     <string name="stat_adventures_completed">المغامرات مكتملة:</string>
+    <string name="stat_goals_scored">Goals Scored:</string>
     <string name="stat_collisions">التصادمات:</string>
     <string name="stat_boosts">التعزيزات:</string>
     <string name="stat_teleports">الانتقالات:</string>
@@ -309,6 +480,7 @@
     <string name="gamemode_team_survival">فرق النجاة</string>
     <string name="gamemode_knockout">الاقصاء</string>
     <string name="gamemode_adventure">المغامرات</string>
+    <string name="gamemode_soccer">Soccer</string>
     <string name="gamemode_coming_soon">قريبا</string>
     <string name="description_classic">التهم اللاعبين الاصغر حجما وكن اكبر كتلة في الكون! استخدم حجمك للسيطرة على الخريطة، لكن احذر من اللاعبين الأكبر حجما الذين يريدون التهامك!</string>
     <string name="description_teams">انضموا إلى لاعبين اخرين من نفس اللون! تعاونوا معا للايقاع بالاعداء وتصدروا قائمة المتصدرين. لا يمكن لاعضاء الفريق الواحد أن ياكلوا بعضهم بعضا.</string>
@@ -316,6 +488,7 @@
     <string name="description_team_survival">نمط البقاء على قيد الحياة مع فرق! تعاون مع زملائك في الفريق للقضاء على الفرق الأخرى. الفريق الاخير المتبقي او الفريق الاكبر حجما عند انتهاء الوقت هو الفائز!</string>
     <string name="description_knockout">تنافس في جولات الاقصاء! يمكن للاعبين العودة إلى اللعبة بحرية حتى يتم إقصاؤهم على فترات منتظمة. اللاعبون الأقل قوة في كل جولة يقصون نهائيا. كن آخر من يبقى على قيد الحياة لتفوز!</string>
     <string name="description_adventure">اكمل مراحل مليئة بالتحديات واهداف فريدة! تقدم عبر مستويات صعوبة متزايدة، واربح مكافات، واكتشف الى اي مدى يمكنك الوصول. كل مرحلة تقدم تحديات جديدة!</string>
+    <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
     <string name="description_coming_soon">هذا الوضع قادم قريبا، ترقبوا!</string>
 
     <!-- Map sizes !-->
@@ -342,6 +515,7 @@
     <string name="adventure_obj_growing_bots">بوتات النمو!</string>
     <string name="adventure_obj_reach_size">الوصول %d الحجم</string>
     <string name="adventure_obj_finish_first">المركز الأول</string>
+    <string name="adventure_obj_collect_voidstones">Collect %d Voidstones</string>
 
     <!-- Timer text !-->
     <string name="timer_time">الوقت</string>
@@ -382,7 +556,7 @@
 
 
     <!-- Chat !-->
-    <string name="chat">المحادثة</string>
+    <string name="chat">Chat</string>
     <string name="chat_close">إغلاق المحادثة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
     <string name="chat_send_message">ارسل الرسالة</string>
@@ -395,6 +569,8 @@
     <string name="stage_clear">المرحلة %s تم مسح!</string>
     <string name="stage_failed">فشلت المرحلة %s!</string>
     <string name="restarting_adventure">إعادة بدء المغامرة…</string>
+    <string name="server_reboot">Server Reboot</string>
+    <string name="server_shutdown">Server Shutdown</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%dst</string>
@@ -417,7 +593,7 @@
     <string name="merge">التجمع: %ss</string>
     <string name="invincibility">المنعة: %ss</string>
     <string name="speed_boost">+السرعة: %ss</string>
-    <string name="xp" translatable="false">XP</string>
+    <string name="xp">XP</string>
     <string name="level">المستوى</string>
     <string name="level_number">Level %d</string>
     <string name="food">الطعام</string>
@@ -426,6 +602,7 @@
     <string name="session_stat_size_gained">الحجم الذي تم أكله</string>
     <string name="highest_rank">أعلى رتبة</string>
     <string name="session_stat_highest_size">أعلى حجم</string>
+    <string name="spectate_ball">Ball</string>
     <string name="leaderboard">لوحة الصدارة</string>
     <string name="session_stats">إحصائيات الجلسة</string>
     <string name="debug">تصحيح الأخطاء</string>
@@ -444,6 +621,8 @@
     <string name="kicked_from_room">تم طردك من الغرفة!</string>
     <string name="banned_from_room">تم حضرك من الغرفة!</string>
     <string name="room_crash">تحطمت الغرفة: %s</string>
+    <string name="app_crash">App crashed: %s</string>
+    <string name="dialog_reload">RELOAD</string>
     <string name="dialog_yes">نعم</string>
     <string name="dialog_no">لا</string>
     <string name="dialog_ok">حسنا</string>
@@ -451,6 +630,8 @@
     <string name="toast_please_wait">الرجاء الإنتظار</string>
     <string name="permission_denied">تم رفض الاذن</string>
     <string name="dialog_locked">مقفول</string>
+    <string name="duplicate_connection">Account already connected!</string>
+    <string name="outdated_client">Outdated Client!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">اللاعبون المحضورين</string>
@@ -474,10 +655,6 @@
     <string name="host">استظافة</string>
     <string name="enter_ip">ادخل IP</string>
     <string name="join_ip_title">ادخل IP ادريس</string>
-    <string name="join">دخول</string>
-    <string name="timeout">انتهت مهلة الجلسة بعد %dms</string>
-    <string name="room_full">الغرفة ممتلئة</string>
-    <string name="players_count">اللاعبين</string>
     <string name="tap_to_reveal">انقر للكشف</string>
     <string name="remote_lan_connections">للسماح للعملاء الاخرين بالانضمام عن بعد عبر عنوان IP عام، يجب عليك إعادة توجيه منفذ UDP %d او تفعيل منطقة DMZ لجهازك في إعدادات جهاز التوجيه. يُرجى العلم بان الاتصالات قد تفشل إذا كانت شبكتك تستخدم ترجمة عناوين الشبكة المتماثلة/CGNAT. لمزيد من المعلومات وللتحقق من نوع NAT الحالي، تفضل بزيارة %s.</string>
 
@@ -500,6 +677,7 @@
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">إعادة الظهور</string>
     <string name="wait">انتظر</string>
+    <string name="exit">Exit</string>
     <string name="back">الرجوع</string>
     <string name="mode">النوع</string>
     <string name="confirm">Confirm</string>
@@ -519,6 +697,8 @@
     <string name="done">تم</string>
     <string name="info">معلومات</string>
     <string name="empty">فارغ</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
     <string name="name">اسم</string>
     <string name="owner">المالك</string>
     <string name="kick">طرد</string>
@@ -547,6 +727,7 @@
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
     <string name="uptime">Uptime: %s</string>
+    <string name="players_count">اللاعبين</string>
     <string name="show_ui">اظهار UI</string>
     <string name="open_menu">افتح القائمة</string>
     <string name="stop_spectating">توقف عن المشاهدة</string>
@@ -554,26 +735,44 @@
     <string name="previous_entity">الكيان السابق</string>
     <string name="next_entity">الكيان التالي</string>
     <string name="level_abbreviated">Lv.%d</string>
-    <string name="left">خروج</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">خروج</string>
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
     <string name="invalid_selection">إختيار غير صالح!</string>
     <string name="invalid_name">اسم غير صالح!</string>
+    <string name="content_blocked">String contains blocked content</string>
     <string name="connecting">الاتصال%s</string>
     <string name="error">خطأ</string>
     <string name="error_with_string">خطأ: %s</string>
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
-    <string name="invalid_request">الحقول المطلوبة مفقودة</string>
+    <string name="invalid_request">Request malformed or missing required fields</string>
     <string name="invalid_token">جلسة غير صالحة أو منتهية الصلاحية. يرجى تسجيل الدخول مرة أخرى.</string>
-    <string name="rate_limited">يرجى الانتظار لمدة %d ثانية ثم المحاولة مرة أخرى</string>
+    <string name="rate_limited">Please wait %d second(s) and try again.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
     <string name="not_enough_voidstones">لا توجد ما يكفي من الفويدستون</string>
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
     <string name="banned">محضور</string>
     <string name="muted">مكتوم من الدردشة</string>
+    <string name="banned_until">Banned until %s</string>
+    <string name="muted_until">Muted until %s</string>
+    <string name="server_shutting_down">Server is shutting down</string>
     <string name="forbidden">ممنوع من الحلبة</string>
     <string name="internal_server_error">خطأ في الخادم الداخلي</string>
     <string name="unknown_error_code">رمز خطأ غير معروف %d</string>
     <string name="page_x_of_y">الصفحة %s من %s</string>
+    <string name="timeout">انتهت مهلة الجلسة بعد %dms</string>
+    <string name="success">Success</string>
+    <string name="duplicate_action">Duplicate Action</string>
+    <string name="server_in_maintenance">Server In Maintenance</string>
+    <string name="invalid_action">Invalid Action</string>
+    <string name="invalid_value">Invalid Value</string>
+    <string name="admin_cannot_act_self">Cannot perform this action on yourself</string>
+    <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
+    <string name="code_not_found">Invalid Code</string>
+    <string name="code_expired">Invalid Code</string>
+    <string name="code_already_redeemed">Code Already Claimed!</string>
+    <string name="clan_owner_must_transfer_error">You must transfer ownership to another member before leaving.</string>
+    <string name="mail_cannot_send_self">You cannot send mail to yourself</string>
+    <string name="clan_already_requested_other">Already requested to join this clan</string>
 </resources>

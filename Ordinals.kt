@@ -13,6 +13,7 @@
             Language.JAPANESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.PORTUGUESE -> context.getString(R.string.ordinal_fallback, this) // everything the same
             Language.SPANISH -> context.getString(R.string.ordinal_fallback, this) // everything the same
+            // Remaining: ARABIC, BENGALI, CHINESE, CZECH, DANISH, DUTCH, FILIPINO, FINNISH, FRENCH, GERMAN, GREEK, HINDI, INDONESIAN, KOREAN, POLISH, ROMANIAN, RUSSIAN, SWEDISH, THAI, TURKISH, VIETNAMESE
             else -> this.toString() // 1, 2, 3, etc.
         }
     }
