@@ -745,7 +745,7 @@
     <string name="error">エラー</string>
     <string name="error_with_string">エラー: %s</string>
     <string name="copied_to_clipboard">クリップボードへコピーされました。</string>
-    <string name="invalid_request">Request malformed or missing required fields</string>
+    <string name="invalid_request">無効なリクエストまたは必須項目が未入力です</string>
     <string name="invalid_token">無効または期限切れのセッションです。再度ログインしてください。</string>
     <string name="rate_limited">%d秒ほどお待ちの上、再度お試しください。</string>
     <string name="nonexistent_user">このユーザーは見つかりませんでした</string>
