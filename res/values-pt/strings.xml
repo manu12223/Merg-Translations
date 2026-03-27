@@ -363,7 +363,7 @@
     <string name="clan_player_invite_list_full">O número de convites enviados para este(a) jogador(a) já atingiu o limite.</string>
     <string name="clan_request_list_full">A lista de solicitações de entrada deste clã está cheia (máx. 100).</string>
     <string name="clan_donate_voidstones">Doar Pedras do Vazio</string>
-    <string name="clan_donate_hint">Valor (100 – 100,000)</string>
+    <string name="clan_donate_hint">Valor (100 – 100.000)</string>
     <string name="clan_donate_sent">Doação concluída!</string>
     <string name="clan_not_a_member">Você não é um(a) membro deste clã.</string>
     <string name="clan_already_requested">Você já tem uma solicitação de entrada pendente a um outro clã.</string>
