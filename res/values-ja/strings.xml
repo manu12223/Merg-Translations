@@ -366,7 +366,7 @@
     <string name="clan_donate_hint">100枚〜100,000枚</string>
     <string name="clan_donate_sent">寄付完了！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
-    <string name="clan_already_requested">You already have a pending join request to another clan.</string>
+    <string name="clan_already_requested">他のクランで既に保留中のリクエストがあります。</string>
     <string name="clan_copy_tag">タグをコピー</string>
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
