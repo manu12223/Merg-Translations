@@ -206,7 +206,7 @@
     <string name="change_name">名前を変更</string>
     <string name="copy_id">IDをコピー</string>
     <string name="created">作成日付: %s</string>
-    <string name="last_seen">最後接続: %s</string>
+    <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介を保存</string>
     <string name="profile_description_placeholder">自己紹介を入力…</string>
     <string name="profile_description_save_success">自己紹介保存完了</string>
