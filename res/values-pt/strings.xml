@@ -343,7 +343,7 @@
     <string name="clan_demoted">Rebaixado(a) a %1$s.</string>
     <string name="clan_kick_confirm_title">Expulsar Membro</string>
     <string name="clan_kick_confirm_message">Expulsar \"%1$s\" (ID: %2$d) do clã? Ele(a) poderá entrar novamente por meio de convite.</string>
-    <string name="clan_ban_confirm_title">Banir Membero/string>
+    <string name="clan_ban_confirm_title">Banir Membero</string>
     <string name="clan_ban_confirm_message">Banir \"%1$s\" (ID: %2$d) do clã? Ele(a) não poderá mais entrar novamente.</string>
     <string name="clan_unban_confirm_title">Desbanir Membro</string>
     <string name="clan_unban_confirm_message">Desbanir \"%1$s\" (ID: %2$d)? Ele(a) poderá entrar novamente.</string>
