@@ -355,7 +355,7 @@
     <string name="clan_invite_sent">Convite enviado!</string>
     <string name="clan_player_not_found">Usuário não encontrado.</string>
     <string name="clan_player_banned">Este(a) jogador(a) está banido(a) do clã.</string>
-    <string name="clan_already_invited">Este jogador(a) já foi convidado(a) ou está em um outro clã.</string>
+    <string name="clan_already_invited">Este(a) jogador(a) já foi convidado(a) ou está em um outro clã.</string>
     <string name="clan_full">Este clã está cheio.</string>
     <string name="clan_join_button_full">Clã Cheio</string>
     <string name="clan_join_request_sent">Solicitação Enviada</string>
@@ -412,7 +412,7 @@
     <string name="clan_feature_not_unlocked">Recurso não desbloqueado</string>
     <string name="clan_history_event_purchase_name_color">Comprou Cores para o Nome do Clã</string>
     <string name="clan_history_event_purchase_name_gradient">Comprou Gradiente para o Nome do Clã</string>
-    <string name="clan_history_event_purchase_name_font">Comproy Fontes para o Nome do Clã</string>
+    <string name="clan_history_event_purchase_name_font">Comprou Fontes para o Nome do Clã</string>
     <string name="clan_history_event_purchase_color">Comprou Cores para o Fundo do Clã</string>
     <string name="clan_history_event_purchase_gradient">Comprou Gradiente para o Fundo do Clã</string>
     <string name="clan_history_event_purchase_triple_gradient">Comrpou Gradiente 2 para o Fundo do Clã</string>
@@ -488,7 +488,7 @@
     <string name="description_team_survival">Sobrevivência em equipes! Una-se com a sua equipe para eliminar as equipes adversárias. A última equipe restante ou a equipe com a maior massa somada quando o tempo se esgotar será a equipe ganhadora!</string>
     <string name="description_knockout">Compita em rodadas eliminatórias! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os jogadores menores serão eliminados permanentemente a cada intervalo. Seja o(a) último(a) jogador(a) restante para ganhar!</string>
     <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar. Cada fase traz consigo novos desafios!</string>
-    <string name="description_soccer">Chute a bola até o gol do time adversário. A equipe com o maior número de gols após o tempo acabar será a ganhadora!</string>
+    <string name="description_soccer">Chute a bola até o gol do time adversário. O time com o maior número de gols assim que o tempo acabar será o ganhador!</string>
     <string name="description_coming_soon">Esse modo de jogo chegará em breve, fique antenado(a)!</string>
 
     <!-- Map sizes !-->
@@ -740,7 +740,7 @@
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
     <string name="invalid_name">Nome inválido!</string>
-    <string name="content_blocked">String contains blocked content</string>
+    <string name="content_blocked">Conteúdo bloqueado detectado na string</string>
     <string name="connecting">Conectando %s</string>
     <string name="error">Erro</string>
     <string name="error_with_string">Erro: %s</string>
@@ -762,7 +762,7 @@
     <string name="unknown_error_code">Erro desconhecido. Código %d</string>
     <string name="page_x_of_y">Página %s de %s</string>
     <string name="timeout">Tempo esgotado após %dms</string>
-    <string name="success">Success</string>
+    <string name="success">Bem-sucedido</string>
     <string name="duplicate_action">Ação Duplicada</string>
     <string name="server_in_maintenance">Servidor Sob Manutenção</string>
     <string name="invalid_action">Ação Inválida</string>
@@ -771,7 +771,7 @@
     <string name="admin_cannot_act_on_staff">Não é possívele executar esta ação em membros staff</string>
     <string name="code_not_found">Código Inválido</string>
     <string name="code_expired">Código Expirado</string>
-    <string name="code_already_redeemed">Coódifo Já Resgatado!</string>
+    <string name="code_already_redeemed">Código Já Resgatado!</string>
     <string name="clan_owner_must_transfer_error">É necessário transferir a liderança a um(a) outro(a) membro antes de sair.</string>
     <string name="mail_cannot_send_self">Não é possível enviar mensagens a si mesmo(a)</string>
     <string name="clan_already_requested_other">Já solicitou para entrar no clã</string>
