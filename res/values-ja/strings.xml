@@ -106,7 +106,7 @@
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールを無効にする</string>
     <string name="circle_map">丸いマップ</string>
-    <string name="warning_no_holes">統計は保存されません</string>
+    <string name="warning_no_holes">統計は更新されません</string>
     <string name="gold_holes">ゴールドホールを有効にする</string>
 
     <!-- Multiplayer -->
