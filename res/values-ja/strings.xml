@@ -538,7 +538,7 @@
     <string name="buttons_split">スプリットボタン</string>
     <string name="select_split">スプリット選択</string>
     <string name="split">スプリット</string>
-    <string name="buttons_customize">ボタンをカスタムする</string>
+    <string name="buttons_customize">カスタマイズ</string>
     <string name="buttons_orientation_message">ポットレートとランドスケープのカスタム設定は、別々に保存されます。</string>
 
 
