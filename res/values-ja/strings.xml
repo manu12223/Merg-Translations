@@ -308,7 +308,7 @@
     <string name="clan_list">パブリッククラン</string>
     <string name="clan_no_clans">参加可能なクランはありません</string>
     <string name="no_clan">クランにいません</string>
-    <string name="clan_request_clans">リクエストのみのクラン</string>
+    <string name="clan_request_clans">招待のみのクラン</string>
     <string name="clan_my_invites">保留中の招待</string>
     <string name="clan_invite_declined">招待が拒否されました</string>
     <string name="clan_joined">クランに参加しました！</string>
@@ -327,7 +327,7 @@
     <string name="clan_settings">クランの設定</string>
     <string name="clan_join_mode">参加モード</string>
     <string name="clan_join_mode_open">パブリック</string>
-    <string name="clan_join_mode_request">リクエストのみ</string>
+    <string name="clan_join_mode_request">招待のみ</string>
     <string name="clan_join_mode_private">プライベート</string>
     <string name="clan_join_mode_abandoned">離脱</string>
     <string name="clan_pending_requests">保留中のリクエスト</string>
@@ -336,7 +336,7 @@
     <string name="clan_role_admin">アドミン</string>
     <string name="clan_role_elder">エルダー</string>
     <string name="clan_role_member">メンバー</string>
-    <string name="clan_name_taken">クラン名が使用されています</string>
+    <string name="clan_name_taken">クラン名は使用されています</string>
     <string name="clan_already_member">既にクランにいます</string>
     <string name="clan_accept_invite_leave_confirm">既にクランにいます。この招待を受け入れてもよろしいですか？現在のクランから削除されます。</string>
     <string name="clan_promoted">%1$sに昇格されました</string>
@@ -361,12 +361,12 @@
     <string name="clan_join_request_sent">リクエスト送信済み</string>
     <string name="clan_invite_list_full">このクランの招待リストが満員（最大100件）です。</string>
     <string name="clan_player_invite_list_full">このユーザーの保留中の招待は既に上限に達しています。</string>
-    <string name="clan_request_list_full">このクランの参加リクエストリストが満員（最大100件）です。</string>
+    <string name="clan_request_list_full">このクランの参加リクエストのリストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーンを寄付</string>
     <string name="clan_donate_hint">100枚〜100,000枚</string>
     <string name="clan_donate_sent">寄付完了！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
-    <string name="clan_already_requested">他のクランで既に保留中のリクエストがあります。</string>
+    <string name="clan_already_requested">既に他のクランとの保留中の参加リクエストがあります。</string>
     <string name="clan_copy_tag">タグをコピー</string>
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
@@ -380,13 +380,13 @@
     <string name="clan_history_event_donation">寄付済</string>
     <string name="clan_history_id">履歴ID: %d</string>
     <string name="clan_public_profile">パブリッククランの説明</string>
-    <string name="clan_kicked_banned_players">キック済／バン済のユーザー</string>
+    <string name="clan_kicked_banned_players">キック済／バン中のユーザー</string>
     <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をキック解除しますか？</string>
     <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をバン解除しますか？</string>
     <string name="clan_search_hint">名前またはIDで検索</string>
     <string name="clan_promote_to_owner">オーナーシップを移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップを移転する</string>
-    <string name="clan_transfer_ownership_message">「%1$s」さん（ID %2$d）へオーナーシップを移転しますか？共同オーナーになります。これは取り消せません。\n\nユーザーのIDを入力して確認してください:</string>
+    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）へ移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーのIDを入力して確認してください:</string>
     <string name="clan_transfer_ownership_id_mismatch">無効なIDです。</string>
     <string name="clan_customize_name_color">クラン名のカラー</string>
     <string name="clan_customize_tag_color">クランタグのカラー</string>
@@ -453,7 +453,7 @@
 
     <!-- Mail !-->
     <string name="mail">メールボックス</string>
-    <string name="sent_mail_to_id">「%d」へメール送信完了</string>
+    <string name="sent_mail_to_id">%d へメール送信完了</string>
     <string name="mail_id">メールID: %d</string>
     <string name="no_mail_yet">メールはこちらに表示されます</string>
     <string name="mail_from">送信者:</string>
@@ -483,9 +483,9 @@
     <string name="gamemode_soccer">サッカー</string>
     <string name="gamemode_coming_soon">近日公開</string>
     <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。だがより大きなブロブに気をつけて！</string>
-    <string name="description_teams">同じカラーのプレイヤーに参加しよう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
-    <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
-    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利だ！</string>
+    <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
+    <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
+    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破しよう。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利する！</string>
     <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
     <string name="description_adventure">ユニークな目的のアドベンチャーステージを完了しよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_soccer">ボールを敵のゴールにシュートしよう。タイムアップ時に最も多くのゴールを決めているチームが勝利する！</string>
@@ -506,16 +506,16 @@
     <!-- Adventure mode !-->
     <string name="adventure_stage">ステージ</string>
     <string name="adventure_initializing">初期化中…</string>
-    <string name="adventure_obj_eat_all_bots">ボットをすべて食べて！</string>
-    <string name="adventure_obj_survive">生き残って！</string>
+    <string name="adventure_obj_eat_all_bots">ボットをすべて食べよう！</string>
+    <string name="adventure_obj_survive">生き残ろう！</string>
     <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
-    <string name="adventure_obj_collect_food">%d個のフードを集めて！</string>
+    <string name="adventure_obj_collect_food">%d個のドットを集めよう！</string>
     <string name="adventure_obj_invisible_bots">不可視のボット！</string>
     <string name="adventure_obj_growing_bots">サイズを稼いでいるボット！</string>
-    <string name="adventure_obj_reach_size">%dサイズに到達して！</string>
-    <string name="adventure_obj_finish_first">1位になって！</string>
-    <string name="adventure_obj_collect_voidstones">%d枚のボイドストーンを集めて！</string>
+    <string name="adventure_obj_reach_size">%dサイズに到達しよう！</string>
+    <string name="adventure_obj_finish_first">1位になろう！</string>
+    <string name="adventure_obj_collect_voidstones">%d枚のボイドストーンを集めよう！</string>
 
     <!-- Timer text !-->
     <string name="timer_time">時間</string>
@@ -596,11 +596,11 @@
     <string name="xp">経験値</string>
     <string name="level">レベル</string>
     <string name="level_number">レベル: %d</string>
-    <string name="food">フード</string>
+    <string name="food">ドット数</string>
     <string name="voidstones">収集したボイドストーンの数</string>
     <string name="blobs_eaten">食べたブロブの数</string>
     <string name="session_stat_size_gained">獲得サイズ量</string>
-    <string name="highest_rank">最高ランク</string>
+    <string name="highest_rank">最高ランキング</string>
     <string name="session_stat_highest_size">最高サイズ</string>
     <string name="spectate_ball">ボール</string>
     <string name="leaderboard">リーダーボード</string>
@@ -634,13 +634,13 @@
     <string name="outdated_client">クライアントの更新が必要です！\nクライアント: %1$s (%2$d)\nサーバー: %3$s (%4$d)</string>
 
     <!-- Block Player -->
-    <string name="blocked_players">ブロックしたプレイヤーのリスト</string>
-    <string name="no_blocked_players">もしプレイヤーをブロックするとき、こちらに表示されます</string>
+    <string name="blocked_players">ブロック中のプレイヤーのリスト</string>
+    <string name="no_blocked_players">プレイヤーをブロックするとき、こちらに表示されます</string>
     <string name="unblock_confirm_message">「%1$s」さん（ID %2$d）をブロック解除してもよろしいですか？</string>
     <string name="block_player">ブロック</string>
     <string name="unblock_player">ブロック解除</string>
     <string name="block_confirm_title">プレイヤーをブロック？</string>
-    <string name="block_confirm_message">「%s」さんをブロックしてもよろしいですか？このプレイヤーからメールまたはフレンドリクエストを受信できないようになり、フレンドリストから削除されます。</string>
+    <string name="block_confirm_message">「%s」さんをブロックしてもよろしいですか？このプレイヤーからメールまたはフレンド申請を受信できないようになり、フレンドリストから解除されます。</string>
     <string name="player_unblocked">プレイヤーがブロック解除されました</string>
     <string name="player_blocked">プレイヤーがブロックされました</string>
     <string name="you_blocked_user">プレイヤーをブロックしました</string>
