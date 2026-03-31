@@ -436,7 +436,7 @@
     <string name="stat_bronze_value">ブロンズ (値):</string>
     <string name="stat_bronze_count">ブロンズ (数):</string>
     <string name="stat_bonus">ボーナス:</string>
-    <string name="stat_food_eaten">食べたフードの数:</string>
+    <string name="stat_food_eaten">食べたドットの数:</string>
     <string name="stat_players_eaten">食べたプレイヤーの数:</string>
     <string name="stat_bots_eaten">食べたボットの数:</string>
     <string name="stat_blobs_eaten">食べたブロブの数:</string>
