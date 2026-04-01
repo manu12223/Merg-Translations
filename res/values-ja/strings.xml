@@ -625,7 +625,7 @@
     <string name="dialog_reload">再起動</string>
     <string name="dialog_yes">はい</string>
     <string name="dialog_no">いいえ</string>
-    <string name="dialog_ok">はい</string>
+    <string name="dialog_ok">決定</string>
     <string name="dialog_copy">コピー</string>
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
