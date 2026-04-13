@@ -360,7 +360,7 @@
     <string name="clan_kick_confirm_title">キック</string>
     <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をキックしますか？このユーザーがリクエストで再参加できます。</string>
     <string name="clan_ban_confirm_title">バン</string>
-    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$dをバンしますか？このユーザーが再参加できません。</string>
+    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をバンしますか？このユーザーが再参加できません。</string>
     <string name="clan_unban_confirm_title">バン解除</string>
     <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーが再参加できます。</string>
     <string name="clan_unkick_confirm_title">キック解除</string>
