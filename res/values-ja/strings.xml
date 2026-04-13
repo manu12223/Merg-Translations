@@ -122,29 +122,29 @@
     <string name="server_europe">ヨーロッパ</string>
     <string name="competitive">個人戦</string>
     <string name="join">参加</string>
-    <string name="create">Create</string>
-    <string name="create_chat_room">CREATE CHAT ROOM</string>
-    <string name="create_private_game">CREATE PRIVATE GAME</string>
+    <string name="create">作成</string>
+    <string name="create_chat_room">チャットルームを作成</string>
+    <string name="create_private_game">カスタムゲームを作成</string>
     <string name="room_full">満員</string>
     <string name="clan">クラン</string>
     <string name="friends">フレンド</string>
     <string name="send_friend_request">フレンド申請</string>
-    <string name="friend_request_accepted">フレンドリストへ追加済み！</string>
+    <string name="friend_request_accepted">フレンドへ追加しました！</string>
     <string name="send_friend_request_by_id_or_name">IDまたは名前を入力して申請を送信する</string>
     <string name="cancel_friend_request">申請を取り消す</string>
-    <string name="remove_friend">フレンドリストから解除</string>
+    <string name="remove_friend">フレンドから解除</string>
     <string name="friend_request_sent">申請送信済み</string>
     <string name="friend_requests_received">受信した申請</string>
     <string name="friend_requests_sent">保留中の申請</string>
     <string name="no_friends">フレンドはこちらに表示されます</string>
-    <string name="remove_friend_title">フレンドリストから解除</string>
-    <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドリストから解除してもよろしいですか？</string>
+    <string name="remove_friend_title">フレンドから解除</string>
+    <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドから解除してもよろしいですか？</string>
     <string name="cancel_request_title">申請を取り消す</string>
     <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請を取り消してもよろしいですか？</string>
-    <string name="friend_request_error_self">フレンド申請を自分へ送信できません。</string>
+    <string name="friend_request_error_self">フレンド申請を自分自身に送信できません。</string>
     <string name="friend_request_error_already_sent">この申請は保留中です。</string>
     <string name="friend_request_error_already_friends">既に追加されました。</string>
-    <string name="friend_request_error_list_full">フレンドリストは満員です。</string>
+    <string name="friend_request_error_list_full">フレンドのリストは満員です。</string>
 
     <!-- Shop -->
     <string name="shop">ショップ</string>
@@ -239,7 +239,7 @@
     <string name="profile_name_changed_success">名前が『%s』に変更されました</string>
     <string name="profile_name_change_failed">名前が変更できませんでした</string>
     <string name="profile_name_change_error">名前が変更できませんでした: %d</string>
-    <string name="profile_goodbye">またいつか！ :(</string>
+    <string name="profile_goodbye">またいつかよね！ :(</string>
     <string name="profile_logged_in_with_name">『%s』にログインしました</string>
     <string name="profile_logged_in">ログイン済</string>
     <string name="profile_logout_confirm">『%s』からログアウト？</string>
@@ -298,17 +298,17 @@
     <string name="discord_staff">Discordサーバーのスタッフ</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Send Voidstones</string>
-    <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Cannot send voidstones to yourself</string>
-    <string name="voidstone_gift_from">Voidstone Gift from %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Voidstone Gift to %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Voidstone Gift from:</string>
-    <string name="voidstone_gift_to_label">Voidstone Gift to:</string>
-    <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">includes %d%% fee</string>
-    <string name="transaction_fee_amount">-%s fee</string>
+    <string name="send_voidstones">ボイドストーンを贈る</string>
+    <string name="send_voidstones_to">「%1$s」さん（ID %2$d）へボイドストーンを贈る</string>
+    <string name="send_voidstones_confirm">「%2$s」さん（ID %3$d）へボイドストーンを%1$s枚贈りますか？</string>
+    <string name="send_voidstones_self">自分宛てにボイドストーンを送れません</string>
+    <string name="voidstone_gift_from">「%1$s」さん（ID %2$d）からのボイドストーンのギフト</string>
+    <string name="voidstone_gift_to">「%1$s」さん（ID %2$d）へのボイドストーンのギフト</string>
+    <string name="voidstone_gift_from_label">ボイドストーンのギフトの贈り主:</string>
+    <string name="voidstone_gift_to_label">ボイドストーンのギフトの受取人:</string>
+    <string name="voidstone_gift_player">「%1$s」さん（ID %2$d）</string>
+    <string name="transaction_fee">%d%%の手数料が含まれます</string>
+    <string name="transaction_fee_amount">-%sの手数料</string>
 
     <!-- Search Profile -->
     <string name="search_account">アカウントを検索</string>
@@ -360,7 +360,7 @@
     <string name="clan_kick_confirm_title">キック</string>
     <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をキックしますか？このユーザーがリクエストで再参加できます。</string>
     <string name="clan_ban_confirm_title">バン</string>
-    <string name="clan_ban_confirm_message">Ban 「%1$s」さん（ID %2$dをバンしますか？このユーザーが再参加できません。</string>
+    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をバンしますか？このユーザーが再参加できません。</string>
     <string name="clan_unban_confirm_title">バン解除</string>
     <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーが再参加できます。</string>
     <string name="clan_unkick_confirm_title">キック解除</string>
@@ -573,19 +573,19 @@
 
     <!-- Chat !-->
     <string name="chat">チャット</string>
-    <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
+    <string name="room_commands" tools:ignore="TypographyDashes">使用可能なコマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1秒〜60秒]\n!pausechat [-1: 停止解除・0: 永久・1秒〜3600秒]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_message_hint">メッセージを入力…</string>
     <string name="chat_send_message">メッセージを送信</string>
     <string name="copy_name">名前をコピー</string>
     <string name="copy_message">メッセージをコピー</string>
-    <string name="view_profile">View Profile</string>
-    <string name="delete_message">Delete Message</string>
-    <string name="edit_message">Edit Message</string>
-    <string name="report_message">Report Message</string>
-    <string name="chat_paused">Chat paused</string>
-    <string name="reply">Reply</string>
-    <string name="replying_to">Replying to %s</string>
+    <string name="view_profile">プロフィールを表示</string>
+    <string name="delete_message">メッセージを削除</string>
+    <string name="edit_message">メッセージを編集</string>
+    <string name="report_message">メッセージを報告</string>
+    <string name="chat_paused">一時停止中のチャットです</string>
+    <string name="reply">返信</string>
+    <string name="replying_to">「%s」さんへ返信中</string>
 
     <!-- Notification box !-->
     <string name="level_up">レベルアップ！ %d</string>
@@ -593,7 +593,7 @@
     <string name="stage_clear">ステージ %s クリア！</string>
     <string name="stage_failed">ステージ %s 失敗！</string>
     <string name="restarting_adventure">アドベンチャー再起動中…</string>
-    <string name="server_in_maintenance">Server Maintenance</string>
+    <string name="server_in_maintenance">サーバーはメンテナンス中です</string>
     <string name="server_reboot">サーバー再起動</string>
     <string name="server_shutdown">サーバーシャットダウン</string>
 
@@ -645,13 +645,13 @@
     <string name="dialog_disconnected_message">サーバーから切断されました。</string>
     <string name="kicked_from_room">キックされました！</string>
     <string name="banned_from_room">バンされました！</string>
-    <string name="enter_room_name">Enter Room Name</string>
-    <string name="room_not_found">Room not found</string>
-    <string name="already_in_room">You are already in a room!</string>
-    <string name="room_closed">Room Closed</string>
-    <string name="room_name">Room Name</string>
-    <string name="reported">Reported</string>
-    <string name="reason">Reason</string>
+    <string name="enter_room_name">ルーム名を入力</string>
+    <string name="room_not_found">ルームは見つかりませんでした</string>
+    <string name="already_in_room">既にルームにいます！</string>
+    <string name="room_closed">ルームが閉まっています</string>
+    <string name="room_name">ルーム名</string>
+    <string name="reported">報告完了</string>
+    <string name="reason">理由</string>
     <string name="room_crash">ルームがクラッシュされました: %s</string>
     <string name="app_crash">アプリがクラッシュされました: %s</string>
     <string name="dialog_reload">再起動</string>
@@ -659,14 +659,14 @@
     <string name="dialog_no">いいえ</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">コピー</string>
-    <string name="dialog_notice">Notice</string>
-    <string name="dialog_warning">Warning</string>
-    <string name="dialog_alert">Alert</string>
-    <string name="dialog_dont_show_again">Don\'t show again</string>
-    <string name="dialog_dismiss">Dismiss</string>
-    <string name="dialog_previous">Previous</string>
-    <string name="dialog_next">Next</string>
-    <string name="dialog_update">Update</string>
+    <string name="dialog_notice">注意</string>
+    <string name="dialog_warning">警告</string>
+    <string name="dialog_alert">警告</string>
+    <string name="dialog_dont_show_again">表示しない</string>
+    <string name="dialog_dismiss">取り消す</string>
+    <string name="dialog_previous">前へ</string>
+    <string name="dialog_next">次へ</string>
+    <string name="dialog_update">更新</string>
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
@@ -699,42 +699,42 @@
     <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZを有効にする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
 
     <!-- Player List -->
-    <string name="players">Players</string>
-    <string name="player_list_title">プレイヤーリスト</string>
+    <string name="players">プレイヤー</string>
+    <string name="player_list_title">プレイヤーのリスト</string>
     <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
     <string name="kick_confirm_title">プレイヤーをキック</string>
-    <string name="kick_confirm_message">「%s」さんをキック？まだ再参加できます。</string>
+    <string name="kick_confirm_message">「%s」さんをキックしますか？まだ再参加できます。</string>
     <string name="ban_confirm_title">プレイヤーをバン</string>
     <string name="ban_confirm_message">「%s」さんをバンしてもよろしいですか？再参加できないようになります。これは取り消せません！</string>
 
     <!-- Custom Images -->
-    <string name="custom_images">Custom Images</string>
-    <string name="profile_avatar">Profile Avatar</string>
-    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_image_upload">Upload</string>
-    <string name="custom_image_replace">Replace</string>
-    <string name="custom_image_deselect">Deselect</string>
-    <string name="custom_image_confirm_title">Upload Image</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
-    <string name="custom_image_upload_success">Image sent for review</string>
-    <string name="custom_image_selected">Avatar selected</string>
-    <string name="custom_image_deselected">Avatar deselected</string>
-    <string name="custom_image_upload_failed">Failed to upload image</string>
-    <string name="custom_image_read_error">Failed to read image</string>
-    <string name="custom_image_invalid_format">File must be an image</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_bought">Custom Image Upload</string>
-    <string name="custom_image_refund">Custom Image Refund</string>
-    <string name="custom_image_slot">Image %1$d</string>
-    <string name="report_avatar">Report Avatar</string>
-    <string name="report_avatar_message">Report the avatar of %1$s?</string>
-    <string name="report_avatar_success">Avatar reported</string>
-    <string name="report_avatar_failed">Failed to report avatar</string>
+    <string name="custom_images">カスタム画像</string>
+    <string name="profile_avatar">プロフィールのアイコン</string>
+    <string name="custom_image_rules">禁止アイコン:\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味</string>
+    <string name="custom_image_upload">アップロード</string>
+    <string name="custom_image_replace">差替</string>
+    <string name="custom_image_deselect">選択解除</string>
+    <string name="custom_image_confirm_title">画像をアップロード</string>
+    <string name="custom_image_confirm_body">この画像を%1$s枚のボイドストーンでアップロードしますか？</string>
+    <string name="custom_image_upload_success">画像はリポート用に送信しました</string>
+    <string name="custom_image_selected">アイコンが選択されました</string>
+    <string name="custom_image_deselected">アイコンが選択解除されました</string>
+    <string name="custom_image_upload_failed">画像がアップロードできませんでした</string>
+    <string name="custom_image_read_error">画像が読み込めませんでした</string>
+    <string name="custom_image_invalid_format">ファイルは画像である必要があります</string>
+    <string name="custom_image_error_size">%1$dKBの画像は大きすぎます（最大%2$dKB）</string>
+    <string name="custom_image_error_dimensions">%1$dx%2$dの画像は大きすぎます（最大%3$dx%4$dp)</string>
+    <string name="custom_image_error_both">%1$dKB／%3$dx%4$dの画像は大きすぎます（最大%2$dKB／%5$dx%6$dp）</string>
+    <string name="custom_image_compress_title">画像は大きすぎます・圧縮？</string>
+    <string name="custom_image_compress_accept">圧縮する</string>
+    <string name="custom_image_compress_failed">画像が圧縮できませんでした</string>
+    <string name="custom_image_bought">カスタム画像のアップロード</string>
+    <string name="custom_image_refund">カスタム画像の返金</string>
+    <string name="custom_image_slot">画像 %1$d</string>
+    <string name="report_avatar">アイコンを報告</string>
+    <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
+    <string name="report_avatar_success">アイコンの報告完了</string>
+    <string name="report_avatar_failed">アイコンは報告できませんでした</string>
 
     <!-- Miscellaneous !-->
     <string name="play">プレイ</string>
@@ -787,9 +787,9 @@
     <string name="room_type_local">ローカル: %s</string>
     <string name="room_type_public">グローバル: %s</string>
     <string name="room_type_private">プライベート: %s</string>
-    <string name="room_public">Public</string>
-    <string name="room_private">Private</string>
-    <string name="room_hidden">Hidden</string>
+    <string name="room_public">パブリック</string>
+    <string name="room_private">プライベート</string>
+    <string name="room_hidden">非表示</string>
     <string name="map">マップ</string>
     <string name="size">サイズ</string>
     <string name="shots">イジェクト数</string>
@@ -830,8 +830,8 @@
     <string name="banned_until">%sまでバン中です</string>
     <string name="muted_until">%sまでミュート中です</string>
     <string name="server_shutting_down">サーバーがシャットダウンされています</string>
-    <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
-    <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
+    <string name="server_rebooting">サーバーは再起動中です。まもなく再度お試しください。</string>
+    <string name="server_maintenance">サーバーはメンテナンス中です。しばらくお待ちの上、再度お試しください。</string>
     <string name="forbidden">禁止中</string>
     <string name="internal_server_error">内部サーバーエラー</string>
     <string name="unknown_error_code">不明なエラーです。コード %d</string>
@@ -844,11 +844,11 @@
     <string name="admin_cannot_act_self">自分へ実行できません</string>
     <string name="admin_cannot_act_on_staff">スタッフへ実行できません</string>
     <string name="code_not_found">無効なコードです</string>
-    <string name="code_expired">Code Expired</string>
+    <string name="code_expired">コードの有効期限が切れました</string>
     <string name="code_already_redeemed">コードが既に利用されました！</string>
     <string name="clan_owner_must_transfer_error">クランから退出するには、他のクランメンバーへオーナーシップを移転する必要があります。</string>
     <string name="mail_cannot_send_self">自分へ送信できません</string>
     <string name="clan_already_requested_other">既にクラン参加リクエストを送信しました</string>
-    <string name="before">Before</string>
-    <string name="after">After</string>
+    <string name="before">以前</string>
+    <string name="after">現在</string>
 </resources>
