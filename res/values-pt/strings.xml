@@ -122,9 +122,9 @@
     <string name="server_europe">Europa</string>
     <string name="competitive">Competitivo</string>
     <string name="join">Entrar</string>
-    <string name="create">Create</string>
-    <string name="create_chat_room">CREATE CHAT ROOM</string>
-    <string name="create_private_game">CREATE PRIVATE GAME</string>
+    <string name="create">Criar</string>
+    <string name="create_chat_room">CRIAR SALA DE CHAT</string>
+    <string name="create_private_game">JOGO PERSONALIZADO</string>
     <string name="room_full">Sala Cheia</string>
     <string name="clan">Clã</string>
     <string name="friends">Amigos</string>
@@ -215,7 +215,7 @@
     <string name="profile_description_save_success">Biografia salva</string>
     <string name="profile_description_save_failed">Falha ao salvar a biografia</string>
     <string name="profile_description_too_long">Número de caracteres máximos (%d) para texto de biografia atingido!</string>
-    <string name="profile_description_too_large">Profile description is larger than %s</string>
+    <string name="profile_description_too_large">Biografia maior que %s</string>
     <string name="unlock_description_color">Desbloquear Cores para o Texto da Biografia</string>
     <string name="description_text_color">Cor do Texto da Biografia</string>
     <string name="unlock_description_color_success">Cores para o texto da biografia desbloqueadas!</string>
@@ -298,17 +298,17 @@
     <string name="discord_staff">Membro Staff no Servidor do Discord</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Send Voidstones</string>
-    <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Cannot send voidstones to yourself</string>
-    <string name="voidstone_gift_from">Voidstone Gift from %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Voidstone Gift to %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Voidstone Gift from:</string>
-    <string name="voidstone_gift_to_label">Voidstone Gift to:</string>
+    <string name="send_voidstones">Presentear Pedras do Vazio</string>
+    <string name="send_voidstones_to">Presentear Pedras do Vazio para %1$s (ID: %2$d)</string>
+    <string name="send_voidstones_confirm">Presentear %1$s Pedras do Vazio para %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Não é possível enviar Pedras do Vazio para si mesmo(a)</string>
+    <string name="voidstone_gift_from">Presente de Pedras do Vazio de %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_to">Presente de Pedras do Vazio para %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">Pedras do Vazio de:</string>
+    <string name="voidstone_gift_to_label">Pedras do Vazio para:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">includes %d%% fee</string>
-    <string name="transaction_fee_amount">-%s fee</string>
+    <string name="transaction_fee">%d%% de taxa incluso</string>
+    <string name="transaction_fee_amount">-%s de taxa</string>
 
     <!-- Search Profile -->
     <string name="search_account">Procurar Conta</string>
@@ -573,19 +573,19 @@
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
-    <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
+    <string name="room_commands" tools:ignore="TypographyDashes">Comandos:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: despausar; 0: permanente; 1-3600 segundos]\n!hidden\n!minplayers [quantidade]\n!reset\n!close</string>
     <string name="chat_close">Fechar Chat</string>
     <string name="chat_message_hint">Digite uma mensagem…</string>
     <string name="chat_send_message">Enviar Mensagem</string>
     <string name="copy_name">Copiar Nome</string>
     <string name="copy_message">Copiar Mensagem</string>
-    <string name="view_profile">View Profile</string>
-    <string name="delete_message">Delete Message</string>
-    <string name="edit_message">Edit Message</string>
-    <string name="report_message">Report Message</string>
-    <string name="chat_paused">Chat paused</string>
-    <string name="reply">Reply</string>
-    <string name="replying_to">Replying to %s</string>
+    <string name="view_profile">Ver Perfil</string>
+    <string name="delete_message">Apagar Mensagem</string>
+    <string name="edit_message">Editar Mensagem</string>
+    <string name="report_message">Denunciar Mensagem</string>
+    <string name="chat_paused">Chat pausado</string>
+    <string name="reply">Responder</string>
+    <string name="replying_to">Respondendo para %s</string>
 
     <!-- Notification box !-->
     <string name="level_up">Subiu de Nível! %d</string>
@@ -645,13 +645,13 @@
     <string name="dialog_disconnected_message">Conexão com o servidor perdida.</string>
     <string name="kicked_from_room">Expulso(a) da Sala!</string>
     <string name="banned_from_room">Banido(a) da Sala!</string>
-    <string name="enter_room_name">Enter Room Name</string>
-    <string name="room_not_found">Room not found</string>
-    <string name="already_in_room">You are already in a room!</string>
-    <string name="room_closed">Room Closed</string>
-    <string name="room_name">Room Name</string>
-    <string name="reported">Reported</string>
-    <string name="reason">Reason</string>
+    <string name="enter_room_name">Insira o Nome da Sala</string>
+    <string name="room_not_found">Sala não encontrada</string>
+    <string name="already_in_room">Já está em uma sala!</string>
+    <string name="room_closed">Sala Fechada</string>
+    <string name="room_name">Nome da Sala</string>
+    <string name="reported">Denunciado</string>
+    <string name="reason">Motivo</string>
     <string name="room_crash">A sala travou: %s</string>
     <string name="app_crash">O app travou: %s</string>
     <string name="dialog_reload">RECARREGAR</string>
@@ -659,14 +659,14 @@
     <string name="dialog_no">NÃO</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPIAR</string>
-    <string name="dialog_notice">Notice</string>
-    <string name="dialog_warning">Warning</string>
-    <string name="dialog_alert">Alert</string>
-    <string name="dialog_dont_show_again">Don\'t show again</string>
-    <string name="dialog_dismiss">Dismiss</string>
-    <string name="dialog_previous">Previous</string>
-    <string name="dialog_next">Next</string>
-    <string name="dialog_update">Update</string>
+    <string name="dialog_notice">Nota</string>
+    <string name="dialog_warning">Aviso</string>
+    <string name="dialog_alert">Alerta</string>
+    <string name="dialog_dont_show_again">Não exibir novamente</string>
+    <string name="dialog_dismiss">Esquecer</string>
+    <string name="dialog_previous">Anterior</string>
+    <string name="dialog_next">Próximo</string>
+    <string name="dialog_update">Atualizar</string>
     <string name="toast_please_wait">Aguarde</string>
     <string name="permission_denied">Permissão negada</string>
     <string name="dialog_locked">Bloqueado</string>
@@ -708,33 +708,33 @@
     <string name="ban_confirm_message">Tem certeza de que deseja banir este(a) jogador(a) da sala: %s? Ele(a) não poderá entrar mais na sala e isso não poderá ser desfeito!</string>
 
     <!-- Custom Images -->
-    <string name="custom_images">Custom Images</string>
-    <string name="profile_avatar">Profile Avatar</string>
-    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_image_upload">Upload</string>
-    <string name="custom_image_replace">Replace</string>
-    <string name="custom_image_deselect">Deselect</string>
-    <string name="custom_image_confirm_title">Upload Image</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
-    <string name="custom_image_upload_success">Image sent for review</string>
-    <string name="custom_image_selected">Avatar selected</string>
-    <string name="custom_image_deselected">Avatar deselected</string>
-    <string name="custom_image_upload_failed">Failed to upload image</string>
-    <string name="custom_image_read_error">Failed to read image</string>
-    <string name="custom_image_invalid_format">File must be an image</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_bought">Custom Image Upload</string>
-    <string name="custom_image_refund">Custom Image Refund</string>
-    <string name="custom_image_slot">Image %1$d</string>
-    <string name="report_avatar">Report Avatar</string>
-    <string name="report_avatar_message">Report the avatar of %1$s?</string>
-    <string name="report_avatar_success">Avatar reported</string>
-    <string name="report_avatar_failed">Failed to report avatar</string>
+    <string name="custom_images">Imagens Personalizadas</string>
+    <string name="profile_avatar">Ícone do Perfil</string>
+    <string name="custom_image_rules">Conteúdos explicitamente proibidos:\n\n- NSFW/Conteúdo sexual\n- Violência explícita/Gore\n- Armas\n- Símbolos de ódio\n- Discurso de ódio/ Discriminação\n- Drogas\n- Conteúdo chocante/repugnante\n- Personagens/logotipos protegidas por direitos autorais\n- Referências a álcool/cigarro\n- Imagens de terror/assustadoras</string>
+    <string name="custom_image_upload">Enviar</string>
+    <string name="custom_image_replace">Substituir</string>
+    <string name="custom_image_deselect">Desselecionar</string>
+    <string name="custom_image_confirm_title">Enviar Imagem</string>
+    <string name="custom_image_confirm_body">Enviar esta imagem por %1$s Pedras do Vazio??</string>
+    <string name="custom_image_upload_success">Imagem enviada para análise</string>
+    <string name="custom_image_selected">Ícone selecionado</string>
+    <string name="custom_image_deselected">Ícone desselecionado</string>
+    <string name="custom_image_upload_failed">Falha ao enviar a imagem</string>
+    <string name="custom_image_read_error">Falha ao ler a imagem</string>
+    <string name="custom_image_invalid_format">O arquivo deve ser do tipo imagem</string>
+    <string name="custom_image_error_size">A imagem selecionada de %1$dKB é muito grande (máx. %2$dKB)</string>
+    <string name="custom_image_error_dimensions">A imagem selecionada de %1$dx%2$d é muito grande (máx. %3$dx%4$dp)</string>
+    <string name="custom_image_error_both">A imagem selecionada de %1$dKB / %3$dx%4$d é muito grande (max. %2$dKB/%5$dx%6$dp)</string>
+    <string name="custom_image_compress_title">Imagem Muito Grande - Comprimir?</string>
+    <string name="custom_image_compress_accept">Usar Imagem Comprimida</string>
+    <string name="custom_image_compress_failed">Não foi possível comprimir a imagem para o tamanho limite</string>
+    <string name="custom_image_bought">Envio de Imagem Personalizada</string>
+    <string name="custom_image_refund">Reembolso de Imagem personalizada</string>
+    <string name="custom_image_slot">Imagem %1$d</string>
+    <string name="report_avatar">Denunciar Ícone do Perfil</string>
+    <string name="report_avatar_message">Denunciar o ícone do perfil de %1$s?</string>
+    <string name="report_avatar_success">Ícone denunciado</string>
+    <string name="report_avatar_failed">Falha na denúncia do ícone</string>
 
     <!-- Miscellaneous !-->
     <string name="play">Jogar</string>
@@ -787,9 +787,9 @@
     <string name="room_type_local">Local: %s</string>
     <string name="room_type_public">Público: %s</string>
     <string name="room_type_private">Privado: %s</string>
-    <string name="room_public">Public</string>
-    <string name="room_private">Private</string>
-    <string name="room_hidden">Hidden</string>
+    <string name="room_public">Pública</string>
+    <string name="room_private">Privata</string>
+    <string name="room_hidden">Escondida</string>
     <string name="map">Mapa</string>
     <string name="size">Tamanho</string>
     <string name="shots">Ejeções</string>
@@ -808,7 +808,7 @@
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
     <string name="level_abbreviated">Nv.%d</string>
-    <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
@@ -830,8 +830,8 @@
     <string name="banned_until">Banido(a) até %s</string>
     <string name="muted_until">Silenciado(a) até %s</string>
     <string name="server_shutting_down">O servidor está sendo encerrado</string>
-    <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
-    <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
+    <string name="server_rebooting">O servidor está sendo reiniciado. Tente novamente em breve.</string>
+    <string name="server_maintenance">O servidor está em manutenção. Tente novamente mais tarde.</string>
     <string name="forbidden">Proibido(a)</string>
     <string name="internal_server_error">Erro Interno do Servidor</string>
     <string name="unknown_error_code">Erro desconhecido. Código %d</string>
@@ -844,11 +844,11 @@
     <string name="admin_cannot_act_self">Não é possível executar esta ação em si mesmo(a)</string>
     <string name="admin_cannot_act_on_staff">Não é possívele executar esta ação em membros staff</string>
     <string name="code_not_found">Código Inválido</string>
-    <string name="code_expired">Code Expired</string>
+    <string name="code_expired">Código Expirado</string>
     <string name="code_already_redeemed">Código Já Resgatado!</string>
     <string name="clan_owner_must_transfer_error">É necessário transferir a liderança a um(a) outro(a) membro antes de sair.</string>
     <string name="mail_cannot_send_self">Não é possível enviar mensagens a si mesmo(a)</string>
     <string name="clan_already_requested_other">Já solicitou para entrar no clã</string>
-    <string name="before">Before</string>
-    <string name="after">After</string>
+    <string name="before">Antes</string>
+    <string name="after">Agora</string>
 </resources>
