@@ -531,7 +531,7 @@
     <string name="adventure_obj_growing_bots">サイズを稼いでいるボット！</string>
     <string name="adventure_obj_reach_size">%dサイズに到達しよう！</string>
     <string name="adventure_obj_finish_first">1位になろう！</string>
-    <string name="adventure_obj_collect_voidstones">%d個のボイドストーンを集めよう！</string>
+    <string name="adventure_obj_collect_voidstones">ボイドストーンを%d個集めよう！</string>
 
     <!-- Timer text !-->
     <string name="timer_time">時間</string>
