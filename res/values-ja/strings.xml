@@ -526,7 +526,7 @@
     <string name="adventure_obj_survive">生き残ろう！</string>
     <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
-    <string name="adventure_obj_collect_food">%d個のドットを集めよう！</string>
+    <string name="adventure_obj_collect_food">ドットを%d個集めよう！</string>
     <string name="adventure_obj_invisible_bots">不可視のボット！</string>
     <string name="adventure_obj_growing_bots">サイズを稼いでいるボット！</string>
     <string name="adventure_obj_reach_size">%dサイズに到達しよう！</string>
