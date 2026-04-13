@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
@@ -122,6 +122,9 @@
     <string name="server_europe">Europe</string>
     <string name="competitive">Competitive</string>
     <string name="join">Join</string>
+    <string name="create">Create</string>
+    <string name="create_chat_room">CREATE CHAT ROOM</string>
+    <string name="create_private_game">CREATE PRIVATE GAME</string>
     <string name="room_full">Room Full</string>
     <string name="clan">Clan</string>
     <string name="friends">Friends</string>
@@ -293,6 +296,19 @@
     <string name="alpha_tester">Alpha Tester</string>
     <string name="beta_tester">Beta Tester</string>
     <string name="discord_staff">Discord Staff</string>
+
+    <!-- Voidstone Transfer -->
+    <string name="send_voidstones">Send Voidstones</string>
+    <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
+    <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Cannot send voidstones to yourself</string>
+    <string name="voidstone_gift_from">Voidstone Gift from %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_to">Voidstone Gift to %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">Voidstone Gift from:</string>
+    <string name="voidstone_gift_to_label">Voidstone Gift to:</string>
+    <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
+    <string name="transaction_fee">includes %d%% fee</string>
+    <string name="transaction_fee_amount">-%s fee</string>
 
     <!-- Search Profile -->
     <string name="search_account">Search Account</string>
@@ -557,11 +573,19 @@
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
+    <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
     <string name="chat_close">Chiudi Chat</string>
     <string name="chat_message_hint">Scrivi messaggio…</string>
     <string name="chat_send_message">Invia Messaggio</string>
     <string name="copy_name">Copy Name</string>
     <string name="copy_message">Copy Message</string>
+    <string name="view_profile">View Profile</string>
+    <string name="delete_message">Delete Message</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="report_message">Report Message</string>
+    <string name="chat_paused">Chat paused</string>
+    <string name="reply">Reply</string>
+    <string name="replying_to">Replying to %s</string>
 
     <!-- Notification box !-->
     <string name="level_up">Nuovo Livello! %d</string>
@@ -569,6 +593,7 @@
     <string name="stage_clear">Fase %s Completata!</string>
     <string name="stage_failed">Fase %s Fallita!</string>
     <string name="restarting_adventure">Ricominciando l\'Avventura…</string>
+    <string name="server_in_maintenance">Server Maintenance</string>
     <string name="server_reboot">Server Reboot</string>
     <string name="server_shutdown">Server Shutdown</string>
 
@@ -620,6 +645,13 @@
     <string name="dialog_disconnected_message">Lost connection to the server.</string>
     <string name="kicked_from_room">Kicked from Room!</string>
     <string name="banned_from_room">Banned from Room!</string>
+    <string name="enter_room_name">Enter Room Name</string>
+    <string name="room_not_found">Room not found</string>
+    <string name="already_in_room">You are already in a room!</string>
+    <string name="room_closed">Room Closed</string>
+    <string name="room_name">Room Name</string>
+    <string name="reported">Reported</string>
+    <string name="reason">Reason</string>
     <string name="room_crash">La stanza di gioco è crashata: %s</string>
     <string name="app_crash">App crashed: %s</string>
     <string name="dialog_reload">RELOAD</string>
@@ -627,6 +659,14 @@
     <string name="dialog_no">NO</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPIA</string>
+    <string name="dialog_notice">Notice</string>
+    <string name="dialog_warning">Warning</string>
+    <string name="dialog_alert">Alert</string>
+    <string name="dialog_dont_show_again">Don\'t show again</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="dialog_previous">Previous</string>
+    <string name="dialog_next">Next</string>
+    <string name="dialog_update">Update</string>
     <string name="toast_please_wait">Attendere Prego</string>
     <string name="permission_denied">Permission denied</string>
     <string name="dialog_locked">Locked</string>
@@ -659,12 +699,42 @@
     <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router\'s settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
 
     <!-- Player List -->
+    <string name="players">Players</string>
     <string name="player_list_title">PLAYER LIST</string>
     <string name="player_list_count">Players: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Kick Player</string>
     <string name="kick_confirm_message">Kick %s from this room? They may rejoin.</string>
     <string name="ban_confirm_title">Ban Player</string>
     <string name="ban_confirm_message">Are you sure you want to ban %s from this room? They will never be able to rejoin and this cannot be undone!</string>
+
+    <!-- Custom Images -->
+    <string name="custom_images">Custom Images</string>
+    <string name="profile_avatar">Profile Avatar</string>
+    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_image_upload">Upload</string>
+    <string name="custom_image_replace">Replace</string>
+    <string name="custom_image_deselect">Deselect</string>
+    <string name="custom_image_confirm_title">Upload Image</string>
+    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
+    <string name="custom_image_upload_success">Image sent for review</string>
+    <string name="custom_image_selected">Avatar selected</string>
+    <string name="custom_image_deselected">Avatar deselected</string>
+    <string name="custom_image_upload_failed">Failed to upload image</string>
+    <string name="custom_image_read_error">Failed to read image</string>
+    <string name="custom_image_invalid_format">File must be an image</string>
+    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
+    <string name="custom_image_compress_accept">Use Compressed</string>
+    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
+    <string name="custom_image_bought">Custom Image Upload</string>
+    <string name="custom_image_refund">Custom Image Refund</string>
+    <string name="custom_image_slot">Image %1$d</string>
+    <string name="report_avatar">Report Avatar</string>
+    <string name="report_avatar_message">Report the avatar of %1$s?</string>
+    <string name="report_avatar_success">Avatar reported</string>
+    <string name="report_avatar_failed">Failed to report avatar</string>
 
     <!-- Miscellaneous !-->
     <string name="play">Gioca</string>
@@ -717,6 +787,9 @@
     <string name="room_type_local">Local: %s</string>
     <string name="room_type_public">Public: %s</string>
     <string name="room_type_private">Private: %s</string>
+    <string name="room_public">Public</string>
+    <string name="room_private">Private</string>
+    <string name="room_hidden">Hidden</string>
     <string name="map">Mappa</string>
     <string name="size">Dimensione</string>
     <string name="shots">Spari</string>
@@ -735,7 +808,7 @@
     <string name="previous_entity">Entità Precedente</string>
     <string name="next_entity">Entità Successiva</string>
     <string name="level_abbreviated">Lv.%d</string>
-    <string name="left">Rimasto</string>
+    <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Totale</string>
     <string name="unknown">Sconosciuto</string>
     <string name="invalid_selection">Selezione Invalida!</string>
@@ -757,6 +830,8 @@
     <string name="banned_until">Banned until %s</string>
     <string name="muted_until">Muted until %s</string>
     <string name="server_shutting_down">Server is shutting down</string>
+    <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
+    <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
     <string name="forbidden">Forbidden</string>
     <string name="internal_server_error">Internal Server Error</string>
     <string name="unknown_error_code">Unknown error Code %d</string>
@@ -764,15 +839,16 @@
     <string name="timeout">Timed out after %dms</string>
     <string name="success">Success</string>
     <string name="duplicate_action">Duplicate Action</string>
-    <string name="server_in_maintenance">Server In Maintenance</string>
     <string name="invalid_action">Invalid Action</string>
     <string name="invalid_value">Invalid Value</string>
     <string name="admin_cannot_act_self">Cannot perform this action on yourself</string>
     <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
     <string name="code_not_found">Invalid Code</string>
-    <string name="code_expired">Invalid Code</string>
+    <string name="code_expired">Code Expired</string>
     <string name="code_already_redeemed">Code Already Claimed!</string>
     <string name="clan_owner_must_transfer_error">You must transfer ownership to another member before leaving.</string>
     <string name="mail_cannot_send_self">You cannot send mail to yourself</string>
     <string name="clan_already_requested_other">Already requested to join this clan</string>
+    <string name="before">Before</string>
+    <string name="after">After</string>
 </resources>
