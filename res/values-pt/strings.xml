@@ -359,7 +359,7 @@
     <string name="clan_demoted">Rebaixado(a) a %1$s.</string>
     <string name="clan_kick_confirm_title">Expulsar Membro</string>
     <string name="clan_kick_confirm_message">Expulsar \"%1$s\" (ID: %2$d) do clã? Ele(a) poderá entrar novamente por meio de convite.</string>
-    <string name="clan_ban_confirm_title">Banir Membero</string>
+    <string name="clan_ban_confirm_title">Banir Membro</string>
     <string name="clan_ban_confirm_message">Banir \"%1$s\" (ID: %2$d) do clã? Ele(a) não poderá mais entrar novamente.</string>
     <string name="clan_unban_confirm_title">Desbanir Membro</string>
     <string name="clan_unban_confirm_message">Desbanir \"%1$s\" (ID: %2$d)? Ele(a) poderá entrar novamente.</string>
@@ -382,7 +382,7 @@
     <string name="clan_donate_hint">Valor (100 – 100.000)</string>
     <string name="clan_donate_sent">Doação concluída!</string>
     <string name="clan_not_a_member">Você não é um(a) membro deste clã.</string>
-    <string name="clan_already_requested">Você já tem uma solicitação de entrada pendente a um outro clã.</string>
+    <string name="clan_already_requested">Você já tem uma solicitação de entrada pendente para um outro clã.</string>
     <string name="clan_copy_tag">Copiar Tag</string>
     <string name="clan_creator">Criador(a)</string>
     <string name="clan_history">Histórico do Clã</string>
@@ -402,7 +402,7 @@
     <string name="clan_search_hint">Procurar por ID ou nome</string>
     <string name="clan_promote_to_owner">Promover a Dono(a)</string>
     <string name="clan_transfer_ownership_title">Transferir Liderança</string>
-    <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança a \"%1$s\" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
+    <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança para \"%1$s\" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
     <string name="clan_transfer_ownership_id_mismatch">O ID não corresponde.</string>
     <string name="clan_customize_name_color">Cor do Nome do Clã</string>
     <string name="clan_customize_tag_color">Cor da Tag do Clã</string>
@@ -484,7 +484,7 @@
     <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo(a).</string>
     <string name="mail_title_too_long">Conteúdo do título muito longo</string>
     <string name="mail_content_too_long">Conteúdo do texto muito longo</string>
-    <string name="mail_sent_success">Enviadas</string>
+    <string name="mail_sent_success">Enviado</string>
     <string name="mark_unread">Marcar como Não Lida</string>
     <string name="copy_verification_code">Copiar Código de Verificação</string>
     <string name="code_copied">Código copiado para a área de transferência!</string>
@@ -699,7 +699,7 @@
     <string name="remote_lan_connections">É necessário redirecionar a porta UDP %d ou, nas configurações do seu roteador, ativar o DMZ para permitir que outros clientes entrem usando seu IP público. As conexões poderão falhar se a sua rede estiver sob um NAT/CGNAT Simétrico. Visite %s para saber mais e verificar o tipo de NAT do seu provedor de Internet.</string>
 
     <!-- Player List -->
-    <string name="players">Players</string>
+    <string name="players">Jogadores</string>
     <string name="player_list_title">LISTA DE JOGADORES</string>
     <string name="player_list_count">Jogadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Expulsar Jogador(a)</string>
@@ -710,7 +710,7 @@
     <!-- Custom Images -->
     <string name="custom_images">Imagens Personalizadas</string>
     <string name="profile_avatar">Ícone do Perfil</string>
-    <string name="custom_image_rules">Conteúdos explicitamente proibidos:\n\n- NSFW/Conteúdo sexual\n- Violência explícita/Gore\n- Armas\n- Símbolos de ódio\n- Discurso de ódio/ Discriminação\n- Drogas\n- Conteúdo chocante/repugnante\n- Personagens/logotipos protegidas por direitos autorais\n- Referências a álcool/cigarro\n- Imagens de terror/assustadoras</string>
+    <string name="custom_image_rules">Conteúdos explicitamente proibidos:\n\n- NSFW/Conteúdo sexual\n- Violência explícita/Gore\n- Armas\n- Símbolos de ódio\n- Discurso de ódio/ Discriminação\n- Drogas\n- Conteúdo chocante/repugnante\n- Obras protegidas por direitos autorais (ex.: personagens e logotipos)\n- Referências a álcool/cigarro\n- Imagens de terror/assustadoras</string>
     <string name="custom_image_upload">Enviar</string>
     <string name="custom_image_replace">Substituir</string>
     <string name="custom_image_deselect">Desselecionar</string>
@@ -788,7 +788,7 @@
     <string name="room_type_public">Público: %s</string>
     <string name="room_type_private">Privado: %s</string>
     <string name="room_public">Pública</string>
-    <string name="room_private">Privata</string>
+    <string name="room_private">Privada</string>
     <string name="room_hidden">Escondida</string>
     <string name="map">Mapa</string>
     <string name="size">Tamanho</string>
@@ -801,7 +801,7 @@
     <string name="ur" translatable="false">UR</string>
     <string name="uptime">Tempo ativo(a): %s</string>
     <string name="players_count">Jogadores</string>
-    <string name="show_ui">Mostrar IU</string>
+    <string name="show_ui">Exibir IU</string>
     <string name="open_menu">Abrir Menu</string>
     <string name="stop_spectating">Parar de Telar</string>
     <string name="spectate">Telar</string>
@@ -823,7 +823,7 @@
     <string name="rate_limited">Aguarde %d segundo(s) e tente novamente.</string>
     <string name="nonexistent_user">Usuário não encontrado</string>
     <string name="not_enough_voidstones">Pedras do Vazio insuficientes</string>
-    <string name="database_write_fail">Falha na gravação do banco de dados</string>
+    <string name="database_write_fail">Falha no salvamento do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
     <string name="banned">Banido(a)</string>
     <string name="muted">Silenciado(a)</string>
@@ -836,13 +836,13 @@
     <string name="internal_server_error">Erro Interno do Servidor</string>
     <string name="unknown_error_code">Erro desconhecido. Código %d</string>
     <string name="page_x_of_y">Página %s de %s</string>
-    <string name="timeout">Tempo esgotado após %dms</string>
-    <string name="success">Bem-sucedido</string>
+    <string name="timeout">Inativo(a) por %dms</string>
+    <string name="success">Concluído com sucesso</string>
     <string name="duplicate_action">Ação Duplicada</string>
     <string name="invalid_action">Ação Inválida</string>
-    <string name="invalid_value">Valor Inválidi</string>
+    <string name="invalid_value">Valor Inválido</string>
     <string name="admin_cannot_act_self">Não é possível executar esta ação em si mesmo(a)</string>
-    <string name="admin_cannot_act_on_staff">Não é possívele executar esta ação em membros staff</string>
+    <string name="admin_cannot_act_on_staff">Não é possível executar esta ação em membros staff</string>
     <string name="code_not_found">Código Inválido</string>
     <string name="code_expired">Código Expirado</string>
     <string name="code_already_redeemed">Código Já Resgatado!</string>

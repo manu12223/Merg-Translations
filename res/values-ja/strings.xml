@@ -579,7 +579,7 @@
     <string name="chat_send_message">メッセージを送信</string>
     <string name="copy_name">名前をコピー</string>
     <string name="copy_message">メッセージをコピー</string>
-    <string name="view_profile">プロフィールを表示</string>
+    <string name="view_profile">プロフィールへ</string>
     <string name="delete_message">メッセージを削除</string>
     <string name="edit_message">メッセージを編集</string>
     <string name="report_message">メッセージを報告</string>
