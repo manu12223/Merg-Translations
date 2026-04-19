@@ -646,7 +646,7 @@
     <string name="kicked_from_room">キックされました！</string>
     <string name="banned_from_room">バンされました！</string>
     <string name="enter_room_name">ルーム名を入力</string>
-    <string name="room_not_found">ルームが見つかりませんでした</string>
+    <string name="room_not_found">ルームは見つかりませんでした</string>
     <string name="already_in_room">既にルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
