@@ -149,15 +149,15 @@
     <!-- Shop -->
     <string name="shop">ショップ</string>
     <string name="free_voidstones">無料ボイドストーン！</string>
-    <string name="free_voidstones_subtitle">スクエアを選択し、広告を視聴してボイドストーンを獲得しましょう！</string>
+    <string name="free_voidstones_subtitle">マスを選び、広告を視聴してボイドストーンをケットしましょう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d個・%2$s後にリセット</string>
-    <string name="pick">選択</string>
+    <string name="pick">選ぶ</string>
     <string name="redeem_code">コードを利用</string>
     <string name="invalid_code">無効なコードです</string>
     <string name="code_already_claimed">コードが既に利用されました！</string>
     <string name="successfully_claimed_code">リワード利用済み</string>
-    <string name="reward_voidstones">+%s枚のボイドストーン</string>
+    <string name="reward_voidstones">＋%s枚のボイドストーン</string>
     <string name="reward_unlock">アンロック: %s</string>
     <string name="reward_name_color">ネームのカラー</string>
     <string name="reward_name_color_gradient">ネームのグラデーション</string>
@@ -205,20 +205,20 @@
     <string name="login">ログイン</string>
     <string name="login_google">Google でサインイン</string>
     <string name="logout">ログアウト</string>
-    <string name="logout_all_devices">すべてのデバイスでログアウト</string>
+    <string name="logout_all_devices">すべてのデバイスからログアウト</string>
     <string name="change_name">名前を変更</string>
     <string name="copy_id">IDをコピー</string>
     <string name="created">作成日付: %s</string>
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介を保存</string>
     <string name="profile_description_placeholder">自己紹介を入力…</string>
-    <string name="profile_description_save_success">自己紹介保存完了</string>
+    <string name="profile_description_save_success">自己紹介の保存完了</string>
     <string name="profile_description_save_failed">自己紹介が保存できませんでした</string>
     <string name="profile_description_too_long">自己紹介が長すぎます！（最大%d文字）</string>
     <string name="profile_description_too_large">自己紹介が%sより長いです</string>
     <string name="unlock_description_color">自己紹介の文字のカラーをアンロック</string>
     <string name="description_text_color">自己紹介の文字のカラー</string>
-    <string name="unlock_description_color_success">自己紹介の文字のカラーアンロック完了！</string>
+    <string name="unlock_description_color_success">自己紹介の文字のカラーのアンロック完了！</string>
     <string name="unlock_description_color_already_unlocked">自己紹介の文字のカラーは既にアンロックされました</string>
     <string name="statistics">統計</string>
     <string name="achievements">実績</string>
@@ -241,7 +241,7 @@
     <string name="profile_name_change_error">名前が変更できませんでした: %d</string>
     <string name="profile_goodbye">またいつかよね！ :(</string>
     <string name="profile_logged_in_with_name">『%s』にログインしました</string>
-    <string name="profile_logged_in">ログイン済</string>
+    <string name="profile_logged_in">ログイン済み</string>
     <string name="profile_logout_confirm">『%s』からログアウト？</string>
     <string name="profile_logout_confirm_no_name">ログアウトしますか？</string>
     <string name="profile_logout_all_confirm">すべてのデバイスで『%s』からログアウトしますか？最大1時間かかることがあります。</string>
@@ -307,7 +307,7 @@
     <string name="voidstone_gift_from_label">ボイドストーンのギフトの贈り主:</string>
     <string name="voidstone_gift_to_label">ボイドストーンのギフトの受取人:</string>
     <string name="voidstone_gift_player">「%1$s」さん（ID %2$d）</string>
-    <string name="transaction_fee">%d%%の手数料が含まれます</string>
+    <string name="transaction_fee">%d%%の手数料が含まれる</string>
     <string name="transaction_fee_amount">-%sの手数料</string>
 
     <!-- Search Profile -->
@@ -340,7 +340,7 @@
     <string name="clan_disband_confirm">クランを解散してもよろしいですか？これは取り消せません！</string>
     <string name="clan_invite">プレイヤーを招待</string>
     <string name="clan_invite_hint">名前またはIDを入力して招待を送信する</string>
-    <string name="clan_settings">クランの設定</string>
+    <string name="clan_settings">クラン設定</string>
     <string name="clan_join_mode">参加モード</string>
     <string name="clan_join_mode_open">パブリック</string>
     <string name="clan_join_mode_request">招待のみ</string>
@@ -370,11 +370,11 @@
     <string name="clan_revoke_invite_confirm_message">「%1$s」さん（ID %2$d）への招待を取り消しますか？</string>
     <string name="clan_invite_sent">招待送信済み！</string>
     <string name="clan_player_not_found">プレイヤーは見つかりませんでした</string>
-    <string name="clan_player_banned">このユーザーはクランからバンされました。</string>
-    <string name="clan_already_invited">このユーザーは既に招待済みか、他のクランにいます。</string>
+    <string name="clan_player_banned">このユーザーがクランからバンされています。</string>
+    <string name="clan_already_invited">このユーザーが既に招待されたか、他のクランにいます。</string>
     <string name="clan_full">クランが満員です。</string>
     <string name="clan_join_button_full">クラン満員</string>
-    <string name="clan_join_request_sent">リクエスト送信済み</string>
+    <string name="clan_join_request_sent">リクエストを送信済み</string>
     <string name="clan_invite_list_full">このクランの招待リストが満員（最大100件）です。</string>
     <string name="clan_player_invite_list_full">このユーザーの保留中の招待は既に上限に達しています。</string>
     <string name="clan_request_list_full">このクランの参加リクエストのリストが満員（最大100件）です。</string>
@@ -387,13 +387,13 @@
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
     <string name="clan_history_no_entries">履歴はありません</string>
-    <string name="clan_history_event_join">参加済</string>
-    <string name="clan_history_event_leave">脱退済</string>
-    <string name="clan_history_event_kick">キック済</string>
-    <string name="clan_history_event_ban">バン済</string>
-    <string name="clan_history_event_promote">昇格済</string>
-    <string name="clan_history_event_demote">広角済</string>
-    <string name="clan_history_event_donation">寄付済</string>
+    <string name="clan_history_event_join">参加済み</string>
+    <string name="clan_history_event_leave">脱退済み</string>
+    <string name="clan_history_event_kick">キック済み</string>
+    <string name="clan_history_event_ban">バン済み</string>
+    <string name="clan_history_event_promote">昇格済み</string>
+    <string name="clan_history_event_demote">広角済み</string>
+    <string name="clan_history_event_donation">寄付済み</string>
     <string name="clan_history_id">履歴ID: %d</string>
     <string name="clan_public_profile">パブリッククランの説明</string>
     <string name="clan_kicked_banned_players">キック済／バン中のユーザー</string>
@@ -402,7 +402,7 @@
     <string name="clan_search_hint">名前またはIDで検索</string>
     <string name="clan_promote_to_owner">オーナーシップを移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップを移転する</string>
-    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）へ移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーのIDを入力して確認してください:</string>
+    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーのIDを入力して確認してください:</string>
     <string name="clan_transfer_ownership_id_mismatch">無効なIDです。</string>
     <string name="clan_customize_name_color">クラン名のカラー</string>
     <string name="clan_customize_tag_color">クランタグのカラー</string>
@@ -414,26 +414,26 @@
     <string name="clan_unlock_name_font">クラン名のフォントをアンロック</string>
     <string name="clan_unlock_description_color">クラン説明のカラーをアンロック</string>
     <string name="clan_unlock_name_gradient">クラン名のグラデーションをアンロック</string>
-    <string name="clan_color_saved">クランカラー保存完了！</string>
-    <string name="clan_color_save_failed">クランカラーが保存できませんでした</string>
-    <string name="clan_name_color_saved">クラン名のカラー保存完了！</string>
+    <string name="clan_color_saved">クラン背景のカラーの保存完了！</string>
+    <string name="clan_color_save_failed">クラン背景のカラーが保存できませんでした</string>
+    <string name="clan_name_color_saved">クラン名のカラーの保存完了！</string>
     <string name="clan_name_color_save_failed">クラン名のカラーが保存できませんでした</string>
     <string name="clan_name_font">クラン名のフォント</string>
-    <string name="clan_name_font_saved">クラン名のフォント保存完了！</string>
+    <string name="clan_name_font_saved">クラン名のフォントの保存完了！</string>
     <string name="clan_name_font_save_failed">クラン名のフォントが保存できませんでした</string>
-    <string name="clan_description_saved">クラン説明保存完了！</string>
+    <string name="clan_description_saved">クラン説明の保存完了！</string>
     <string name="clan_description_save">クラン説明を保存</string>
     <string name="clan_description_save_failed">クラン説明が保存できませんでした</string>
 
     <string name="clan_feature_not_unlocked">クランの機能はアンロックされていません</string>
-    <string name="clan_history_event_purchase_name_color">クラン名のカラー購入済み</string>
-    <string name="clan_history_event_purchase_name_gradient">クラン名のグラデーション購入済み</string>
-    <string name="clan_history_event_purchase_name_font">クラン名のフォント購入済み</string>
-    <string name="clan_history_event_purchase_color">クラン背景のカラー購入済み</string>
-    <string name="clan_history_event_purchase_gradient">クラン背景のグラデーション購入済み</string>
-    <string name="clan_history_event_purchase_triple_gradient">クラン背景の3色のグラデーション購入済み</string>
-    <string name="clan_history_event_purchase_description_color">クラン説明のカラー購入済み</string>
-    <string name="clan_history_event_rename">クラン名変更済み</string>
+    <string name="clan_history_event_purchase_name_color">クラン名のカラーを購入済み</string>
+    <string name="clan_history_event_purchase_name_gradient">クラン名のグラデーションを購入済み</string>
+    <string name="clan_history_event_purchase_name_font">クラン名のフォントを購入済み</string>
+    <string name="clan_history_event_purchase_color">クラン背景のカラーを購入済み</string>
+    <string name="clan_history_event_purchase_gradient">クラン背景のグラデーションを購入済み</string>
+    <string name="clan_history_event_purchase_triple_gradient">クラン背景の3色のグラデーションを購入済み</string>
+    <string name="clan_history_event_purchase_description_color">クラン説明のカラーを購入済み</string>
+    <string name="clan_history_event_rename">クラン名を変更済み</string>
 
     <!-- Statistics !-->
     <string name="all">すべて</string>
@@ -469,7 +469,7 @@
 
     <!-- Mail !-->
     <string name="mail">メールボックス</string>
-    <string name="sent_mail_to_id">%d へメール送信完了</string>
+    <string name="sent_mail_to_id">%d にメールを送信済み</string>
     <string name="mail_id">メールID: %d</string>
     <string name="no_mail_yet">メールはこちらに表示されます</string>
     <string name="mail_from">送信者:</string>
@@ -480,11 +480,11 @@
     <string name="mail_reply">返信</string>
     <string name="mail_title_hint">タイトル</string>
     <string name="mail_content_hint">テキスト</string>
-    <string name="mail_recipient_not_found">宛先が見つかりませんでした</string>
-    <string name="mail_send_to_self">メールを自分へ送信できません</string>
+    <string name="mail_recipient_not_found">宛先は見つかりませんでした</string>
+    <string name="mail_send_to_self">自分宛てにメールを送信できません</string>
     <string name="mail_title_too_long">タイトルが長すぎます</string>
     <string name="mail_content_too_long">テキストが長すぎます</string>
-    <string name="mail_sent_success">送信完了</string>
+    <string name="mail_sent_success">送信済</string>
     <string name="mark_unread">未読にする</string>
     <string name="copy_verification_code">確認コードをコピー</string>
     <string name="code_copied">コードがクリップボードへコピーされました</string>
@@ -512,7 +512,7 @@
     <string name="mapsize_small">小</string>
     <string name="mapsize_medium">普通</string>
     <string name="mapsize_large">大</string>
-    <string name="mapsize_xl">巨大</string>
+    <string name="mapsize_xl">最大</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">やさしい</string>
@@ -522,16 +522,16 @@
     <!-- Adventure mode !-->
     <string name="adventure_stage">ステージ</string>
     <string name="adventure_initializing">初期化中…</string>
-    <string name="adventure_obj_eat_all_bots">ボットをすべて食べよう！</string>
-    <string name="adventure_obj_survive">生き残ろう！</string>
+    <string name="adventure_obj_eat_all_bots">ボットをすべて食べよう</string>
+    <string name="adventure_obj_survive">生き残ろう</string>
     <string name="adventure_obj_high_speed">スピードアップ！</string>
     <string name="adventure_obj_more_holes">もっとホール！</string>
-    <string name="adventure_obj_collect_food">ドットを%d個集めよう！</string>
+    <string name="adventure_obj_collect_food">ドットを%d個集めよう</string>
     <string name="adventure_obj_invisible_bots">不可視のボット！</string>
     <string name="adventure_obj_growing_bots">サイズを稼いでいるボット！</string>
-    <string name="adventure_obj_reach_size">サイズが%dに達しよう！</string>
-    <string name="adventure_obj_finish_first">1位になろう！</string>
-    <string name="adventure_obj_collect_voidstones">ボイドストーンを%d個集めよう！</string>
+    <string name="adventure_obj_reach_size">サイズが%dに達しよう</string>
+    <string name="adventure_obj_finish_first">1位になろう</string>
+    <string name="adventure_obj_collect_voidstones">ボイドストーンを%d個集めよう</string>
 
     <!-- Timer text !-->
     <string name="timer_time">残り時間</string>
@@ -585,14 +585,14 @@
     <string name="report_message">メッセージを報告</string>
     <string name="chat_paused">チャットが停止中です</string>
     <string name="reply">返信</string>
-    <string name="replying_to">「%s」さんへ返信中</string>
+    <string name="replying_to">「%s」さんに返信中</string>
 
     <!-- Notification box !-->
     <string name="level_up">レベルアップ！ %d</string>
     <string name="game_over">ゲームオーバー！</string>
     <string name="stage_clear">ステージ %s クリア！</string>
     <string name="stage_failed">ステージ %s 失敗！</string>
-    <string name="restarting_adventure">アドベンチャー再起動中…</string>
+    <string name="restarting_adventure">アドベンチャーを再起動中…</string>
     <string name="server_in_maintenance">サーバーはメンテナンス中です</string>
     <string name="server_reboot">サーバー再起動</string>
     <string name="server_shutdown">サーバーシャットダウン</string>
@@ -613,11 +613,11 @@
     <!-- In Game UI !-->
     <string name="player_size">サイズ: %d</string>
     <string name="effective_size">表示サイズ: %d</string>
-    <string name="decay">衰退: %.2f/s</string>
+    <string name="decay">サイズ減少: %.2f/s</string>
     <string name="pieces">スプリット: %1d/%2d</string>
     <string name="merge">マージまで: %ss</string>
     <string name="invincibility">無敵: %ss</string>
-    <string name="speed_boost">+スピード: %ss</string>
+    <string name="speed_boost">＋スピード: %ss</string>
     <string name="xp">経験値</string>
     <string name="level">レベル</string>
     <string name="level_number">レベル: %d</string>
@@ -637,16 +637,16 @@
     <!-- Dialogs -->
     <string name="dialog_confirm">確認</string>
     <string name="dialog_confirm_account_deletion">アカウントを削除</string>
-    <string name="dialog_leave_game">ゲームを終了？</string>
-    <string name="dialog_respawn_warning">リスポーン？現在のサイズが失われます！</string>
-    <string name="dialog_change_language">言語を『%s』に変更？アプリが再起動されます。</string>
+    <string name="dialog_leave_game">ゲームを終了してもよろしいですか？</string>
+    <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズが失われます！</string>
+    <string name="dialog_change_language">言語を『%s』に変更しますか？アプリが再起動されます。</string>
     <string name="dialog_connection_error">接続エラー</string>
     <string name="dialog_disconnected">切断されました</string>
     <string name="dialog_disconnected_message">サーバーから切断されました。</string>
     <string name="kicked_from_room">キックされました！</string>
     <string name="banned_from_room">バンされました！</string>
     <string name="enter_room_name">ルーム名を入力</string>
-    <string name="room_not_found">ルームは見つかりませんでした</string>
+    <string name="room_not_found">ルームが見つかりませんでした</string>
     <string name="already_in_room">既にルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
@@ -670,11 +670,11 @@
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
-    <string name="duplicate_connection">既にアカウントへ接続しました！</string>
+    <string name="duplicate_connection">既にアカウントに接続しました！</string>
     <string name="outdated_client">クライアントの更新が必要です！\nクライアント: %1$s (%2$d)\nサーバー: %3$s (%4$d)</string>
 
     <!-- Block Player -->
-    <string name="blocked_players">ブロック中のプレイヤーのリスト</string>
+    <string name="blocked_players">ブロックリスト</string>
     <string name="no_blocked_players">ブロックしたプレイヤーはこちらに表示されます</string>
     <string name="unblock_confirm_message">「%1$s」さん（ID %2$d）をブロック解除してもよろしいですか？</string>
     <string name="block_player">ブロック</string>
@@ -684,7 +684,7 @@
     <string name="player_unblocked">プレイヤーがブロック解除されました</string>
     <string name="player_blocked">プレイヤーがブロックされました</string>
     <string name="you_blocked_user">プレイヤーをブロックしました</string>
-    <string name="user_blocked_you">プレイヤーへブロックされました</string>
+    <string name="user_blocked_you">プレイヤーにブロックされています</string>
     <string name="both_blocked">両方のプレイヤーがブロックし合いました</string>
 
     <!-- LAN Multiplayer -->
@@ -696,7 +696,7 @@
     <string name="enter_ip">IPを入力</string>
     <string name="join_ip_title">IPアドレスに参加</string>
     <string name="tap_to_reveal">タップして表示</string>
-    <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZを有効にする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
+    <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZをオンにする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
 
     <!-- Player List -->
     <string name="players">プレイヤー</string>
@@ -829,25 +829,25 @@
     <string name="muted">ミュート中</string>
     <string name="banned_until">%sまでバン中です</string>
     <string name="muted_until">%sまでミュート中です</string>
-    <string name="server_shutting_down">サーバーがシャットダウンされています</string>
+    <string name="server_shutting_down">サーバーがシャットダウンしています</string>
     <string name="server_rebooting">サーバーは再起動中です。まもなく再度お試しください。</string>
     <string name="server_maintenance">サーバーはメンテナンス中です。しばらくお待ちの上、再度お試しください。</string>
     <string name="forbidden">禁止中</string>
     <string name="internal_server_error">内部サーバーエラー</string>
     <string name="unknown_error_code">不明なエラーです。コード %d</string>
     <string name="page_x_of_y">ページ：%s／%s</string>
-    <string name="timeout">%dms後でタイムアウト</string>
+    <string name="timeout">%dms後にタイムアウト</string>
     <string name="success">完了</string>
     <string name="duplicate_action">重複操作</string>
     <string name="invalid_action">無効な操作です</string>
     <string name="invalid_value">無効な値です</string>
-    <string name="admin_cannot_act_self">自分へ実行できません</string>
-    <string name="admin_cannot_act_on_staff">スタッフへ実行できません</string>
+    <string name="admin_cannot_act_self">自分自身に実行できません</string>
+    <string name="admin_cannot_act_on_staff">スタッフに実行できません</string>
     <string name="code_not_found">無効なコードです</string>
     <string name="code_expired">コードの有効期限が切れました</string>
     <string name="code_already_redeemed">コードが既に利用されました！</string>
-    <string name="clan_owner_must_transfer_error">クランから退出するには、他のクランメンバーへオーナーシップを移転する必要があります。</string>
-    <string name="mail_cannot_send_self">自分へ送信できません</string>
+    <string name="clan_owner_must_transfer_error">クランから退出するには、他のクランメンバーにオーナーシップを移転する必要があります。</string>
+    <string name="mail_cannot_send_self">自分宛てに送信できません</string>
     <string name="clan_already_requested_other">既にクラン参加リクエストを送信しました</string>
     <string name="before">以前</string>
     <string name="after">現在</string>
