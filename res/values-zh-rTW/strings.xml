@@ -2,111 +2,111 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Giocatore Singolo</string>
-    <string name="lan_multiplayer">Multigiocatore LAN</string>
-    <string name="online_multiplayer">Multigiocatore Online</string>
-    <string name="options">Opzioni</string>
+    <string name="singleplayer">Singleplayer</string>
+    <string name="lan_multiplayer">LAN Multiplayer</string>
+    <string name="online_multiplayer">Online Multiplayer</string>
+    <string name="options">Options</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copia Email</string>
-    <string name="email_support">Email di supporto:</string>
-    <string name="developer">Sviluppatore:</string>
+    <string name="email_copy">Copy Email</string>
+    <string name="email_support">Support Mail:</string>
+    <string name="developer">Developer:</string>
     <string name="code_contribution">Code Contributions:</string>
-    <string name="skins">Skin:</string>
-    <string name="translations">Traduzioni:</string>
+    <string name="skins">Skins:</string>
+    <string name="translations">Translations:</string>
 
     <!-- Options menu !-->
-    <string name="language">Lingua</string>
-    <string name="language_arabic">العربية | Arabo</string>
-    <string name="language_bengali">বাংলা | Bengalese</string>
-    <string name="language_chinese">简体中文 | Cinese (Semplificato)</string>
-    <string name="language_czech">Čeština | Ceco</string>
-    <string name="language_danish">Dansk | Danese</string>
-    <string name="language_dutch">Nederlands | Olandese</string>
-    <string name="language_english">English | Inglese</string>
-    <string name="language_filipino">Filipino | Tagalog</string>
-    <string name="language_finnish">Suomi | Finlandese</string>
-    <string name="language_french">Français | Francese</string>
-    <string name="language_german">Deutsch | Tedesco</string>
-    <string name="language_greek">Ελληνικά | Greco</string>
-    <string name="language_hindi">हिन्दी | Hindi</string>
-    <string name="language_indonesian">Bahasa Indonesia | Indonesiano</string>
-    <string name="language_italian">Italiano</string>
-    <string name="language_japanese">日本語 | Giapponese</string>
-    <string name="language_korean">한국어 | Coreano</string>
-    <string name="language_polish">Polski | Polacco</string>
-    <string name="language_portuguese">Português (Brasil) | Portoghese (Brasile)</string>
-    <string name="language_romanian">Română | Rumeno</string>
-    <string name="language_russian">Русский | Russo</string>
-    <string name="language_spanish">Español | Spagnolo</string>
-    <string name="language_swedish">Svenska | Svedese</string>
-    <string name="language_thai">ไทย | Tailandese</string>
-    <string name="language_turkish">Türkçe | Turco</string>
-    <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
-    <string name="background">Sfondo</string>
-    <string name="background_black">Nero</string>
-    <string name="background_white">Bianco</string>
-    <string name="controls">Controlli</string>
+    <string name="language">語言</string>
+    <string name="language_arabic">العربية｜阿拉伯語</string>
+    <string name="language_bengali">বাংলা｜孟加拉語</string>
+    <string name="language_chinese">简体中文｜簡體中文</string>
+    <string name="language_czech">Čeština｜捷克語</string>
+    <string name="language_danish">Dansk｜丹麥語</string>
+    <string name="language_dutch">Nederlands｜荷蘭語</string>
+    <string name="language_english">English｜英語</string>
+    <string name="language_filipino">Filipino｜塔加洛語</string>
+    <string name="language_finnish">Suomi｜芬蘭語</string>
+    <string name="language_french">Français｜法語</string>
+    <string name="language_german">Deutsch｜德語</string>
+    <string name="language_greek">Ελληνικά｜希臘語</string>
+    <string name="language_hindi">हिन्दी｜印地語</string>
+    <string name="language_indonesian">Bahasa Indonesia｜印尼語</string>
+    <string name="language_italian">Italiano｜義大利語</string>
+    <string name="language_japanese">日本語｜日語</string>
+    <string name="language_korean">한국어｜韓語</string>
+    <string name="language_polish">Polski｜波蘭語</string>
+    <string name="language_portuguese">Português (Brasil)｜葡萄牙語（巴西）</string>
+    <string name="language_romanian">Română｜羅馬尼亞語</string>
+    <string name="language_russian">Русский｜俄語</string>
+    <string name="language_spanish">Español｜西班牙語</string>
+    <string name="language_swedish">Svenska｜瑞典語</string>
+    <string name="language_thai">ไทย｜泰語</string>
+    <string name="language_turkish">Türkçe｜土耳其語</string>
+    <string name="language_vietnamese">Tiếng Việt｜越南語</string>
+    <string name="background">Background</string>
+    <string name="background_black">Black</string>
+    <string name="background_white">White</string>
+    <string name="controls">Controls</string>
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relative</string>
-    <string name="control_touch"> Tocco</string>
-    <string name="button_layout">Layout tasti</string>
-    <string name="customize">Personalizza</string>
+    <string name="control_touch">Touch</string>
+    <string name="button_layout">Button Layout</string>
+    <string name="customize">Customize</string>
     <string name="opacity">Opacity</string>
-    <string name="leaderboard_size">Dimensione Classifica</string>
+    <string name="leaderboard_size">Leaderboard Size</string>
     <string name="show_grid">Show Grid</string>
     <string name="custom_background_image">Custom Background Image</string>
     <string name="custom_background_select">Select Image</string>
     <string name="custom_background_opacity">Background Opacity</string>
-    <string name="show_performance_metrics">Mostra Prestazioni</string>
-    <string name="skin_outlines">Bordi delle Skin</string>
-    <string name="direction_arrow">Freccia Direzionale</string>
-    <string name="border_above_entities">Border Sopra le Entità</string>
+    <string name="show_performance_metrics">Show Performance Metrics</string>
+    <string name="skin_outlines">Skin Outlines</string>
+    <string name="direction_arrow">Direction Arrow</string>
+    <string name="border_above_entities">Border Above Entities</string>
     <string name="map_border_visible">Show Map Border</string>
     <string name="star_background_enabled">Stars</string>
     <string name="star_color_white">White</string>
     <string name="star_color_black">Black</string>
-    <string name="name_position">Posizione Nomi</string>
-    <string name="name_position_above">Sopra</string>
-    <string name="name_position_center">Centro</string>
-    <string name="name_position_below">Sotto</string>
-    <string name="name_scale">Dimensione Nomi</string>
+    <string name="name_position">Name Position</string>
+    <string name="name_position_above">Above</string>
+    <string name="name_position_center">Center</string>
+    <string name="name_position_below">Below</string>
+    <string name="name_scale">Name Scale</string>
     <string name="timer_format">Timer Format</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
-    <string name="auto_spectate_killer">Guarda il tuo Assassino</string>
-    <string name="cycle_progressbar">Scorri il testo della barra di avanzamento XP</string>
+    <string name="auto_spectate_killer">Auto Spectate Killer</string>
+    <string name="cycle_progressbar">Cycle XP Progress Bar Text</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
-    <string name="game_mode">Modalità di Gioco</string>
-    <string name="select_mode">Scegli Modalità</string>
+    <string name="game_mode">Game Mode</string>
+    <string name="select_mode">Select Mode</string>
     <string name="minimum_players">Minimum Players</string>
     <string name="maximum_players">Maximum Players</string>
-    <string name="decrease_time">Diminuisci il Tempo</string>
-    <string name="increase_time">Aumenta il Tempo</string>
-    <string name="grace_period">Periodo di Grazia</string>
-    <string name="decrease_grace">Diminuisci il Periodo di Grazia</string>
-    <string name="increase_grace">Aumenta il Periodo di Grazia</string>
-    <string name="elimination_count">Numero di Eliminazioni</string>
-    <string name="decrease_elimination_count">Diminuisci il Numero di Eliminazioni</string>
-    <string name="increase_elimination_count">Aumenta il Numero di Eliminazioni</string>
-    <string name="elimination_interval">Intervallo di Eliminazione</string>
-    <string name="decrease_elimination_interval">Diminuisci l\'Intervallo di Eliminazione</string>
-    <string name="increase_elimination_interval">Aumenta l\'Intervallo di Eliminazione</string>
-    <string name="map_size">Dimensione Mappa</string>
-    <string name="bot_count">Numero di Bot</string>
-    <string name="bot_difficulty">Difficoltà dei Bot</string>
-    <string name="decrease_bots">Dimuniusci il Numero di Bot</string>
-    <string name="increase_bots">Aumenta il Numero di Bot</string>
-    <string name="max_split_pieces">Limite Pezzi Divisi</string>
-    <string name="quick_merge">Unione Rapida</string>
-    <string name="no_holes">No Buchi</string>
+    <string name="decrease_time">Decrease Time</string>
+    <string name="increase_time">Increase Time</string>
+    <string name="grace_period">Grace Period</string>
+    <string name="decrease_grace">Decrease Grace Period</string>
+    <string name="increase_grace">Increase Grace Period</string>
+    <string name="elimination_count">Elimination Count</string>
+    <string name="decrease_elimination_count">Decrease Elimination Count</string>
+    <string name="increase_elimination_count">Increase Elimination Count</string>
+    <string name="elimination_interval">Elimination Interval</string>
+    <string name="decrease_elimination_interval">Decrease Elimination Interval</string>
+    <string name="increase_elimination_interval">Increase Elimination Interval</string>
+    <string name="map_size">Map Size</string>
+    <string name="bot_count">Bot Count</string>
+    <string name="bot_difficulty">Bot Difficulty</string>
+    <string name="decrease_bots">Decrease Bots</string>
+    <string name="increase_bots">Increase Bots</string>
+    <string name="max_split_pieces">Max Split Pieces</string>
+    <string name="quick_merge">Quick Merge</string>
+    <string name="no_holes">No Holes</string>
     <string name="circle_map">Circle Map</string>
-    <string name="warning_no_holes">Le statistiche non saranno salvate</string>
+    <string name="warning_no_holes">No statistics will be saved</string>
     <string name="gold_holes">Gold Holes</string>
 
     <!-- Multiplayer -->
@@ -172,16 +172,16 @@
     <string name="voidstone_history">Voidstone History</string>
     <string name="purchase_history">Purchase History</string>
     <string name="no_transactions_yet">No transactions yet</string>
-    <string name="admin_reward">Admin reward</string>
-    <string name="in_app_purchase">in-app purchase</string>
-    <string name="voidstone_gift_received">Voidstone gift received</string>
-    <string name="voidstone_gift_send">Voidstone gift send</string>
-    <string name="skin_bought">Skin bought</string>
-    <string name="profile_name_change_bought">Profile name change bought</string>
-    <string name="profile_name_color_bought">Profile name color bought</string>
-    <string name="profile_color_bought">Profile color bought</string>
-    <string name="profile_color_gradient_bought">Profile color gradient bought</string>
-    <string name="profile_color_gradient_2_bought">Profile color gradient 2 bought</string>
+    <string name="admin_reward">Admin Reward</string>
+    <string name="in_app_purchase">In-app purchase</string>
+    <string name="voidstone_gift_received">Voidstone Gift Received</string>
+    <string name="voidstone_gift_send">Voidstone Gift Sent</string>
+    <string name="skin_bought">Skin</string>
+    <string name="profile_name_change_bought">Profile name change</string>
+    <string name="profile_name_color_bought">Profile name color unlock</string>
+    <string name="profile_color_bought">Profile color unlock</string>
+    <string name="profile_color_gradient_bought">Profile color gradient unlock</string>
+    <string name="profile_color_gradient_2_bought">Profile color gradient 2 unlock</string>
     <string name="profile_name_font_bought">Profile name font unlock</string>
     <string name="admin_deduction">Admin Deduction</string>
     <string name="giveaway">Giveaway Prize</string>
@@ -197,17 +197,17 @@
     <string name="time_hrs">hrs</string>
     <string name="time_min">min</string>
     <string name="time_sec">sec</string>
-    <string name="ad_reward">Ad reward</string>
+    <string name="ad_reward">Video Ad Reward</string>
 
     <!-- Profile -->
-    <string name="profile">Profilo</string>
+    <string name="profile">Profile</string>
     <string name="not_logged_in">Not logged in!</string>
     <string name="login">Login</string>
     <string name="login_google">Sign in with Google</string>
     <string name="logout">Logout</string>
     <string name="logout_all_devices">Logout All Devices</string>
-    <string name="change_name">Cambia Nome</string>
-    <string name="copy_id">Copia ID</string>
+    <string name="change_name">Change Name</string>
+    <string name="copy_id">Copy ID</string>
     <string name="created">Created %s</string>
     <string name="last_seen">Last seen %s</string>
     <string name="save_profile_description">Save Profile Description</string>
@@ -220,12 +220,12 @@
     <string name="description_text_color">Description Text Color</string>
     <string name="unlock_description_color_success">Description text color unlocked!</string>
     <string name="unlock_description_color_already_unlocked">Description text color already unlocked</string>
-    <string name="statistics">Statistiche</string>
-    <string name="achievements">Obiettivi</string>
+    <string name="statistics">Statistics</string>
+    <string name="achievements">Achievements</string>
     <string name="delete_account">DELETE ACCOUNT</string>
-    <string name="change_profile_name">Cambia Nome</string>
-    <string name="enter_profile_name">Inserisci Nome</string>
-    <string name="profile_color">COLORE PROFILO</string>
+    <string name="change_profile_name">Change Profile Name</string>
+    <string name="enter_profile_name">Enter Profile Name</string>
+    <string name="profile_color">PROFILE COLOR</string>
     <string name="profile_text_color_white">White text</string>
     <string name="profile_text_color_black">Black text</string>
     <string name="profile_gradient_color">Gradient color</string>
@@ -312,7 +312,7 @@
 
     <!-- Search Profile -->
     <string name="search_account">Search Account</string>
-    <string name="search_account_by_id_or_name">Search for an account by ID or name</string>
+    <string name="search_account_by_id_or_name">Search for an account by ID or Name</string>
     <string name="no_account_found">No account found</string>
 
     <!-- Clan -->
@@ -436,35 +436,35 @@
     <string name="clan_history_event_rename">Renamed Clan</string>
 
     <!-- Statistics !-->
-    <string name="all">Tutti</string>
-    <string name="stat_highest_size">Dimensione più Alta:</string>
-    <string name="stat_size_gained">Dimensione Guadagnata:</string>
-    <string name="stat_size_lost">Dimensione Persa:</string>
-    <string name="stat_total">Totale:</string>
-    <string name="stat_regular_value">Normale (Valore):</string>
-    <string name="stat_regular_count">Normale (Numero):</string>
+    <string name="all">All</string>
+    <string name="stat_highest_size">Highest Size:</string>
+    <string name="stat_size_gained">Size Gained:</string>
+    <string name="stat_size_lost">Size Lost:</string>
+    <string name="stat_total">Total:</string>
+    <string name="stat_regular_value">Regular (Value):</string>
+    <string name="stat_regular_count">Regular (Count):</string>
     <string name="stat_rainbow_value">Rainbow (Value):</string>
     <string name="stat_rainbow_count">Rainbow (Count):</string>
-    <string name="stat_gold_value">Oro (Valore):</string>
-    <string name="stat_gold_count">Oro (Numero):</string>
-    <string name="stat_silver_value">Argento (Valore)</string>
-    <string name="stat_silver_count">Argento (Numero):</string>
-    <string name="stat_bronze_value">Bronzo (Valore):</string>
-    <string name="stat_bronze_count">Bronzo (Numero):</string>
+    <string name="stat_gold_value">Gold (Value):</string>
+    <string name="stat_gold_count">Gold (Count):</string>
+    <string name="stat_silver_value">Silver (Value):</string>
+    <string name="stat_silver_count">Silver (Count):</string>
+    <string name="stat_bronze_value">Bronze (Value):</string>
+    <string name="stat_bronze_count">Bronze (Count):</string>
     <string name="stat_bonus">Bonus:</string>
-    <string name="stat_food_eaten">Cibo Mangiato:</string>
-    <string name="stat_players_eaten">Giocatori Mangiati:</string>
-    <string name="stat_bots_eaten">Bot Mangiati:</string>
-    <string name="stat_blobs_eaten">Palle Mangiate:</string>
-    <string name="stat_games_won">Partie Vinte:</string>
+    <string name="stat_food_eaten">Food Eaten:</string>
+    <string name="stat_players_eaten">Players Eaten:</string>
+    <string name="stat_bots_eaten">Bots Eaten:</string>
+    <string name="stat_blobs_eaten">Blobs Eaten:</string>
+    <string name="stat_games_won">Games Won:</string>
     <string name="stat_longest_session">Longest Session:</string>
-    <string name="stat_stages_cleared">Fasi Completate:</string>
-    <string name="stat_highest_stage">Fase più Alta:</string>
-    <string name="stat_adventures_completed">Avventure Completate:</string>
+    <string name="stat_stages_cleared">Stages Cleared:</string>
+    <string name="stat_highest_stage">Highest Stage:</string>
+    <string name="stat_adventures_completed">Adventures Completed:</string>
     <string name="stat_goals_scored">Goals Scored:</string>
-    <string name="stat_collisions">Collisioni:</string>
-    <string name="stat_boosts">Potenziamenti:</string>
-    <string name="stat_teleports">Teletrasporti:</string>
+    <string name="stat_collisions">Collisions:</string>
+    <string name="stat_boosts">Boosts:</string>
+    <string name="stat_teleports">Teleports:</string>
     <string name="stat_rewarded_ads_watched">Reward Ads Watched:</string>
 
     <!-- Mail !-->
@@ -490,42 +490,42 @@
     <string name="code_copied">Code copied to clipboard!</string>
 
     <!-- Gamemodes !-->
-    <string name="gamemode_classic">Classico</string>
-    <string name="gamemode_teams">Squadre</string>
-    <string name="gamemode_survival">Sopravvivenza</string>
-    <string name="gamemode_team_survival">Sopravvivenza a Squadre</string>
-    <string name="gamemode_knockout">Eliminazione</string>
-    <string name="gamemode_adventure">Avventura</string>
+    <string name="gamemode_classic">Classic</string>
+    <string name="gamemode_teams">Teams</string>
+    <string name="gamemode_survival">Survival</string>
+    <string name="gamemode_team_survival">Team Survival</string>
+    <string name="gamemode_knockout">Knockout</string>
+    <string name="gamemode_adventure">Adventure</string>
     <string name="gamemode_soccer">Soccer</string>
-    <string name="gamemode_coming_soon">Prossimamente</string>
-    <string name="description_classic">Mangia giocatori più piccoli e diventa la palla più grande dell\'universo! Avvalorati della tua dimensione per dominare la mappa, ma fai attenzione a giocatori più grandi che vogliono mangiarti!</string>
-    <string name="description_teams">Unisci le forze con altri giocatori dello stesso colore! Lavorate insieme per intrappolare nemici e diventa la squadra più forte sulla classifica. I compagni di squadra non possono mangiarsi a vicenda.</string>
-    <string name="description_survival">Una vita, un round! Raccogli il più che puoi durante il periodo di grazia. Dopodichè, la morte sarà permanente! Sii l\'ultimo sopravvissuto o il più grande quando scade il tempo per vincere!</string>
-    <string name="description_team_survival">Modalità sopravvivenza con le squadre! Lavora con i tuoi compagni di squadra per eliminare altre squadre. L\'ultima squadra rimasta o quella con dimensione totale maggiore fra tutte quando scade il tempo vince!</string>
-    <string name="description_knockout">Competi in round a eliminazione! È possibile rinascere finché non venite eliminati. I giocatori più piccoli alla fine di ogni intervallo saranno eliminati permanentemente. Sii l\'ultimo rimasto per vincere!</string>
-    <string name="description_adventure">Completa fasi interessanti con obiettivi unici! Progredisci attraverso difficoltà sempre in aumento, ottieni premi, e vedi fino a che punto riesci ad arrivare. Ogni fase porta nuove sfide!</string>
+    <string name="gamemode_coming_soon">Coming Soon</string>
+    <string name="description_classic">Eat smaller players and become the largest blob in the universe! Use your size to dominate the map, but watch out for bigger players who want to eat you!</string>
+    <string name="description_teams">Join forces with other players of the same color! Work together to trap enemies and become the dominant team on the leaderboard. Teammates cannot eat each other.</string>
+    <string name="description_survival">One life, one round! Collect as much as possible before the grace period ends. After that, death is permanent! Be the last one standing or the biggest when time runs out to win!</string>
+    <string name="description_team_survival">Survival mode with teams! Work with your teammates to eliminate other teams. Last team standing or biggest combined size when time is up wins!</string>
+    <string name="description_knockout">Compete in elimination rounds! Players can respawn freely until eliminated at regular intervals. The smallest players at each interval are eliminated permanently. Be the last one standing to win!</string>
+    <string name="description_adventure">Complete challenging stages with unique objectives! Progress through increasing difficulties, earn rewards, and see how far you can go. Each stage brings new challenges!</string>
     <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
-    <string name="description_coming_soon">Questa modalità è in fase di sviluppo, rimani sintonizzato!</string>
+    <string name="description_coming_soon">This mode is coming soon, stay tuned!</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Tiny</string>
-    <string name="mapsize_small">Piccolo</string>
-    <string name="mapsize_medium">Medio</string>
-    <string name="mapsize_large">Grande</string>
+    <string name="mapsize_small">Small</string>
+    <string name="mapsize_medium">Medium</string>
+    <string name="mapsize_large">Large</string>
     <string name="mapsize_xl">XL</string>
 
     <!-- Bot difficulties !-->
-    <string name="difficulty_easy">Facile</string>
-    <string name="difficulty_normal">Normale</string>
-    <string name="difficulty_hard">Difficile</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Hard</string>
 
     <!-- Adventure mode !-->
-    <string name="adventure_stage">Fase</string>
-    <string name="adventure_initializing">Inizializzazione…</string>
-    <string name="adventure_obj_eat_all_bots">Mangia tutti i Bot</string>
-    <string name="adventure_obj_survive">Sopravvivi</string>
-    <string name="adventure_obj_high_speed">Velocità più Alta!</string>
-    <string name="adventure_obj_more_holes">Più Buchi!</string>
+    <string name="adventure_stage">Stage</string>
+    <string name="adventure_initializing">Initializing…</string>
+    <string name="adventure_obj_eat_all_bots">Eat All Bots</string>
+    <string name="adventure_obj_survive">Survive</string>
+    <string name="adventure_obj_high_speed">High Speed!</string>
+    <string name="adventure_obj_more_holes">More holes!</string>
     <string name="adventure_obj_collect_food">Collect %d Food</string>
     <string name="adventure_obj_invisible_bots">Invisible Bots!</string>
     <string name="adventure_obj_growing_bots">Growing Bots!</string>
@@ -534,49 +534,49 @@
     <string name="adventure_obj_collect_voidstones">Collect %d Voidstones</string>
 
     <!-- Timer text !-->
-    <string name="timer_time">Tempo</string>
+    <string name="timer_time">Time</string>
     <string name="timer_overtime">Overtime</string>
     <string name="timer_overtime_count">Overtime %d</string>
-    <string name="timer_grace">Grazia</string>
-    <string name="timer_tiebreaker">Spareggio</string>
-    <string name="timer_winner">Vincitore</string>
+    <string name="timer_grace">Grace</string>
+    <string name="timer_tiebreaker">Tiebreaker</string>
+    <string name="timer_winner">Winner</string>
 
     <!-- Teams !-->
-    <string name="blue_team">Squadra Blu</string>
-    <string name="red_team">Squadra Rossa</string>
-    <string name="green_team">Squadra Verde</string>
-    <string name="yellow_team">Squadra Gialla</string>
+    <string name="blue_team">Blue Team</string>
+    <string name="red_team">Red Team</string>
+    <string name="green_team">Green Team</string>
+    <string name="yellow_team">Yellow Team</string>
 
     <!-- Buttons !-->
-    <string name="buttons_shoot">Pulsante Spara</string>
-    <string name="select_shoot">Seleziona Spara</string>
-    <string name="shoot">Spara</string>
-    <string name="buttons_split">Pulsante Dividi</string>
-    <string name="select_split">Seleziona Dividi</string>
-    <string name="split">Dividi</string>
-    <string name="buttons_customize">Personalizza Pulsanti</string>
-    <string name="buttons_orientation_message">Personalizzazioni in modalità di orientamento Ritratto e Panoramica sono salvate separatamente</string>
+    <string name="buttons_shoot">Shoot Button</string>
+    <string name="select_shoot">Select Shoot</string>
+    <string name="shoot">Shoot</string>
+    <string name="buttons_split">Split Button</string>
+    <string name="select_split">Select Split</string>
+    <string name="split">Split</string>
+    <string name="buttons_customize">Customize Buttons</string>
+    <string name="buttons_orientation_message">Portrait and Landscape customizations are saved separately</string>
 
 
     <!-- Skins !-->
     <string name="skin">Skin</string>
-    <string name="no_skin">Nessuna Skin</string>
-    <string name="selected_skin">Skin Selezionata</string>
-    <string name="select_skin_color">SELEZIONA COLORE</string>
-    <string name="skin_color_preview">Anteprima:</string>
+    <string name="no_skin">No Skin</string>
+    <string name="selected_skin">Selected Skin</string>
+    <string name="select_skin_color">SELECT COLOR</string>
+    <string name="skin_color_preview">Preview:</string>
     <string name="skin_tab_standard">Standard</string>
-    <string name="skin_tab_level">Livello</string>
+    <string name="skin_tab_level">Level</string>
     <string name="skin_tab_voidstones">Voidstones</string>
-    <string name="level_skin_locked">Questa skin si sblocca al Livello %d</string>
-    <string name="level_lock">Blocco livello</string>
+    <string name="level_skin_locked">Skin unlocks at level %d</string>
+    <string name="level_lock">Level lock</string>
 
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
-    <string name="chat_close">Chiudi Chat</string>
-    <string name="chat_message_hint">Scrivi messaggio…</string>
-    <string name="chat_send_message">Invia Messaggio</string>
+    <string name="chat_close">Close Chat</string>
+    <string name="chat_message_hint">Type message…</string>
+    <string name="chat_send_message">Send Message</string>
     <string name="copy_name">Copy Name</string>
     <string name="copy_message">Copy Message</string>
     <string name="view_profile">View Profile</string>
@@ -588,57 +588,57 @@
     <string name="replying_to">Replying to %s</string>
 
     <!-- Notification box !-->
-    <string name="level_up">Nuovo Livello! %d</string>
+    <string name="level_up">Level UP! %d</string>
     <string name="game_over">Game Over!</string>
-    <string name="stage_clear">Fase %s Completata!</string>
-    <string name="stage_failed">Fase %s Fallita!</string>
-    <string name="restarting_adventure">Ricominciando l\'Avventura…</string>
+    <string name="stage_clear">Stage %s Clear!</string>
+    <string name="stage_failed">Stage %s Failed!</string>
+    <string name="restarting_adventure">Restarting adventure…</string>
     <string name="server_in_maintenance">Server Maintenance</string>
     <string name="server_reboot">Server Reboot</string>
     <string name="server_shutdown">Server Shutdown</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%dº</string>
-    <string name="ordinal_second">%dº</string>
-    <string name="ordinal_third">%dº</string>
-    <string name="ordinal_fourth">%dºh</string>
-    <string name="ordinal_fifth">%dº</string>
-    <string name="ordinal_sixth">%dº</string>
-    <string name="ordinal_seventh">%dº</string>
-    <string name="ordinal_eighth">%dº</string>
-    <string name="ordinal_ninth">%dº</string>
-    <string name="ordinal_zeroth">%dº</string>
-    <string name="ordinal_fallback">%dº</string>
+    <string name="ordinal_first">第%d名</string>
+    <string name="ordinal_second">第%d名</string>
+    <string name="ordinal_third">第%d名</string>
+    <string name="ordinal_fourth">第%d名</string>
+    <string name="ordinal_fifth">第%d名</string>
+    <string name="ordinal_sixth">第%d名</string>
+    <string name="ordinal_seventh">第%d名</string>
+    <string name="ordinal_eighth">第%d名</string>
+    <string name="ordinal_ninth">第%d名</string>
+    <string name="ordinal_zeroth">第%d名</string>
+    <string name="ordinal_fallback">第%d名</string>
 
     <!-- In Game UI !-->
-    <string name="player_size">Dimensione: %d</string>
-    <string name="effective_size">Dimensione Effettiva: %d</string>
-    <string name="decay">Decadimento: %.2f/s</string>
-    <string name="pieces">Pezzi: %1d/%2d</string>
-    <string name="merge">Unione: %ss</string>
-    <string name="invincibility">Invincibilità: %ss</string>
-    <string name="speed_boost">+Velocità: %ss</string>
+    <string name="player_size">Size: %d</string>
+    <string name="effective_size">Effective Size: %d</string>
+    <string name="decay">Decay: %.2f/s</string>
+    <string name="pieces">Pieces: %1d/%2d</string>
+    <string name="merge">Merge: %ss</string>
+    <string name="invincibility">Invincibility: %ss</string>
+    <string name="speed_boost">+Speed: %ss</string>
     <string name="xp">XP</string>
-    <string name="level">Livello</string>
+    <string name="level">Level</string>
     <string name="level_number">Level %d</string>
-    <string name="food">Cibo</string>
+    <string name="food">Food</string>
     <string name="voidstones">Voidstones</string>
-    <string name="blobs_eaten">Palle Mangiate</string>
-    <string name="session_stat_size_gained">Dimensione Guadagnata</string>
-    <string name="highest_rank">Rango più Alto</string>
-    <string name="session_stat_highest_size">Dimensione più Alta</string>
+    <string name="blobs_eaten">Blobs Eaten</string>
+    <string name="session_stat_size_gained">Size Gained</string>
+    <string name="highest_rank">Highest Rank</string>
+    <string name="session_stat_highest_size">Highest Size</string>
     <string name="spectate_ball">Ball</string>
-    <string name="leaderboard">Classifica</string>
-    <string name="session_stats">Statistiche di Sessione</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="session_stats">Session Stats</string>
     <string name="debug">Debug</string>
-    <string name="profiler">Profilatore</string>
+    <string name="profiler">Profiler</string>
 
 
     <!-- Dialogs -->
-    <string name="dialog_confirm">Conferma</string>
+    <string name="dialog_confirm">Confirm</string>
     <string name="dialog_confirm_account_deletion">DELETE ACCOUNT</string>
-    <string name="dialog_leave_game">Abbandonare il Gioco?</string>
-    <string name="dialog_respawn_warning">Vuoi rinascere? Perderai tutta la tua Dimensione.</string>
+    <string name="dialog_leave_game">Leave Game?</string>
+    <string name="dialog_respawn_warning">Respawn? You will lose all your Size.</string>
     <string name="dialog_change_language">Change language to %s? The app will be reloaded.</string>
     <string name="dialog_connection_error">Connection Error</string>
     <string name="dialog_disconnected">Disconnected</string>
@@ -652,13 +652,13 @@
     <string name="room_name">Room Name</string>
     <string name="reported">Reported</string>
     <string name="reason">Reason</string>
-    <string name="room_crash">La stanza di gioco è crashata: %s</string>
+    <string name="room_crash">Room crashed: %s</string>
     <string name="app_crash">App crashed: %s</string>
     <string name="dialog_reload">RELOAD</string>
-    <string name="dialog_yes">SÌ</string>
+    <string name="dialog_yes">YES</string>
     <string name="dialog_no">NO</string>
     <string name="dialog_ok">OK</string>
-    <string name="dialog_copy">COPIA</string>
+    <string name="dialog_copy">COPY</string>
     <string name="dialog_notice">Notice</string>
     <string name="dialog_warning">Warning</string>
     <string name="dialog_alert">Alert</string>
@@ -667,7 +667,7 @@
     <string name="dialog_previous">Previous</string>
     <string name="dialog_next">Next</string>
     <string name="dialog_update">Update</string>
-    <string name="toast_please_wait">Attendere Prego</string>
+    <string name="toast_please_wait">Please Wait</string>
     <string name="permission_denied">Permission denied</string>
     <string name="dialog_locked">Locked</string>
     <string name="duplicate_connection">Account already connected!</string>
@@ -737,7 +737,7 @@
     <string name="report_avatar_failed">Failed to report avatar</string>
 
     <!-- Miscellaneous !-->
-    <string name="play">Gioca</string>
+    <string name="play">Play</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -745,14 +745,14 @@
     <string name="sort_xp_asc">XP ↑</string>
     <string name="arrow_expanded">▼</string>
     <string name="arrow_collapsed">▶</string>
-    <string name="respawn">Rinasci</string>
-    <string name="wait">Attendi</string>
+    <string name="respawn">Respawn</string>
+    <string name="wait">Wait</string>
     <string name="exit">Exit</string>
-    <string name="back">Indietro</string>
+    <string name="back">Back</string>
     <string name="mode">Mode</string>
     <string name="confirm">Confirm</string>
-    <string name="save">Salva</string>
-    <string name="saved">Salvato</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
     <string name="saving">Saving…</string>
     <string name="sent">Sent</string>
     <string name="send">Send</string>
@@ -760,29 +760,29 @@
     <string name="buy">Buy</string>
     <string name="buying">Buying…</string>
     <string name="search">Search</string>
-    <string name="cancel">Annulla</string>
-    <string name="close">Chiudi</string>
-    <string name="select">Seleziona</string>
-    <string name="reset">Reimposta</string>
-    <string name="done">Fatto</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="select">Select</string>
+    <string name="reset">Reset</string>
+    <string name="done">Done</string>
     <string name="info">Info</string>
-    <string name="empty">Vuoto</string>
+    <string name="empty">Empty</string>
     <string name="online">Online</string>
     <string name="offline">Offline</string>
-    <string name="name">Nome</string>
+    <string name="name">Name</string>
     <string name="owner">Owner</string>
     <string name="kick">Kick</string>
     <string name="ban">Ban</string>
     <string name="signal">Signal</string>
-    <string name="home">Menù</string>
-    <string name="settings">Impostazioni</string>
-    <string name="team">Squadra</string>
-    <string name="game_menu">MENÙ DI GIOCO</string>
-    <string name="color_picker">SCEGLI COLORE</string>
-    <string name="color_wheel">Ruota dei Colori</string>
-    <string name="brightness">Luminosità</string>
-    <string name="no_one">Nessuno</string>
-    <string name="multiplayer">Multigiocatore</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="team">Team</string>
+    <string name="game_menu">GAME MENU</string>
+    <string name="color_picker">COLOR PICKER</string>
+    <string name="color_wheel">Color Wheel</string>
+    <string name="brightness">Brightness</string>
+    <string name="no_one">No One</string>
+    <string name="multiplayer">Multiplayer</string>
     <string name="loading">Loading…</string>
     <string name="room_type_local">Local: %s</string>
     <string name="room_type_public">Public: %s</string>
@@ -790,34 +790,34 @@
     <string name="room_public">Public</string>
     <string name="room_private">Private</string>
     <string name="room_hidden">Hidden</string>
-    <string name="map">Mappa</string>
-    <string name="size">Dimensione</string>
-    <string name="shots">Spari</string>
+    <string name="map">Map</string>
+    <string name="size">Size</string>
+    <string name="shots">Shots</string>
     <string name="bot">Bot</string>
-    <string name="bots">Bot</string>
+    <string name="bots">Bots</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
     <string name="uptime">Uptime: %s</string>
     <string name="players_count">Players</string>
-    <string name="show_ui">Mostra IU</string>
-    <string name="open_menu">Apri Menù</string>
-    <string name="stop_spectating">Smetti di Guardare</string>
-    <string name="spectate">Guarda</string>
-    <string name="previous_entity">Entità Precedente</string>
-    <string name="next_entity">Entità Successiva</string>
+    <string name="show_ui">Show UI</string>
+    <string name="open_menu">Open Menu</string>
+    <string name="stop_spectating">Stop Spectating</string>
+    <string name="spectate">Spectate</string>
+    <string name="previous_entity">Previous Entity</string>
+    <string name="next_entity">Next Entity</string>
     <string name="level_abbreviated">Lv.%d</string>
     <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
-    <string name="total">Totale</string>
-    <string name="unknown">Sconosciuto</string>
-    <string name="invalid_selection">Selezione Invalida!</string>
+    <string name="total">Total</string>
+    <string name="unknown">Unknown</string>
+    <string name="invalid_selection">Invalid selection!</string>
     <string name="invalid_name">Invalid Name!</string>
     <string name="content_blocked">String contains blocked content</string>
     <string name="connecting">Connecting%s</string>
-    <string name="error">Errore</string>
+    <string name="error">Error</string>
     <string name="error_with_string">Error: %s</string>
-    <string name="copied_to_clipboard">Copiato negli appunti.</string>
+    <string name="copied_to_clipboard">Copied to clipboard.</string>
     <string name="invalid_request">Request malformed or missing required fields</string>
     <string name="invalid_token">Invalid or expired session. Please log in again.</string>
     <string name="rate_limited">Please wait %d second(s) and try again.</string>
