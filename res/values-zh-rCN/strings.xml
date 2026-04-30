@@ -37,7 +37,7 @@
     <string name="language_japanese">日本語</string>
     <string name="language_korean">한국어</string>
     <string name="language_polish">Polski</string>
-    <string name="language_portuguese">Português Brasileiro</string>
+    <string name="language_portuguese">Português (Brasil)</string>
     <string name="language_romanian">Română</string>
     <string name="language_russian">Русский</string>
     <string name="language_spanish">Español</string>
@@ -598,17 +598,17 @@
     <string name="server_shutdown">Server Shutdown</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%dst</string>
-    <string name="ordinal_second">%dnd</string>
-    <string name="ordinal_third">%drd</string>
-    <string name="ordinal_fourth">%dth</string>
-    <string name="ordinal_fifth">%dth</string>
-    <string name="ordinal_sixth">%dth</string>
-    <string name="ordinal_seventh">%dth</string>
-    <string name="ordinal_eighth">%dth</string>
-    <string name="ordinal_ninth">%dth</string>
-    <string name="ordinal_zeroth">%dth</string>
-    <string name="ordinal_fallback">%dth</string>
+    <string name="ordinal_first">第%d名</string>
+    <string name="ordinal_second">第%d名</string>
+    <string name="ordinal_third">第%d名</string>
+    <string name="ordinal_fourth">第%d名</string>
+    <string name="ordinal_fifth">第%d名</string>
+    <string name="ordinal_sixth">第%d名</string>
+    <string name="ordinal_seventh">第%d名</string>
+    <string name="ordinal_eighth">第%d名</string>
+    <string name="ordinal_ninth">第%d名</string>
+    <string name="ordinal_zeroth">第%d名</string>
+    <string name="ordinal_fallback">第%d名</string>
 
     <!-- In Game UI !-->
     <string name="player_size">Size: %d</string>
