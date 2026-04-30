@@ -598,17 +598,17 @@
     <string name="server_shutdown">Server Shutdown</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%dst</string>
-    <string name="ordinal_second">%dnd</string>
-    <string name="ordinal_third">%drd</string>
-    <string name="ordinal_fourth">%dth</string>
-    <string name="ordinal_fifth">%dth</string>
-    <string name="ordinal_sixth">%dth</string>
-    <string name="ordinal_seventh">%dth</string>
-    <string name="ordinal_eighth">%dth</string>
-    <string name="ordinal_ninth">%dth</string>
-    <string name="ordinal_zeroth">%dth</string>
-    <string name="ordinal_fallback">%dth</string>
+    <string name="ordinal_first">%dº</string>
+    <string name="ordinal_second">%dº</string>
+    <string name="ordinal_third">%dº</string>
+    <string name="ordinal_fourth">%dº</string>
+    <string name="ordinal_fifth">%dº</string>
+    <string name="ordinal_sixth">%dº</string>
+    <string name="ordinal_seventh">%dº</string>
+    <string name="ordinal_eighth">%dº</string>
+    <string name="ordinal_ninth">%dº</string>
+    <string name="ordinal_zeroth">%dº</string>
+    <string name="ordinal_fallback">%dº</string>
 
     <!-- In Game UI !-->
     <string name="player_size">Size: %d</string>
