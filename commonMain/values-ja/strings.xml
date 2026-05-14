@@ -626,8 +626,8 @@
     <string name="chat">チャット</string>
     <string name="room_commands" tools:ignore="TypographyDashes">使用可能なコマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1秒〜60秒]\n!pausechat [-1: 停止解除・0: 永久・1秒〜3600秒]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
     <string name="chat_close">チャットを閉じる</string>
-    <string name="chat_message_hint">メッセージを入力…</string>
-    <string name="chat_send_message">メッセージを送信</string>
+    <string name="chat_message_hint">メッセージを書く…</string>
+    <string name="chat_send_message">メッセージを送る</string>
     <string name="copy_name">名前をコピー</string>
     <string name="copy_message">メッセージをコピー</string>
     <string name="view_profile">プロフィールへ</string>
@@ -635,8 +635,8 @@
     <string name="edit_message">メッセージを編集</string>
     <string name="report_message">メッセージを報告</string>
     <string name="chat_paused">チャットが停止中です</string>
-    <string name="reply">返信</string>
-    <string name="replying_to">「%s」さんに返信中</string>
+    <string name="reply">リプライ</string>
+    <string name="replying_to">「%s」さんにリプライ中</string>
 
     <!-- Notification box !-->
     <string name="level_up">レベルアップ！ %d</string>
