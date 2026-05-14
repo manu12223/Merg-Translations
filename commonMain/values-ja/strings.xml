@@ -22,7 +22,7 @@
     <string name="language_arabic">العربية｜アラビア語</string>
     <string name="language_bengali">বাংলা｜ベンガル語</string>
     <string name="language_chinese">简体中文｜中国語（簡体）</string>
-    <string name="language_chinese_traditional">繁體中文 | Chinese (Traditional)</string>
+    <string name="language_chinese_traditional">繁體中文｜中国語（繁体）</string>
     <string name="language_czech">Čeština｜チェコ語</string>
     <string name="language_danish">Dansk｜デンマーク語</string>
     <string name="language_dutch">Nederlands｜オランダ語</string>
@@ -39,7 +39,7 @@
     <string name="language_korean">한국어｜韓国語</string>
     <string name="language_polish">Polski｜ポーランド語</string>
     <string name="language_portuguese">Português (Brasil)｜ブラジルポルトガル語</string>
-    <string name="language_portuguese_portugal">Português (Portugal) | Portuguese (Portugal)</string>
+    <string name="language_portuguese_portugal">Português (Portugal)｜ポルトガル語</string>
     <string name="language_romanian">Română｜ルーマニア語</string>
     <string name="language_russian">Русский｜ロシア語</string>
     <string name="language_spanish">Español｜スペイン語</string>
@@ -115,7 +115,7 @@
     <string name="play_online">オンラインプレイ</string>
     <string name="switch_server">サーバーを切り替え</string>
     <string name="x_players">%s人のプレイヤー</string>
-    <string name="x_player">%s player</string>
+    <string name="x_player">%s人のプレイヤー</string>
     <string name="x_online">%s人がオンライン</string>
     <string name="x_requests">%s件の申請</string>
     <string name="private_room">プライベートルーム</string>
@@ -149,35 +149,35 @@
     <string name="friend_request_error_list_full">フレンドのリストは満員です。</string>
 
     <!-- Competitive (ranked 1v1) -->
-    <string name="competitive">個人戦</string>
-    <string name="competitive_menu">COMPETITIVE</string>
-    <string name="competitive_history">Competitive History</string>
-    <string name="rating_label">Rating</string>
-    <string name="unrated">Unrated</string>
-    <string name="find_opponent">FIND OPPONENT</string>
+    <string name="competitive">バトルゲーム</string>
+    <string name="competitive_menu">バトルゲーム</string>
+    <string name="competitive_history">バトルモードの履歴</string>
+    <string name="rating_label">ランキング</string>
+    <string name="unrated">ランキングなし</string>
+    <string name="find_opponent">摘を探す</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
-    <string name="searching_ellipsis">Searching…</string>
-    <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
-    <string name="global_position">Global #%s</string>
-    <string name="global_label">Global #</string>
-    <string name="wins_draws_losses_winrate">Wins: %1$s · Draws: %2$s · Losses: %3$s · Win rate: %4$s%%</string>
-    <string name="stat_wins_label">Wins: </string>
-    <string name="stat_draws_label"> · Draws: </string>
-    <string name="stat_losses_label"> · Losses: </string>
-    <string name="stat_winrate_label"> · Win rate: </string>
-    <string name="match_starts_in">Match starts in…</string>
-    <string name="vs_label">VS</string>
-    <string name="ongoing_matches">Ongoing matches</string>
-    <string name="match_status_starting">STARTING</string>
-    <string name="match_status_in_progress">IN PROGRESS</string>
-    <string name="match_status_finished">FINISHED</string>
-    <string name="victory">VICTORY</string>
-    <string name="defeat">DEFEAT</string>
-    <string name="draw">DRAW</string>
-    <string name="play_again">Play Again</string>
-    <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
-    <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
-    <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
+    <string name="searching_ellipsis">探しています…</string>
+    <string name="x_searching_y_playing">%1$s件が探し中 · %2$s件が進行中</string>
+    <string name="global_position">グローバルランキング: #%s</string>
+    <string name="global_label">グローバルランキング: #</string>
+    <string name="wins_draws_losses_winrate">勝利数: %1$s · 引分数: %2$s · 敗戦数: %3$s · Win rate: %4$s%%</string>
+    <string name="stat_wins_label">勝利数: </string>
+    <string name="stat_draws_label"> · 引分数: </string>
+    <string name="stat_losses_label"> · 敗戦数: </string>
+    <string name="stat_winrate_label"> · 勝率: </string>
+    <string name="match_starts_in">マッチの開始…</string>
+    <string name="vs_label">対</string>
+    <string name="ongoing_matches">進行中のマッチ</string>
+    <string name="match_status_starting">開始中</string>
+    <string name="match_status_in_progress">進行中</string>
+    <string name="match_status_finished">終了</string>
+    <string name="victory">勝利</string>
+    <string name="defeat">敗戦</string>
+    <string name="draw">引分</string>
+    <string name="play_again">再プレイ</string>
+    <string name="play_x_more_matches_to_rated">あと%d件プレイしてランキングに入りましょう！</string>
+    <string name="play_one_more_match_to_rated">あと1件プレイしてランキングに入りましょう！</string>
+    <string name="history_viewer_vs_opponent">「%1$s」さん 対 「%2$s」さん</string>
 
     <!-- Shop -->
     <string name="shop">ショップ</string>
@@ -237,13 +237,13 @@
     <string name="not_logged_in">ログインしていません！</string>
     <string name="login">ログイン</string>
     <string name="login_google">Google でサインイン</string>
-    <string name="login_apple">Sign in with Apple</string>
+    <string name="login_apple">Apple でサインイン</string>
     <string name="logout">ログアウト</string>
     <string name="logout_all_devices">すべてのデバイスからログアウト</string>
     <string name="change_name">名前を変更</string>
     <string name="copy_id">IDをコピー</string>
-    <string name="share_id">Share ID</string>
-    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
+    <string name="share_id">IDをシェア</string>
+    <string name="share_id_message">次のMerg IDまで追加してね！ %1$s</string>
     <string name="created">作成日付: %s</string>
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介を保存</string>
@@ -471,18 +471,18 @@
     <string name="clan_history_event_rename">クラン名を変更済み</string>
 
     <!-- Leaderboard !-->
-    <string name="leaderboard_type">Leaderboard Type</string>
+    <string name="leaderboard_type">リーダーボード種類</string>
     <string name="leaderboard_xp_description">Experience points. Required to level up. Can be obtained by doing any meaningful action in game.</string>
     <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
-    <string name="leaderboard_rating">Rating</string>
-    <string name="leaderboard_period_daily">Daily</string>
-    <string name="leaderboard_period_weekly">Weekly</string>
-    <string name="leaderboard_period_monthly">Monthly</string>
-    <string name="leaderboard_period_all_time">All Time</string>
-    <string name="leaderboard_score">Score</string>
-    <string name="leaderboard_rank">Rank</string>
+    <string name="leaderboard_rating">ランキング</string>
+    <string name="leaderboard_period_daily">デイリー</string>
+    <string name="leaderboard_period_weekly">ウィークリー</string>
+    <string name="leaderboard_period_monthly">モンスリー</string>
+    <string name="leaderboard_period_all_time">歴代</string>
+    <string name="leaderboard_score">スコア</string>
+    <string name="leaderboard_rank">ランキング</string>
     <string name="leaderboard_empty">No entries yet</string>
-    <string name="leaderboard_load_error">Failed to load leaderboard</string>
+    <string name="leaderboard_load_error">リーダーボードが読み込めませんでした</string>
 
     <!-- Statistics !-->
     <string name="all">すべて</string>
@@ -518,22 +518,22 @@
 
     <!-- Mail !-->
     <string name="mail">メールボックス</string>
-    <string name="sent_mail_to_id">%d にメールを送信済み</string>
+    <string name="sent_mail_to_id">%d にメールを送りました</string>
     <string name="mail_id">メールID: %d</string>
     <string name="no_mail_yet">メールはこちらに表示されます</string>
-    <string name="mail_from">送信者:</string>
-    <string name="mail_to">受信者:</string>
-    <string name="received">受信済</string>
+    <string name="mail_from">送り主:</string>
+    <string name="mail_to">受取人:</string>
+    <string name="received">受取済み</string>
     <string name="refresh">更新</string>
     <string name="write_mail">メールを書く</string>
-    <string name="mail_reply">返信</string>
+    <string name="mail_reply">リプライ</string>
     <string name="mail_title_hint">タイトル</string>
     <string name="mail_content_hint">テキスト</string>
     <string name="mail_recipient_not_found">宛先は見つかりませんでした</string>
-    <string name="mail_send_to_self">自分宛てにメールを送信できません</string>
+    <string name="mail_send_to_self">自分宛てにメールを送れません</string>
     <string name="mail_title_too_long">タイトルが長すぎます</string>
     <string name="mail_content_too_long">テキストが長すぎます</string>
-    <string name="mail_sent_success">送信済</string>
+    <string name="mail_sent_success">送りました</string>
     <string name="mark_unread">未読にする</string>
     <string name="copy_verification_code">確認コードをコピー</string>
     <string name="code_copied">コードがクリップボードへコピーされました</string>
@@ -547,7 +547,7 @@
     <string name="gamemode_adventure">アドベンチャー</string>
     <string name="gamemode_soccer">サッカー</string>
     <string name="gamemode_coming_soon">近日公開</string>
-    <string name="gamemode_competitive">Competitive</string>
+    <string name="gamemode_competitive">バトルプレイ</string>
     <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。だがより大きなブロブに気をつけて！</string>
     <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
     <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
@@ -751,11 +751,11 @@
 
     <!-- Player List -->
     <string name="players">プレイヤー</string>
-    <string name="spectators">Spectators</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="spectators">観戦者</string>
+    <string name="joined_room">ルーム「%s」に入りました</string>
     <string name="player_list_title">プレイヤーのリスト</string>
     <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">プレイヤー数: %d ⋅ ボット数: %d ⋅ 観戦者数: %d ⋅ 総数: %d</string>
     <string name="kick_confirm_title">プレイヤーをキック</string>
     <string name="kick_confirm_message">「%s」さんをキックしますか？まだ再参加できます。</string>
     <string name="ban_confirm_title">プレイヤーをバン</string>
@@ -787,37 +787,37 @@
     <string name="custom_image_slot">画像 %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
-    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
+    <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした: %1$s</string>
+    <string name="custom_image_no_approved_image">スロット%1$dに承認画像はありません</string>
     <string name="report_avatar">アイコンを報告</string>
     <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
     <string name="report_avatar_success">アイコンの報告完了</string>
     <string name="report_avatar_failed">アイコンが報告できませんでした</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Account Recovery</string>
-    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
-    <string name="recovery_continue">Continue</string>
-    <string name="recovery_enter_account_id">Enter your account ID</string>
-    <string name="recovery_account_id_placeholder">Account ID</string>
-    <string name="recovery_load_preview">Load account</string>
-    <string name="recovery_new_email_label">New email address</string>
+    <string name="account_recovery">アカウントの復旧</string>
+    <string name="recovery_info">アカウントの復旧に成功させるためには、同じWi-Fiとデバイスが必要です。</string>
+    <string name="recovery_continue">続ける</string>
+    <string name="recovery_enter_account_id">アカウントIDを入力</string>
+    <string name="recovery_account_id_placeholder">アカウントID</string>
+    <string name="recovery_load_preview">アカウントを読み込む</string>
+    <string name="recovery_new_email_label">新メールアドレス</string>
     <string name="recovery_new_email_placeholder">new@example.com</string>
-    <string name="recovery_change_mail">Change mail</string>
-    <string name="recovery_confirm_title">Change account email?</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
-    <string name="recovery_error_invalid_id">Please enter a valid account ID.</string>
-    <string name="recovery_error_invalid_email">Please enter a valid email address.</string>
-    <string name="recovery_error_invalid_request">Invalid request. Please try again.</string>
-    <string name="recovery_error_network">Network error. Please check your connection and try again.</string>
-    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
-    <string name="recovery_error_email_taken">This email is already used by another account. Delete that account or use a different email.</string>
+    <string name="recovery_change_mail">アカウントメールを変更</string>
+    <string name="recovery_confirm_title">アカウントメールを変更しますか？</string>
+    <string name="recovery_confirm_body">このアカウントのメールアドレスは%1$sに変更しようとしています。次に、対応するGoogleアカウントでのサインインが必要になります。これは取り消せません。</string>
+    <string name="recovery_success_body">アカウントのメールアドレスは%1$sに変更されました。新しいGoogleアカウントでサインインできます。</string>
+    <string name="recovery_error_invalid_id">有効なアカウントIDを入力してください。</string>
+    <string name="recovery_error_invalid_email">有効なメールアドレスを入力してください。</string>
+    <string name="recovery_error_invalid_request">無効なリクエストです。再度お試しください。</string>
+    <string name="recovery_error_network">ネットワークのエラーです。接続状態をご確認の上、再度お試しください。</string>
+    <string name="recovery_error_fingerprint_mismatch">このデバイスとネットワークは、このアカウントの情報と一致しません。アカウントを復旧するには、以前このアカウントで使用したこおがあるWi-Fiネットワークに、同じデバイスで接続する必要があります。</string>
+    <string name="recovery_error_email_taken">このメールアドレスは、別のアカウントで使用されています。アカウントを削除するか、別のメールアドレスを入力してください。</string>
     <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
     <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
     <string name="recovery_error_cooldown">This account was recently recovered. Please wait 24 hours before trying again.</string>
-    <string name="recovery_error_banned">This account is banned and cannot be recovered.</string>
-    <string name="recovery_error_not_found">No account found with that ID.</string>
+    <string name="recovery_error_banned">このアカウントはバンされており、復元できません。</string>
+    <string name="recovery_error_not_found">入力されたIDは見つかりませんでした。</string>
     <string name="recovery_error_rate_limited">Too many attempts. Please wait and try again later.</string>
     <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
     <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
@@ -934,7 +934,7 @@
     <string name="code_expired">コードの有効期限が切れました</string>
     <string name="code_already_redeemed">コードが既に利用されました！</string>
     <string name="clan_owner_must_transfer_error">クランから退出するには、他のクランメンバーにオーナーシップを移転する必要があります。</string>
-    <string name="mail_cannot_send_self">自分宛てに送信できません</string>
+    <string name="mail_cannot_send_self">自分宛てに送れません</string>
     <string name="clan_already_requested_other">既にクラン参加リクエストを送信しました</string>
     <string name="before">以前</string>
     <string name="after">現在</string>
