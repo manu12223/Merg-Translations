@@ -2,8 +2,8 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Um jogador</string>
-    <string name="lan_multiplayer">Multijogador via LAN</string>
+    <string name="singleplayer">Um Jogador</string>
+    <string name="lan_multiplayer">Multijogador Via LAN</string>
     <string name="online_multiplayer">Multijogador Online</string>
     <string name="options">Opções</string>
     <string name="discord" translatable="false">Discord</string>
@@ -13,7 +13,7 @@
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
     <string name="developer">Desenvolvedores:</string>
-    <string name="code_contribution">Contribuidores para o código:</string>
+    <string name="code_contribution">Contribuidores do código:</string>
     <string name="skins">Skins:</string>
     <string name="translations">Traduções:</string>
 
@@ -81,7 +81,7 @@
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
-    <string name="jitter_buffer">Buffer de Jitter</string>
+    <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Jogo</string>
@@ -140,7 +140,7 @@
     <string name="friend_requests_sent">Solicitações Enviadas</string>
     <string name="no_friends">Seus amigos aparecerão aqui</string>
     <string name="remove_friend_title">Remover Amigo</string>
-    <string name="remove_friend_message">Tem certeza de que deseja excluir \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
+    <string name="remove_friend_message">Tem certeza de que deseja remover \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
     <string name="cancel_request_title">Cancelar Solicitação</string>
     <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com \"%1$s\" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Não é possível adicionar a si mesmo(a).</string>
@@ -181,16 +181,16 @@
 
     <!-- Shop -->
     <string name="shop">Loja</string>
-    <string name="free_voidstones">Pedras do Vazio Gratuitas!</string>
-    <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Pedras do Vazio!</string>
-    <string name="free_voidstones_won">%d Pedras do Vazio foram adicionadas à conta!</string>
+    <string name="free_voidstones">Voidstones Gratuitas!</string>
+    <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Voidstones!</string>
+    <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="pick">Escolher</string>
     <string name="redeem_code">Resgatar Código</string>
     <string name="invalid_code">Código Inválido</string>
     <string name="code_already_claimed">Código Já Resgatado!</string>
     <string name="successfully_claimed_code">Recompensa Resgatada</string>
-    <string name="reward_voidstones">+%s Pedras do Vazio</string>
+    <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Desbloqueou: %s</string>
     <string name="reward_name_color">Cor do Nome</string>
     <string name="reward_name_color_gradient">Gradiente do Nome</string>
@@ -199,16 +199,16 @@
     <string name="reward_profile_triple_gradient">Gradiente Triplo de Fundo do Perfil</string>
     <string name="reward_profile_description_color">Cor do Texto da Biografia</string>
     <string name="reward_name_font">Fonte do Nome</string>
-    <string name="reward_already_owned_compensation">Já possui. Convertido para Pedras do Vazio</string>
+    <string name="reward_already_owned_compensation">Já possui. Convertido para Voidstones</string>
     <string name="purchase_id">ID da Compra: %d</string>
     <string name="history">Histórico</string>
-    <string name="voidstone_history">Histórico de Compras com Pds. Vz.</string>
+    <string name="voidstone_history">Histórico de Compras com Vdst.</string>
     <string name="purchase_history">Histórico de Compras</string>
     <string name="no_transactions_yet">Transações indisponíveis</string>
     <string name="admin_reward">Recompensa de admin</string>
     <string name="in_app_purchase">Compras no app</string>
-    <string name="voidstone_gift_received">Presente de Pedras do Vazio recebido</string>
-    <string name="voidstone_gift_send">Enviar Pedras do Vazio</string>
+    <string name="voidstone_gift_received">Presente de Voidstones recebido</string>
+    <string name="voidstone_gift_send">Enviar Voidstones</string>
     <string name="skin_bought">Skin adquirida</string>
     <string name="profile_name_change_bought">Item \"Alteração de nome\" adquirido</string>
     <string name="profile_name_color_bought">Item \"Alteração de cores do nome\" adquirido</string>
@@ -334,14 +334,14 @@
     <string name="discord_staff">Membro Staff no Servidor do Discord</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Presentear Pedras do Vazio</string>
-    <string name="send_voidstones_to">Presentear Pedras do Vazio para %1$s (ID: %2$d)</string>
-    <string name="send_voidstones_confirm">Presentear %1$s Pedras do Vazio para %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Não é possível enviar Pedras do Vazio para si mesmo(a)</string>
-    <string name="voidstone_gift_from">Presente de Pedras do Vazio de %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Presente de Pedras do Vazio para %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Pedras do Vazio de:</string>
-    <string name="voidstone_gift_to_label">Pedras do Vazio para:</string>
+    <string name="send_voidstones">Presentear Voidstones</string>
+    <string name="send_voidstones_to">Presentear Voidstones para %1$s (ID: %2$d)</string>
+    <string name="send_voidstones_confirm">Presentear %1$s Voidstones para %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Não é possível enviar Voidstones para si mesmo(a)</string>
+    <string name="voidstone_gift_from">Presente de Voidstones de %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_to">Presente de Voidstones para %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">Voidstones de:</string>
+    <string name="voidstone_gift_to_label">Voidstones para:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
     <string name="transaction_fee">%d%% de taxa incluso</string>
     <string name="transaction_fee_amount">-%s de taxa</string>
@@ -411,10 +411,10 @@
     <string name="clan_full">Este clã está cheio.</string>
     <string name="clan_join_button_full">Clã Cheio</string>
     <string name="clan_join_request_sent">Solicitação Enviada</string>
-    <string name="clan_invite_list_full">A lista de convites deste clã está cheia (máx. 100).</string>
+    <string name="clan_invite_list_full">A lista de convites desse clã está cheia (máx. 100).</string>
     <string name="clan_player_invite_list_full">O número de convites enviados para este(a) jogador(a) já atingiu o limite.</string>
-    <string name="clan_request_list_full">A lista de solicitações de entrada deste clã está cheia (máx. 100).</string>
-    <string name="clan_donate_voidstones">Doar Pedras do Vazio</string>
+    <string name="clan_request_list_full">A lista de solicitações de entrada desse clã está cheia (máx. 100).</string>
+    <string name="clan_donate_voidstones">Doar Voidstones</string>
     <string name="clan_donate_hint">Valor (100 – 100.000)</string>
     <string name="clan_donate_sent">Doação concluída!</string>
     <string name="clan_not_a_member">Você não é membro deste clã.</string>
@@ -582,7 +582,7 @@
     <string name="adventure_obj_growing_bots">Bots Crescentes!</string>
     <string name="adventure_obj_reach_size">Atinja um Tamanho de %d</string>
     <string name="adventure_obj_finish_first">Chegue em 1º lugar</string>
-    <string name="adventure_obj_collect_voidstones">Colete %d Pedras do Vazio</string>
+    <string name="adventure_obj_collect_voidstones">Colete %d Voidstones</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tempo</string>
@@ -617,7 +617,7 @@
     <string name="skin_color_preview">Prévia:</string>
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
-    <string name="skin_tab_voidstones">Pedras do Vazio</string>
+    <string name="skin_tab_voidstones">Voidstone</string>
     <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
@@ -644,7 +644,7 @@
     <string name="stage_clear">Fase %s Concluída!</string>
     <string name="stage_failed">Fase %s Falhada!</string>
     <string name="restarting_adventure">Reiniciando aventura…</string>
-    <string name="server_in_maintenance">Server Maintenance</string>
+    <string name="server_in_maintenance">Manutenção do Servidlr</string>
     <string name="server_reboot">Reinício do Servidor</string>
     <string name="server_shutdown">Encerramento do Servidor</string>
 
@@ -673,7 +673,7 @@
     <string name="level">Nível</string>
     <string name="level_number">Nível %d</string>
     <string name="food">Alimento</string>
-    <string name="voidstones">Pedras do Vazio</string>
+    <string name="voidstones">Voidstones</string>
     <string name="blobs_eaten">Blobs Absorvidos</string>
     <string name="session_stat_size_gained">Tamanho Obtido</string>
     <string name="highest_rank">Maior Classificação</string>
@@ -747,12 +747,12 @@
     <string name="enter_ip">Inserir IP</string>
     <string name="join_ip_title">Entrar no Endereço IP</string>
     <string name="tap_to_reveal">Toque para revelar</string>
-    <string name="remote_lan_connections">É necessário redirecionar a porta UDP %d ou, nas configurações do seu roteador, ativar o DMZ para permitir que outros clientes entrem usando seu IP público. As conexões poderão falhar se a sua rede estiver sob um NAT/CGNAT Simétrico. Visite %s para saber mais e verificar o tipo de NAT do seu provedor de Internet.</string>
+    <string name="remote_lan_connections">É necessário redirecionar a porta UDP %d ou, nas configurações do seu roteador, ativar o DMZ para permitir que outros clientes entrem usando seu IP público. As conexões poderão falhar mesmo se a sua rede estiver sob um NAT/CGNAT Simétrico. Para saber mais e verificar o tipo de NAT do seu provedor de Internet, visite %s.</string>
 
     <!-- Player List -->
     <string name="players">Jogadores</string>
-    <string name="spectators">Spectators</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="spectators">Espectadores</string>
+    <string name="joined_room">Entrou na sala %s</string>
     <string name="player_list_title">LISTA DE JOGADORES</string>
     <string name="player_list_count">Jogadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Jogadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
@@ -769,7 +769,7 @@
     <string name="custom_image_replace">Substituir</string>
     <string name="custom_image_deselect">Desselecionar</string>
     <string name="custom_image_confirm_title">Enviar Imagem</string>
-    <string name="custom_image_confirm_body">Enviar esta imagem por %1$s Pedras do Vazio??</string>
+    <string name="custom_image_confirm_body">Enviar esta imagem por %1$s Voidstones?</string>
     <string name="custom_image_upload_success">Imagem enviada para análise</string>
     <string name="custom_image_selected">Ícone selecionado</string>
     <string name="custom_image_deselected">Ícone desselecionado</string>
@@ -806,17 +806,17 @@
     <string name="recovery_change_mail">Alterar e-mail</string>
     <string name="recovery_confirm_title">Alterar o e-mail da conta?</string>
     <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Essa ação é irreversível.</string>
-    <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Você já pode entrar com a sua nova conta do Google.</string>
+    <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Já é possível entrar com a sua nova conta do Google.</string>
     <string name="recovery_error_invalid_id">Insira um ID de conta válido.</string>
     <string name="recovery_error_invalid_email">Insira um endereço de e-mail válido.</string>
     <string name="recovery_error_invalid_request">Solicitação inválida. Tente novamente.</string>
     <string name="recovery_error_network">Erro de rede. Verifique a sua conexão e tente novamente.</string>
-    <string name="recovery_error_fingerprint_mismatch">Este dispositivo e rede não correspondem a esta conta. A recuperação exige o mesmo dispositivo num Wi-Fi que você usou com a conta anteriormente.</string>
-    <string name="recovery_error_email_taken">Este endereço de e-mail já está sendo usado por uma outra conta. Exclua a conta ou use um endereço de e-mail diferente.</string>
-    <string name="recovery_error_google_taken">Esta conta do Google já está vinculada a uma outra conta.</string>
+    <string name="recovery_error_fingerprint_mismatch">Esse dispositivo e rede não correspondem a esta conta. A recuperação exige o mesmo dispositivo num Wi-Fi que você usou com a conta anteriormente.</string>
+    <string name="recovery_error_email_taken">Esse endereço de e-mail já está sendo usado por uma outra conta. Exclua a conta ou use um endereço de e-mail diferente.</string>
+    <string name="recovery_error_google_taken">Essa conta do Google já está vinculada a uma outra conta.</string>
     <string name="recovery_error_email_mismatch">O endereço de e-mail inserido não corresponde à conta do Google na qual você entrou.</string>
-    <string name="recovery_error_cooldown">Esta conta foi recuperada recentemente. Aguarde 24 horas e tente novamente.</string>
-    <string name="recovery_error_banned">Esta conta foi banida e não pode ser recuperada.</string>
+    <string name="recovery_error_cooldown">Essa conta foi recuperada recentemente. Aguarde 24 horas e tente novamente.</string>
+    <string name="recovery_error_banned">Essa conta foi banida e não pode ser recuperada.</string>
     <string name="recovery_error_not_found">Nenhuma conta encontrada com o ID inserido.</string>
     <string name="recovery_error_rate_limited">Muitas tentativas. Tente novamente mais tarde.</string>
     <string name="recovery_error_google_invalid">Não foi possível verificar a sua conta do Google. Tente novamente.</string>
@@ -909,7 +909,7 @@
     <string name="invalid_token">Sessão inválida ou expirada. Conecte-se novamente.</string>
     <string name="rate_limited">Aguarde %d segundo(s) e tente novamente.</string>
     <string name="nonexistent_user">Usuário não encontrado</string>
-    <string name="not_enough_voidstones">Pedras do Vazio insuficientes</string>
+    <string name="not_enough_voidstones">Voidstones insuficientes</string>
     <string name="database_write_fail">Falha no salvamento do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
     <string name="banned">Banido(a)</string>
