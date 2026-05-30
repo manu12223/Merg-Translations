@@ -60,14 +60,14 @@
     <string name="leaderboard_size">リーダーボードサイズ</string>
     <string name="show_grid">グリッドを表示化</string>
     <string name="custom_background_image">背景のカスタム画像を使用する</string>
-    <string name="custom_background_select">画像を選択</string>
+    <string name="custom_background_select">画像選択</string>
     <string name="custom_background_opacity">背景の不透明度</string>
-    <string name="show_performance_metrics">パフォーマンスメトリクスを表示化</string>
+    <string name="show_performance_metrics">パフォーマンス統計を表示化</string>
     <string name="skin_outlines">スキンボーダー</string>
     <string name="direction_arrow">方向矢印を表示化</string>
-    <string name="border_above_entities">エンティティ上ボーダー</string>
+    <string name="border_above_entities">太いボーダーのマップ</string>
     <string name="map_border_visible">マップボーダーを表示化</string>
-    <string name="star_background_enabled">背景でのスター</string>
+    <string name="star_background_enabled">背景のスター</string>
     <string name="star_color_white">ホワイトスター</string>
     <string name="star_color_black">ブラックスター</string>
     <string name="name_position">プレイヤー名の位置</string>
@@ -125,15 +125,15 @@
     <string name="server_europe">ヨーロッパ</string>
     <string name="join">参加</string>
     <string name="create">作成</string>
-    <string name="create_chat_room">チャットルーム作成</string>
-    <string name="create_private_game">カスタムゲーム作成</string>
+    <string name="create_chat_room">チャットルームの作成</string>
+    <string name="create_private_game">カスタムゲームの作成</string>
     <string name="room_full">満員</string>
     <string name="clan">クラン</string>
     <string name="friends">フレンド</string>
     <string name="send_friend_request">フレンド申請</string>
-    <string name="friend_request_accepted">フレンドへ追加しました！</string>
-    <string name="send_friend_request_by_id_or_name">IDまたは名前を入力して申請を送信する</string>
-    <string name="cancel_friend_request">申請を取り消す</string>
+    <string name="friend_request_accepted">フレンドを追加しました！</string>
+    <string name="send_friend_request_by_id_or_name">IDまたは名前で申請を送信する</string>
+    <string name="cancel_friend_request">申請をキャンセル</string>
     <string name="remove_friend">フレンドから解除</string>
     <string name="friend_request_sent">申請送信済み</string>
     <string name="friend_requests_received">受信した申請</string>
@@ -141,29 +141,29 @@
     <string name="no_friends">フレンドはこちらに表示されます</string>
     <string name="remove_friend_title">フレンドから解除</string>
     <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドから解除してもよろしいですか？</string>
-    <string name="cancel_request_title">申請を取り消す</string>
-    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請を取り消してもよろしいですか？</string>
+    <string name="cancel_request_title">申請をキャンセル</string>
+    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請をキャンセルしてもよろしいですか？</string>
     <string name="friend_request_error_self">フレンド申請を自分自身に送信できません。</string>
     <string name="friend_request_error_already_sent">この申請は保留中です。</string>
-    <string name="friend_request_error_already_friends">既に追加されました。</string>
-    <string name="friend_request_error_list_full">フレンドリストは満員です。</string>
+    <string name="friend_request_error_already_friends">すでにフレンドリストにいます。</string>
+    <string name="friend_request_error_list_full">フレンドリストが満員です。</string>
 
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">バトルゲーム</string>
-    <string name="competitive_menu">バトルゲーム</string>
-    <string name="competitive_history">バトルモードの履歴</string>
+    <string name="competitive_menu">ランクバトル</string>
+    <string name="competitive_history">ランクバトルの履歴</string>
     <string name="rating_label">ランキング</string>
-    <string name="unrated">ランキングなし</string>
+    <string name="unrated">ランクなし</string>
     <string name="find_opponent">対戦相手を探す</string>
-    <string name="leave_matchmaking">マッチメイキング終了</string>
+    <string name="leave_matchmaking">マッチメイキングを終了</string>
     <string name="searching_ellipsis">探しています…</string>
     <string name="x_searching_y_playing">%1$s試合が探し中 · %2$s試合が進行中</string>
     <string name="global_position">グローバルランキング: #%s</string>
     <string name="global_label">グローバルランキング: #</string>
-    <string name="wins_draws_losses_winrate">勝利数: %1$s · 引分数: %2$s · 敗戦数: %3$s · 勝率: %4$s%%</string>
-    <string name="stat_wins_label">勝利数: </string>
-    <string name="stat_draws_label"> · 引分数: </string>
-    <string name="stat_losses_label"> · 敗戦数: </string>
+    <string name="wins_draws_losses_winrate">勝利回数: %1$s · 引分回数: %2$s · 敗戦回数: %3$s · 勝率: %4$s%%</string>
+    <string name="stat_wins_label">勝利回数: </string>
+    <string name="stat_draws_label"> · 引分回数: </string>
+    <string name="stat_losses_label"> · 敗戦回数: </string>
     <string name="stat_winrate_label"> · 勝率: </string>
     <string name="match_starts_in">マッチの開始…</string>
     <string name="vs_label">対</string>
@@ -186,10 +186,10 @@
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
     <string name="pick">選ぶ</string>
-    <string name="redeem_code">コード利用</string>
+    <string name="redeem_code">コードを利用</string>
     <string name="invalid_code">無効なコードです</string>
-    <string name="code_already_claimed">コードは既に利用されました！</string>
-    <string name="successfully_claimed_code">リワードの利用完了</string>
+    <string name="code_already_claimed">コードはすでに利用されました！</string>
+    <string name="successfully_claimed_code">リワードを利用しました</string>
     <string name="reward_voidstones">＋%s枚のボイドストーン</string>
     <string name="reward_unlock">アンロック: %s</string>
     <string name="reward_name_color">ネームカラー</string>
@@ -207,10 +207,10 @@
     <string name="no_transactions_yet">取引はありません</string>
     <string name="admin_reward">アドミンリワード</string>
     <string name="in_app_purchase">アプリ内購入</string>
-    <string name="voidstone_gift_received">ボイドストーンギフト受取済</string>
+    <string name="voidstone_gift_received">ボイドストーンギフト受取済み</string>
     <string name="voidstone_gift_send">ボイドストーンギフトを贈る</string>
     <string name="skin_bought">購入したスキン</string>
-    <string name="profile_name_change_bought">名前の変更購入済み</string>
+    <string name="profile_name_change_bought">名前変更購入済み</string>
     <string name="profile_name_color_bought">ネームカラー購入済み</string>
     <string name="profile_color_bought">プロフィール背景カラー購入済み</string>
     <string name="profile_color_gradient_bought">プロフィール背景グラデーション購入済み</string>
@@ -223,7 +223,7 @@
     <string name="verify_reward">リワード確認</string>
 
     <!-- Ads -->
-    <string name="ad_not_loaded">広告はまだ読み込まれませんでした</string>
+    <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
     <string name="ad_show_failed">広告が表示できませんでした</string>
     <string name="ad_load_failed">広告が読み込めませんでした</string>
     <string name="ad_rate_limited">多くの広告を一度に視聴しました。%s後に再度お試しください。</string>
@@ -239,7 +239,7 @@
     <string name="login_google">Google でサインイン</string>
     <string name="login_apple">Apple でサインイン</string>
     <string name="logout">ログアウト</string>
-    <string name="logout_all_devices">すべてのデバイスからログアウト</string>
+    <string name="logout_all_devices">すべてのデバイスでログアウト</string>
     <string name="change_name">名前変更</string>
     <string name="copy_id">IDをコピー</string>
     <string name="share_id">IDをシェア</string>
@@ -248,14 +248,14 @@
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介保存</string>
     <string name="profile_description_placeholder">自己紹介を書く…</string>
-    <string name="profile_description_save_success">自己紹介の保存完了</string>
+    <string name="profile_description_save_success">自己紹介を保存しました</string>
     <string name="profile_description_save_failed">自己紹介が保存できませんでした</string>
     <string name="profile_description_too_long">自己紹介が長すぎます！（最大%d文字）</string>
     <string name="profile_description_too_large">自己紹介が%sより長いです</string>
     <string name="unlock_description_color">自己紹介の文字カラーアンロック</string>
     <string name="description_text_color">自己紹介の文字カラー</string>
-    <string name="unlock_description_color_success">自己紹介の文字カラーのアンロック完了！</string>
-    <string name="unlock_description_color_already_unlocked">自己紹介の文字カラーは既にアンロックされています</string>
+    <string name="unlock_description_color_success">『自己紹介の文字カラー』をアンロックしました！</string>
+    <string name="unlock_description_color_already_unlocked">『自己紹介の文字カラー』はすでにアンロックされています</string>
     <string name="statistics">統計</string>
     <string name="achievements">実績</string>
     <string name="delete_account">アカウント削除</string>
@@ -271,19 +271,19 @@
     <string name="prerequisite_not_met">『%s』をアンロックしてください</string>
     <string name="prerequisite_feature">必要機能</string>
     <string name="profile_name_color">ネームカラー</string>
-    <string name="profile_not_logged_in_error">ログインしてください</string>
-    <string name="profile_name_changed_success">名前が『%s』に変更されました</string>
+    <string name="profile_not_logged_in_error">サインインしてください</string>
+    <string name="profile_name_changed_success">名前を「%s」に変更しました</string>
     <string name="profile_name_change_failed">名前が変更できませんでした</string>
     <string name="profile_name_change_error">名前が変更できませんでした: %d</string>
     <string name="profile_goodbye">またいつか会おうね！ :(</string>
-    <string name="profile_logged_in_with_name">『%s』にログインしました</string>
-    <string name="profile_logged_in">ログイン済み</string>
+    <string name="profile_logged_in_with_name">「%s」にサインインしました</string>
+    <string name="profile_logged_in">サインイン済</string>
     <string name="profile_logout_confirm">『%s』からログアウトしますか？</string>
     <string name="profile_logout_confirm_no_name">ログアウトしますか？</string>
-    <string name="profile_logout_all_confirm">すべてのデバイスで『%s』からログアウトしますか？最大1時間かかることがあります。</string>
+    <string name="profile_logout_all_confirm">すべてのデバイスで「%s」からログアウトしますか？最大1時間かかることがあります。</string>
     <string name="profile_logout_all_confirm_no_name">すべてのデバイスでログアウトしますか？最大1時間かかることがあります。</string>
     <string name="profile_logout_failed">ログアウトできませんでした</string>
-    <string name="profile_delete_warning">アカウントを削除してもよろしいですか？これは取り消せません！</string>
+    <string name="profile_delete_warning">アカウントを削除してもよろしいですか？これは元に戻せません！</string>
     <string name="profile_delete_type_prompt">「%s」を入力して削除を確認してください。</string>
     <string name="profile_delete_confirm_text">削除</string>
     <string name="profile_delete_failed">削除できませんでした</string>
@@ -293,18 +293,18 @@
     <string name="name_colors_already_unlocked">『ネームカラー』はすでにアンロックされています</string>
     <string name="unlock_name_color_gradient_success">『ネームグラデーション』をアンロックしました！</string>
     <string name="unlock_name_color_gradient_already_unlocked">『ネームグラデーション』はすでにアンロックされています</string>
-    <string name="name_color_save_success">ネームカラーの保存完了</string>
+    <string name="name_color_save_success">ネームカラーを保存しました！</string>
     <string name="name_color_save_failed">カラーが保存できませんでした</string>
     <string name="name_colors_not_unlocked">『ネームカラー』はアンロックされていません</string>
     <string name="unlock_name_fonts">ネームフォントアンロック</string>
     <string name="unlock_name_fonts_success">『ネームフォント』をアンロックしました！</string>
     <string name="unlock_name_fonts_already_unlocked">『ネームフォント』はすでにアンロックされています</string>
-    <string name="name_font_save_success">フォントの保存完了！</string>
+    <string name="name_font_save_success">フォントを保存しました！</string>
     <string name="name_fonts_not_unlocked">『ネームフォント』はアンロックされていません</string>
     <string name="profile_name_font">ネームフォント</string>
     <string name="name_change_success">名前を「%s」に変更しました</string>
     <string name="name_change_invalid_length">名前が長すぎます</string>
-    <string name="name_change_taken">名前は使用されています</string>
+    <string name="name_change_taken">名前はすでに使用されています</string>
     <string name="unlock_profile_colors">プロフィール背景カラーアンロック</string>
     <string name="unlock_profile_colors_gradient">グラデーションアンロック</string>
     <string name="unlock_profile_colors_gradient_2">3色のグラデーションアンロック</string>
@@ -313,8 +313,8 @@
     <string name="unlock_profile_colors_gradient_2_success">『3色のグラデーション』をアンロックしました！</string>
     <string name="unlock_profile_colors_already_unlocked">『プロフィール背景カラー』はすでにアンロックされています</string>
     <string name="unlock_profile_colors_gradient_already_unlocked">『プロフィール背景グラデーション』はすでにアンロックされています</string>
-    <string name="unlock_profile_colors_gradient_2_already_unlocked">『プロフィール背景3色のグラデーション』は既にアンロックされています</string>
-    <string name="profile_color_save_success">プロフィール背景カラーの保存完了！</string>
+    <string name="unlock_profile_colors_gradient_2_already_unlocked">『プロフィール背景3色のグラデーション』はすでにアンロックされています</string>
+    <string name="profile_color_save_success">プロフィール背景カラーを保存しました！</string>
     <string name="unlock_profile_colors_not_unlocked">『プロフィール背景カラー』はアンロックされていません</string>
     <string name="unlock_profile_colors_gradient_not_unlocked">『プロフィール背景グラデーション』はアンロックされていません</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">『プロフィール背景3色のグラデーション』はアンロックされていません</string>
@@ -331,7 +331,7 @@
     <string name="internal_tester">内部テスター</string>
     <string name="alpha_tester">アルファテスター</string>
     <string name="beta_tester">ベータテスター</string>
-    <string name="discord_staff">Discordサーバーのスタッフ</string>
+    <string name="discord_staff">Discordサーバーでのスタッフ</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">ボイドストーンを贈る</string>
@@ -344,15 +344,15 @@
     <string name="voidstone_gift_to_label">ボイドストーンギフトの受取人:</string>
     <string name="voidstone_gift_player">「%1$s」さん（ID %2$d）</string>
     <string name="transaction_fee">%d%%の手数料を含む</string>
-    <string name="transaction_fee_amount">-%sの手数料</string>
+    <string name="transaction_fee_amount">−%sの手数料</string>
 
     <!-- Search Profile -->
-    <string name="search_account">アカウント検索</string>
+    <string name="search_account">アカウントの検索</string>
     <string name="search_account_by_id_or_name">IDまたは名前で検索する</string>
     <string name="no_account_found">このアカウントは見つかりませんでした</string>
 
     <!-- Clan -->
-    <string name="clan_create">クラン作成</string>
+    <string name="clan_create">クランを作成</string>
     <string name="clan_name">クラン名</string>
     <string name="clan_name_hint">クラン名を入力する（最大14文字）</string>
     <string name="clan_tag">クランタグ</string>
@@ -360,7 +360,7 @@
     <string name="clan_list">パブリッククラン</string>
     <string name="clan_no_clans">参加可能なクランはありません</string>
     <string name="no_clan">クランにいません</string>
-    <string name="clan_request_clans">招待のみのクラン</string>
+    <string name="clan_request_clans">申請のみのクラン</string>
     <string name="clan_my_invites">保留中の招待</string>
     <string name="clan_invite_declined">招待が拒否されました</string>
     <string name="clan_joined">クランに参加しました！</string>
@@ -368,18 +368,18 @@
     <string name="clan_members">メンバー数</string>
     <string name="clan_members_count">%1$d人／%2$d人のメンバー</string>
     <string name="clan_request_join">加入申請</string>
-    <string name="clan_leave">クラン脱退</string>
+    <string name="clan_leave">クランを脱退</string>
     <string name="clan_leave_confirm">クランを脱退してもよろしいですか？</string>
     <string name="clan_owner_must_transfer">クランを脱退するには、オーナーシップを移転する必要があります。</string>
     <string name="clan_request_sent">加入申請送信済み</string>
-    <string name="clan_disband">クラン解散</string>
+    <string name="clan_disband">クランを解散</string>
     <string name="clan_disband_confirm">クランを解散してもよろしいですか？これは取り消せません！</string>
     <string name="clan_invite">プレイヤー招待</string>
-    <string name="clan_invite_hint">名前またはIDを入力して招待を送信する</string>
+    <string name="clan_invite_hint">名前またはIDで招待する</string>
     <string name="clan_settings">クラン設定</string>
     <string name="clan_join_mode">クランプライバシー</string>
     <string name="clan_join_mode_open">パブリック</string>
-    <string name="clan_join_mode_request">招待のみ</string>
+    <string name="clan_join_mode_request">申請のみ</string>
     <string name="clan_join_mode_private">プライベート</string>
     <string name="clan_join_mode_abandoned">離脱</string>
     <string name="clan_pending_requests">保留中の申請</string>
@@ -388,7 +388,7 @@
     <string name="clan_role_admin">アドミン</string>
     <string name="clan_role_elder">エルダー</string>
     <string name="clan_role_member">メンバー</string>
-    <string name="clan_name_taken">クラン名は使用されています</string>
+    <string name="clan_name_taken">クラン名はすでに使用されています</string>
     <string name="clan_already_member">すでにクランにいます</string>
     <string name="clan_accept_invite_leave_confirm">すでにクランにいます。この招待を受け入れてもよろしいですか？現在のクランから削除されます。</string>
     <string name="clan_promoted">%1$sに昇格しました</string>
@@ -398,20 +398,20 @@
     <string name="clan_ban_confirm_title">バン</string>
     <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をバンしますか？このユーザーは再参加できません。</string>
     <string name="clan_unban_confirm_title">バン解除</string>
-    <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーは再参加できます。</string>
+    <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーが再参加できます。</string>
     <string name="clan_unkick_confirm_title">キック解除</string>
     <string name="clan_unkick_confirm_message">「%1$s」さん（ID %2$d）への申請必要を解除しますか？</string>
     <string name="clan_invited">招待済み</string>
-    <string name="clan_revoke_invite_confirm_title">招待を取り消す</string>
-    <string name="clan_revoke_invite_confirm_message">「%1$s」さん（ID %2$d）への招待を取り消しますか？</string>
-    <string name="clan_invite_sent">招待送信済み！</string>
+    <string name="clan_revoke_invite_confirm_title">招待をキャンセル</string>
+    <string name="clan_revoke_invite_confirm_message">「%1$s」さん（ID %2$d）への招待をキャンセルしますか？</string>
+    <string name="clan_invite_sent">招待を送信しましま！</string>
     <string name="clan_player_not_found">プレイヤーは見つかりませんでした</string>
-    <string name="clan_player_banned">このユーザーがクランからバンされています。</string>
+    <string name="clan_player_banned">このユーザーはクランからバンされています。</string>
     <string name="clan_already_invited">このユーザーはすでに招待されたか、別のクランにいます。</string>
     <string name="clan_full">クランが満員です。</string>
     <string name="clan_join_button_full">クラン満員</string>
-    <string name="clan_join_request_sent">申請送信済み</string>
-    <string name="clan_invite_list_full">このクランの招待リストが満員（最大100件）です。</string>
+    <string name="clan_join_request_sent">申請を送信しました</string>
+    <string name="clan_invite_list_full">このクランの招待リストが満員です（最大100件）。</string>
     <string name="clan_player_invite_list_full">このユーザーの保留中の招待はすでに上限に達しています。</string>
     <string name="clan_request_list_full">このクランの加入申請リストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーン寄付</string>
@@ -423,13 +423,13 @@
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
     <string name="clan_history_no_entries">履歴はありません</string>
-    <string name="clan_history_event_join">参加済み</string>
-    <string name="clan_history_event_leave">脱退済み</string>
-    <string name="clan_history_event_kick">キック済み</string>
-    <string name="clan_history_event_ban">バン済み</string>
-    <string name="clan_history_event_promote">昇格済み</string>
-    <string name="clan_history_event_demote">広角済み</string>
-    <string name="clan_history_event_donation">寄付済み</string>
+    <string name="clan_history_event_join">参加</string>
+    <string name="clan_history_event_leave">脱退</string>
+    <string name="clan_history_event_kick">キック</string>
+    <string name="clan_history_event_ban">バン</string>
+    <string name="clan_history_event_promote">昇格</string>
+    <string name="clan_history_event_demote">広角</string>
+    <string name="clan_history_event_donation">寄付</string>
     <string name="clan_history_id">履歴ID: %d</string>
     <string name="clan_public_profile">クランの公開説明</string>
     <string name="clan_kicked_banned_players">招待必要／バン中のユーザー</string>
@@ -437,8 +437,8 @@
     <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をバン解除しますか？</string>
     <string name="clan_search_hint">名前またはIDで検索する</string>
     <string name="clan_promote_to_owner">オーナーシップ移転</string>
-    <string name="clan_transfer_ownership_title">オーナーシップ移転</string>
-    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーIDを入力して確認してください:</string>
+    <string name="clan_transfer_ownership_title">オーナーシップの移転</string>
+    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは元に戻せません。\n\nユーザーIDを入力して確認してください:</string>
     <string name="clan_transfer_ownership_id_mismatch">無効なIDです。</string>
     <string name="clan_customize_name_color">クラン名カラー</string>
     <string name="clan_customize_tag_color">クランタグカラー</string>
@@ -448,32 +448,32 @@
     <string name="clan_unlock_gradient">クラン背景グラデーションアンロック</string>
     <string name="clan_unlock_triple_gradient">クラン背景3色のグラデーションアンロック</string>
     <string name="clan_unlock_name_font">クラン名フォントアンロック</string>
-    <string name="clan_unlock_description_color">クラン説明カラーアンロック</string>
+    <string name="clan_unlock_description_color">クランの公開説明カラーアンロック</string>
     <string name="clan_unlock_name_gradient">クラン名グラデーションアンロック</string>
-    <string name="clan_color_saved">クラン背景カラーの保存完了！</string>
+    <string name="clan_color_saved">クラン背景カラーを保存しました！</string>
     <string name="clan_color_save_failed">クラン背景カラーが保存できませんでした</string>
-    <string name="clan_name_color_saved">クラン名カラーの保存完了！</string>
+    <string name="clan_name_color_saved">クラン名カラーを保存しました！</string>
     <string name="clan_name_color_save_failed">クラン名カラーが保存できませんでした</string>
     <string name="clan_name_font">クラン名フォント</string>
-    <string name="clan_name_font_saved">クラン名フォントの保存完了！</string>
+    <string name="clan_name_font_saved">クラン名フォントを保存しました！</string>
     <string name="clan_name_font_save_failed">クラン名フォントが保存できませんでした</string>
-    <string name="clan_description_saved">クラン説明の保存完了！</string>
-    <string name="clan_description_save">クラン説明保存</string>
-    <string name="clan_description_save_failed">クラン説明が保存できませんでした</string>
+    <string name="clan_description_saved">クラン説明を保存しました！</string>
+    <string name="clan_description_save">クランの公開説明保存</string>
+    <string name="clan_description_save_failed">クランの公開説明が保存できませんでした</string>
     <string name="clan_feature_not_unlocked">クランの機能はアンロックされていません</string>
-    <string name="clan_history_event_purchase_name_color">クラン名カラー購入済み</string>
-    <string name="clan_history_event_purchase_name_gradient">クラン名グラデーション購入済み</string>
-    <string name="clan_history_event_purchase_name_font">クラン名フォント購入済み</string>
-    <string name="clan_history_event_purchase_color">クラン背景カラー購入済み</string>
-    <string name="clan_history_event_purchase_gradient">クラン背景グラデーション購入済み</string>
-    <string name="clan_history_event_purchase_triple_gradient">クラン背景3色のグラデーション購入済み</string>
-    <string name="clan_history_event_purchase_description_color">クラン説明カラー購入済み</string>
-    <string name="clan_history_event_rename">クラン名変更済み</string>
+    <string name="clan_history_event_purchase_name_color">クラン名カラーの購入</string>
+    <string name="clan_history_event_purchase_name_gradient">クラン名グラデーションの購入</string>
+    <string name="clan_history_event_purchase_name_font">クラン名フォントの購入</string>
+    <string name="clan_history_event_purchase_color">クラン背景カラーの購入</string>
+    <string name="clan_history_event_purchase_gradient">クラン背景グラデーションの購入</string>
+    <string name="clan_history_event_purchase_triple_gradient">クラン背景3色のグラデーションの購入</string>
+    <string name="clan_history_event_purchase_description_color">クラン説明カラーの購入</string>
+    <string name="clan_history_event_rename">クラン名の変更</string>
 
     <!-- Leaderboard !-->
     <string name="leaderboard_type">リーダーボード種類</string>
     <string name="leaderboard_xp_description">経験値です。獲得してレベルアップします。経験値はドットやボイドストーンを集めて得られます。</string>
-    <string name="leaderboard_competitive_description">1対1のランキングマッチです。アリーナ戦で12試合以上完了したプレイヤーのみは表示されます。</string>
+    <string name="leaderboard_competitive_description">1対1のランキングマッチです。ランクバトルで12試合以上完了したプレイヤーのみは表示されます。</string>
     <string name="leaderboard_rating">ランキング</string>
     <string name="leaderboard_period_daily">デイリー</string>
     <string name="leaderboard_period_weekly">ウィークリー</string>
@@ -507,18 +507,18 @@
     <string name="stat_blobs_eaten">食べたブロブの数:</string>
     <string name="stat_games_won">勝ったゲームの数:</string>
     <string name="stat_longest_session">最長セッション:</string>
-    <string name="stat_stages_cleared">完了したステージ数:</string>
+    <string name="stat_stages_cleared">クリアしたステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
-    <string name="stat_adventures_completed">完了したアドベンチャー数:</string>
-    <string name="stat_goals_scored">ゴール数:</string>
+    <string name="stat_adventures_completed">クリアしたアドベンチャー数:</string>
+    <string name="stat_goals_scored">ゴール回数:</string>
     <string name="stat_collisions">衝突数:</string>
-    <string name="stat_boosts">ブースト数:</string>
-    <string name="stat_teleports">テレポート数:</string>
+    <string name="stat_boosts">ブースト回数:</string>
+    <string name="stat_teleports">テレポート回数:</string>
     <string name="stat_rewarded_ads_watched">視聴したリワード広告の数:</string>
 
     <!-- Mail !-->
     <string name="mail">メールボックス</string>
-    <string name="sent_mail_to_id">%d にメール送信済み</string>
+    <string name="sent_mail_to_id">%d にメールの送信</string>
     <string name="mail_id">メールID: %d</string>
     <string name="no_mail_yet">メールはこちらに表示されます</string>
     <string name="mail_from">送信者:</string>
@@ -536,7 +536,7 @@
     <string name="mail_sent_success">送信完了！</string>
     <string name="mark_unread">未読にする</string>
     <string name="copy_verification_code">確認コードをコピー</string>
-    <string name="code_copied">コードがクリップボードへコピーされました</string>
+    <string name="code_copied">コードをクリップボードへコピーしました</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">クラシック</string>
@@ -554,12 +554,12 @@
     <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破しよう。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利する！</string>
     <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
     <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
-    <string name="description_soccer">ボールを敵のゴールにシュートしよう。タイムアップ時に最も多くのゴールを決めているチームが勝利する！</string>
-    <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
+    <string name="description_soccer">相手のゴールにシュートを決めよう。タイムアップ時に得点多いチームの勝ち！</string>
+    <string name="description_coming_soon">このゲームモードは近日公開予定です。続報を待ちましょう！</string>
     <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
 
     <!-- Map sizes !-->
-    <string name="mapsize_tiny">極小</string>
+    <string name="mapsize_tiny">最小</string>
     <string name="mapsize_small">小</string>
     <string name="mapsize_medium">普通</string>
     <string name="mapsize_large">大</string>
@@ -613,27 +613,27 @@
     <string name="skin">スキン</string>
     <string name="no_skin">スキンなし</string>
     <string name="selected_skin">現在のスキン</string>
-    <string name="select_skin_color">カラーを選択</string>
+    <string name="select_skin_color">カラー選択</string>
     <string name="skin_color_preview">プレビュー:</string>
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボドスト</string>
-    <string name="level_skin_locked">このスキンはレベル%d以降にアンロックされます。</string>
+    <string name="level_skin_locked">このスキンをレベル%d以降にアンロックします。</string>
     <string name="level_lock">レベルロック</string>
 
 
     <!-- Chat !-->
     <string name="chat">チャット</string>
-    <string name="room_commands" tools:ignore="TypographyDashes">使用可能なコマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1〜60]\n!pausechat [-1: 停止解除・0: 永久・1〜3600]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
+    <string name="room_commands" tools:ignore="TypographyDashes">コマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1〜60]\n!pausechat [-1: 停止解除・0: 永久・1〜3600]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_message_hint">メッセージを書く…</string>
     <string name="chat_send_message">メッセージを送る</string>
     <string name="copy_name">名前をコピー</string>
     <string name="copy_message">メッセージをコピー</string>
     <string name="view_profile">プロフィールへ</string>
-    <string name="delete_message">メッセージ削除</string>
-    <string name="edit_message">メッセージ編集</string>
-    <string name="report_message">メッセージ報告</string>
+    <string name="delete_message">メッセージを削除</string>
+    <string name="edit_message">メッセージを編集</string>
+    <string name="report_message">メッセージを報告</string>
     <string name="chat_paused">チャットが停止中です</string>
     <string name="reply">リプライ</string>
     <string name="replying_to">「%s」さんにリプライ中</string>
@@ -687,16 +687,16 @@
 
     <!-- Dialogs -->
     <string name="dialog_confirm">確認</string>
-    <string name="dialog_confirm_account_deletion">アカウント削除</string>
+    <string name="dialog_confirm_account_deletion">アカウントの削除</string>
     <string name="dialog_leave_game">ゲームを終了してもよろしいですか？</string>
-    <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズが失われます！</string>
+    <string name="dialog_respawn_warning">リスポーンしますか？現在のサイズを失います！</string>
     <string name="dialog_change_language">言語を『%s』に変更しますか？アプリが再起動されます。</string>
     <string name="dialog_connection_error">接続エラー</string>
     <string name="dialog_disconnected">切断されました</string>
     <string name="dialog_disconnected_message">サーバーから切断されました。</string>
     <string name="kicked_from_room">キックされました！</string>
     <string name="banned_from_room">バンされました！</string>
-    <string name="enter_room_name">ルーム名入力</string>
+    <string name="enter_room_name">ルーム名を入力</string>
     <string name="room_not_found">ルームは見つかりませんでした</string>
     <string name="already_in_room">すでにルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
@@ -731,7 +731,7 @@
     <string name="block_player">ブロック</string>
     <string name="unblock_player">ブロック解除</string>
     <string name="block_confirm_title">プレイヤーをブロックしますか？</string>
-    <string name="block_confirm_message">「%s」さんをブロックしてもよろしいですか？このプレイヤーからのメールまたはフレンド申請を受信できないようになり、フレンドリストから解除されます。</string>
+    <string name="block_confirm_message">「%s」さんをブロックしてもよろしいですか？このプレイヤーからのメールまたはフレンド申請を受信できないようになり、フレンドから解除されます。</string>
     <string name="player_unblocked">プレイヤーをブロック解除しました</string>
     <string name="player_blocked">プレイヤーをブロックしました</string>
     <string name="you_blocked_user">プレイヤーをブロックしました</string>
@@ -751,7 +751,7 @@
 
     <!-- Player List -->
     <string name="players">プレイヤー</string>
-    <string name="spectators">観戦者</string>
+    <string name="spectators">観戦者数</string>
     <string name="joined_room">ルーム「%s」に入りました</string>
     <string name="player_list_title">プレイヤーリスト</string>
     <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
@@ -759,7 +759,7 @@
     <string name="kick_confirm_title">プレイヤーをキック</string>
     <string name="kick_confirm_message">「%s」さんをキックしますか？まだ再参加できます。</string>
     <string name="ban_confirm_title">プレイヤーをバン</string>
-    <string name="ban_confirm_message">「%s」さんをバンしてもよろしいですか？再参加できないようになります。これは取り消せません！</string>
+    <string name="ban_confirm_message">「%s」さんをバンしてもよろしいですか？再参加できないようになります。これは元に戻せません！</string>
 
     <!-- Custom Images -->
     <string name="custom_images">カスタム画像</string>
@@ -776,22 +776,22 @@
     <string name="custom_image_upload_failed">画像がアップロードできませんでした</string>
     <string name="custom_image_read_error">画像が読み込めませんでした</string>
     <string name="custom_image_invalid_format">画像ファイルを選択してください</string>
-    <string name="custom_image_error_size">画像は大きすぎます: %1$dKB（最大%2$dKB）</string>
-    <string name="custom_image_error_dimensions">画像は大きすぎます: %1$dx%2$d（最大%3$dx%4$dp)</string>
-    <string name="custom_image_error_both">画像は大きすぎます: %1$dKB／%3$dx%4$d（最大%2$dKB／%5$dx%6$dp）</string>
-    <string name="custom_image_compress_title">画像は大きすぎます・圧縮？</string>
+    <string name="custom_image_error_size">画像が大きすぎます: %1$dKB（最大%2$dKB）</string>
+    <string name="custom_image_error_dimensions">画像が大きすぎます: %1$dx%2$d（最大%3$dx%4$dp)</string>
+    <string name="custom_image_error_both">画像が大きすぎます: %1$dKB／%3$dx%4$d（最大%2$dKB／%5$dx%6$dp）</string>
+    <string name="custom_image_compress_title">画像が大きすぎます・圧縮？</string>
     <string name="custom_image_compress_accept">圧縮する</string>
     <string name="custom_image_compress_failed">画像が圧縮できませんでした</string>
-    <string name="custom_image_bought">カスタム画像アップロード</string>
+    <string name="custom_image_bought">カスタム画像のアップロード</string>
     <string name="custom_image_refund">カスタム画像返金</string>
     <string name="custom_image_slot">画像 %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした: %1$s</string>
-    <string name="custom_image_no_approved_image">スロット%1$dに承認画像はありません</string>
+    <string name="custom_image_no_approved_image">スロット %1$d に承認画像はありません</string>
     <string name="report_avatar">アイコン報告</string>
     <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
-    <string name="report_avatar_success">アイコンの報告完了</string>
+    <string name="report_avatar_success">アイコンを報告しました</string>
     <string name="report_avatar_failed">アイコンが報告できませんでした</string>
 
     <!-- Account recovery -->
@@ -879,7 +879,7 @@
     <string name="room_hidden">非表示</string>
     <string name="map">マップ</string>
     <string name="size">サイズ</string>
-    <string name="shots">イジェクト数</string>
+    <string name="shots">イジェクト回数</string>
     <string name="bot">ボット</string>
     <string name="bots">ボット数</string>
     <string name="fps" translatable="false">FPS</string>
