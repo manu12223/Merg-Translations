@@ -156,7 +156,7 @@
     <string name="unrated">Sin clasificación</string>
     <string name="find_opponent">ENCONTRAR OPONENTE</string>
     <string name="leave_matchmaking">ABANDONAR EMPAREJAMIENTO</string>
-    <string name="searching_ellipsis">Buscando…</string>
+    <string name="searching_ellipsis">BUSCANDO...</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
     <string name="global_position">Global #%s</string>
     <string name="global_label">Global #</string>
@@ -165,12 +165,12 @@
     <string name="stat_draws_label"> · Draws: </string>
     <string name="stat_losses_label"> · Losses: </string>
     <string name="stat_winrate_label"> · Win rate: </string>
-    <string name="match_starts_in">La batalla empieza en…</string>
+    <string name="match_starts_in">LA BATALLA EMPIEZA EN...</string>
     <string name="vs_label">VS</string>
-    <string name="ongoing_matches">Batalla en curso</string>
-    <string name="match_status_starting">EMPEZANDO</string>
-    <string name="match_status_in_progress">EN PROGRESO</string>
-    <string name="match_status_finished">TERMINADA</string>
+    <string name="ongoing_matches">BATALLAS EN CURSO</string>
+    <string name="match_status_starting">EMPEZANDO BATALLA</string>
+    <string name="match_status_in_progress">BATALLA EMPEZADA</string>
+    <string name="match_status_finished">BATALLA TERMINADA</string>
     <string name="victory">VICTORIA</string>
     <string name="defeat">DERROTA</string>
     <string name="draw">DRAW</string>
@@ -180,7 +180,7 @@
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
 
     <!-- Shop -->
-    <string name="shop">Tienda</string>
+    <string name="shop">TIENDA</string>
     <string name="free_voidstones">¡Voidstones gratis!</string>
     <string name="free_voidstones_subtitle">¡Mira un video corto para ganar Voidstones gratis!</string>
     <string name="free_voidstones_won">Obtuviste %d Voidstones!</string>
@@ -834,10 +834,10 @@
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">Reaparecer</string>
     <string name="wait">Esperar</string>
-    <string name="exit">Exit</string>
+    <string name="exit">Salir</string>
     <string name="back">Volver</string>
     <string name="mode">Modo</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">Confirmar</string>
     <string name="save">Guardar</string>
     <string name="saved">Guardado</string>
     <string name="saving">Guardado…</string>
@@ -854,12 +854,12 @@
     <string name="done">Hecho</string>
     <string name="info">Info</string>
     <string name="empty">Vacío</string>
-    <string name="online">Online</string>
-    <string name="offline">Offline</string>
+    <string name="online">Conectado</string>
+    <string name="offline">Desconectado</string>
     <string name="name">Nombre</string>
-    <string name="owner">Owner</string>
-    <string name="kick">Kick</string>
-    <string name="ban">Ban</string>
+    <string name="owner">Creador</string>
+    <string name="kick">Expulsar</string>
+    <string name="ban">Banear</string>
     <string name="signal">Signal</string>
     <string name="home">Casa</string>
     <string name="settings">Ajustes</string>
@@ -912,10 +912,10 @@
     <string name="not_enough_voidstones">No hay suficientes piedras del vacío</string>
     <string name="database_write_fail">Error al escribir la base de datos</string>
     <string name="database_read_fail">La lectura de la base de datos falló</string>
-    <string name="banned">Banned</string>
-    <string name="muted">Muted</string>
-    <string name="banned_until">Banned until %s</string>
-    <string name="muted_until">Muted until %s</string>
+    <string name="banned">Baneado</string>
+    <string name="muted">Muteado</string>
+    <string name="banned_until">Baneado hasta %s</string>
+    <string name="muted_until">Muteado hasta %s</string>
     <string name="server_shutting_down">Server is shutting down</string>
     <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
     <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
