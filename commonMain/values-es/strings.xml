@@ -40,7 +40,7 @@
     <string name="language_polish">Polski | Polaco</string>
     <string name="language_portuguese">Português (Brasil) | Portugués (Brasil)</string>
     <string name="language_portuguese_portugal">Português (Portugal) | Portugués (Portugal)</string>
-    <string name="language_romanian">Română | Romano</string>
+    <string name="language_romanian">Română | Rumano</string>
     <string name="language_russian">Русский | Ruso</string>
     <string name="language_spanish">Español</string>
     <string name="language_swedish">Svenska | Sueco</string>
@@ -59,7 +59,7 @@
     <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la tabla de clasificación</string>
     <string name="show_grid">Mostrar cuadricula</string>
-    <string name="custom_background_image">Imagen de fondo personalizado</string>
+    <string name="custom_background_image">Fondo con imagen personalizada</string>
     <string name="custom_background_select">Seleccionar imagen</string>
     <string name="custom_background_opacity">Opaciadad del fondo</string>
     <string name="show_performance_metrics">Mostrar estadísticas de rendimiento</string>
@@ -108,7 +108,7 @@
     <string name="quick_merge">Fusión rápida</string>
     <string name="no_holes">Sin agujeros</string>
     <string name="circle_map">Mapa circular</string>
-    <string name="warning_no_holes">ADVERTENCIA: Sin agujeros</string>
+    <string name="warning_no_holes">No se guardarán estadísticas</string>
     <string name="gold_holes">Agujeros dorados</string>
 
     <!-- Multiplayer -->
