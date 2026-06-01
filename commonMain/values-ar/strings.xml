@@ -113,7 +113,7 @@
 
     <!-- Multiplayer -->
     <string name="play_online">PLAY ONLINE</string>
-    <string name="switch_server">Switch Server</string>
+    <string name="switch_server">تغيير الخادم</string>
     <string name="x_players">%s players</string>
     <string name="x_player">%s player</string>
     <string name="x_online">%s online</string>
@@ -125,8 +125,8 @@
     <string name="server_europe">Europe</string>
     <string name="join">دخول</string>
     <string name="create">Create</string>
-    <string name="create_chat_room">CREATE CHAT ROOM</string>
-    <string name="create_private_game">CREATE PRIVATE GAME</string>
+    <string name="create_chat_room">اصنع غرفة دردشة</string>
+    <string name="create_private_game">اصنع غرفة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
     <string name="clan">عشيرة</string>
     <string name="friends">اصدقاء</string>
@@ -152,9 +152,9 @@
     <string name="competitive">Competitive</string>
     <string name="competitive_menu">COMPETITIVE</string>
     <string name="competitive_history">Competitive History</string>
-    <string name="rating_label">Rating</string>
+    <string name="rating_label">تقييم</string>
     <string name="unrated">Unrated</string>
-    <string name="find_opponent">FIND OPPONENT</string>
+    <string name="find_opponent">العثور على خصم</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
     <string name="searching_ellipsis">Searching…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
@@ -171,10 +171,10 @@
     <string name="match_status_starting">STARTING</string>
     <string name="match_status_in_progress">IN PROGRESS</string>
     <string name="match_status_finished">FINISHED</string>
-    <string name="victory">VICTORY</string>
-    <string name="defeat">DEFEAT</string>
-    <string name="draw">DRAW</string>
-    <string name="play_again">Play Again</string>
+    <string name="victory">فوز</string>
+    <string name="defeat">خسارة</string>
+    <string name="draw">تعادل</string>
+    <string name="play_again">اللعب مجدداً</string>
     <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
     <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
@@ -201,7 +201,7 @@
     <string name="reward_name_font">Name Font</string>
     <string name="reward_already_owned_compensation">Already Owned. Converted to Voidstones</string>
     <string name="purchase_id">معرف الشراء: %d</string>
-    <string name="history">History</string>
+    <string name="history">التاريخ</string>
     <string name="voidstone_history">تاريخ الفويدستون</string>
     <string name="purchase_history">تاريخ المشتريات</string>
     <string name="no_transactions_yet">لم يتم اجراء اي معاملات حتى الان</string>
@@ -321,7 +321,7 @@
     <string name="profile_color_save_failed">فشل حفظ الوان الملف الشخصي</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">Developer</string>
+    <string name="developer_tag">المطور</string>
     <string name="code_contribution_tag">Code Contribution</string>
     <string name="admin">مشرف</string>
     <string name="mod">مدير</string>
@@ -352,8 +352,8 @@
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
     <!-- Clan -->
-    <string name="clan_create">Create Clan</string>
-    <string name="clan_name">Clan Name</string>
+    <string name="clan_create">اصنع عشيرة</string>
+    <string name="clan_name">اسم العشيرة</string>
     <string name="clan_name_hint">Enter clan name (max 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
@@ -361,20 +361,20 @@
     <string name="clan_no_clans">No clans found</string>
     <string name="no_clan">No clan</string>
     <string name="clan_request_clans">Request Only Clans</string>
-    <string name="clan_my_invites">My Invites</string>
+    <string name="clan_my_invites">دعواتي</string>
     <string name="clan_invite_declined">Invite declined.</string>
     <string name="clan_joined">Clan joined!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
     <string name="clan_members">Members</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
-    <string name="clan_leave">Leave Clan</string>
-    <string name="clan_leave_confirm">Are you sure you want to leave this clan?</string>
+    <string name="clan_leave">مغادرة العشيرة</string>
+    <string name="clan_leave_confirm">هل أنت متأكد من مغادرة العشيرة؟ </string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
     <string name="clan_request_sent">Join request sent.</string>
     <string name="clan_disband">Disband Clan</string>
     <string name="clan_disband_confirm">Are you sure you want to disband this clan? This cannot be undone!</string>
-    <string name="clan_invite">Invite Player</string>
+    <string name="clan_invite">دعوت الاعب</string>
     <string name="clan_invite_hint">Invite by ID or Name</string>
     <string name="clan_settings">Clan Settings</string>
     <string name="clan_join_mode">Join Mode</string>
@@ -401,7 +401,7 @@
     <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
     <string name="clan_unkick_confirm_title">Unkick Member</string>
     <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_invited">Invited</string>
+    <string name="clan_invited">مدعو إلى العشيرة</string>
     <string name="clan_revoke_invite_confirm_title">Revoke Invite</string>
     <string name="clan_revoke_invite_confirm_message">Revoke invite for \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Invite sent!</string>
@@ -423,11 +423,11 @@
     <string name="clan_creator">Creator</string>
     <string name="clan_history">Clan History</string>
     <string name="clan_history_no_entries">No history yet</string>
-    <string name="clan_history_event_join">Joined</string>
-    <string name="clan_history_event_leave">Left</string>
-    <string name="clan_history_event_kick">Kicked</string>
+    <string name="clan_history_event_join">دخل</string>
+    <string name="clan_history_event_leave">غادر</string>
+    <string name="clan_history_event_kick">مطرود</string>
     <string name="clan_history_event_ban">Banned</string>
-    <string name="clan_history_event_promote">Promoted</string>
+    <string name="clan_history_event_promote">ترقية</string>
     <string name="clan_history_event_demote">Demoted</string>
     <string name="clan_history_event_donation">Donated</string>
     <string name="clan_history_id">History ID: %d</string>
