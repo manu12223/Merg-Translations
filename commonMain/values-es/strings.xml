@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">Un Jugador</string>
     <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
+    <string name="online_multiplayer">Multijugador en línea</string>
     <string name="options">Opciones</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -61,7 +61,7 @@
     <string name="show_grid">Mostrar cuadricula</string>
     <string name="custom_background_image">Imagen de fondo personalizada</string>
     <string name="custom_background_select">Seleccionar imagen</string>
-    <string name="custom_background_opacity">Opaciadad del fondo</string>
+    <string name="custom_background_opacity">Opacidad del fondo</string>
     <string name="show_performance_metrics">Mostrar métricas de rendimiento</string>
     <string name="skin_outlines">Contorno de Skin</string>
     <string name="direction_arrow">Dirección de flecha</string>
@@ -74,7 +74,7 @@
     <string name="name_position_above">Arriba</string>
     <string name="name_position_center">Centro</string>
     <string name="name_position_below">Abajo</string>
-    <string name="name_scale">Escala del nombre</string>
+    <string name="name_scale">Escala del nombré</string>
     <string name="timer_format">Formato del temporizador</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
@@ -112,7 +112,7 @@
     <string name="gold_holes">Agujeros dorados</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">PLAY ONLINE</string>
+    <string name="play_online">Jugar en línea</string>
     <string name="switch_server">Switch Server</string>
     <string name="x_players">%s players</string>
     <string name="x_player">%s player</string>
@@ -120,11 +120,11 @@
     <string name="x_requests">%s request(s)</string>
     <string name="private_room">Private Room</string>
     <string name="private_rooms">Private Rooms</string>
-    <string name="connected">Connected</string>
-    <string name="select_server">Select Server</string>
+    <string name="connected">Conectado</string>
+    <string name="select_server">Seleccionar servidor</string>
     <string name="server_europe">Europe</string>
     <string name="join">Entrar</string>
-    <string name="create">Create</string>
+    <string name="create">Crear</string>
     <string name="create_chat_room">CREATE CHAT ROOM</string>
     <string name="create_private_game">CREATE PRIVATE GAME</string>
     <string name="room_full">Sala llena</string>
@@ -739,19 +739,19 @@
     <string name="both_blocked">Ambos usuarios se bloquearon mutuamente</string>
 
     <!-- LAN Multiplayer -->
-    <string name="host_local_game">HOST LOCAL GAME</string>
+    <string name="host_local_game">Organizar un juego local</string>
     <string name="local_ip">Local IP: %s</string>
     <string name="public_ip">Public IP: %s</string>
     <string name="searching_rooms">Buscando salas disponibles…</string>
     <string name="host">Host</string>
     <string name="enter_ip">Insertar IP</string>
-    <string name="join_ip_title">Join IP Address</string>
+    <string name="join_ip_title">Unirse al título de IP</string>
     <string name="tap_to_reveal">Toca para revelar</string>
     <string name="remote_lan_connections">Para permitir que otros clientes se conecten remotamente a través de una IP pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su dispositivo en la configuración de su enrutador. Tenga en cuenta que las conexiones podrían fallar si su red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
 
     <!-- Player List -->
-    <string name="players">Players</string>
-    <string name="spectators">Spectators</string>
+    <string name="players">Jugadores</string>
+    <string name="spectators">Espectadores</string>
     <string name="joined_room">Joined room %s</string>
     <string name="player_list_title">LISTA DE JUGADORES</string>
     <string name="player_list_count">Jugadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
@@ -763,7 +763,7 @@
 
     <!-- Custom Images -->
     <string name="custom_images">Custom Images</string>
-    <string name="profile_avatar">Profile Avatar</string>
+    <string name="profile_avatar">Avatar de perfíl</string>
     <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
     <string name="custom_image_upload">Upload</string>
     <string name="custom_image_replace">Replace</string>
@@ -791,19 +791,19 @@
     <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
     <string name="report_avatar">Report Avatar</string>
     <string name="report_avatar_message">Report the avatar of %1$s?</string>
-    <string name="report_avatar_success">Avatar reported</string>
+    <string name="report_avatar_success">Avatar reportado</string>
     <string name="report_avatar_failed">Failed to report avatar</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Account Recovery</string>
+    <string name="account_recovery">Recuperar cuenta</string>
     <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
-    <string name="recovery_continue">Continue</string>
-    <string name="recovery_enter_account_id">Enter your account ID</string>
-    <string name="recovery_account_id_placeholder">Account ID</string>
+    <string name="recovery_continue">Continuar</string>
+    <string name="recovery_enter_account_id">Ingresar tu ID de cuenta</string>
+    <string name="recovery_account_id_placeholder">Cuenta ID</string>
     <string name="recovery_load_preview">Load account</string>
-    <string name="recovery_new_email_label">New email address</string>
+    <string name="recovery_new_email_label">Nuevo correo agregado</string>
     <string name="recovery_new_email_placeholder">new@example.com</string>
-    <string name="recovery_change_mail">Change mail</string>
+    <string name="recovery_change_mail">Cambiar correo</string>
     <string name="recovery_confirm_title">Change account email?</string>
     <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
     <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
@@ -834,10 +834,10 @@
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">Reaparecer</string>
     <string name="wait">Esperar</string>
-    <string name="exit">Exit</string>
+    <string name="exit">Salir</string>
     <string name="back">Volver</string>
     <string name="mode">Modo</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">Confirmar</string>
     <string name="save">Guardar</string>
     <string name="saved">Guardado</string>
     <string name="saving">Guardado…</string>
@@ -874,8 +874,8 @@
     <string name="room_type_local">Local: %s</string>
     <string name="room_type_public">Público: %s</string>
     <string name="room_type_private">Privado: %s</string>
-    <string name="room_public">Public</string>
-    <string name="room_private">Private</string>
+    <string name="room_public">Publicó</string>
+    <string name="room_private">Privado</string>
     <string name="room_hidden">Hidden</string>
     <string name="map">Mapa</string>
     <string name="size">Tamaño</string>
@@ -912,8 +912,8 @@
     <string name="not_enough_voidstones">No hay suficientes piedras del vacío</string>
     <string name="database_write_fail">Error al escribir la base de datos</string>
     <string name="database_read_fail">La lectura de la base de datos falló</string>
-    <string name="banned">Banned</string>
-    <string name="muted">Muted</string>
+    <string name="banned">Baneado</string>
+    <string name="muted">Silenciado</string>
     <string name="banned_until">Banned until %s</string>
     <string name="muted_until">Muted until %s</string>
     <string name="server_shutting_down">Server is shutting down</string>
@@ -936,6 +936,6 @@
     <string name="clan_owner_must_transfer_error">You must transfer ownership to another member before leaving.</string>
     <string name="mail_cannot_send_self">You cannot send mail to yourself</string>
     <string name="clan_already_requested_other">Already requested to join this clan</string>
-    <string name="before">Before</string>
-    <string name="after">After</string>
+    <string name="before">Antes</string>
+    <string name="after">Después</string>
 </resources>
