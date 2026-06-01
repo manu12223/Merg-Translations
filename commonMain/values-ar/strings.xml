@@ -128,7 +128,7 @@
     <string name="create_chat_room">اصنع غرفة دردشة</string>
     <string name="create_private_game">اصنع غرفة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
-    <string name="clan">عشيرة</string>
+    <string name="clan">كلان</string>
     <string name="friends">اصدقاء</string>
     <string name="send_friend_request">إرسال طلب صداقة</string>
     <string name="friend_request_accepted">انتم الان اصدقاء!</string>
@@ -352,8 +352,8 @@
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
     <!-- Clan -->
-    <string name="clan_create">اصنع عشيرة</string>
-    <string name="clan_name">اسم العشيرة</string>
+    <string name="clan_create">اصنع كلان</string>
+    <string name="clan_name">اسم الكلان</string>
     <string name="clan_name_hint">Enter clan name (max 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
@@ -368,8 +368,8 @@
     <string name="clan_members">Members</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
-    <string name="clan_leave">مغادرة العشيرة</string>
-    <string name="clan_leave_confirm">هل أنت متأكد من مغادرة العشيرة؟ </string>
+    <string name="clan_leave">مغادرة الكلان</string>
+    <string name="clan_leave_confirm">هل أنت متأكد من مغادرة الكلان؟ </string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
     <string name="clan_request_sent">Join request sent.</string>
     <string name="clan_disband">Disband Clan</string>
@@ -383,7 +383,7 @@
     <string name="clan_join_mode_private">Private</string>
     <string name="clan_join_mode_abandoned">Abandoned</string>
     <string name="clan_pending_requests">Join Requests</string>
-    <string name="clan_role_owner">Owner</string>
+    <string name="clan_role_owner">owner</string>
     <string name="clan_role_co_owner">Co-Owner</string>
     <string name="clan_role_admin">Admin</string>
     <string name="clan_role_elder">Elder</string>
@@ -421,7 +421,7 @@
     <string name="clan_already_requested">You already have a pending join request to another clan.</string>
     <string name="clan_copy_tag">Copy Tag</string>
     <string name="clan_creator">Creator</string>
-    <string name="clan_history">Clan History</string>
+    <string name="clan_history">تاريخ الكلان</string>
     <string name="clan_history_no_entries">No history yet</string>
     <string name="clan_history_event_join">دخل</string>
     <string name="clan_history_event_leave">غادر</string>
@@ -440,7 +440,7 @@
     <string name="clan_transfer_ownership_title">Transfer Ownership</string>
     <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player\'s ID to confirm:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID does not match</string>
-    <string name="clan_customize_name_color">Clan Name Color</string>
+    <string name="clan_customize_name_coloris">لون اسم الكلان</string>
     <string name="clan_customize_tag_color">Clan Tag Color</string>
     <string name="clan_customize_color">Clan Color</string>
     <string name="clan_unlock_name_color">Unlock Clan Name Colors</string>
@@ -623,7 +623,7 @@
 
 
     <!-- Chat !-->
-    <string name="chat">Chat</string>
+    <string name="chat">دردشة</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
     <string name="chat_close">إغلاق المحادثة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
@@ -699,10 +699,10 @@
     <string name="enter_room_name">Enter Room Name</string>
     <string name="room_not_found">Room not found</string>
     <string name="already_in_room">You are already in a room!</string>
-    <string name="room_closed">Room Closed</string>
-    <string name="room_name">Room Name</string>
+    <string name="room_closed">الغرفة مغلقة</string>
+    <string name="room_name">اسم الغرفة</string>
     <string name="reported">Reported</string>
-    <string name="reason">Reason</string>
+    <string name="reason">السبب</string>
     <string name="room_crash">تحطمت الغرفة: %s</string>
     <string name="app_crash">App crashed: %s</string>
     <string name="dialog_reload">RELOAD</string>
@@ -715,9 +715,9 @@
     <string name="dialog_alert">Alert</string>
     <string name="dialog_dont_show_again">Don\'t show again</string>
     <string name="dialog_dismiss">Dismiss</string>
-    <string name="dialog_previous">Previous</string>
-    <string name="dialog_next">Next</string>
-    <string name="dialog_update">Update</string>
+    <string name="dialog_previous">السابق</string>
+    <string name="dialog_next">التالي</string>
+    <string name="dialog_update">تحديث</string>
     <string name="toast_please_wait">الرجاء الإنتظار</string>
     <string name="permission_denied">تم رفض الاذن</string>
     <string name="dialog_locked">مقفول</string>
@@ -750,8 +750,8 @@
     <string name="remote_lan_connections">للسماح للعملاء الاخرين بالانضمام عن بعد عبر عنوان IP عام، يجب عليك إعادة توجيه منفذ UDP %d او تفعيل منطقة DMZ لجهازك في إعدادات جهاز التوجيه. يُرجى العلم بان الاتصالات قد تفشل إذا كانت شبكتك تستخدم ترجمة عناوين الشبكة المتماثلة/CGNAT. لمزيد من المعلومات وللتحقق من نوع NAT الحالي، تفضل بزيارة %s.</string>
 
     <!-- Player List -->
-    <string name="players">Players</string>
-    <string name="spectators">Spectators</string>
+    <string name="players">الاعبين</string>
+    <string name="spectators">المشاهدين</string>
     <string name="joined_room">Joined room %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="player_list_count">اللاعبون: %d ⋅ البوتات: %d ⋅ الاجمالي: %d</string>
@@ -834,7 +834,7 @@
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">إعادة الظهور</string>
     <string name="wait">انتظر</string>
-    <string name="exit">Exit</string>
+    <string name="exit">خروج</string>
     <string name="back">الرجوع</string>
     <string name="mode">النوع</string>
     <string name="confirm">Confirm</string>
