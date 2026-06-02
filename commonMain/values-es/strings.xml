@@ -471,9 +471,9 @@
     <string name="clan_history_event_rename">Renombrar Clan</string>
 
     <!-- Leaderboard !-->
-    <string name="leaderboard_type">Tipo de tabla</string>
-    <string name="leaderboard_xp_description">Puntos de experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el juego.</string>
-    <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los jugadores que hayan completado al menos 12 partidas competitivas.</string>
+    <string name="leaderboard_type">Tipo de Tabla</string>
+    <string name="leaderboard_xp_description">Puntos de Experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el Juego.</string>
+    <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los Jugadores que hayan completado al menos 12 Partidas Competitivas.</string>
     <string name="leaderboard_rating">Clasificación</string>
     <string name="leaderboard_period_daily">Diario</string>
     <string name="leaderboard_period_weekly">Semanal</string>
@@ -481,15 +481,15 @@
     <string name="leaderboard_period_all_time">Todo</string>
     <string name="leaderboard_score">Puntuación</string>
     <string name="leaderboard_rank">Rango</string>
-    <string name="leaderboard_empty">Ups, aún no hay entradas...</string>
-    <string name="leaderboard_load_error">Ups, no se pudo cargar la tabla de clasificación...</string>
+    <string name="leaderboard_empty">Ups, aún no hay entradas.</string>
+    <string name="leaderboard_load_error">Ups, no se pudo cargar la Tabla de Clasificación.</string>
 
     <!-- Statistics !-->
     <string name="all">TODOS</string>
-    <string name="stat_highest_size">Blob más grande:</string>
-    <string name="stat_size_gained">Masa recolectada:</string>
-    <string name="stat_size_lost">Masa perdida:</string>
-    <string name="stat_total">Voidstones recolectadas:</string>
+    <string name="stat_highest_size">Blob más Grande:</string>
+    <string name="stat_size_gained">Masa Recolectada:</string>
+    <string name="stat_size_lost">Masa Perdida:</string>
+    <string name="stat_total">Voidstones Recolectadas:</string>
     <string name="stat_regular_value">Regular (valor total):</string>
     <string name="stat_regular_count">Regular (recolectadas):</string>
     <string name="stat_rainbow_value">Arcoíris (valor total):</string>
@@ -501,42 +501,42 @@
     <string name="stat_bronze_value">Bronce (valor total):</string>
     <string name="stat_bronze_count">Bronce (recolectadas):</string>
     <string name="stat_bonus">Bonificación:</string>
-    <string name="stat_food_eaten">Comida recolectada:</string>
-    <string name="stat_players_eaten">Jugadores comidos:</string>
-    <string name="stat_bots_eaten">Bots comidos:</string>
-    <string name="stat_blobs_eaten">Blobs comidos:</string>
-    <string name="stat_games_won">Patidas ganadas:</string>
-    <string name="stat_longest_session">Sesión más larga:</string>
-    <string name="stat_stages_cleared">Etapas superadas:</string>
-    <string name="stat_highest_stage">Etapa más alta:</string>
-    <string name="stat_adventures_completed">Aventuras completadas:</string>
-    <string name="stat_goals_scored">Goles anotados:</string>
+    <string name="stat_food_eaten">Comida Recolectada:</string>
+    <string name="stat_players_eaten">Jugadores Comidos:</string>
+    <string name="stat_bots_eaten">Bots Comidos:</string>
+    <string name="stat_blobs_eaten">Blobs Comidos:</string>
+    <string name="stat_games_won">Patidas Ganadas:</string>
+    <string name="stat_longest_session">Sesión más Larga:</string>
+    <string name="stat_stages_cleared">Etapas Superadas:</string>
+    <string name="stat_highest_stage">Etapa más Alta:</string>
+    <string name="stat_adventures_completed">Aventuras Completadas:</string>
+    <string name="stat_goals_scored">Goles Anotados:</string>
     <string name="stat_collisions">Explociones:</string>
     <string name="stat_boosts">Comidos:</string>
     <string name="stat_teleports">Teletransportaciones:</string>
-    <string name="stat_rewarded_ads_watched">Anuncios vistos:</string>
+    <string name="stat_rewarded_ads_watched">Anuncios Vistos:</string>
 
     <!-- Mail !-->
     <string name="mail">Correo</string>
-    <string name="sent_mail_to_id">Enviar correo a %d</string>
+    <string name="sent_mail_to_id">Enviar Correo a %d</string>
     <string name="mail_id">Correo de ID: %d</string>
-    <string name="no_mail_yet">Ups, parece que aún no tienes correos... yet</string>
+    <string name="no_mail_yet">Ups, parece que aún no tienes Correos.</string>
     <string name="mail_from">de:</string>
     <string name="mail_to">para:</string>
-    <string name="received">Correo recibido</string>
-    <string name="refresh">Refrescar lista</string>
-    <string name="write_mail">Escribir correo</string>
-    <string name="mail_reply">Responder correo</string>
-    <string name="mail_title_hint">Asunto del correo</string>
-    <string name="mail_content_hint">Cuerpo del correo</string>
-    <string name="mail_recipient_not_found">El destinatario no fue encontrado</string>
-    <string name="mail_send_to_self">Ups, no puedes enviarte un correo a ti mismo...</string>
-    <string name="mail_title_too_long">Ups, el asunto del correo es demasiado largo...</string>
-    <string name="mail_content_too_long">Ups, el cuerpo del correo es demasiado largo...</string>
-    <string name="mail_sent_success">Correo enviado</string>
-    <string name="mark_unread">Marcar como no leído</string>
-    <string name="copy_verification_code">Copiar código de verificación</string>
-    <string name="code_copied">¡El código de verificación se copió con éxito!</string>
+    <string name="received">Correo Recibido</string>
+    <string name="refresh">Refrescar Lista</string>
+    <string name="write_mail">Escribir Correo</string>
+    <string name="mail_reply">Responder Correo</string>
+    <string name="mail_title_hint">Asunto del Correo</string>
+    <string name="mail_content_hint">Cuerpo del Correo</string>
+    <string name="mail_recipient_not_found">El Destinatario no fue Encontrado</string>
+    <string name="mail_send_to_self">Ups, no puedes Enviarte un Correo a ti mismo...</string>
+    <string name="mail_title_too_long">Ups, el Asunto del Correo es demasiado largo...</string>
+    <string name="mail_content_too_long">Ups, el Cuerpo del Correo es demasiado largo...</string>
+    <string name="mail_sent_success">Correo Enviado</string>
+    <string name="mark_unread">Marcar como No Leído</string>
+    <string name="copy_verification_code">Copiar Código de Verificación</string>
+    <string name="code_copied">¡El Código de Verificación se Copió con Éxito!</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">Clásico</string>
