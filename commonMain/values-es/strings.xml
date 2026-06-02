@@ -739,7 +739,7 @@
     <string name="both_blocked">Ambos Jugadores están Bloqueados Mutuamente</string>
 
     <!-- LAN Multiplayer -->
-    <string name="host_local_game">RED LOCAL</string>
+    <string name="host_local_game">CREAR SALA LOCAL</string>
     <string name="local_ip">IP Local: %s</string>
     <string name="public_ip">IP Pública: %s</string>
     <string name="searching_rooms">Buscando Salas Disponibles…</string>
