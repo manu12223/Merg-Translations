@@ -639,11 +639,11 @@
     <string name="replying_to">Responder a %s</string>
 
     <!-- Notification box !-->
-    <string name="level_up">Subes de nivel! %d</string>
-    <string name="game_over">Fin del juego</string>
-    <string name="stage_clear">Etapa %s superada!</string>
-    <string name="stage_failed">Etapa %s fallida!</string>
-    <string name="restarting_adventure">Reiniciando aventura…</string>
+    <string name="level_up">Subes de Nivel! %d</string>
+    <string name="game_over">Fin del Juego</string>
+    <string name="stage_clear">Etapa %s Superada!</string>
+    <string name="stage_failed">Etapa %s Fallida!</string>
+    <string name="restarting_adventure">Reiniciando Aventura…</string>
     <string name="server_in_maintenance">SERVER EN MANTENIMIENTO</string>
     <string name="server_reboot">SERVIDOR REINICIDADO</string>
     <string name="server_shutdown">SERVER CAÍDO</string>
@@ -662,8 +662,8 @@
     <string name="ordinal_fallback">%dº</string>
 
     <!-- In Game UI !-->
-    <string name="player_size">Tamaño: %d</string>
-    <string name="effective_size">Tamaño efectivo: %d</string>
+    <string name="player_size">TAMAÑO: %d</string>
+    <string name="effective_size">Tamaño Visible: %d</string>
     <string name="decay">Decadencia: %.2f/s</string>
     <string name="pieces">Blobs: %1d/%2d</string>
     <string name="merge">Unirse: %ss</string>
@@ -674,13 +674,13 @@
     <string name="level_number">Nivel %d</string>
     <string name="food">Comida</string>
     <string name="voidstones">Voidstones</string>
-    <string name="blobs_eaten">Blobs comidos</string>
-    <string name="session_stat_size_gained">Masa recolectada:</string>
-    <string name="highest_rank">Rango más alto</string>
-    <string name="session_stat_highest_size">Blob más grande:</string>
+    <string name="blobs_eaten">Blobs Comidos</string>
+    <string name="session_stat_size_gained">Masa Recolectada:</string>
+    <string name="highest_rank">Rango más Alto</string>
+    <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
     <string name="leaderboard">Tabla de Clasificación</string>
-    <string name="session_stats">Estadísticas de sesión</string>
+    <string name="session_stats">Estadísticas de Sesión</string>
     <string name="debug">Depuracion</string>
     <string name="profiler">Perfil</string>
 
@@ -688,23 +688,23 @@
     <!-- Dialogs -->
     <string name="dialog_confirm">Confirmar</string>
     <string name="dialog_confirm_account_deletion">ELIMINAR CUENTA</string>
-    <string name="dialog_leave_game">¿Salir del juego?</string>
-    <string name="dialog_respawn_warning">¿Seguro que quieres reaparecer? Perderás toda tu masa.</string>
-    <string name="dialog_change_language">¿Quieres cambiar el idioma a %s? La aplicacion necesita cerrarse.</string>
-    <string name="dialog_connection_error">Error de conexión</string>
+    <string name="dialog_leave_game">¿Salir del Juego?</string>
+    <string name="dialog_respawn_warning">¿Seguro que quieres Reaparecer? Perderás toda tu Masa.</string>
+    <string name="dialog_change_language">¿Quieres cambiar el Idioma a %s? La Aplicacion necesita Cerrarse.</string>
+    <string name="dialog_connection_error">Error de Conexión</string>
     <string name="dialog_disconnected">Desconectado</string>
-    <string name="dialog_disconnected_message">Ups, se ha perdido la conexión con el servidor...</string>
-    <string name="kicked_from_room">Ups, has sido expulsado de la sala...</string>
-    <string name="banned_from_room">Ups, has sido baneado de la sala...</string>
-    <string name="enter_room_name">Escribe el nombre de la sala</string>
-    <string name="room_not_found">Ups, la sala no existe...</string>
-    <string name="already_in_room">¡Ya estás en la sala!</string>
-    <string name="room_closed">Ups, la sala ha sido cerrada...</string>
-    <string name="room_name">Nombre de la sala</string>
-    <string name="reported">Sala reportada</string>
+    <string name="dialog_disconnected_message">Ups, se ha perdido la Conexión con el Servidor...</string>
+    <string name="kicked_from_room">Ups, has sido Expulsado de la Sala.</string>
+    <string name="banned_from_room">Ups, has sido Baneado de la Sala.</string>
+    <string name="enter_room_name">Escribe el Nombre de la Sala</string>
+    <string name="room_not_found">Ups, la Sala no existe.</string>
+    <string name="already_in_room">¡Ya estás en la Sala!</string>
+    <string name="room_closed">Ups, la Sala ha sido cerrada.</string>
+    <string name="room_name">Nombre de la Sala</string>
+    <string name="reported">Sala Reportada</string>
     <string name="reason">Razón</string>
-    <string name="room_crash">Ups, hay un error con la sala: %s</string>
-    <string name="app_crash">Ups, hay un error con la aplicación: %s</string>
+    <string name="room_crash">Ups, hay un Error con la Sala: %s</string>
+    <string name="app_crash">Ups, hay un Error con la Aplicación: %s</string>
     <string name="dialog_reload">RECARGAR</string>
     <string name="dialog_yes">SÍ</string>
     <string name="dialog_no">NO</string>
@@ -713,30 +713,30 @@
     <string name="dialog_notice">NOTICIA</string>
     <string name="dialog_warning">Advertencia</string>
     <string name="dialog_alert">Alerta</string>
-    <string name="dialog_dont_show_again">No volver a mostrar</string>
+    <string name="dialog_dont_show_again">No Volver a Mostrar</string>
     <string name="dialog_dismiss">Minimizar</string>
     <string name="dialog_previous">Volver</string>
     <string name="dialog_next">Siguiente</string>
     <string name="dialog_update">Actualización</string>
     <string name="toast_please_wait">Por favor, espera.</string>
-    <string name="permission_denied">Permiso denegado</string>
+    <string name="permission_denied">Permiso Denegado</string>
     <string name="dialog_locked">Bloqueado</string>
-    <string name="duplicate_connection">Ups, alguien más está usando tu cuenta Merg...</string>
+    <string name="duplicate_connection">Ups, alguien más está usando tu Cuenta Merg.</string>
     <string name="outdated_client">Outdated Client!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
 
     <!-- Block Player -->
-    <string name="blocked_players">Jugadores bloqueados</string>
-    <string name="no_blocked_players">Sin jugadores bloqueados</string>
-    <string name="unblock_confirm_message">¿seguro que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
-    <string name="block_player">Bloquear jugador</string>
-    <string name="unblock_player">Desbloquear jugador</string>
-    <string name="block_confirm_title">Bloquear jugador</string>
-    <string name="block_confirm_message">¿Seguro que quieres bloquear a %s? No podrán enviarse correos, solicitudes de amistad y ambos serán eliminados de sus listas de amigos.</string>
+    <string name="blocked_players">Jugadores Bloqueados</string>
+    <string name="no_blocked_players">Sin Jugadores Bloqueados</string>
+    <string name="unblock_confirm_message">¿Seguro que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
+    <string name="block_player">Bloquear Jugador</string>
+    <string name="unblock_player">Desbloquear Jugador</string>
+    <string name="block_confirm_title">Bloquear Jugador</string>
+    <string name="block_confirm_message">¿Seguro que quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán Eliminados de sus Listas de Amigos.</string>
     <string name="player_unblocked">Jugador desbloqueado</string>
-    <string name="player_blocked">Jugador bloqueado</string>
-    <string name="you_blocked_user">Has bloqueado a este jugador</string>
+    <string name="player_blocked">Jugador Bloqueado</string>
+    <string name="you_blocked_user">Has Bloqueado a este Jugador</string>
     <string name="user_blocked_you">Bloqueado</string>
-    <string name="both_blocked">Ambos jugadores están bloqueados mutuamente</string>
+    <string name="both_blocked">Ambos Jugadores están Bloqueados Mutuamente</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">RED LOCAL</string>
