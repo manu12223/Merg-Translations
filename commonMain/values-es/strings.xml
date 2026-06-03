@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">Un Jugador</string>
     <string name="lan_multiplayer">Multijugador LAN</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
+    <string name="online_multiplayer">Multiplayer</string>
     <string name="options">Opciones</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -15,7 +15,7 @@
     <string name="developer">Desarrolladores:</string>
     <string name="code_contribution">Contribuciones de código:</string>
     <string name="skins">Skins:</string>
-    <string name="graphics_icons">Graphics/Icons:</string>
+    <string name="graphics_icons">Gráficos/Iconos:</string>
     <string name="translations">Traducciones:</string>
 
     <!-- Options menu !-->
@@ -60,8 +60,8 @@
     <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
     <string name="show_grid">Mostrar Cuadrícula</string>
-    <string name="show_grid_coordinates">Show Grid Coordinates</string>
-    <string name="show_coordinate_tint">Show Coordinate Tint</string>
+    <string name="show_grid_coordinates">Mostrar coordenadas de cuadrícula</string>
+    <string name="show_coordinate_tint">Montrar tinte de de coordenadas</string>
     <string name="custom_background_image">Fondo con Imagen Personalizada</string>
     <string name="custom_background_select">Seleccionar Imagen</string>
     <string name="custom_background_opacity">Opacidad del Fondo</string>
@@ -84,7 +84,7 @@
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Espectar automát. al Morir</string>
     <string name="cycle_progressbar">Alternar automát. Texto de la Barra de EXP</string>
-    <string name="verbose_in_game_ui">Verbose In-Game UI</string>
+    <string name="verbose_in_game_ui">UI detallada en juego</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
@@ -115,7 +115,7 @@
     <string name="relax">Relax</string>
     <string name="warning_no_holes">No se Guardarán Estadísticas</string>
     <string name="gold_holes">Agujeros Dorados</string>
-    <string name="starting_difficulty">Starting difficulty</string>
+    <string name="starting_difficulty">Dificultad inicial</string>
 
     <!-- Multiplayer -->
     <string name="play_online">JUGAR EN LÍNEA</string>
@@ -186,9 +186,9 @@
     <string name="play_x_more_matches_to_rated">¡Juega %d partidas más para Clasificar!</string>
     <string name="play_one_more_match_to_rated">¡Juega un partido más para obtener Puntuación!</string>
     <string name="history_viewer_vs_opponent">%1$svs%2$s</string>
-    <string name="prizes">Prizes</string>
-    <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
-    <string name="current_season">Current Season</string>
+    <string name="prizes">Premios</string>
+    <string name="prizes_dialog_intro">Antes del reinicio de temporada, los mejores recibirán Voidstone según su rendimiento!</string>
+    <string name="current_season">Temporada actual</string>
 
     <!-- Shop -->
     <string name="shop">TIENDA</string>
@@ -206,7 +206,7 @@
     <string name="reward_unlock">Desbloquear: %s</string>
     <string name="reward_name_color">Color de Nombre</string>
     <string name="reward_name_color_gradient">Color con Degradado de Nombre</string>
-    <string name="reward_name_triple_gradient">Name Triple Gradient</string>
+    <string name="reward_name_triple_gradient">Nombre con triple gradiente</string>
     <string name="reward_profile_color">Color de Perfil</string>
     <string name="reward_profile_gradient">Degradado de Perfil</string>
     <string name="reward_profile_triple_gradient">Degradado Triple de Perfil</string>
@@ -250,24 +250,24 @@
     <string name="ad_reward">Recompensas de Anuncios</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Season Pass</string>
+     <string name="season_pass">Pase de temporada</string>
      <string name="season_pass_season_number">Season %s</string>
-     <string name="january">January</string>
-     <string name="february">February</string>
-     <string name="march">March</string>
-     <string name="april">April</string>
-     <string name="may">May</string>
-     <string name="june">June</string>
-     <string name="july">July</string>
-     <string name="august">August</string>
-     <string name="september">September</string>
-     <string name="october">October</string>
-     <string name="november">November</string>
-     <string name="december">December</string>
-     <string name="season_bag_title">Currency Bag</string>
+     <string name="january">Enero</string>
+     <string name="february">Febrero</string>
+     <string name="march">Marzo</string>
+     <string name="april">Abril</string>
+     <string name="may">Mayo</string>
+     <string name="june">Junio</string>
+     <string name="july">Julio</string>
+     <string name="august">Agosto</string>
+     <string name="september">Septiembre</string>
+     <string name="october">Octubre</string>
+     <string name="november">Noviembre</string>
+     <string name="december">Diciembre</string>
+     <string name="season_bag_title">Bolsa de monedas</string>
      <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
-     <string name="season_bag_current">Current</string>
-     <string name="season_bag_last">Last</string>
+     <string name="season_bag_current">Actual</string>
+     <string name="season_bag_last">Anterior</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
