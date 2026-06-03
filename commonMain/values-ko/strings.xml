@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
@@ -15,6 +15,7 @@
     <string name="developer">Developer:</string>
     <string name="code_contribution">Code Contributions:</string>
     <string name="skins">Skins:</string>
+    <string name="graphics_icons">Graphics/Icons:</string>
     <string name="translations">Translations:</string>
 
     <!-- Options menu !-->
@@ -59,6 +60,8 @@
     <string name="opacity">Opacity</string>
     <string name="leaderboard_size">Leaderboard Size</string>
     <string name="show_grid">Show Grid</string>
+    <string name="show_grid_coordinates">Show Grid Coordinates</string>
+    <string name="show_coordinate_tint">Show Coordinate Tint</string>
     <string name="custom_background_image">Custom Background Image</string>
     <string name="custom_background_select">Select Image</string>
     <string name="custom_background_opacity">Background Opacity</string>
@@ -81,6 +84,7 @@
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Auto Spectate Killer</string>
     <string name="cycle_progressbar">Cycle XP Progress Bar Text</string>
+    <string name="verbose_in_game_ui">Verbose In-Game UI</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
@@ -108,8 +112,10 @@
     <string name="quick_merge">Quick Merge</string>
     <string name="no_holes">No Holes</string>
     <string name="circle_map">Circle Map</string>
+    <string name="relax">Relax</string>
     <string name="warning_no_holes">No statistics will be saved</string>
     <string name="gold_holes">Gold Holes</string>
+    <string name="starting_difficulty">Starting difficulty</string>
 
     <!-- Multiplayer -->
     <string name="play_online">PLAY ONLINE</string>
@@ -143,7 +149,7 @@
     <string name="remove_friend_message">Are you sure you want to remove \"%1$s\" (ID: %2$d) as a friend?</string>
     <string name="cancel_request_title">Cancel Request</string>
     <string name="cancel_request_message">Are you sure you want to cancel the friend request to \"%1$s\" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Can\'t send friend request to yourself</string>
+    <string name="friend_request_error_self">Can't send friend request to yourself</string>
     <string name="friend_request_error_already_sent">Friend request already sent</string>
     <string name="friend_request_error_already_friends">Already friends</string>
     <string name="friend_request_error_list_full">Friend list full</string>
@@ -158,6 +164,8 @@
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
     <string name="searching_ellipsis">Searching…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
+    <string name="x_searching">%d searching</string>
+    <string name="x_playing">%d playing</string>
     <string name="global_position">Global #%s</string>
     <string name="global_label">Global #</string>
     <string name="wins_draws_losses_winrate">Wins: %1$s · Draws: %2$s · Losses: %3$s · Win rate: %4$s%%</string>
@@ -178,9 +186,13 @@
     <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
     <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
+    <string name="prizes">Prizes</string>
+    <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
+    <string name="current_season">Current Season</string>
 
     <!-- Shop -->
     <string name="shop">Shop</string>
+    <string name="ticket">Ticket</string>
     <string name="free_voidstones">Free Voidstones!</string>
     <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
     <string name="free_voidstones_won">You got %d voidstones!</string>
@@ -194,6 +206,7 @@
     <string name="reward_unlock">Unlocked: %s</string>
     <string name="reward_name_color">Name Color</string>
     <string name="reward_name_color_gradient">Name Color Gradient</string>
+    <string name="reward_name_triple_gradient">Name Triple Gradient</string>
     <string name="reward_profile_color">Profile Color</string>
     <string name="reward_profile_gradient">Profile Color Gradient</string>
     <string name="reward_profile_triple_gradient">Profile Triple Gradient</string>
@@ -221,16 +234,40 @@
     <string name="admin_reward_sent">Admin Reward Sent</string>
     <string name="admin_deduction_sent">Admin Deduction Sent</string>
     <string name="verify_reward">Verify Reward</string>
+    <string name="competitive_season_reward">Competitive season reward</string>
+    <string name="purchase_remove_ads_label">Remove Ads</string>
+    <string name="purchase_status_permanent">Permanent</string>
+    <string name="purchase_status_refunded">Refunded</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Ad not loaded yet</string>
     <string name="ad_show_failed">Failed to show ad</string>
     <string name="ad_load_failed">Failed to load ad</string>
-    <string name="ad_rate_limited">You\'ve watched too many ads recently. Please try again in %s.</string>
+    <string name="ad_rate_limited">You've watched too many ads recently. Please try again in %s.</string>
     <string name="time_hrs">hrs</string>
     <string name="time_min">min</string>
     <string name="time_sec">sec</string>
     <string name="ad_reward">Video Ad Reward</string>
+
+    <!-- Season Pass -->
+     <string name="season_pass">Season Pass</string>
+     <string name="season_pass_season_number">Season %s</string>
+     <string name="january">January</string>
+     <string name="february">February</string>
+     <string name="march">March</string>
+     <string name="april">April</string>
+     <string name="may">May</string>
+     <string name="june">June</string>
+     <string name="july">July</string>
+     <string name="august">August</string>
+     <string name="september">September</string>
+     <string name="october">October</string>
+     <string name="november">November</string>
+     <string name="december">December</string>
+     <string name="season_bag_title">Currency Bag</string>
+     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_current">Current</string>
+     <string name="season_bag_last">Last</string>
 
     <!-- Profile -->
     <string name="profile">Profile</string>
@@ -291,8 +328,11 @@
     <string name="unlock_name_colors">Unlock Name Colors</string>
     <string name="unlock_name_colors_success">Name colors unlocked!</string>
     <string name="name_colors_already_unlocked">Name colors already unlocked</string>
+    <string name="unlock_name_color_gradient">Unlock Gradient Name Colors</string>
     <string name="unlock_name_color_gradient_success">Name color gradient unlocked!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Name color gradient is already unlocked</string>
+    <string name="unlock_name_triple_gradient">Unlock Gradient Name Colors 2</string>
+    <string name="unlock_name_triple_gradient_success">Name triple gradient unlocked!</string>
     <string name="name_color_save_success">Name colors saved!</string>
     <string name="name_color_save_failed">Failed to save colors</string>
     <string name="name_colors_not_unlocked">Name colors not unlocked</string>
@@ -411,9 +451,9 @@
     <string name="clan_full">The clan is full.</string>
     <string name="clan_join_button_full">Clan Full</string>
     <string name="clan_join_request_sent">Request Sent</string>
-    <string name="clan_invite_list_full">This clan\'s invite list is full (max 100).</string>
+    <string name="clan_invite_list_full">This clan's invite list is full (max 100).</string>
     <string name="clan_player_invite_list_full">This player already has the maximum number of pending invites.</string>
-    <string name="clan_request_list_full">This clan\'s join request list is full (max 100).</string>
+    <string name="clan_request_list_full">This clan's join request list is full (max 100).</string>
     <string name="clan_donate_voidstones">Donate Voidstones</string>
     <string name="clan_donate_hint">100 – 100,000</string>
     <string name="clan_donate_sent">Donation sent!</string>
@@ -438,7 +478,7 @@
     <string name="clan_search_hint">Search by ID or Name</string>
     <string name="clan_promote_to_owner">Promote to Owner</string>
     <string name="clan_transfer_ownership_title">Transfer Ownership</string>
-    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player\'s ID to confirm:</string>
+    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID does not match</string>
     <string name="clan_customize_name_color">Clan Name Color</string>
     <string name="clan_customize_tag_color">Clan Tag Color</string>
@@ -507,6 +547,7 @@
     <string name="stat_blobs_eaten">Blobs Eaten:</string>
     <string name="stat_games_won">Games Won:</string>
     <string name="stat_longest_session">Longest Session:</string>
+    <string name="stat_time_played">Time Played:</string>
     <string name="stat_stages_cleared">Stages Cleared:</string>
     <string name="stat_highest_stage">Highest Stage:</string>
     <string name="stat_adventures_completed">Adventures Completed:</string>
@@ -548,6 +589,7 @@
     <string name="gamemode_soccer">Soccer</string>
     <string name="gamemode_coming_soon">Coming Soon</string>
     <string name="gamemode_competitive">Competitive</string>
+    <string name="gamemode_multimerg">MultiMerg</string>
     <string name="description_classic">Eat smaller players and become the largest blob in the universe! Use your size to dominate the map, but watch out for bigger players who want to eat you!</string>
     <string name="description_teams">Join forces with other players of the same color! Work together to trap enemies and become the dominant team on the leaderboard. Teammates cannot eat each other.</string>
     <string name="description_survival">One life, one round! Collect as much as possible before the grace period ends. After that, death is permanent! Be the last one standing or the biggest when time runs out to win!</string>
@@ -557,6 +599,7 @@
     <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
     <string name="description_coming_soon">This mode is coming soon, stay tuned!</string>
     <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
+    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Tiny</string>
@@ -605,6 +648,9 @@
     <string name="buttons_split">Split Button</string>
     <string name="select_split">Select Split</string>
     <string name="split">Split</string>
+    <string name="buttons_yinyang">Switch Blob Button</string>
+    <string name="select_yinyang">Select Switch</string>
+    <string name="yinyang">Switch</string>
     <string name="buttons_customize">Customize Buttons</string>
     <string name="buttons_orientation_message">Portrait and Landscape customizations are saved separately</string>
 
@@ -618,6 +664,7 @@
     <string name="skin_tab_standard">Standard</string>
     <string name="skin_tab_level">Level</string>
     <string name="skin_tab_voidstones">Voidstones</string>
+    <string name="skin_tab_special">Special</string>
     <string name="level_skin_locked">Skin unlocks at level %d</string>
     <string name="level_lock">Level lock</string>
 
@@ -647,6 +694,7 @@
     <string name="server_in_maintenance">Server Maintenance</string>
     <string name="server_reboot">Server Reboot</string>
     <string name="server_shutdown">Server Shutdown</string>
+    <string name="afk_disconnect">AFK Disconnect</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%d위</string>
@@ -713,7 +761,7 @@
     <string name="dialog_notice">Notice</string>
     <string name="dialog_warning">Warning</string>
     <string name="dialog_alert">Alert</string>
-    <string name="dialog_dont_show_again">Don\'t show again</string>
+    <string name="dialog_dont_show_again">Don't show again</string>
     <string name="dialog_dismiss">Dismiss</string>
     <string name="dialog_previous">Previous</string>
     <string name="dialog_next">Next</string>
@@ -731,7 +779,7 @@
     <string name="block_player">Block Player</string>
     <string name="unblock_player">Unblock Player</string>
     <string name="block_confirm_title">Block Player?</string>
-    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other\'s friends list.</string>
+    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other's friends list.</string>
     <string name="player_unblocked">Player unblocked</string>
     <string name="player_blocked">Player blocked</string>
     <string name="you_blocked_user">You blocked this user</string>
@@ -747,13 +795,14 @@
     <string name="enter_ip">Enter IP</string>
     <string name="join_ip_title">Join IP Address</string>
     <string name="tap_to_reveal">Tap to reveal</string>
-    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router\'s settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
+    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router's settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
 
     <!-- Player List -->
     <string name="players">Players</string>
     <string name="spectators">Spectators</string>
     <string name="joined_room">Joined room %s</string>
     <string name="player_list_title">PLAYER LIST</string>
+    <string name="staff_list_title">STAFF LIST</string>
     <string name="player_list_count">Players: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Kick Player</string>
@@ -824,6 +873,9 @@
     <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
 
     <!-- Miscellaneous !-->
+    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
+    <string name="server_not_running">Server is not running</string>
+    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
     <string name="play">Play</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -910,6 +962,8 @@
     <string name="rate_limited">Please wait %d second(s) and try again.</string>
     <string name="nonexistent_user">User not found</string>
     <string name="not_enough_voidstones">Not enough voidstones</string>
+    <string name="ok">OK</string>
+    <string name="unlock_skin">Unlock</string>
     <string name="database_write_fail">Database write failed</string>
     <string name="database_read_fail">Database read failed</string>
     <string name="banned">Banned</string>
