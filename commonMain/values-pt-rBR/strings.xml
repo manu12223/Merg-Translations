@@ -15,7 +15,7 @@
     <string name="developer">Desenvolvedores:</string>
     <string name="code_contribution">Contribuidores do código:</string>
     <string name="skins">Skins:</string>
-    <string name="graphics_icons">Graphics/Icons:</string>
+    <string name="graphics_icons">Gráficos/Ícones:</string>
     <string name="translations">Traduções:</string>
 
     <!-- Options menu !-->
@@ -60,8 +60,8 @@
     <string name="opacity">Opacidade</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
     <string name="show_grid">Exibir Grades</string>
-    <string name="show_grid_coordinates">Show Grid Coordinates</string>
-    <string name="show_coordinate_tint">Show Coordinate Tint</string>
+    <string name="show_grid_coordinates">Exibir Coordenadas das Grades</string>
+    <string name="show_coordinate_tint">Exibir Matiz das Coordenadas</string>
     <string name="custom_background_image">Imagem de Fundo Personalizada</string>
     <string name="custom_background_select">Selecionar Imagem</string>
     <string name="custom_background_opacity">Opacidade do Fundo</string>
@@ -84,7 +84,7 @@
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
-    <string name="verbose_in_game_ui">Verbose In-Game UI</string>
+    <string name="verbose_in_game_ui">IU Detalhada no Jogo</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
@@ -112,10 +112,10 @@
     <string name="quick_merge">Juntar-se rapidamente</string>
     <string name="no_holes">Sem Vírus</string>
     <string name="circle_map">Mapa em Formato de Círculo</string>
-    <string name="relax">Relax</string>
+    <string name="relax">Equipe de Jogadores vs. Bots</string>
     <string name="warning_no_holes">Nenhuma estatística será salva</string>
     <string name="gold_holes">Vírus Dourados</string>
-    <string name="starting_difficulty">Starting difficulty</string>
+    <string name="starting_difficulty">Pular para dificuldade</string>
 
     <!-- Multiplayer -->
     <string name="play_online">JOGAR ONLINE</string>
@@ -164,8 +164,8 @@
     <string name="leave_matchmaking">SAIR DA FORMAÇÃO</string>
     <string name="searching_ellipsis">Procurando…</string>
     <string name="x_searching_y_playing">%1$s procurando · %2$s em andamento</string>
-    <string name="x_searching">%d searching</string>
-    <string name="x_playing">%d playing</string>
+    <string name="x_searching">%d procurando</string>
+    <string name="x_playing">%d em andamento</string>
     <string name="global_position">Global #%s</string>
     <string name="global_label">Global #</string>
     <string name="wins_draws_losses_winrate">Vitórias: %1$s · Empates: %2$s · Perdas: %3$s · Taxa de vitórias: %4$s%%</string>
@@ -186,9 +186,9 @@
     <string name="play_x_more_matches_to_rated">Jogue mais %d partidas para se classificar!</string>
     <string name="play_one_more_match_to_rated">Jogue mais 1 partida para se classificar!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
-    <string name="prizes">Prizes</string>
-    <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
-    <string name="current_season">Current Season</string>
+    <string name="prizes">Prêmios</string>
+    <string name="prizes_dialog_intro">Antes da atualização de toda e qualquer temporada, os jogadores no topo do ranking receberão uma recompensa de Voidstones com base em suas habilidades!</string>
+    <string name="current_season">Temporada Atual</string>
 
     <!-- Shop -->
     <string name="shop">Loja</string>
@@ -206,7 +206,7 @@
     <string name="reward_unlock">Desbloqueou: %s</string>
     <string name="reward_name_color">Cor do Nome</string>
     <string name="reward_name_color_gradient">Gradiente do Nome</string>
-    <string name="reward_name_triple_gradient">Name Triple Gradient</string>
+    <string name="reward_name_triple_gradient">Gradiente Triplo do Nome</string>
     <string name="reward_profile_color">Cor de Fundo do Perfil</string>
     <string name="reward_profile_gradient">Gradiente de Fundo do Perfil</string>
     <string name="reward_profile_triple_gradient">Gradiente Triplo de Fundo do Perfil</string>
@@ -215,7 +215,7 @@
     <string name="reward_already_owned_compensation">Já possui. Convertido para Voidstones</string>
     <string name="purchase_id">ID da Compra: %d</string>
     <string name="history">Histórico</string>
-    <string name="voidstone_history">Histórico de Compras com Vdst.</string>
+    <string name="voidstone_history">Hist. Compras com Vdst.</string>
     <string name="purchase_history">Histórico de Compras</string>
     <string name="no_transactions_yet">Transações indisponíveis</string>
     <string name="admin_reward">Recompensa de admin</string>
@@ -234,10 +234,10 @@
     <string name="admin_reward_sent">Recompensa para Administrador Enviada</string>
     <string name="admin_deduction_sent">Decisão Administrativa Enviada</string>
     <string name="verify_reward">Recompensa de Verificação</string>
-    <string name="competitive_season_reward">Competitive season reward</string>
-    <string name="purchase_remove_ads_label">Remove Ads</string>
-    <string name="purchase_status_permanent">Permanent</string>
-    <string name="purchase_status_refunded">Refunded</string>
+    <string name="competitive_season_reward">Recompensa da temporada do Competitivo</string>
+    <string name="purchase_remove_ads_label">Remover Anúncios</string>
+    <string name="purchase_status_permanent">Permanente</string>
+    <string name="purchase_status_refunded">Reembolsado</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Anúncio ainda não carregado</string>
@@ -250,24 +250,24 @@
     <string name="ad_reward">Recompensa por anúncios</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Season Pass</string>
-     <string name="season_pass_season_number">Season %s</string>
-     <string name="january">January</string>
-     <string name="february">February</string>
-     <string name="march">March</string>
-     <string name="april">April</string>
-     <string name="may">May</string>
-     <string name="june">June</string>
-     <string name="july">July</string>
-     <string name="august">August</string>
-     <string name="september">September</string>
-     <string name="october">October</string>
-     <string name="november">November</string>
-     <string name="december">December</string>
-     <string name="season_bag_title">Currency Bag</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
-     <string name="season_bag_current">Current</string>
-     <string name="season_bag_last">Last</string>
+     <string name="season_pass">Passe de Temporada</string>
+     <string name="season_pass_season_number">Temporada %s</string>
+     <string name="january">Janeiro</string>
+     <string name="february">Fevereiro</string>
+     <string name="march">Março</string>
+     <string name="april">Abril</string>
+     <string name="may">Maio</string>
+     <string name="june">Junho</string>
+     <string name="july">Julho</string>
+     <string name="august">Agosto</string>
+     <string name="september">Setembro</string>
+     <string name="october">Outubro</string>
+     <string name="november">Novembro</string>
+     <string name="december">Dezembro</string>
+     <string name="season_bag_title">Bolsa Para Moedas</string>
+     <string name="season_bag_entry">Temporada %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_current">Atual</string>
+     <string name="season_bag_last">Última</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
@@ -328,11 +328,11 @@
     <string name="unlock_name_colors">Desbloquear Cores do Nome</string>
     <string name="unlock_name_colors_success">Cores do nome desbloqueadas!</string>
     <string name="name_colors_already_unlocked">Cores do nome já desbloqueadas</string>
-    <string name="unlock_name_color_gradient">Unlock Gradient Name Colors</string>
-    <string name="unlock_name_color_gradient_success">Gradiente do nome desbloqueado!</string>
+    <string name="unlock_name_color_gradient">Desbloquear Gradiente do Nome</string>
+    <string name="unlock_name_color_gradient_success">Gradiente do Nome desbloqueado!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Gradiente do nome já desbloqueado</string>
-    <string name="unlock_name_triple_gradient">Unlock Gradient Name Colors 2</string>
-    <string name="unlock_name_triple_gradient_success">Name triple gradient unlocked!</string>
+    <string name="unlock_name_triple_gradient">Desbloquear Gradiente Triplo para o Nome</string>
+    <string name="unlock_name_triple_gradient_success">Gradiente Triplo para o Nome desbloqueado!</string>
     <string name="name_color_save_success">Cores do nome salvas!</string>
     <string name="name_color_save_failed">Falha ao salvar as cores do nome</string>
     <string name="name_colors_not_unlocked">Cores do nome não desbloqueadas</string>
@@ -426,7 +426,7 @@
     <string name="clan_role_owner">Dono(a)</string>
     <string name="clan_role_co_owner">Vice-dono(a)</string>
     <string name="clan_role_admin">Administrador(a)</string>
-    <string name="clan_role_elder">Anciã(o)</string>
+    <string name="clan_role_elder">Veterano(a)</string>
     <string name="clan_role_member">Membro</string>
     <string name="clan_name_taken">Este nome do clã já está em uso.</string>
     <string name="clan_already_member">Já está em um clã.</string>
@@ -547,7 +547,7 @@
     <string name="stat_blobs_eaten">Blobs Absorvidos:</string>
     <string name="stat_games_won">Jogos Ganhos:</string>
     <string name="stat_longest_session">Sessão Mais Longa:</string>
-    <string name="stat_time_played">Time Played:</string>
+    <string name="stat_time_played">Tempo de Jogo:</string>
     <string name="stat_stages_cleared">Fases Concluídas:</string>
     <string name="stat_highest_stage">Maior Fase:</string>
     <string name="stat_adventures_completed">Aventuras Concluídas:</string>
@@ -599,7 +599,7 @@
     <string name="description_soccer">Chute a bola até o gol do time adversário. O time com o maior número de gols assim que o tempo acabar será o ganhador!</string>
     <string name="description_coming_soon">Esse modo de jogo chegará em breve, fique antenado(a)!</string>
     <string name="description_competitive">Sobrevivência classificatória 1v1! Obtenha classificação derrotando adversários com habilidades semelhantes. Uma partida de 3 minutos com um acréscimo de 2 minutos começará se ambos os jogadores sobreviverem. Cada vitória fará subir no ranking global, enquanto cada derrota fará cair, mas a variação da classificação dependerá na diferença de habilidade entre você e o(a) adversário(a).</string>
-    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
+    <string name="description_multimerg">DOIS blobs nascerão; alterne entre os dois usando o botão de Yin Yang! Apenas o blob selecionado responderá ao controle, divisão e ejeção. O outro blob continuará se movendo para a direção escolhida anteriormente. Os seus dois blobs poderão se absorver, mas somente se houver splits; o que significa que o último blob estará protegido.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Minúsculo</string>
@@ -648,9 +648,9 @@
     <string name="buttons_split">Botão de Divisão</string>
     <string name="select_split">Selecionar Divisão</string>
     <string name="split">Divisão</string>
-    <string name="buttons_yinyang">Switch Blob Button</string>
-    <string name="select_yinyang">Select Switch</string>
-    <string name="yinyang">Switch</string>
+    <string name="buttons_yinyang">Botão de Alternar Entre Blobs</string>
+    <string name="select_yinyang">Selecionar Alternar Entre Blobs</string>
+    <string name="yinyang">Alternar Entre Blobs</string>
     <string name="buttons_customize">Personalizar Botões</string>
     <string name="buttons_orientation_message">As personalizações para os modos Retrato e Paisagem serão salvas separadamente.</string>
 
@@ -664,7 +664,7 @@
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Voidstone</string>
-    <string name="skin_tab_special">Special</string>
+    <string name="skin_tab_special">Especial</string>
     <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
@@ -694,7 +694,7 @@
     <string name="server_in_maintenance">Manutenção do Servidor</string>
     <string name="server_reboot">Reinício do Servidor</string>
     <string name="server_shutdown">Encerramento do Servidor</string>
-    <string name="afk_disconnect">AFK Disconnect</string>
+    <string name="afk_disconnect">Desconectado(a) por AFK</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%dº</string>
@@ -802,7 +802,7 @@
     <string name="spectators">Espectadores</string>
     <string name="joined_room">Entrou na sala %s</string>
     <string name="player_list_title">LISTA DE JOGADORES</string>
-    <string name="staff_list_title">STAFF LIST</string>
+    <string name="staff_list_title">LISTA DE MEMBROS STAFF</string>
     <string name="player_list_count">Jogadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Jogadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Expulsar Jogador(a)</string>
@@ -832,7 +832,7 @@
     <string name="custom_image_compress_accept">Usar Imagem Comprimida</string>
     <string name="custom_image_compress_failed">Não foi possível comprimir a imagem para o tamanho limite</string>
     <string name="custom_image_bought">Envio de Imagem Personalizada</string>
-    <string name="custom_image_refund">Reembolso de Imagem personalizada</string>
+    <string name="custom_image_refund">Reembolso de Imagem Personalizada</string>
     <string name="custom_image_slot">Imagem %1$d</string>
 
     <!-- Custom image skin -->
@@ -873,9 +873,9 @@
     <string name="recovery_error_internal">Ocorreu um erro da nossa parte. Tente novamente mais tarde.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="no_internet_connection">Conexão com a Internet indisponível. Verifique as configurações de rede do dispositivo.</string>
+    <string name="server_not_running">O servidor não está em execução</string>
+    <string name="name_change_reconnect_notice">Para que o seu novo nome seja exibido aos jogadores no jogo, será necessário reconectar-se ao servidor.</string>
     <string name="play">Jogar</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -963,7 +963,7 @@
     <string name="nonexistent_user">Usuário não encontrado</string>
     <string name="not_enough_voidstones">Voidstones insuficientes</string>
     <string name="ok">OK</string>
-    <string name="unlock_skin">Unlock</string>
+    <string name="unlock_skin">Desbloquear</string>
     <string name="database_write_fail">Falha no salvamento do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
     <string name="banned">Banido(a)</string>

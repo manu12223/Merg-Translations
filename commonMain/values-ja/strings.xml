@@ -39,7 +39,7 @@
     <string name="language_japanese">日本語</string>
     <string name="language_korean">한국어｜韓国語</string>
     <string name="language_polish">Polski｜ポーランド語</string>
-    <string name="language_portuguese">Português (Brasil)｜ブラジルポルトガル語</string>
+    <string name="language_portuguese">Português (Brasil)｜ポルトガル語（ブラジル）</string>
     <string name="language_portuguese_portugal">Português (Portugal)｜ポルトガル語</string>
     <string name="language_romanian">Română｜ルーマニア語</string>
     <string name="language_russian">Русский｜ロシア語</string>
@@ -60,8 +60,8 @@
     <string name="opacity">不透明度</string>
     <string name="leaderboard_size">リーダーボードサイズ</string>
     <string name="show_grid">グリッドを表示化</string>
-    <string name="show_grid_coordinates">Show Grid Coordinates</string>
-    <string name="show_coordinate_tint">Show Coordinate Tint</string>
+    <string name="show_grid_coordinates">グリッド座標を表示化</string>
+    <string name="show_coordinate_tint">座標の色合いを表示化</string>
     <string name="custom_background_image">背景のカスタム画像を使用する</string>
     <string name="custom_background_select">画像選択</string>
     <string name="custom_background_opacity">背景の不透明度</string>
@@ -84,7 +84,7 @@
     <string name="timer_format_ticks">ティック</string>
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
-    <string name="verbose_in_game_ui">Verbose In-Game UI</string>
+    <string name="verbose_in_game_ui">ゲーム内UIの詳細表示</string>
     <string name="jitter_buffer">ジッターバッファー</string>
 
     <!-- Game/room creation menu-->
@@ -112,10 +112,10 @@
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールを無効にする</string>
     <string name="circle_map">丸いマップ</string>
-    <string name="relax">Relax</string>
+    <string name="relax">プレイヤー対ブロブのみ</string>
     <string name="warning_no_holes">統計は更新されません</string>
     <string name="gold_holes">ゴールドホールを有効にする</string>
-    <string name="starting_difficulty">Starting difficulty</string>
+    <string name="starting_difficulty">難易度のスキップ</string>
 
     <!-- Multiplayer -->
     <string name="play_online">オンラインプレイ</string>
@@ -164,8 +164,8 @@
     <string name="leave_matchmaking">マッチメイキングを終了</string>
     <string name="searching_ellipsis">探しています…</string>
     <string name="x_searching_y_playing">%1$s試合が探し中 · %2$s試合が進行中</string>
-    <string name="x_searching">%d searching</string>
-    <string name="x_playing">%d playing</string>
+    <string name="x_searching">%d試合が探し中</string>
+    <string name="x_playing">%d試合が進行中</string>
     <string name="global_position">グローバルランキング: #%s</string>
     <string name="global_label">グローバルランキング: #</string>
     <string name="wins_draws_losses_winrate">勝利回数: %1$s · 引分回数: %2$s · 敗戦回数: %3$s · 勝率: %4$s%%</string>
@@ -185,14 +185,14 @@
     <string name="play_again">再プレイ</string>
     <string name="play_x_more_matches_to_rated">あと%d試合プレイしてランキングに入りましょう！</string>
     <string name="play_one_more_match_to_rated">あと1試合プレイしてランキングに入りましょう！</string>
-    <string name="history_viewer_vs_opponent">「%1$s」さん 対 「%2$s」さん</string>
-    <string name="prizes">Prizes</string>
-    <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
-    <string name="current_season">Current Season</string>
+    <string name="history_viewer_vs_opponent">「%1$s」さん　対　「%2$s」さん</string>
+    <string name="prizes">景品</string>
+    <string name="prizes_dialog_intro">各シーズンのリセット前に、上位のプレイヤーがスキルに応じてボイドストーンリワードを獲得します！</string>
+    <string name="current_season">現在のシーズン</string>
 
     <!-- Shop -->
     <string name="shop">ショップ</string>
-    <string name="ticket">Ticket</string>
+    <string name="ticket">チケット</string>
     <string name="free_voidstones">無料ボイドストーン！</string>
     <string name="free_voidstones_subtitle">マスを選んで、広告を視聴してボイドストーンをケットしよう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
@@ -206,7 +206,7 @@
     <string name="reward_unlock">アンロック: %s</string>
     <string name="reward_name_color">ネームカラー</string>
     <string name="reward_name_color_gradient">ネームグラデーション</string>
-    <string name="reward_name_triple_gradient">Name Triple Gradient</string>
+    <string name="reward_name_triple_gradient">ネーム3色のグラデーション</string>
     <string name="reward_profile_color">プロフィール背景カラー</string>
     <string name="reward_profile_gradient">プロフィール背景グラデーション</string>
     <string name="reward_profile_triple_gradient">プロフィール背景3色のグラデーション</string>
@@ -234,10 +234,10 @@
     <string name="admin_reward_sent">アドミンリワード送信済み</string>
     <string name="admin_deduction_sent">アドミン控除送信済み</string>
     <string name="verify_reward">リワード確認</string>
-    <string name="competitive_season_reward">Competitive season reward</string>
-    <string name="purchase_remove_ads_label">Remove Ads</string>
-    <string name="purchase_status_permanent">Permanent</string>
-    <string name="purchase_status_refunded">Refunded</string>
+    <string name="competitive_season_reward">ランクバトルのシーズンリワード</string>
+    <string name="purchase_remove_ads_label">広告を非表示化</string>
+    <string name="purchase_status_permanent">生涯</string>
+    <string name="purchase_status_refunded">返金</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
@@ -250,24 +250,24 @@
     <string name="ad_reward">広告リワード</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Season Pass</string>
-     <string name="season_pass_season_number">Season %s</string>
-     <string name="january">January</string>
-     <string name="february">February</string>
-     <string name="march">March</string>
-     <string name="april">April</string>
-     <string name="may">May</string>
-     <string name="june">June</string>
-     <string name="july">July</string>
-     <string name="august">August</string>
-     <string name="september">September</string>
-     <string name="october">October</string>
-     <string name="november">November</string>
-     <string name="december">December</string>
-     <string name="season_bag_title">Currency Bag</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
-     <string name="season_bag_current">Current</string>
-     <string name="season_bag_last">Last</string>
+     <string name="season_pass">シーズンパス</string>
+     <string name="season_pass_season_number">シーズン %s</string>
+     <string name="january">1月</string>
+     <string name="february">2月</string>
+     <string name="march">3月</string>
+     <string name="april">4月</string>
+     <string name="may">5月</string>
+     <string name="june">6月</string>
+     <string name="july">7月</string>
+     <string name="august">8月</string>
+     <string name="september">9月</string>
+     <string name="october">10月</string>
+     <string name="november">11月</string>
+     <string name="december">12月</string>
+     <string name="season_bag_title">通貨のバッグ</string>
+     <string name="season_bag_entry">シーズン %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_current">現在</string>
+     <string name="season_bag_last">最後</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
@@ -328,11 +328,11 @@
     <string name="unlock_name_colors">ネームカラーアンロック</string>
     <string name="unlock_name_colors_success">『ネームカラー』をアンロックしました！</string>
     <string name="name_colors_already_unlocked">『ネームカラー』はすでにアンロックされています</string>
-    <string name="unlock_name_color_gradient">Unlock Gradient Name Colors</string>
+    <string name="unlock_name_color_gradient">ネームグラデーションアンロック</string>
     <string name="unlock_name_color_gradient_success">『ネームグラデーション』をアンロックしました！</string>
     <string name="unlock_name_color_gradient_already_unlocked">『ネームグラデーション』はすでにアンロックされています</string>
-    <string name="unlock_name_triple_gradient">Unlock Gradient Name Colors 2</string>
-    <string name="unlock_name_triple_gradient_success">Name triple gradient unlocked!</string>
+    <string name="unlock_name_triple_gradient">ネーム3色のグラデーションアンロック</string>
+    <string name="unlock_name_triple_gradient_success">『ネーム3色のグラデーション』をアンロックしました！</string>
     <string name="name_color_save_success">ネームカラーを保存しました！</string>
     <string name="name_color_save_failed">カラーが保存できませんでした</string>
     <string name="name_colors_not_unlocked">『ネームカラー』はアンロックされていません</string>
@@ -547,7 +547,7 @@
     <string name="stat_blobs_eaten">食べたブロブの数:</string>
     <string name="stat_games_won">勝ったゲームの数:</string>
     <string name="stat_longest_session">最長セッション:</string>
-    <string name="stat_time_played">Time Played:</string>
+    <string name="stat_time_played">プレイ時間:</string>
     <string name="stat_stages_cleared">クリアしたステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
     <string name="stat_adventures_completed">クリアしたアドベンチャー数:</string>
@@ -589,17 +589,17 @@
     <string name="gamemode_soccer">サッカー</string>
     <string name="gamemode_coming_soon">近日公開</string>
     <string name="gamemode_competitive">バトル</string>
-    <string name="gamemode_multimerg">MultiMerg</string>
+    <string name="gamemode_multimerg">マルチマーグ</string>
     <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。だがより大きなブロブに気をつけてね！</string>
     <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
-    <string name="description_survival">１ライフ、１ラウンド！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
+    <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
     <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破しよう。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利する！</string>
     <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
     <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_soccer">相手のゴールにシュートを決めよう。タイムアップ時に得点多いチームの勝ち！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報を待ちましょう！</string>
     <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
-    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
+    <string name="description_multimerg">2つのブロブを生成し、陰陽ボタンで操作を切り替えよう！ジョイスティック、分裂、射出に反応するのは操作中のブロブだけ。もう片方のブロブは、直前の方向へ進み続ける。分裂時にお互いを食べ合うこともできるが、最後の1匹は守られる（吸収されない）ので安心だ。</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">最小</string>
@@ -648,9 +648,9 @@
     <string name="buttons_split">スプリットボタン</string>
     <string name="select_split">スプリットボタンの位置移動</string>
     <string name="split">スプリット</string>
-    <string name="buttons_yinyang">Switch Blob Button</string>
-    <string name="select_yinyang">Select Switch</string>
-    <string name="yinyang">Switch</string>
+    <string name="buttons_yinyang">マルチマーグのボタン</string>
+    <string name="select_yinyang">マルチマーグのボタンの位置移動</string>
+    <string name="yinyang">マルチマーグ</string>
     <string name="buttons_customize">カスタマイズ</string>
     <string name="buttons_orientation_message">ポットレートとランドスケープのカスタム設定は、別々に保存されます。</string>
 
@@ -664,7 +664,7 @@
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボドスト</string>
-    <string name="skin_tab_special">Special</string>
+    <string name="skin_tab_special">特別</string>
     <string name="level_skin_locked">このスキンをレベル%d以降にアンロックします。</string>
     <string name="level_lock">レベルロック</string>
 
@@ -694,7 +694,7 @@
     <string name="server_in_maintenance">サーバーはメンテナンス中です</string>
     <string name="server_reboot">サーバー再起動</string>
     <string name="server_shutdown">サーバーシャットダウン</string>
-    <string name="afk_disconnect">AFK Disconnect</string>
+    <string name="afk_disconnect">AFK切断</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%d位</string>
@@ -802,7 +802,7 @@
     <string name="spectators">観戦者数</string>
     <string name="joined_room">ルーム「%s」に入りました</string>
     <string name="player_list_title">プレイヤーリスト</string>
-    <string name="staff_list_title">STAFF LIST</string>
+    <string name="staff_list_title">スタッフリスト</string>
     <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
     <string name="player_list_count_with_spectators">プレイヤー数: %d ⋅ ボット数: %d ⋅ 観戦者数: %d ⋅ 総数: %d</string>
     <string name="kick_confirm_title">プレイヤーをキック</string>
@@ -873,9 +873,9 @@
     <string name="recovery_error_internal">サーバーエラーです。しばらくお待ちの上、再度お試しください。</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="no_internet_connection">インターネットに接続されていません。デバイスのネットワーク設定をチェックしてください。</string>
+    <string name="server_not_running">サーバーが稼働していません</string>
+    <string name="name_change_reconnect_notice">ゲーム内新しい名前が他のプレイヤーに表示されるためには、サーバーに再接続する必要があります。</string>
     <string name="play">プレイ</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -963,7 +963,7 @@
     <string name="nonexistent_user">このユーザーは見つかりませんでした</string>
     <string name="not_enough_voidstones">ボイドストーンが足りません</string>
     <string name="ok">OK</string>
-    <string name="unlock_skin">Unlock</string>
+    <string name="unlock_skin">アンロック</string>
     <string name="database_write_fail">データベースが書き込めませんでした</string>
     <string name="database_read_fail">データベースが読み込めませんでした</string>
     <string name="banned">バン中</string>
