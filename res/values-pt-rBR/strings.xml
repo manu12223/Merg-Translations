@@ -2,8 +2,8 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Um jogador</string>
-    <string name="lan_multiplayer">Multijogador via LAN</string>
+    <string name="singleplayer">Um Jogador</string>
+    <string name="lan_multiplayer">Multijogador Via LAN</string>
     <string name="online_multiplayer">Multijogador Online</string>
     <string name="options">Opções</string>
     <string name="discord" translatable="false">Discord</string>
@@ -13,8 +13,9 @@
     <string name="email_copy">Copiar E-mail</string>
     <string name="email_support">E-mail para Suporte:</string>
     <string name="developer">Desenvolvedores:</string>
-    <string name="code_contribution">Contribuidores para o código:</string>
+    <string name="code_contribution">Contribuidores do código:</string>
     <string name="skins">Skins:</string>
+    <string name="graphics_icons">Graphics/Icons:</string>
     <string name="translations">Traduções:</string>
 
     <!-- Options menu !-->
@@ -22,7 +23,7 @@
     <string name="language_arabic">العربية | Árabe</string>
     <string name="language_bengali">বাংলা | Bengali</string>
     <string name="language_chinese">简体中文 | Chinês (Simplificado)</string>
-    <string name="language_chinese_traditional">繁體中文 | Chinese (Traditional)</string>
+    <string name="language_chinese_traditional">繁體中文 | Chinês (Tradicional)</string>
     <string name="language_czech">Čeština | Checo</string>
     <string name="language_danish">Dansk | Dinamarquês</string>
     <string name="language_dutch">Nederlands | Neerlandês</string>
@@ -39,7 +40,7 @@
     <string name="language_korean">한국어 | Coreano</string>
     <string name="language_polish">Polski | Polonês</string>
     <string name="language_portuguese">Português (Brasil)</string>
-    <string name="language_portuguese_portugal">Português (Portugal) | Portuguese (Portugal)</string>
+    <string name="language_portuguese_portugal">Português (Portugal)</string>
     <string name="language_romanian">Română | Romeno</string>
     <string name="language_russian">Русский | Russo</string>
     <string name="language_spanish">Español | Espanhol</string>
@@ -59,6 +60,8 @@
     <string name="opacity">Opacidade</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
     <string name="show_grid">Exibir Grades</string>
+    <string name="show_grid_coordinates">Show Grid Coordinates</string>
+    <string name="show_coordinate_tint">Show Coordinate Tint</string>
     <string name="custom_background_image">Imagem de Fundo Personalizada</string>
     <string name="custom_background_select">Selecionar Imagem</string>
     <string name="custom_background_opacity">Opacidade do Fundo</string>
@@ -81,7 +84,8 @@
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Telar o(a) Matador(a) Automaticamente</string>
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
-    <string name="jitter_buffer">Buffer de Jitter</string>
+    <string name="verbose_in_game_ui">Verbose In-Game UI</string>
+    <string name="jitter_buffer">Jitter Buffer</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Jogo</string>
@@ -108,27 +112,16 @@
     <string name="quick_merge">Juntar-se rapidamente</string>
     <string name="no_holes">Sem Vírus</string>
     <string name="circle_map">Mapa em Formato de Círculo</string>
+    <string name="relax">Relax</string>
     <string name="warning_no_holes">Nenhuma estatística será salva</string>
     <string name="gold_holes">Vírus Dourados</string>
+    <string name="starting_difficulty">Starting difficulty</string>
 
     <!-- Multiplayer -->
     <string name="play_online">JOGAR ONLINE</string>
     <string name="switch_server">Alterar Servidor</string>
     <string name="x_players">%s jogadores</string>
-    <string name="x_player">%s player</string>
-    <string name="unrated">Unrated</string>
-    <string name="rating">Rating</string>
-    <string name="find_opponent">FIND OPPONENT</string>
-    <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
-    <string name="searching">Searching…</string>
-    <string name="x_searching_y_playing">%s searching · %s playing</string>
-    <string name="global_position">Global #%s</string>
-    <string name="wins_draws_losses_winrate">Wins: %s · Draws: %s · Losses: %s · Win rate: %s%%</string>
-    <string name="match_starts_in">Match starts in…</string>
-    <string name="victory">VICTORY</string>
-    <string name="defeat">DEFEAT</string>
-    <string name="draw">DRAW</string>
-    <string name="competitive_menu">COMPETITIVE</string>
+    <string name="x_player">%s jogador</string>
     <string name="x_online">%s online</string>
     <string name="x_requests">%s pedido(s)</string>
     <string name="private_room">Sala Privada</string>
@@ -136,7 +129,6 @@
     <string name="connected">Conectado</string>
     <string name="select_server">Selecionar Servidor</string>
     <string name="server_europe">Europa</string>
-    <string name="competitive">Competitivo</string>
     <string name="join">Entrar</string>
     <string name="create">Criar</string>
     <string name="create_chat_room">CRIAR SALA DE CHAT</string>
@@ -154,44 +146,82 @@
     <string name="friend_requests_sent">Solicitações Enviadas</string>
     <string name="no_friends">Seus amigos aparecerão aqui</string>
     <string name="remove_friend_title">Remover Amigo</string>
-    <string name="remove_friend_message">Tem certeza de que deseja excluir \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
+    <string name="remove_friend_message">Tem certeza de que deseja remover \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
     <string name="cancel_request_title">Cancelar Solicitação</string>
     <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com \"%1$s\" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Você não pode adicionar a si mesmo(a).</string>
+    <string name="friend_request_error_self">Can't send friend request to yourself</string>
     <string name="friend_request_error_already_sent">Solicitação de amizade já enviada</string>
     <string name="friend_request_error_already_friends">Já são amigos</string>
     <string name="friend_request_error_list_full">A lista de amigos atingiu o limite</string>
 
+    <!-- Competitive (ranked 1v1) -->
+    <string name="competitive">Competitivo</string>
+    <string name="competitive_menu">COMPETITIVO</string>
+    <string name="competitive_history">Competitive History</string>
+    <string name="rating_label">Rating</string>
+    <string name="unrated">Não Classificado(a)</string>
+    <string name="find_opponent">PROCURAR ADVERSÁRIO</string>
+    <string name="leave_matchmaking">SAIR DA FORMAÇÃO</string>
+    <string name="searching_ellipsis">Searching…</string>
+    <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
+    <string name="x_searching">%d searching</string>
+    <string name="x_playing">%d playing</string>
+    <string name="global_position">Global #%s</string>
+    <string name="global_label">Global #</string>
+    <string name="wins_draws_losses_winrate">Wins: %1$s · Draws: %2$s · Losses: %3$s · Win rate: %4$s%%</string>
+    <string name="stat_wins_label">Wins: </string>
+    <string name="stat_draws_label"> · Draws: </string>
+    <string name="stat_losses_label"> · Losses: </string>
+    <string name="stat_winrate_label"> · Win rate: </string>
+    <string name="match_starts_in">Partida começando em…</string>
+    <string name="vs_label">VS</string>
+    <string name="ongoing_matches">Ongoing matches</string>
+    <string name="match_status_starting">STARTING</string>
+    <string name="match_status_in_progress">IN PROGRESS</string>
+    <string name="match_status_finished">FINISHED</string>
+    <string name="victory">VITÓRIA</string>
+    <string name="defeat">DERROTA</string>
+    <string name="draw">EMPATE</string>
+    <string name="play_again">Play Again</string>
+    <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
+    <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
+    <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
+    <string name="prizes">Prizes</string>
+    <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
+    <string name="current_season">Current Season</string>
+
     <!-- Shop -->
     <string name="shop">Loja</string>
-    <string name="free_voidstones">Pedras do Vazio Gratuitas!</string>
-    <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Pedras do Vazio!</string>
-    <string name="free_voidstones_won">%d Pedras do Vazio foram adicionadas à conta!</string>
+    <string name="ticket">Ticket</string>
+    <string name="free_voidstones">Voidstones Gratuitas!</string>
+    <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Voidstones!</string>
+    <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="pick">Escolher</string>
     <string name="redeem_code">Resgatar Código</string>
     <string name="invalid_code">Código Inválido</string>
     <string name="code_already_claimed">Código Já Resgatado!</string>
     <string name="successfully_claimed_code">Recompensa Resgatada</string>
-    <string name="reward_voidstones">+%s Pedras do Vazio</string>
+    <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Desbloqueou: %s</string>
     <string name="reward_name_color">Cor do Nome</string>
     <string name="reward_name_color_gradient">Gradiente do Nome</string>
+    <string name="reward_name_triple_gradient">Name Triple Gradient</string>
     <string name="reward_profile_color">Cor de Fundo do Perfil</string>
     <string name="reward_profile_gradient">Gradiente de Fundo do Perfil</string>
     <string name="reward_profile_triple_gradient">Gradiente Triplo de Fundo do Perfil</string>
     <string name="reward_profile_description_color">Cor do Texto da Biografia</string>
     <string name="reward_name_font">Fonte do Nome</string>
-    <string name="reward_already_owned_compensation">Já possui. Convertido para Pedras do Vazio</string>
+    <string name="reward_already_owned_compensation">Já possui. Convertido para Voidstones</string>
     <string name="purchase_id">ID da Compra: %d</string>
     <string name="history">Histórico</string>
-    <string name="voidstone_history">Histórico de Compras com Pds. Vz.</string>
+    <string name="voidstone_history">Histórico de Compras com Vdst.</string>
     <string name="purchase_history">Histórico de Compras</string>
     <string name="no_transactions_yet">Transações indisponíveis</string>
     <string name="admin_reward">Recompensa de admin</string>
     <string name="in_app_purchase">Compras no app</string>
-    <string name="voidstone_gift_received">Presente de Pedras do Vazio recebido</string>
-    <string name="voidstone_gift_send">Enviar Pedras do Vazio</string>
+    <string name="voidstone_gift_received">Presente de Voidstones recebido</string>
+    <string name="voidstone_gift_send">Enviar Voidstones</string>
     <string name="skin_bought">Skin adquirida</string>
     <string name="profile_name_change_bought">Item \"Alteração de nome\" adquirido</string>
     <string name="profile_name_color_bought">Item \"Alteração de cores do nome\" adquirido</string>
@@ -204,26 +234,53 @@
     <string name="admin_reward_sent">Recompensa para Administrador Enviada</string>
     <string name="admin_deduction_sent">Decisão Administrativa Enviada</string>
     <string name="verify_reward">Recompensa de Verificação</string>
+    <string name="competitive_season_reward">Competitive season reward</string>
+    <string name="purchase_remove_ads_label">Remove Ads</string>
+    <string name="purchase_status_permanent">Permanent</string>
+    <string name="purchase_status_refunded">Refunded</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Anúncio ainda não carregado</string>
     <string name="ad_show_failed">Falha ao exibir o anúncio</string>
     <string name="ad_load_failed">Falha ao carregar o anúncio</string>
-    <string name="ad_rate_limited">Muitos anúncios foram exibidos em curto prazo. Tente novamente em %s.</string>
+    <string name="ad_rate_limited">You've watched too many ads recently. Please try again in %s.</string>
     <string name="time_hrs">hrs</string>
     <string name="time_min">min</string>
     <string name="time_sec">seg</string>
     <string name="ad_reward">Recompensa por anúncios</string>
+
+    <!-- Season Pass -->
+     <string name="season_pass">Season Pass</string>
+     <string name="season_pass_season_number">Season %s</string>
+     <string name="january">January</string>
+     <string name="february">February</string>
+     <string name="march">March</string>
+     <string name="april">April</string>
+     <string name="may">May</string>
+     <string name="june">June</string>
+     <string name="july">July</string>
+     <string name="august">August</string>
+     <string name="september">September</string>
+     <string name="october">October</string>
+     <string name="november">November</string>
+     <string name="december">December</string>
+     <string name="season_bag_title">Currency Bag</string>
+     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_current">Current</string>
+     <string name="season_bag_last">Last</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
     <string name="not_logged_in">Não conectado(a)!</string>
     <string name="login">Fazer login</string>
     <string name="login_google">Entrar com Google</string>
+    <string name="login_apple">Sign in with Apple</string>
     <string name="logout">Desconectar-se</string>
     <string name="logout_all_devices">Desconectar-se de Todos os Dispositivos</string>
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
+    <string name="share_id">Share ID</string>
+    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
     <string name="created">Criou em: %s</string>
     <string name="last_seen">Visto(a) por último: %s</string>
     <string name="save_profile_description">Salvar Biografia</string>
@@ -271,8 +328,11 @@
     <string name="unlock_name_colors">Desbloquear Cores do Nome</string>
     <string name="unlock_name_colors_success">Cores do nome desbloqueadas!</string>
     <string name="name_colors_already_unlocked">Cores do nome já desbloqueadas</string>
+    <string name="unlock_name_color_gradient">Unlock Gradient Name Colors</string>
     <string name="unlock_name_color_gradient_success">Gradiente do nome desbloqueado!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Gradiente do nome já desbloqueado</string>
+    <string name="unlock_name_triple_gradient">Unlock Gradient Name Colors 2</string>
+    <string name="unlock_name_triple_gradient_success">Name triple gradient unlocked!</string>
     <string name="name_color_save_success">Cores do nome salvas!</string>
     <string name="name_color_save_failed">Falha ao salvar as cores do nome</string>
     <string name="name_colors_not_unlocked">Cores do nome não desbloqueadas</string>
@@ -314,21 +374,21 @@
     <string name="discord_staff">Membro Staff no Servidor do Discord</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Presentear Pedras do Vazio</string>
-    <string name="send_voidstones_to">Presentear Pedras do Vazio para %1$s (ID: %2$d)</string>
-    <string name="send_voidstones_confirm">Presentear %1$s Pedras do Vazio para %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Não é possível enviar Pedras do Vazio para si mesmo(a)</string>
-    <string name="voidstone_gift_from">Presente de Pedras do Vazio de %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Presente de Pedras do Vazio para %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Pedras do Vazio de:</string>
-    <string name="voidstone_gift_to_label">Pedras do Vazio para:</string>
+    <string name="send_voidstones">Presentear Voidstones</string>
+    <string name="send_voidstones_to">Presentear Voidstones para %1$s (ID: %2$d)</string>
+    <string name="send_voidstones_confirm">Presentear %1$s Voidstones para %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Não é possível enviar Voidstones para si mesmo(a)</string>
+    <string name="voidstone_gift_from">Presente de Voidstones de %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_to">Presente de Voidstones para %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">Voidstones de:</string>
+    <string name="voidstone_gift_to_label">Voidstones para:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
     <string name="transaction_fee">%d%% de taxa incluso</string>
     <string name="transaction_fee_amount">-%s de taxa</string>
 
     <!-- Search Profile -->
     <string name="search_account">Procurar Conta</string>
-    <string name="search_account_by_id_or_name">Insira o nome ou ID para procurar a conta</string>
+    <string name="search_account_by_id_or_name">Insira o nome ou ID para procurar</string>
     <string name="no_account_found">Conta não encontrada</string>
 
     <!-- Clan -->
@@ -391,13 +451,13 @@
     <string name="clan_full">Este clã está cheio.</string>
     <string name="clan_join_button_full">Clã Cheio</string>
     <string name="clan_join_request_sent">Solicitação Enviada</string>
-    <string name="clan_invite_list_full">A lista de convites deste clã está cheia (máx. 100).</string>
+    <string name="clan_invite_list_full">This clan's invite list is full (max 100).</string>
     <string name="clan_player_invite_list_full">O número de convites enviados para este(a) jogador(a) já atingiu o limite.</string>
-    <string name="clan_request_list_full">A lista de solicitações de entrada deste clã está cheia (máx. 100).</string>
-    <string name="clan_donate_voidstones">Doar Pedras do Vazio</string>
+    <string name="clan_request_list_full">This clan's join request list is full (max 100).</string>
+    <string name="clan_donate_voidstones">Doar Voidstones</string>
     <string name="clan_donate_hint">Valor (100 – 100.000)</string>
     <string name="clan_donate_sent">Doação concluída!</string>
-    <string name="clan_not_a_member">Você não é um(a) membro deste clã.</string>
+    <string name="clan_not_a_member">Você não é membro deste clã.</string>
     <string name="clan_already_requested">Você já tem uma solicitação de entrada pendente para um outro clã.</string>
     <string name="clan_copy_tag">Copiar Tag</string>
     <string name="clan_creator">Criador(a)</string>
@@ -418,7 +478,7 @@
     <string name="clan_search_hint">Procurar por ID ou nome</string>
     <string name="clan_promote_to_owner">Promover a Dono(a)</string>
     <string name="clan_transfer_ownership_title">Transferir Liderança</string>
-    <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança para \"%1$s\" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
+    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
     <string name="clan_transfer_ownership_id_mismatch">O ID não corresponde.</string>
     <string name="clan_customize_name_color">Cor do Nome do Clã</string>
     <string name="clan_customize_tag_color">Cor da Tag do Clã</string>
@@ -451,16 +511,18 @@
     <string name="clan_history_event_rename">Renomeou Clã</string>
 
     <!-- Leaderboard !-->
-    <string name="leaderboard_type">Leaderboard Type</string>
-    <string name="leaderboard_xp_description">Experience points. Required to level up. Can be obtained by doing any meaningful action in game.</string>
-    <string name="leaderboard_period_daily">Daily</string>
-    <string name="leaderboard_period_weekly">Weekly</string>
-    <string name="leaderboard_period_monthly">Monthly</string>
-    <string name="leaderboard_period_all_time">All Time</string>
-    <string name="leaderboard_score">Score</string>
-    <string name="leaderboard_rank">Rank</string>
-    <string name="leaderboard_empty">No entries yet</string>
-    <string name="leaderboard_load_error">Failed to load leaderboard</string>
+    <string name="leaderboard_type">Tipo de Placar</string>
+    <string name="leaderboard_xp_description">XP: Necessário para subir de nível. Pode ser obtido realizando alguma ação significativa no jogo.</string>
+    <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
+    <string name="leaderboard_rating">Rating</string>
+    <string name="leaderboard_period_daily">Diário</string>
+    <string name="leaderboard_period_weekly">Semanal</string>
+    <string name="leaderboard_period_monthly">Mensal</string>
+    <string name="leaderboard_period_all_time">Histórico</string>
+    <string name="leaderboard_score">Pontuação</string>
+    <string name="leaderboard_rank">Classificação</string>
+    <string name="leaderboard_empty">Ainda não há inscrições</string>
+    <string name="leaderboard_load_error">Falha ao carregar o placar</string>
 
     <!-- Statistics !-->
     <string name="all">Tudo</string>
@@ -485,6 +547,7 @@
     <string name="stat_blobs_eaten">Blobs Absorvidos:</string>
     <string name="stat_games_won">Jogos Ganhos:</string>
     <string name="stat_longest_session">Sessão Mais Longa:</string>
+    <string name="stat_time_played">Time Played:</string>
     <string name="stat_stages_cleared">Fases Concluídas:</string>
     <string name="stat_highest_stage">Maior Fase:</string>
     <string name="stat_adventures_completed">Aventuras Concluídas:</string>
@@ -525,6 +588,8 @@
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_soccer">Futebol</string>
     <string name="gamemode_coming_soon">Em Breve</string>
+    <string name="gamemode_competitive">Competitive</string>
+    <string name="gamemode_multimerg">MultiMerg</string>
     <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
@@ -533,6 +598,8 @@
     <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar. Cada fase traz consigo novos desafios!</string>
     <string name="description_soccer">Chute a bola até o gol do time adversário. O time com o maior número de gols assim que o tempo acabar será o ganhador!</string>
     <string name="description_coming_soon">Esse modo de jogo chegará em breve, fique antenado(a)!</string>
+    <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
+    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Minúsculo</string>
@@ -558,7 +625,7 @@
     <string name="adventure_obj_growing_bots">Bots Crescentes!</string>
     <string name="adventure_obj_reach_size">Atinja um Tamanho de %d</string>
     <string name="adventure_obj_finish_first">Chegue em 1º lugar</string>
-    <string name="adventure_obj_collect_voidstones">Colete %d Pedras do Vazio</string>
+    <string name="adventure_obj_collect_voidstones">Colete %d Voidstones</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tempo</string>
@@ -581,6 +648,9 @@
     <string name="buttons_split">Botão de Divisão</string>
     <string name="select_split">Selecionar Divisão</string>
     <string name="split">Divisão</string>
+    <string name="buttons_yinyang">Switch Blob Button</string>
+    <string name="select_yinyang">Select Switch</string>
+    <string name="yinyang">Switch</string>
     <string name="buttons_customize">Personalizar Botões</string>
     <string name="buttons_orientation_message">As personalizações para os modos Retrato e Paisagem serão salvas separadamente.</string>
 
@@ -593,7 +663,8 @@
     <string name="skin_color_preview">Prévia:</string>
     <string name="skin_tab_standard">Padrão</string>
     <string name="skin_tab_level">Nível</string>
-    <string name="skin_tab_voidstones">Pedras do Vazio</string>
+    <string name="skin_tab_voidstones">Voidstone</string>
+    <string name="skin_tab_special">Special</string>
     <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
@@ -620,9 +691,10 @@
     <string name="stage_clear">Fase %s Concluída!</string>
     <string name="stage_failed">Fase %s Falhada!</string>
     <string name="restarting_adventure">Reiniciando aventura…</string>
-    <string name="server_in_maintenance">Server Maintenance</string>
+    <string name="server_in_maintenance">Manutenção do Servidor</string>
     <string name="server_reboot">Reinício do Servidor</string>
     <string name="server_shutdown">Encerramento do Servidor</string>
+    <string name="afk_disconnect">AFK Disconnect</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%dº</string>
@@ -649,7 +721,7 @@
     <string name="level">Nível</string>
     <string name="level_number">Nível %d</string>
     <string name="food">Alimento</string>
-    <string name="voidstones">Pedras do Vazio</string>
+    <string name="voidstones">Voidstones</string>
     <string name="blobs_eaten">Blobs Absorvidos</string>
     <string name="session_stat_size_gained">Tamanho Obtido</string>
     <string name="highest_rank">Maior Classificação</string>
@@ -689,7 +761,7 @@
     <string name="dialog_notice">Nota</string>
     <string name="dialog_warning">Aviso</string>
     <string name="dialog_alert">Alerta</string>
-    <string name="dialog_dont_show_again">Não exibir novamente</string>
+    <string name="dialog_dont_show_again">Don't show again</string>
     <string name="dialog_dismiss">Esquecer</string>
     <string name="dialog_previous">Anterior</string>
     <string name="dialog_next">Próximo</string>
@@ -707,7 +779,7 @@
     <string name="block_player">Bloquear Jogador(a)</string>
     <string name="unblock_player">Desbloquear Jogador(a)</string>
     <string name="block_confirm_title">Bloquear Jogador(a)?</string>
-    <string name="block_confirm_message">Tem certeza de que deseja bloquear este(a) jogador(a): %s? Você não receberá mais mensagens ou solicitação de amizade dele(a) e ele(a) será excluído(a) da sua lista de amigos.</string>
+    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other's friends list.</string>
     <string name="player_unblocked">Jogador(a) desbloqueado(a)</string>
     <string name="player_blocked">Jogador(a) bloqueado(a)</string>
     <string name="you_blocked_user">Você bloqueou</string>
@@ -723,13 +795,16 @@
     <string name="enter_ip">Inserir IP</string>
     <string name="join_ip_title">Entrar no Endereço IP</string>
     <string name="tap_to_reveal">Toque para revelar</string>
-    <string name="remote_lan_connections">É necessário redirecionar a porta UDP %d ou, nas configurações do seu roteador, ativar o DMZ para permitir que outros clientes entrem usando seu IP público. As conexões poderão falhar se a sua rede estiver sob um NAT/CGNAT Simétrico. Visite %s para saber mais e verificar o tipo de NAT do seu provedor de Internet.</string>
+    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router's settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
 
     <!-- Player List -->
     <string name="players">Jogadores</string>
+    <string name="spectators">Spectators</string>
+    <string name="joined_room">Joined room %s</string>
     <string name="player_list_title">LISTA DE JOGADORES</string>
+    <string name="staff_list_title">STAFF LIST</string>
     <string name="player_list_count">Jogadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">Jogadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Expulsar Jogador(a)</string>
     <string name="kick_confirm_message">Expulsar este(a) jogador(a) da sala: %s? Ele(a) ainda poderá entrar na sala.</string>
     <string name="ban_confirm_title">Banir Jogador(a)</string>
@@ -743,7 +818,7 @@
     <string name="custom_image_replace">Substituir</string>
     <string name="custom_image_deselect">Desselecionar</string>
     <string name="custom_image_confirm_title">Enviar Imagem</string>
-    <string name="custom_image_confirm_body">Enviar esta imagem por %1$s Pedras do Vazio??</string>
+    <string name="custom_image_confirm_body">Enviar esta imagem por %1$s Voidstones?</string>
     <string name="custom_image_upload_success">Imagem enviada para análise</string>
     <string name="custom_image_selected">Ícone selecionado</string>
     <string name="custom_image_deselected">Ícone desselecionado</string>
@@ -761,43 +836,46 @@
     <string name="custom_image_slot">Imagem %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
-    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
+    <string name="custom_image_skin_load_failed">Falha ao carregar a skin personalizada: %1$s</string>
+    <string name="custom_image_no_approved_image">Nenhuma imagem aprovada no slot %1$d</string>
     <string name="report_avatar">Denunciar Ícone do Perfil</string>
     <string name="report_avatar_message">Denunciar o ícone do perfil de %1$s?</string>
     <string name="report_avatar_success">Ícone denunciado</string>
     <string name="report_avatar_failed">Falha na denúncia do ícone</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Account Recovery</string>
-    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
-    <string name="recovery_continue">Continue</string>
-    <string name="recovery_enter_account_id">Enter your account ID</string>
-    <string name="recovery_account_id_placeholder">Account ID</string>
-    <string name="recovery_load_preview">Load account</string>
-    <string name="recovery_new_email_label">New email address</string>
-    <string name="recovery_new_email_placeholder">new@example.com</string>
-    <string name="recovery_change_mail">Change mail</string>
-    <string name="recovery_confirm_title">Change account email?</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
-    <string name="recovery_error_invalid_id">Please enter a valid account ID.</string>
-    <string name="recovery_error_invalid_email">Please enter a valid email address.</string>
-    <string name="recovery_error_invalid_request">Invalid request. Please try again.</string>
-    <string name="recovery_error_network">Network error. Please check your connection and try again.</string>
-    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
-    <string name="recovery_error_email_taken">This email is already used by another account. Delete that account or use a different email.</string>
-    <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
-    <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
-    <string name="recovery_error_cooldown">This account was recently recovered. Please wait 24 hours before trying again.</string>
-    <string name="recovery_error_banned">This account is banned and cannot be recovered.</string>
-    <string name="recovery_error_not_found">No account found with that ID.</string>
-    <string name="recovery_error_rate_limited">Too many attempts. Please wait and try again later.</string>
-    <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
-    <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
-    <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
+    <string name="account_recovery">Recuperação de Contas</string>
+    <string name="recovery_info">É necessário que você esteja usando o mesmo Wi-Fi e dispositivo, caso contrário o processo de recuperação poderá falhar.</string>
+    <string name="recovery_continue">Continuar</string>
+    <string name="recovery_enter_account_id">Insira o ID da conta</string>
+    <string name="recovery_account_id_placeholder">ID da Conta</string>
+    <string name="recovery_load_preview">Carregar conta</string>
+    <string name="recovery_new_email_label">Novo endereço de e-mail</string>
+    <string name="recovery_new_email_placeholder">novo@exemplo.com</string>
+    <string name="recovery_change_mail">Alterar e-mail</string>
+    <string name="recovery_confirm_title">Alterar o e-mail da conta?</string>
+    <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Essa ação é irreversível.</string>
+    <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Já é possível entrar com a sua nova conta do Google.</string>
+    <string name="recovery_error_invalid_id">Insira um ID de conta válido.</string>
+    <string name="recovery_error_invalid_email">Insira um endereço de e-mail válido.</string>
+    <string name="recovery_error_invalid_request">Solicitação inválida. Tente novamente.</string>
+    <string name="recovery_error_network">Erro de rede. Verifique a sua conexão e tente novamente.</string>
+    <string name="recovery_error_fingerprint_mismatch">Esse dispositivo e rede não correspondem a esta conta. A recuperação exige o mesmo dispositivo num Wi-Fi que você usou com a conta anteriormente.</string>
+    <string name="recovery_error_email_taken">Esse endereço de e-mail já está sendo usado por uma outra conta. Exclua a conta ou use um endereço de e-mail diferente.</string>
+    <string name="recovery_error_google_taken">Essa conta do Google já está vinculada a uma outra conta.</string>
+    <string name="recovery_error_email_mismatch">O endereço de e-mail inserido não corresponde à conta do Google na qual você entrou.</string>
+    <string name="recovery_error_cooldown">Essa conta foi recuperada recentemente. Aguarde 24 horas e tente novamente.</string>
+    <string name="recovery_error_banned">Essa conta foi banida e não pode ser recuperada.</string>
+    <string name="recovery_error_not_found">Nenhuma conta encontrada com o ID inserido.</string>
+    <string name="recovery_error_rate_limited">Muitas tentativas. Tente novamente mais tarde.</string>
+    <string name="recovery_error_google_invalid">Não foi possível verificar a sua conta do Google. Tente novamente.</string>
+    <string name="recovery_error_google_cancelled">O login com Google foi cancelado ou falhou.</string>
+    <string name="recovery_error_internal">Ocorreu um erro da nossa parte. Tente novamente mais tarde.</string>
 
     <!-- Miscellaneous !-->
+    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
+    <string name="server_not_running">Server is not running</string>
+    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
     <string name="play">Jogar</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -815,7 +893,7 @@
     <string name="save">Salvar</string>
     <string name="saved">Salvo</string>
     <string name="saving">Salvando…</string>
-    <string name="sent">Enviado</string>
+    <string name="sent">Enviadas</string>
     <string name="send">Enviar</string>
     <string name="sending">Enviando…</string>
     <string name="buy">Comprar</string>
@@ -869,7 +947,7 @@
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
     <string name="level_abbreviated">Nv.%d</string>
-    <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>
@@ -883,7 +961,9 @@
     <string name="invalid_token">Sessão inválida ou expirada. Conecte-se novamente.</string>
     <string name="rate_limited">Aguarde %d segundo(s) e tente novamente.</string>
     <string name="nonexistent_user">Usuário não encontrado</string>
-    <string name="not_enough_voidstones">Pedras do Vazio insuficientes</string>
+    <string name="not_enough_voidstones">Voidstones insuficientes</string>
+    <string name="ok">OK</string>
+    <string name="unlock_skin">Unlock</string>
     <string name="database_write_fail">Falha no salvamento do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
     <string name="banned">Banido(a)</string>
