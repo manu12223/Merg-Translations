@@ -124,7 +124,7 @@
     <string name="select_server">Select Server</string>
     <string name="server_europe">Europe</string>
     <string name="join">دخول</string>
-    <string name="create">Create</string>
+    <string name="create">اصنع</string>
     <string name="create_chat_room">اصنع غرفة دردشة</string>
     <string name="create_private_game">اصنع غرفة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
@@ -166,7 +166,7 @@
     <string name="stat_losses_label"> · Losses: </string>
     <string name="stat_winrate_label"> · Win rate: </string>
     <string name="match_starts_in">Match starts in…</string>
-    <string name="vs_label">VS</string>
+    <string name="vs_label">ضد</string>
     <string name="ongoing_matches">Ongoing matches</string>
     <string name="match_status_starting">STARTING</string>
     <string name="match_status_in_progress">IN PROGRESS</string>
@@ -287,7 +287,7 @@
     <string name="profile_delete_type_prompt">اكتب %s لتأكيد حذف الحساب:</string>
     <string name="profile_delete_confirm_text">حذف</string>
     <string name="profile_delete_failed">فشل الحذف</string>
-    <string name="name_color">Name Color</string>
+    <string name="name_color">لون الاسم</string>
     <string name="unlock_name_colors">فتح الوان الاسم</string>
     <string name="unlock_name_colors_success">تم فتح ألوان الاسم!</string>
     <string name="name_colors_already_unlocked">تم فتح الوان الاسم بالفعل</string>
@@ -383,7 +383,7 @@
     <string name="clan_join_mode_private">Private</string>
     <string name="clan_join_mode_abandoned">Abandoned</string>
     <string name="clan_pending_requests">Join Requests</string>
-    <string name="clan_role_owner">owner</string>
+    <string name="clan_role_owner">Owner</string>
     <string name="clan_role_co_owner">Co-Owner</string>
     <string name="clan_role_admin">Admin</string>
     <string name="clan_role_elder">Elder</string>
@@ -440,7 +440,7 @@
     <string name="clan_transfer_ownership_title">Transfer Ownership</string>
     <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player\'s ID to confirm:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID does not match</string>
-    <string name="clan_customize_name_coloris">لون اسم الكلان</string>
+    <string name="clan_customize_name_color">لون اسم الكلان</string>
     <string name="clan_customize_tag_color">Clan Tag Color</string>
     <string name="clan_customize_color">Clan Color</string>
     <string name="clan_unlock_name_color">Unlock Clan Name Colors</string>
