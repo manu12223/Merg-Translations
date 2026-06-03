@@ -873,7 +873,7 @@
     <string name="recovery_error_internal">サーバーエラーです。しばらくお待ちの上、再度お試しください。</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">ネットワークに接続されていません。デバイスのネットワーク設定をチェックしてください。</string>
+    <string name="no_internet_connection">インターネットに接続されていません。デバイスのネットワーク設定をチェックしてください。</string>
     <string name="server_not_running">サーバーが稼働していません</string>
     <string name="name_change_reconnect_notice">ゲーム内新しい名前が他のプレイヤーに表示されるためには、サーバーに再接続する必要があります。</string>
     <string name="play">プレイ</string>
