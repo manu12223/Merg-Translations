@@ -131,14 +131,14 @@
     <string name="server_europe">أوروبا</string>
     <string name="join">دخول</string>
     <string name="create">اصنع</string>
-    <string name="create_chat_room">اصنع غرفة شات</string>
+    <string name="create_chat_room">اصنع غرفة محادثة</string>
     <string name="create_private_game">اصنع غرفة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
     <string name="clan">عشيرة</string>
     <string name="friends">اصدقاء</string>
     <string name="send_friend_request">إرسال طلب صداقة</string>
     <string name="friend_request_accepted">انتم الان اصدقاء!</string>
-    <string name="send_friend_request_by_id_or_name">ارسل طلب صداقة باستخدام معرف أو الاسم</string>
+    <string name="send_friend_request_by_id_or_name">ارسل طلب صداقة باستخدام المعرف أو الاسم</string>
     <string name="cancel_friend_request">إلغاء طلب الصداقة</string>
     <string name="remove_friend">ازالة صديق</string>
     <string name="friend_request_sent">تم ارسال الطلب</string>
@@ -393,7 +393,7 @@
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
     <!-- Clan -->
-    <string name="clan_create">انشاء كلان</string>
+    <string name="clan_create">اصنع كلان</string>
     <string name="clan_name">اسم الكلان</string>
     <string name="clan_name_hint">Enter clan name (max 14)</string>
     <string name="clan_tag">Clan Tag</string>
@@ -402,7 +402,7 @@
     <string name="clan_no_clans">No clans found</string>
     <string name="no_clan">لا يوجد كلان</string>
     <string name="clan_request_clans">Request Only Clans</string>
-    <string name="clan_my_invites">دعوه الكلان</string>
+    <string name="clan_my_invites">دعوات الكلان</string>
     <string name="clan_invite_declined">Invite declined.</string>
     <string name="clan_joined">Clan joined!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
@@ -410,7 +410,7 @@
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
     <string name="clan_leave">الخروج من الكلان</string>
-    <string name="clan_leave_confirm">هل أنت متأكد من الخروج من الكلان؟ </string>
+    <string name="clan_leave_confirm">هل أنت مأكد من الخروج من الكلان؟ </string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
     <string name="clan_request_sent">Join request sent.</string>
     <string name="clan_disband">Disband Clan</string>
@@ -605,7 +605,7 @@
     <!-- Map sizes !-->
     <string name="mapsize_tiny">صغير جدا</string>
     <string name="mapsize_small">صغير</string>
-    <string name="mapsize_medium">عادي</string>
+    <string name="mapsize_medium">متوسط</string>
     <string name="mapsize_large">كبير</string>
     <string name="mapsize_xl">ضخم</string>
 
