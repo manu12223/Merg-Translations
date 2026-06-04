@@ -103,7 +103,7 @@
     <string name="elimination_interval">Interwał Eliminacji</string>
     <string name="decrease_elimination_interval">Decrease Elimination Interval</string>
     <string name="increase_elimination_interval">Increase Elimination Interval</string>
-    <string name="map_size">Wielkość Planszy</string>
+    <string name="map_size">Rozmiar Planszy</string>
     <string name="bot_count">Bot Count</string>
     <string name="bot_difficulty">Trudność SI</string>
     <string name="decrease_bots">Decrease Bots</string>
