@@ -412,14 +412,14 @@
     <string name="clan_leave">الخروج من الكلان</string>
     <string name="clan_leave_confirm">هل أنت متأكد من الخروج من الكلان؟ </string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
-    <string name="clan_request_sent">Join request sent.</string>
+    <string name="clan_request_sent"> تم إرسال طلب الانضمام .</string>
     <string name="clan_disband">Disband Clan</string>
     <string name="clan_disband_confirm">Are you sure you want to disband this clan? This cannot be undone!</string>
     <string name="clan_invite">Invite Player</string>
-    <string name="clan_invite_hint">Invite by ID or Name</string>
+    <string name="clan_invite_hint">إرسال دعوة بالآيدي أو الاسم</string>
     <string name="clan_settings">اعدادات الكلان</string>
     <string name="clan_join_mode">Join Mode</string>
-    <string name="clan_join_mode_open">Open</string>
+    <string name="clan_join_mode_open">مفتوح</string>
     <string name="clan_join_mode_request">Request Only</string>
     <string name="clan_join_mode_private">Private</string>
     <string name="clan_join_mode_abandoned">Abandoned</string>
