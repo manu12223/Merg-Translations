@@ -976,7 +976,7 @@
     <string name="forbidden">Forbidden</string>
     <string name="internal_server_error">Internal Server Error</string>
     <string name="unknown_error_code">Unknown error Code %d</string>
-    <string name="page_x_of_y">Page %s of %s</string>
+    <string name="page_x_of_y">Page x of y %s</string>
     <string name="timeout">Timed out after %dms</string>
     <string name="success">Success</string>
     <string name="duplicate_action">Duplicate Action</string>
