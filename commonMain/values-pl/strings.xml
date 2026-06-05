@@ -10,7 +10,7 @@
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
+    <string name="email_copy">Kopiuj Email</string>
     <string name="email_support">Wsparcie Mailowe:</string>
     <string name="developer">Twórcy:</string>
     <string name="code_contribution">Współautorzy Kodu:</string>
@@ -237,8 +237,8 @@
     <string name="verify_reward">Nagroda za Weryfikację</string>
     <string name="competitive_season_reward">Nagroda za sezon Rywalizacji</string>
     <string name="purchase_remove_ads_label">Wyłączenie Reklam</string>
-    <string name="purchase_status_permanent">Permanent</string>
-    <string name="purchase_status_refunded">Refunded</string>
+    <string name="purchase_status_permanent">Na Zawsze</string>
+    <string name="purchase_status_refunded">Zwrócono</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Reklama jeszcze nie wczytana</string>
@@ -267,8 +267,8 @@
      <string name="december">Grudzień</string>
      <string name="season_bag_title">Currency Bag</string>
      <string name="season_bag_entry">Sezon %1$s — %2$s (%3$s)</string>
-     <string name="season_bag_current">Current</string>
-     <string name="season_bag_last">Last</string>
+     <string name="season_bag_current">Obecny</string>
+     <string name="season_bag_last">Ostatni</string>
 
     <!-- Profile -->
     <string name="profile">Profil</string>
