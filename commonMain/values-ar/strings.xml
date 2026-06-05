@@ -698,11 +698,11 @@
     <string name="afk_disconnect">فصل الاتصال بسبب الخمول</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%الاول</string>
-    <string name="ordinal_second">%الثاني</string>
-    <string name="ordinal_third">%الثالث</string>
-    <string name="ordinal_fourth">%الرابع</string>
-    <string name="ordinal_fifth">%الخامس</string>
+    <string name="ordinal_first">%dالترتيب</string>
+    <string name="ordinal_second">%dالترتيب</string>
+    <string name="ordinal_third">%dالترتيب</string>
+    <string name="ordinal_fourth">%dالترتيب</string>
+    <string name="ordinal_fifth">%dالترتيب</string>
     <string name="ordinal_sixth">%dth</string>
     <string name="ordinal_seventh">%dth</string>
     <string name="ordinal_eighth">%dth</string>
