@@ -947,7 +947,7 @@
     <string name="previous_entity">Předchozí entita</string>
     <string name="next_entity">Další entita</string>
     <string name="level_abbreviated">Úr.%d</string>
-    <string name="left">Zbývá</string> <!-- left as in remaining, not the left direction-->
+    <string name="left">Zbývá</string> <!--left as in remaining, not the left direction-->
     <string name="total">Celkem</string>
     <string name="unknown">Neznámé</string>
     <string name="invalid_selection">Neplatný výběr!</string>
