@@ -116,6 +116,7 @@
     <string name="warning_no_holes">Statistiky nebudou uloženy</string>
     <string name="gold_holes">Zlaté díry</string>
     <string name="starting_difficulty">Počáteční obtížnost</string>
+    
     <!-- Multiplayer -->
     <string name="play_online">HRÁT ONLINE</string>
     <string name="switch_server">Změnit server</string>
@@ -152,6 +153,7 @@
     <string name="friend_request_error_already_sent">Žádost již byla odeslána</string>
     <string name="friend_request_error_already_friends">Už jste přátelé</string>
     <string name="friend_request_error_list_full">Seznam přátel je plný</string>
+    
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Kompetitivní</string>
     <string name="competitive_menu">KOMPETITIVNÍ</string>
@@ -187,6 +189,7 @@
     <string name="prizes">Odměny</string>
     <string name="prizes_dialog_intro">Před resetem každé sezóny získají nejlepší hráči Voidstone odměnu na základě svého výkonu!</string>
     <string name="current_season">Aktuální sezóna</string>
+    
     <!-- Shop -->
     <string name="shop">Obchod</string>
     <string name="ticket">Lístek</string>
@@ -246,6 +249,7 @@
     <string name="time_min">min</string>
     <string name="time_sec">sek</string>
     <string name="ad_reward">Odměna za reklamu</string>
+    
     <!-- Season Pass -->
      <string name="season_pass">Sezónní pas</string>
      <string name="season_pass_season_number">Sezóna %s</string>
@@ -265,6 +269,7 @@
      <string name="season_bag_entry">Sezóna %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Aktuální</string>
      <string name="season_bag_last">Poslední</string>
+    
     <!-- Profile -->
     <string name="profile">Profil</string>
     <string name="not_logged_in">Nepřihlášen!</string>
@@ -355,6 +360,7 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Přechod barev profilu není odemčen</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Přechod barev profilu 2 není odemčen</string>
     <string name="profile_color_save_failed">Nepodařilo se uložit barvy profilu</string>
+    
     <!-- Profile Tags -->
     <string name="developer_tag">Vývojář</string>
     <string name="code_contribution_tag">Developer</string>
@@ -648,7 +654,6 @@
     <string name="yinyang">Přepnout</string>
     <string name="buttons_customize">Přizpůsobit tlačítka</string>
     <string name="buttons_orientation_message">Přizpůsobení pro výšku a šířku se ukládají odděleně</string>
-
 
     <!-- Skins !-->
     <string name="skin">Skin</string>
