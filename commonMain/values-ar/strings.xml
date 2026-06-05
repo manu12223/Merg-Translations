@@ -504,7 +504,7 @@
     <string name="clan_feature_not_unlocked">الميزة غير مفتوحة</string>
     <string name="clan_history_event_purchase_name_color">تَمّ شراء ألوان اسم القبيلة</string>
     <string name="clan_history_event_purchase_name_gradient">Purchased Clan Name Gradient</string>
-    <string name="clan_history_event_purchase_name_font"> شراء تدرج لون اسم القبيلة</string>
+    <string name="clan_history_event_purchase_name_font">شراء تدرج لون اسم القبيلة</string>
     <string name="clan_history_event_purchase_color">تَمّ شراء لون القبيلة</string>
     <string name="clan_history_event_purchase_gradient">تم  شراء تدرج لون اسم القبيلة</string>
     <string name="clan_history_event_purchase_triple_gradient">تَمّ شراء التدرج الثلاثي للقبيلة</string>
