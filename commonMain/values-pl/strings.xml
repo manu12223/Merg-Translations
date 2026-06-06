@@ -48,6 +48,7 @@
     <string name="language_thai">ไทย | Tajski</string>
     <string name="language_turkish">Türkçe | Turecki</string>
     <string name="language_vietnamese">Tiếng Việt | Wietnamski</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Tło</string>
     <string name="background_black">Czarne</string>
     <string name="background_white">Białe</string>
@@ -146,9 +147,9 @@
     <string name="friend_requests_sent">Sent Requests</string>
     <string name="no_friends">No friends yet…</string>
     <string name="remove_friend_title">Remove Friend</string>
-    <string name="remove_friend_message">Are you sure you want to remove \"%1$s\" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
     <string name="cancel_request_title">Cancel Request</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Can't send friend request to yourself</string>
     <string name="friend_request_error_already_sent">Friend request already sent</string>
     <string name="friend_request_error_already_friends">Already friends</string>

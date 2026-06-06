@@ -48,6 +48,7 @@
     <string name="language_thai">ไทย | Thajština</string>
     <string name="language_turkish">Türkçe | Turečtina</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamština</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Pozadí</string>
     <string name="background_black">Černé</string>
     <string name="background_white">Bílé</string>
@@ -146,9 +147,9 @@
     <string name="friend_requests_sent">Odeslané žádosti</string>
     <string name="no_friends">Zatím žádní přátelé…</string>
     <string name="remove_friend_title">Odebrat přítele</string>
-    <string name="remove_friend_message">Opravdu chcete odebrat \"%1$s\" (ID: %2$d) z přátel?</string>
+    <string name="remove_friend_message">Opravdu chcete odebrat "%1$s" (ID: %2$d) z přátel?</string>
     <string name="cancel_request_title">Zrušit žádost</string>
-    <string name="cancel_request_message">Opravdu chcete zrušit žádost o přátelství pro \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Opravdu chcete zrušit žádost o přátelství pro "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Nemůžeš poslat žádost sám sobě</string>
     <string name="friend_request_error_already_sent">Žádost již byla odeslána</string>
     <string name="friend_request_error_already_friends">Už jste přátelé</string>

@@ -48,6 +48,7 @@
     <string name="language_thai">ไทย | Tailandês</string>
     <string name="language_turkish">Türkçe | Turco</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
+    <string name="language_ukrainian">Українська | Ucraniano</string>
     <string name="background">Fundo</string>
     <string name="background_black">Preto</string>
     <string name="background_white">Branco</string>
@@ -146,9 +147,9 @@
     <string name="friend_requests_sent">Solicitações Enviadas</string>
     <string name="no_friends">Seus amigos aparecerão aqui</string>
     <string name="remove_friend_title">Remover Amigo</string>
-    <string name="remove_friend_message">Tem certeza de que deseja remover \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
+    <string name="remove_friend_message">Tem certeza de que deseja remover "%1$s" (ID: %2$d) da sua lista de amigos?</string>
     <string name="cancel_request_title">Cancelar Solicitação</string>
-    <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Não é possível adicionar a si mesmo(a).</string>
     <string name="friend_request_error_already_sent">Solicitação de amizade já enviada</string>
     <string name="friend_request_error_already_friends">Já são amigos</string>
@@ -197,7 +198,7 @@
     <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Voidstones!</string>
     <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
-    <string name="free_voidstones_left">%d left</string>
+    <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Escolher</string>
     <string name="redeem_code">Resgatar Código</string>
     <string name="invalid_code">Código Inválido</string>
@@ -993,6 +994,6 @@
     <string name="clan_already_requested_other">Já solicitou para entrar no clã</string>
     <string name="before">Antes</string>
     <string name="after">Agora</string>
-    <string name="clan_id">Clan ID:</string>
-    <string name="editing_message">Editing message</string>
+    <string name="clan_id">ID do Clã:</string>
+    <string name="editing_message">Editando mensagem</string>
 </resources>
