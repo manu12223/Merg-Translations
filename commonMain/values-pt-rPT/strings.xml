@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">Pedidos Pendente</string>
     <string name="no_friends">A lista de amigos começa aqui</string>
     <string name="remove_friend_title">Remover Amigo</string>
-    <string name="remove_friend_message">Tem a certeza de que quer remover \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
+    <string name="remove_friend_message">Tem a certeza de que quer remover "%1$s" (ID: %2$d) da sua lista de amigos?</string>
     <string name="cancel_request_title">Cancelar Pedido</string>
-    <string name="cancel_request_message">Tem a certeza de que quer cancelar o pedido de amizade com \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Tem a certeza de que quer cancelar o pedido de amizade com "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Não é possível enviar pedido de amizade para si mesmo(a)</string>
     <string name="friend_request_error_already_sent">Pedido de amizade pendente</string>
     <string name="friend_request_error_already_friends">Já são amigos</string>
