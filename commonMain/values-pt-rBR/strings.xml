@@ -48,7 +48,7 @@
     <string name="language_thai">ไทย | Tailandês</string>
     <string name="language_turkish">Türkçe | Turco</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
-    <string name="language_ukrainian">Українська | Ukrainian</string>
+    <string name="language_ukrainian">Українська | Ucraniano</string>
     <string name="background">Fundo</string>
     <string name="background_black">Preto</string>
     <string name="background_white">Branco</string>
@@ -198,7 +198,7 @@
     <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio de curta duração para obter Voidstones!</string>
     <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
-    <string name="free_voidstones_left">%d left</string>
+    <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Escolher</string>
     <string name="redeem_code">Resgatar Código</string>
     <string name="invalid_code">Código Inválido</string>
