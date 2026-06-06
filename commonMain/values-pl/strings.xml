@@ -10,11 +10,11 @@
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
+    <string name="email_copy">Kopiuj Email</string>
     <string name="email_support">Wsparcie Mailowe:</string>
     <string name="developer">Twórcy:</string>
     <string name="code_contribution">Współautorzy Kodu:</string>
-    <string name="skins">Skins:</string>
+    <string name="skins">Skórki:</string>
     <string name="graphics_icons">Grafika/Ikony:</string>
     <string name="translations">Tłumaczenia:</string>
 
@@ -90,70 +90,70 @@
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Tryb Gry</string>
-    <string name="select_mode">Select Mode</string>
+    <string name="select_mode">Wybierz Tryb</string>
     <string name="minimum_players">Minimum Graczy</string>
     <string name="maximum_players">Maksimum Graczy</string>
-    <string name="decrease_time">Decrease Time</string>
-    <string name="increase_time">Increase Time</string>
+    <string name="decrease_time">Zmniejsz Czas</string>
+    <string name="increase_time">Zwiększ Czas</string>
     <string name="grace_period">Grace Period</string>
     <string name="decrease_grace">Decrease Grace Period</string>
     <string name="increase_grace">Increase Grace Period</string>
     <string name="elimination_count">Ilość Eliminowanych</string>
-    <string name="decrease_elimination_count">Decrease Elimination Count</string>
-    <string name="increase_elimination_count">Increase Elimination Count</string>
+    <string name="decrease_elimination_count">Zmniejsz Liczbe Eliminowanych</string>
+    <string name="increase_elimination_count">Zwiększ Liczbe Eliminowanych</string>
     <string name="elimination_interval">Interwał Eliminacji</string>
-    <string name="decrease_elimination_interval">Decrease Elimination Interval</string>
-    <string name="increase_elimination_interval">Increase Elimination Interval</string>
+    <string name="decrease_elimination_interval">Zmniejsz Interwał Eliminacji</string>
+    <string name="increase_elimination_interval">Zwiększ Interwał Eliminacji</string>
     <string name="map_size">Rozmiar Planszy</string>
-    <string name="bot_count">Bot Count</string>
+    <string name="bot_count">Liczba botów</string>
     <string name="bot_difficulty">Trudność SI</string>
     <string name="decrease_bots">Decrease Bots</string>
     <string name="increase_bots">Increase Bots</string>
     <string name="max_split_pieces">Maksimum Rozdzielania</string>
     <string name="quick_merge">Szybkie Łączenie</string>
-    <string name="no_holes">No Holes</string>
+    <string name="no_holes">Brak Dziur</string>
     <string name="circle_map">Okrągła Plansza</string>
     <string name="relax">Relaks</string>
     <string name="warning_no_holes">Statystyki nie będą zapisane</string>
-    <string name="gold_holes">Gold Holes</string>
-    <string name="starting_difficulty">Starting difficulty</string>
+    <string name="gold_holes">Złote Dziury</string>
+    <string name="starting_difficulty">Początkowa trudność</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">PLAY ONLINE</string>
-    <string name="switch_server">Switch Server</string>
-    <string name="x_players">%s players</string>
-    <string name="x_player">%s player</string>
+    <string name="play_online">GRAJ ONLINE</string>
+    <string name="switch_server">Zmień Serwer</string>
+    <string name="x_players">%s gracze</string>
+    <string name="x_player">%s gracz</string>
     <string name="x_online">%s online</string>
     <string name="x_requests">%s request(s)</string>
-    <string name="private_room">Private Room</string>
-    <string name="private_rooms">Private Rooms</string>
-    <string name="connected">Connected</string>
-    <string name="select_server">Select Server</string>
+    <string name="private_room">Prywatny pokój</string>
+    <string name="private_rooms">Prywatne pokoje</string>
+    <string name="connected">Połączony</string>
+    <string name="select_server">Wybierz Serwer</string>
     <string name="server_europe">Europe</string>
-    <string name="join">Join</string>
-    <string name="create">Create</string>
+    <string name="join">Dołącz</string>
+    <string name="create">Stwórz</string>
     <string name="create_chat_room">CREATE CHAT ROOM</string>
-    <string name="create_private_game">CREATE PRIVATE GAME</string>
-    <string name="room_full">Room Full</string>
-    <string name="clan">Clan</string>
-    <string name="friends">Friends</string>
-    <string name="send_friend_request">Send Friend Request</string>
-    <string name="friend_request_accepted">You are now friends!</string>
-    <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
-    <string name="cancel_friend_request">Cancel Friend Request</string>
-    <string name="remove_friend">Remove Friend</string>
-    <string name="friend_request_sent">Friend request sent</string>
-    <string name="friend_requests_received">Friend Requests</string>
-    <string name="friend_requests_sent">Sent Requests</string>
-    <string name="no_friends">No friends yet…</string>
-    <string name="remove_friend_title">Remove Friend</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
-    <string name="cancel_request_title">Cancel Request</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Can't send friend request to yourself</string>
+    <string name="create_private_game">STWÓRZ GRĘ PRYWATNĄ</string>
+    <string name="room_full">Pełny Pokój</string>
+    <string name="clan">Klan</string>
+    <string name="friends">Znajomi</string>
+    <string name="send_friend_request">Zaproś Do Znajomych</string>
+    <string name="friend_request_accepted">Jesteście Znajomymi!</string>
+    <string name="send_friend_request_by_id_or_name">Wyślij Zaproszenie przez ID lub Nazwę</string>
+    <string name="cancel_friend_request">Anuluj Zaproszenie Do Znajomych</string>
+    <string name="remove_friend">Usuń Znajomego</string>
+    <string name="friend_request_sent">Zaproszenie wysłane</string>
+    <string name="friend_requests_received">Zaproszenia Do Znajomych</string>
+    <string name="friend_requests_sent">Wysłane Zaproszenia</string>
+    <string name="no_friends">Brak znajomych…</string>
+    <string name="remove_friend_title">Usuń Znajomego</string>
+    <string name="remove_friend_message">Czy jesteś pewny że chcesz usunąć \"%1$s\" (ID: %2$d) z znajomych?</string>
+    <string name="cancel_request_title">Anuluj Zaproszenie</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to \"%1$s\" (ID: %2$d)?</string>
+    <string name="friend_request_error_self">Nie możesz wysłać zaproszenia do siebie</string>
     <string name="friend_request_error_already_sent">Friend request already sent</string>
-    <string name="friend_request_error_already_friends">Already friends</string>
-    <string name="friend_request_error_list_full">Friend list full</string>
+    <string name="friend_request_error_already_friends">Jesteście już znajomymi</string>
+    <string name="friend_request_error_list_full">Pełna lista znajomych</string>
 
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Competitive</string>
@@ -163,7 +163,7 @@
     <string name="unrated">Unrated</string>
     <string name="find_opponent">FIND OPPONENT</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
-    <string name="searching_ellipsis">Searching…</string>
+    <string name="searching_ellipsis">Wyszukiwanie…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
     <string name="x_searching">%d searching</string>
     <string name="x_playing">%d playing</string>
@@ -171,8 +171,8 @@
     <string name="global_label">Global #</string>
     <string name="wins_draws_losses_winrate">Wins: %1$s · Draws: %2$s · Losses: %3$s · Win rate: %4$s%%</string>
     <string name="stat_wins_label">Wins: </string>
-    <string name="stat_draws_label"> · Draws: </string>
-    <string name="stat_losses_label"> · Losses: </string>
+    <string name="stat_draws_label"> · Remisy: </string>
+    <string name="stat_losses_label"> · Porażki: </string>
     <string name="stat_winrate_label"> · Win rate: </string>
     <string name="match_starts_in">Match starts in…</string>
     <string name="vs_label">VS</string>
