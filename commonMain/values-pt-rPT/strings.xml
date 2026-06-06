@@ -23,7 +23,7 @@
     <string name="language_arabic">العربية | Árabe</string>
     <string name="language_bengali">বাংলা | Bengali</string>
     <string name="language_chinese">简体中文 | Chinês (Simplificado)</string>
-    <string name="language_chinese_traditional">繁體中文 | Chinese (Traditional)</string>
+    <string name="language_chinese_traditional">繁體中文 | Chinês (Tradicional)</string>
     <string name="language_czech">Čeština | Checo</string>
     <string name="language_danish">Dansk | Dinamarquês</string>
     <string name="language_dutch">Nederlands | Neerlandês</string>
@@ -40,7 +40,7 @@
     <string name="language_korean">한국어 | Coreano</string>
     <string name="language_polish">Polski | Polonês</string>
     <string name="language_portuguese">Português (Brasil)</string>
-    <string name="language_portuguese_portugal">Português (Portugal) | Portuguese (Portugal)</string>
+    <string name="language_portuguese_portugal">Português (Portugal)</string>
     <string name="language_romanian">Română | Romeno</string>
     <string name="language_russian">Русский | Russo</string>
     <string name="language_spanish">Español | Espanhol</string>
