@@ -127,7 +127,7 @@
     <string name="x_requests">%s pedido(s)</string>
     <string name="private_room">Sala Privada</string>
     <string name="private_rooms">Salas Privadas</string>
-    <string name="connected">Connectado</string>
+    <string name="connected">Conectado</string>
     <string name="select_server">Selecionar Servidor</string>
     <string name="server_europe">Europa</string>
     <string name="join">Entrar</string>
@@ -139,12 +139,12 @@
     <string name="friends">Amigos</string>
     <string name="send_friend_request">Pedido de Amizade</string>
     <string name="friend_request_accepted">Agora são amigos!</string>
-    <string name="send_friend_request_by_id_or_name">Enviar Pedido de Amizade por ID ou Nome</string>
+    <string name="send_friend_request_by_id_or_name">Enviar pedido de amizade por ID ou nome</string>
     <string name="cancel_friend_request">Cancelar Pedido de Amizade</string>
     <string name="remove_friend">Remover Amigo</string>
     <string name="friend_request_sent">Pedido de amizade enviado</string>
     <string name="friend_requests_received">Pedidos de Amizade</string>
-    <string name="friend_requests_sent">Pedidos Pendente</string>
+    <string name="friend_requests_sent">Pedidos Pendentes</string>
     <string name="no_friends">A lista de amigos começa aqui</string>
     <string name="remove_friend_title">Remover Amigo</string>
     <string name="remove_friend_message">Tem a certeza de que quer remover "%1$s" (ID: %2$d) da sua lista de amigos?</string>
@@ -284,12 +284,12 @@
     <string name="share_id">Partilhar ID</string>
     <string name="share_id_message">Adicione-me no Merg! Este é o meu ID: %1$s</string>
     <string name="created">Criou em: %s</string>
-    <string name="last_seen">Visto(a) por último: %s</string>
+    <string name="last_seen">Última conexão: %s</string>
     <string name="save_profile_description">Guardar Biografia</string>
     <string name="profile_description_placeholder">Escreva uma biografia…</string>
     <string name="profile_description_save_success">Biografia guardada</string>
     <string name="profile_description_save_failed">Não foi possível guardar a biografia</string>
-    <string name="profile_description_too_long">Biografia demasiado longa! (máx. %d characters)</string>
+    <string name="profile_description_too_long">Biografia demasiado longa! (máx. %d caracteres)</string>
     <string name="profile_description_too_large">Biografia maior que %s</string>
     <string name="unlock_description_color">Desbloquear Cores para a Biografia</string>
     <string name="description_text_color">Cores para a Biografia</string>
@@ -322,14 +322,14 @@
     <string name="profile_logout_all_confirm">Sair de %s em todos os dispositivos? Esta operação pode demorar até uma hora.</string>
     <string name="profile_logout_all_confirm_no_name">Sair em todos os dispositivos? Esta operação pode demorar até uma hora.</string>
     <string name="profile_logout_failed">Não foi possível sair da conta</string>
-    <string name="profile_delete_warning">Tem a certeza de que deseja eliminar sua conta Merg e todos os dados associados a ela? ESTA OPERAÇÃO NÃO PODE SER DESFEITA!</string>
+    <string name="profile_delete_warning">Tem a certeza de que quer eliminar sua conta Merg e todos os dados associados a ela? ESTA OPERAÇÃO NÃO PODE SER DESFEITA!</string>
     <string name="profile_delete_type_prompt">Escreva %s para confirmar:</string>
     <string name="profile_delete_confirm_text">ELIMINAR</string>
     <string name="profile_delete_failed">Não foi possível eliminar a conta</string>
     <string name="name_color">Cor do Nome</string>
     <string name="unlock_name_colors">Desbloquear Cores do Nome</string>
     <string name="unlock_name_colors_success">Desbloqueou cores para o nome!</string>
-    <string name="name_colors_already_unlocked">Já desbloqueou cores para onome</string>
+    <string name="name_colors_already_unlocked">Já desbloqueou cores para o nome</string>
     <string name="unlock_name_color_gradient">Desbloquear Gradiente do Nome</string>
     <string name="unlock_name_color_gradient_success">Desbloqueou gradiente para o nome!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Já desbloqueou gradiente para o nome</string>
@@ -345,7 +345,7 @@
     <string name="name_fonts_not_unlocked">Fontes para o nome não desbloqueadas</string>
     <string name="profile_name_font">Fonte do Nome</string>
     <string name="name_change_success">Alterou o nome para: %s</string>
-    <string name="name_change_invalid_length">Nome muito longo</string>
+    <string name="name_change_invalid_length">Nome demasiado longo</string>
     <string name="name_change_taken">Nome em uso</string>
     <string name="unlock_profile_colors">Desbloquear Cores do Perfil</string>
     <string name="unlock_profile_colors_gradient">Desbloquear Gradiente do Perfil</string>
@@ -373,7 +373,7 @@
     <string name="internal_tester">Testador(a) da Versão Interna</string>
     <string name="alpha_tester">Testador(a) da Versão Alpha</string>
     <string name="beta_tester">Testador(a) da Versão Beta</string>
-    <string name="discord_staff">Staff no Discord</string>
+    <string name="discord_staff">Membro Staff no Discord</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Oferecer Voidstones</string>
@@ -404,7 +404,7 @@
     <string name="no_clan">Sem clã</string>
     <string name="clan_request_clans">Clãs Apenas por Pedido</string>
     <string name="clan_my_invites">Meus Convites</string>
-    <string name="clan_invite_declined">Convite rejeitsdo.</string>
+    <string name="clan_invite_declined">Convite rejeitado.</string>
     <string name="clan_joined">Entrou no clã!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
     <string name="clan_members">Membros</string>
@@ -522,7 +522,7 @@
     <string name="leaderboard_period_monthly">Mensal</string>
     <string name="leaderboard_period_all_time">Histórico</string>
     <string name="leaderboard_score">Pontuação</string>
-    <string name="leaderboard_rank">Classificaçãi</string>
+    <string name="leaderboard_rank">Classificação</string>
     <string name="leaderboard_empty">No entries yet</string>
     <string name="leaderboard_load_error">Não foi possível carregar a tabela</string>
 
@@ -572,7 +572,7 @@
     <string name="mail_reply">Responder</string>
     <string name="mail_title_hint">Título</string>
     <string name="mail_content_hint">Conteúdo</string>
-    <string name="mail_recipient_not_found">Destinatário(a) não encontrado(aK</string>
+    <string name="mail_recipient_not_found">Destinatário(a) não encontrado(a)</string>
     <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo(a)</string>
     <string name="mail_title_too_long">Título demasiado longo</string>
     <string name="mail_content_too_long">Conteúdo demasiado longo</string>
@@ -582,7 +582,7 @@
     <string name="code_copied">Código copiado para a área de transferência!</string>
 
     <!-- Gamemodes !-->
-    <string name="gamemode_classic">Clássic</string>
+    <string name="gamemode_classic">Clássico</string>
     <string name="gamemode_teams">Equipas</string>
     <string name="gamemode_survival">Sobrevivência</string>
     <string name="gamemode_team_survival">Sobrevivência em Equipas</string>
@@ -596,7 +596,7 @@
     <string name="description_teams">Junta-te aos jogadores da mesma cor de equipa! Ajuda os jogadores da tua equipa a dominar a tabela de classificação atacando as equipes adversárias. Os colegas da mesma equipa não poderão comer uns aos outros.</string>
     <string name="description_survival">Uma vida, uma ronda! Coleta o máximo que puderes antes que o tempo para renascer acabe. Depois disso, a morte será permanente! Sê o(a) último(a) sobrevivente ou a maior bolha antes que o tempo acabe!</string>
     <string name="description_team_survival">Modo de sobrevivência em equipas! Ajuda os colegas de equipa a eliminar as outras. A vitória pertencerá à última equipa a ficar em jogo ou com o maior tamanho total quando o tempo acabar!</string>
-    <string name="description_knockout">Compete em rondas de eliminação! Os jogadores poderão renascer livremente até que sejam eliminadas em intervalos regulares. Os menores jogadores em cada intervalo serão permanentemente eliminados. Sê o(a) último(a) sobrevivente para ganhares!</string>
+    <string name="description_knockout">Compete em rondas de eliminação! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os menores jogadores em cada intervalo serão permanentemente eliminados. Sê o(a) último(a) sobrevivente para ganhares!</string>
     <string name="description_adventure">Conclui fases desafiantes com objetivos únicos! Avança no jogo à medida que a dificuldade aumenta, ganha recompensas e vê até onde consegues chegar. Cada fase traz consigo novos desafios!</string>
     <string name="description_soccer">Marca gols chutando a bola até o golo da equipa adversária. A vitória pertencerá à equipa com o maior número de golos quando o tempo acabar!</string>
     <string name="description_coming_soon">Este modo de jogo será lançado em breve, fique atento(a)!</string>
@@ -613,7 +613,7 @@
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Fácil</string>
     <string name="difficulty_normal">Normal</string>
-    <string name="difficulty_hard">Difícik</string>
+    <string name="difficulty_hard">Difícil</string>
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">Fase</string>
@@ -631,8 +631,8 @@
 
     <!-- Timer text !-->
     <string name="timer_time">Tempo</string>
-    <string name="timer_overtime">Hora Extra</string>
-    <string name="timer_overtime_count">Hora Extra %d</string>
+    <string name="timer_overtime">Tempo Extra</string>
+    <string name="timer_overtime_count">Tempo Extra %d</string>
     <string name="timer_grace">Tempo Para Renascer</string>
     <string name="timer_tiebreaker">Desempate</string>
     <string name="timer_winner">Vencedor(a)</string>
@@ -667,7 +667,7 @@
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Voidstone</string>
     <string name="skin_tab_special">Especial</string>
-    <string name="level_skin_locked">Esta skins será desbloqueada no %d</string>
+    <string name="level_skin_locked">Esta skins será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
 
 
@@ -714,8 +714,8 @@
     <!-- In Game UI !-->
     <string name="player_size">Tamanho: %d</string>
     <string name="effective_size">Tam. Efetivo: %d</string>
-    <string name="decay">Perda: %.2f/s</string>
-    <string name="pieces">Divisôes: %1d/%2d</string>
+    <string name="decay">Perda de Tamanho: %.2f/s</string>
+    <string name="pieces">Divisões: %1d/%2d</string>
     <string name="merge">Juntar em: %ss</string>
     <string name="invincibility">Invencibilidade: %ss</string>
     <string name="speed_boost">+Velocidade: %ss</string>
@@ -781,11 +781,11 @@
     <string name="block_player">Bloquear Jogador(a)</string>
     <string name="unblock_player">Desbloquear Jogador(a)</string>
     <string name="block_confirm_title">Bloquear jogador(a)?</string>
-    <string name="block_confirm_message">Tem a certeza de que quer bloquear %s? Ambos estarão impossibilitados de enviar pedido de amizade ou e-mail um para o outro e serão removidos da lista de amigos.</string>
+    <string name="block_confirm_message">Tem a certeza de que quer bloquear %s? Ambos estarão impossibilitados de enviar pedido de amizade ou e-mail um para o outro e serão removidos da lista de amigos de cada um.</string>
     <string name="player_unblocked">Jogador(a) desbloqueado(a)</string>
     <string name="player_blocked">Jogador(a) bloqueado(a)</string>
     <string name="you_blocked_user">Bloqueou este utilizador</string>
-    <string name="user_blocked_you">Está bloqueado para este utilizador</string>
+    <string name="user_blocked_you">Está bloqueado(a) para este utilizador</string>
     <string name="both_blocked">Ambos se bloquearam</string>
 
     <!-- LAN Multiplayer -->
@@ -977,7 +977,7 @@
     <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
     <string name="forbidden">Proibido(a)</string>
     <string name="internal_server_error">Erro Interno do Servidor</string>
-    <string name="unknown_error_code">Erro Desconhecido. Código %d</string>
+    <string name="unknown_error_code">Erro desconhecido. Código %d</string>
     <string name="page_x_of_y">Página %s de %s</string>
     <string name="timeout">Desconectado(a) por %dms de inatividade</string>
     <string name="success">Bem-sucedido</string>
