@@ -67,7 +67,7 @@
     <string name="custom_background_opacity">Opacidad del Fondo</string>
     <string name="show_performance_metrics">Mostrar Estadísticas de Rendimiento</string>
     <string name="skin_outlines">Contorno de Skin</string>
-    <string name="direction_arrow">Dirección de Flecha</string>
+    <string name="direction_arrow">Flecha de Dirección</string>
     <string name="border_above_entities">Borde por Encima de las Entidades</string>
     <string name="map_border_visible">Mostrar el Borde del Mapa</string>
     <string name="star_background_enabled">Estrellas</string>
