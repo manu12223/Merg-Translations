@@ -22,8 +22,8 @@
     <string name="language">言語</string>
     <string name="language_arabic">العربية｜アラビア語</string>
     <string name="language_bengali">বাংলা｜ベンガル語</string>
-    <string name="language_chinese">简体中文｜中国語（簡体）</string>
-    <string name="language_chinese_traditional">繁體中文｜中国語（繁体）</string>
+    <string name="language_chinese">简体中文｜中国語（簡体字）</string>
+    <string name="language_chinese_traditional">繁體中文｜中国語（繁体字）</string>
     <string name="language_czech">Čeština｜チェコ語</string>
     <string name="language_danish">Dansk｜デンマーク語</string>
     <string name="language_dutch">Nederlands｜オランダ語</string>
