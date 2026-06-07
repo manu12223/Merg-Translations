@@ -995,5 +995,5 @@
     <string name="before">Antes</string>
     <string name="after">Después</string>
     <string name="clan_id">Clan ID:</string>
-    <string name="editing_message">Editar Mensaje</string>
+    <string name="editing_message">Editando Mensaje</string>
 </resources>
