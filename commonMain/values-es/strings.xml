@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">Un Jugador</string>
     <string name="lan_multiplayer">Multijugador LAN</string>
-    <string name="online_multiplayer">Multijugador Online</string>
+    <string name="online_multiplayer">Multijugador</string>
     <string name="options">Opciones</string>
     <string name="discord" translatable="false">Discord</string>
 
