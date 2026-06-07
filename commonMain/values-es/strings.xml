@@ -60,7 +60,7 @@
     <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
     <string name="show_grid">Mostrar Cuadrícula</string>
-    <string name="show_grid_coordinates">Mostrar Coordenadas de la Cuadrícula</string>
+    <string name="show_grid_coordinates">Mostrar Coordenadas de Cuadrícula</string>
     <string name="show_coordinate_tint">Mostrar Resaltado de Coordenadas</string>
     <string name="custom_background_image">Imágen de fondo Personalizado</string>
     <string name="custom_background_select">Seleccionar Imagen</string>
