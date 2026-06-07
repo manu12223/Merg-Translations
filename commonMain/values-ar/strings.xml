@@ -2,9 +2,9 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">اللعب الفردي</string>
-    <string name="lan_multiplayer">البحث عن غرفة</string>
-    <string name="online_multiplayer">اللعب أونلاين</string>
+    <string name="singleplayer">لعب فردي</string>
+    <string name="lan_multiplayer">الشبكة المحلية</string>
+    <string name="online_multiplayer">اللعب اونلاين</string>
     <string name="options">الإعدادات</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -16,7 +16,7 @@
     <string name="code_contribution">مساهمات الكود:</string>
     <string name="skins">الجلود:</string>
     <string name="graphics_icons">الرسوم/الايقونات:</string>
-    <string name="translations">الترجمات:</string>
+    <string name="translations">الترجمة:</string>
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
@@ -54,10 +54,10 @@
     <string name="background_white">أبيض</string>
     <string name="controls">أزرار التحكم</string>
     <string name="control_joystick">موجه الدائرة</string>
-    <string name="control_relative">خاص</string>
+    <string name="control_relative">تخصيص</string>
     <string name="control_touch">اللمس</string>
     <string name="button_layout">تصميم الأزرار</string>
-    <string name="customize">تعديل</string>
+    <string name="customize">تخصيص</string>
     <string name="opacity">الشفافية</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
     <string name="show_grid">اظهار الشبكة</string>
@@ -68,7 +68,7 @@
     <string name="custom_background_opacity">شفافية الخلفية</string>
     <string name="show_performance_metrics">عرض مقاييس الأداء</string>
     <string name="skin_outlines">حواف الدائرة</string>
-    <string name="direction_arrow">شكل السهم</string>
+    <string name="direction_arrow">اتجاه السهم</string>
     <string name="border_above_entities">حافة الخريطة</string>
     <string name="map_border_visible">إظهار حافة الخريطة</string>
     <string name="star_background_enabled">النجوم</string>
@@ -78,7 +78,7 @@
     <string name="name_position_above">فوق</string>
     <string name="name_position_center">وسط</string>
     <string name="name_position_below">أسفل</string>
-    <string name="name_scale">مقياس الاسم</string>
+    <string name="name_scale">حجم الأسم</string>
     <string name="timer_format">تنسيق المؤقت</string>
     <string name="timer_format_normal">عادي</string>
     <string name="timer_format_arcade">اركيد</string>
