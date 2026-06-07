@@ -873,7 +873,7 @@
     <string name="recovery_error_internal">Ups, tuvimos un problema al procesar tu Solicitud. Inténtalo de nuevo más tarde.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No tienes conexión a Internet. Revisa tu conexión n los ajustes de tú dispositivo</string>
+    <string name="no_internet_connection">No tienes conexión a Internet. Revisa tu conexión en los ajustes de tú dispositivo</string>
     <string name="server_not_running">El Servidor no responde...</string>
     <string name="name_change_reconnect_notice">Para cambair de nombre correctamente, deberás conectarte nuevamnte al Servidor.</string>
     <string name="play">Jugar</string>
