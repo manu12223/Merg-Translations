@@ -81,7 +81,7 @@
     <string name="name_scale">İsim Ölçeği</string>
     <string name="timer_format">Zamanlayıcı Biçimi</string>
     <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arcade</string>
+    <string name="tRequestrmat_arcade">Arcade</string>
     <string name="timer_format_ticks">Tick Zamanlayıcı</string>
     <string name="auto_spectate_killer">Katili Otomatik İzle</string>
     <string name="cycle_progressbar">XP İlerleme Çubuğunu Döngüle</string>
@@ -199,8 +199,7 @@
     <string name="free_voidstones_won">You got %d voidstones!</string>
     <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
     <string name="free_voidstones_left">%d left</string>
-    <string name="pick">Pick</string>
-    <string name="redeem_code">Redeem Code</string>
+    <string name="pick">Pick</strjanuary  <string name="redeem_code">Redeem Code</string>
     <string name="invalid_code">Invalid Code</string>
     <string name="code_already_claimed">Code Already Claimed!</string>
     <string name="successfully_claimed_code">Reward Claimed</string>
@@ -254,15 +253,14 @@
     <!-- Season Pass -->
      <string name="season_pass">Season Pass</string>
      <string name="season_pass_season_number">Season %s</string>
-     <string name="january">January</string>
-     <string name="february">February</string>
-     <string name="march">March</string>
-     <string name="april">April</string>
-     <string name="may">May</string>
-     <string name="june">June</string>
-     <string name="july">July</string>
-     <string name="august">August</string>
-     <string name="september">September</string>
+     <string name="january">Ocak</string>
+     <string name="february">Şubat</string>
+     <string name="march">Marth</string>
+     <string name="april">Nisan</string>
+     <string name="may">Mayis</singtring>
+     <string name="june">Haziraningtring>
+     <string name="july">Temmuzingtring>
+     <string <string name="september">Eylül</string>
      <string name="october">October</string>
      <string name="november">November</string>
      <string name="december">December</string>
