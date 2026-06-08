@@ -48,7 +48,7 @@
     <string name="language_thai">ไทย | Tailandês</string>
     <string name="language_turkish">Türkçe | Turco</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
-    <string name="language_ukrainian">Українська | Ucraniano</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Fundo</string>
     <string name="background_black">Preto</string>
     <string name="background_white">Branco</string>
@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">Solicitações Enviadas</string>
     <string name="no_friends">Seus amigos aparecerão aqui</string>
     <string name="remove_friend_title">Remover Amigo</string>
-    <string name="remove_friend_message">Tem certeza de que deseja remover "%1$s" (ID: %2$d) da sua lista de amigos?</string>
+    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
     <string name="cancel_request_title">Cancelar Solicitação</string>
-    <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Não é possível adicionar a si mesmo(a).</string>
     <string name="friend_request_error_already_sent">Solicitação de amizade já enviada</string>
     <string name="friend_request_error_already_friends">Já são amigos</string>
@@ -968,6 +968,11 @@
     <string name="unlock_skin">Desbloquear</string>
     <string name="database_write_fail">Falha no salvamento do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
+    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
+    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_link">https://tos.redpixels-studio21.com</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
     <string name="banned">Banido(a)</string>
     <string name="muted">Silenciado(a)</string>
     <string name="banned_until">Banido(a) até %s</string>
@@ -996,4 +1001,5 @@
     <string name="after">Agora</string>
     <string name="clan_id">ID do Clã:</string>
     <string name="editing_message">Editando mensagem</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>

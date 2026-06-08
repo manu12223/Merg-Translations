@@ -48,7 +48,7 @@
     <string name="language_thai">ไทย | Тайський</string>
     <string name="language_turkish">Türkçe | Турецький</string>
     <string name="language_vietnamese">Tiếng Việt | В'етнамський</string>
-    <string name="language_ukrainian">Українська</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Фон</string>
     <string name="background_black">Чорний</string>
     <string name="background_white">Білий</string>
@@ -74,7 +74,7 @@
     <string name="star_background_enabled">Зірки</string>
     <string name="star_color_white">Білі</string>
     <string name="star_color_black">Чорні</string>
-    <string name="name_position">Росташування імені/string>
+    <string name="name_position">Name Position</string>
     <string name="name_position_above">Зверху</string>
     <string name="name_position_center">В центрі</string>
     <string name="name_position_below">Знизу</string>
@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">Надіслати Запит</string>
     <string name="no_friends">Друзів ще немає…</string>
     <string name="remove_friend_title">Видалити Друга</string>
-    <string name="remove_friend_message">Ви впевнені що хочете видалити \"%1$s\" (ID: %2$d) з друзів?</string>
+    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
     <string name="cancel_request_title">Скасувати Запит</string>
-    <string name="cancel_request_message">Ви впевнені що хочете видалити запит на дружбу \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ви не можете надіслати запит на дружбу самому собі</string>
     <string name="friend_request_error_already_sent">Запит на дружбу вже надісланий</string>
     <string name="friend_request_error_already_friends">Ви вже друзі</string>
@@ -968,6 +968,11 @@
     <string name="unlock_skin">Unlock</string>
     <string name="database_write_fail">Database write failed</string>
     <string name="database_read_fail">Database read failed</string>
+    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
+    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_link">https://tos.redpixels-studio21.com</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
     <string name="banned">Banned</string>
     <string name="muted">Muted</string>
     <string name="banned_until">Banned until %s</string>
@@ -996,4 +1001,5 @@
     <string name="after">After</string>
     <string name="clan_id">Clan ID:</string>
     <string name="editing_message">Editing message</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>

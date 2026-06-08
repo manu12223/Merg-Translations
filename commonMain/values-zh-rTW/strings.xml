@@ -48,7 +48,7 @@
     <string name="language_thai">ไทย｜泰文</string>
     <string name="language_turkish">Türkçe｜土耳其文</string>
     <string name="language_vietnamese">Tiếng Việt｜越南文</string>
-    <string name="language_ukrainian">Українська｜烏克蘭文</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Background</string>
     <string name="background_black">Black</string>
     <string name="background_white">White</string>
@@ -968,6 +968,11 @@
     <string name="unlock_skin">Unlock</string>
     <string name="database_write_fail">Database write failed</string>
     <string name="database_read_fail">Database read failed</string>
+    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
+    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_link">https://tos.redpixels-studio21.com</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
     <string name="banned">Banned</string>
     <string name="muted">Muted</string>
     <string name="banned_until">Banned until %s</string>
@@ -996,4 +1001,5 @@
     <string name="after">After</string>
     <string name="clan_id">Clan ID:</string>
     <string name="editing_message">Editing message</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>

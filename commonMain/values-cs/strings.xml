@@ -117,7 +117,7 @@
     <string name="warning_no_holes">Statistiky nebudou uloženy</string>
     <string name="gold_holes">Zlaté díry</string>
     <string name="starting_difficulty">Počáteční obtížnost</string>
-    
+
     <!-- Multiplayer -->
     <string name="play_online">HRÁT ONLINE</string>
     <string name="switch_server">Změnit server</string>
@@ -147,14 +147,14 @@
     <string name="friend_requests_sent">Odeslané žádosti</string>
     <string name="no_friends">Zatím žádní přátelé…</string>
     <string name="remove_friend_title">Odebrat přítele</string>
-    <string name="remove_friend_message">Opravdu chcete odebrat "%1$s" (ID: %2$d) z přátel?</string>
+    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
     <string name="cancel_request_title">Zrušit žádost</string>
-    <string name="cancel_request_message">Opravdu chcete zrušit žádost o přátelství pro "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Nemůžeš poslat žádost sám sobě</string>
     <string name="friend_request_error_already_sent">Žádost již byla odeslána</string>
     <string name="friend_request_error_already_friends">Už jste přátelé</string>
     <string name="friend_request_error_list_full">Seznam přátel je plný</string>
-    
+
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Kompetitivní</string>
     <string name="competitive_menu">KOMPETITIVNÍ</string>
@@ -190,7 +190,7 @@
     <string name="prizes">Odměny</string>
     <string name="prizes_dialog_intro">Před resetem každé sezóny získají nejlepší hráči Voidstone odměnu na základě svého výkonu!</string>
     <string name="current_season">Aktuální sezóna</string>
-    
+
     <!-- Shop -->
     <string name="shop">Obchod</string>
     <string name="ticket">Lístek</string>
@@ -250,7 +250,7 @@
     <string name="time_min">min</string>
     <string name="time_sec">sek</string>
     <string name="ad_reward">Odměna za reklamu</string>
-    
+
     <!-- Season Pass -->
      <string name="season_pass">Sezónní pas</string>
      <string name="season_pass_season_number">Sezóna %s</string>
@@ -270,7 +270,7 @@
      <string name="season_bag_entry">Sezóna %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Aktuální</string>
      <string name="season_bag_last">Poslední</string>
-    
+
     <!-- Profile -->
     <string name="profile">Profil</string>
     <string name="not_logged_in">Nepřihlášen!</string>
@@ -361,7 +361,7 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Přechod barev profilu není odemčen</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Přechod barev profilu 2 není odemčen</string>
     <string name="profile_color_save_failed">Nepodařilo se uložit barvy profilu</string>
-    
+
     <!-- Profile Tags -->
     <string name="developer_tag">Vývojář</string>
     <string name="code_contribution_tag">Developer</string>
@@ -582,7 +582,7 @@
     <string name="code_copied">Kód zkopírován do schránky!</string>
 
     <!-- Gamemodes !-->
-    <<string name="gamemode_classic">Klasický</string>
+    <string name="gamemode_classic">Classic</string>
     <string name="gamemode_teams">Týmy</string>
     <string name="gamemode_survival">Přežití</string>
     <string name="gamemode_team_survival">Týmové přežití</string>
@@ -655,6 +655,7 @@
     <string name="yinyang">Přepnout</string>
     <string name="buttons_customize">Přizpůsobit tlačítka</string>
     <string name="buttons_orientation_message">Přizpůsobení pro výšku a šířku se ukládají odděleně</string>
+
 
     <!-- Skins !-->
     <string name="skin">Skin</string>
@@ -843,7 +844,7 @@
     <string name="report_avatar_message">Nahlásit avatara uživatele %1$s?</string>
     <string name="report_avatar_success">Avatar nahlášen</string>
     <string name="report_avatar_failed">Nepodařilo se nahlásit avatara</string>
-        
+
     <!-- Account recovery -->
     <string name="account_recovery">Obnova účtu</string>
     <string name="recovery_info">Je vyžadována stejná Wi-Fi a zařízení, jinak může obnova selhat.</string>
@@ -967,6 +968,11 @@
     <string name="unlock_skin">Odemknout</string>
     <string name="database_write_fail">Zápis do databáze selhal</string>
     <string name="database_read_fail">Čtení z databáze selhalo</string>
+    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
+    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_link">https://tos.redpixels-studio21.com</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
     <string name="banned">Zakázán přístup</string>
     <string name="muted">Ztlumeno</string>
     <string name="banned_until">Zakázán přístup do %s</string>
@@ -995,4 +1001,5 @@
     <string name="after">Po</string>
     <string name="clan_id">ID klanu:</string>
     <string name="editing_message">Úprava zprávy</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>

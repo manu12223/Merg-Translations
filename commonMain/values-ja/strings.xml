@@ -48,7 +48,7 @@
     <string name="language_thai">ไทย｜タイ語</string>
     <string name="language_turkish">Türkçe｜トルコ語</string>
     <string name="language_vietnamese">Tiếng Việt｜ベトナム語</string>
-    <string name="language_ukrainian">Українська｜ウクライナ語</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">背景</string>
     <string name="background_black">黒</string>
     <string name="background_white">白</string>
@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">保留中の申請</string>
     <string name="no_friends">フレンドはこちらに表示されます</string>
     <string name="remove_friend_title">フレンドから解除</string>
-    <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドから解除してもよろしいですか？</string>
+    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
     <string name="cancel_request_title">申請をキャンセル</string>
-    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請をキャンセルしてもよろしいですか？</string>
+    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">フレンド申請を自分自身に送信できません。</string>
     <string name="friend_request_error_already_sent">この申請は保留中です。</string>
     <string name="friend_request_error_already_friends">すでにフレンドリストにいます。</string>
@@ -968,6 +968,11 @@
     <string name="unlock_skin">アンロック</string>
     <string name="database_write_fail">データベースが書き込めませんでした</string>
     <string name="database_read_fail">データベースが読み込めませんでした</string>
+    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
+    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_link">https://tos.redpixels-studio21.com</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
     <string name="banned">バン中</string>
     <string name="muted">ミュート中</string>
     <string name="banned_until">%sまでバン中です</string>
@@ -996,4 +1001,5 @@
     <string name="after">現在</string>
     <string name="clan_id">クランID:</string>
     <string name="editing_message">メッセージを編集中</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>
