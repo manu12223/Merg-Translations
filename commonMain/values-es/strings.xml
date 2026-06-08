@@ -267,7 +267,7 @@
      <string name="november">Noviembre</string>
      <string name="december">Diciembre</string>
      <string name="season_bag_title">Bolsa de Monedas</string>
-     <string name="season_bag_entry">Sesión %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_entry">Temporada %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Actual</string>
      <string name="season_bag_last">Anterior</string>
 
