@@ -147,7 +147,7 @@
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">¿Seguro(a) qué quieres dejar de ser Amigo de \"%1$s\" (ID: %2$d)?</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres dejar de ser Amigo de "%1$s" (ID: %2$d)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro(a) que quieres eliminar la Solicitud de Amistad de \"%1$s\" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
@@ -198,7 +198,7 @@
     <string name="free_voidstones_subtitle">¡Mira un Anuncio para ganar Voidstones gratis!</string>
     <string name="free_voidstones_won">Obtuviste %d Voidstones!</string>
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
-    <string name="free_voidstones_left">%d left</string>
+    <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Elegir</string>
     <string name="redeem_code">Canjear Código</string>
     <string name="invalid_code">Código Inválido</string>
@@ -253,7 +253,7 @@
 
     <!-- Season Pass -->
      <string name="season_pass">Pase de Temporada</string>
-     <string name="season_pass_season_number">Sesión %s</string>
+     <string name="season_pass_season_number">Temporada %s</string>
      <string name="january">Enero</string>
      <string name="february">Febrero</string>
      <string name="march">Marzo</string>
@@ -768,7 +768,7 @@
     <string name="dialog_previous">Volver</string>
     <string name="dialog_next">Siguiente</string>
     <string name="dialog_update">Actualización</string>
-    <string name="toast_please_wait">Por favor, espera...</string>
+    <string name="toast_please_wait">Por favor, espera.</string>
     <string name="permission_denied">Permiso Denegado</string>
     <string name="dialog_locked">Bloqueado</string>
     <string name="duplicate_connection">Ups, alguien más está usando tu Cuenta Merg.</string>
