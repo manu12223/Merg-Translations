@@ -84,7 +84,7 @@
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
-    <string name="cycle_progressbar">>Alternar Automát. Texto de la Barra de EXP</string>
+    <string name="cycle_progressbar">Alternar Automát. Texto de la Barra EXP</string>
     <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
 
