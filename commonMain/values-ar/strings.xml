@@ -672,7 +672,7 @@
 
 
     <!-- Chat !-->
-    <string name="chat">المحادثة</string>
+    <string name="chat">الدردشة</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
     <string name="chat_close">إغلاق المحادثة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
