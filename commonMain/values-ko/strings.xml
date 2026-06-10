@@ -2,21 +2,21 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Singleplayer</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string>
+    <string name="singleplayer">혼자 플레이</string>
+    <string name="lan_multiplayer">LAN 멀티플레이</string>
+    <string name="online_multiplayer">온라인 멀티플레이</string>
+    <string name="options">설정</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
-    <string name="email_support">Support Mail:</string>
-    <string name="developer">Developer:</string>
-    <string name="code_contribution">Code Contributions:</string>
-    <string name="skins">Skins:</string>
-    <string name="graphics_icons">Graphics/Icons:</string>
-    <string name="translations">Translations:</string>
+    <string name="email_copy">이메일 복사</string>
+    <string name="email_support">문의 메일:</string>
+    <string name="developer">개발자:</string>
+    <string name="code_contribution">코드 지원:</string>
+    <string name="skins">스킨:</string>
+    <string name="graphics_icons">그래픽/아이콘:</string>
+    <string name="translations">번역:</string>
 
     <!-- Options menu !-->
     <string name="language">언어</string>
