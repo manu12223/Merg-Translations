@@ -2,21 +2,21 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Singleplayer</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string>
+    <string name="singleplayer">혼자 플레이</string>
+    <string name="lan_multiplayer">LAN 멀티플레이</string>
+    <string name="online_multiplayer">온라인 멀티플레이</string>
+    <string name="options">설정</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
-    <string name="email_support">Support Mail:</string>
-    <string name="developer">Developer:</string>
-    <string name="code_contribution">Code Contributions:</string>
-    <string name="skins">Skins:</string>
-    <string name="graphics_icons">Graphics/Icons:</string>
-    <string name="translations">Translations:</string>
+    <string name="email_copy">이메일 복사</string>
+    <string name="email_support">문의 메일:</string>
+    <string name="developer">개발자:</string>
+    <string name="code_contribution">코드 지원:</string>
+    <string name="skins">스킨:</string>
+    <string name="graphics_icons">그래픽/아이콘:</string>
+    <string name="translations">번역:</string>
 
     <!-- Options menu !-->
     <string name="language">언어</string>
@@ -28,7 +28,7 @@
     <string name="language_danish">Dansk | 덴마크</string>
     <string name="language_dutch">Nederlands | 네덜란드어</string>
     <string name="language_english">English | 영어</string>
-    <string name="language_filipino">Filipino | 카갈로그어</string>
+    <string name="language_filipino">Filipino | 필리핀어</string>
     <string name="language_finnish">Suomi | 핀란드어</string>
     <string name="language_french">Français | 프랑스어</string>
     <string name="language_german">Deutsch | 독일어</string>
@@ -46,45 +46,45 @@
     <string name="language_spanish">Español | 스페인어</string>
     <string name="language_swedish">Svenska | 스웨덴어</string>
     <string name="language_thai">ไทย | 태국어</string>
-    <string name="language_turkish">Türkçe | 태키어</string>
+    <string name="language_turkish">Türkçe | 튀르키예어</string>
     <string name="language_vietnamese">Tiếng Việt | 베트남어</string>
-    <string name="language_ukrainian">Українська | Ukrainian</string>
-    <string name="background">Background</string>
-    <string name="background_black">Black</string>
-    <string name="background_white">White</string>
-    <string name="controls">Controls</string>
-    <string name="control_joystick">Joystick</string>
-    <string name="control_relative">Relative</string>
-    <string name="control_touch">Touch</string>
-    <string name="button_layout">Button Layout</string>
-    <string name="customize">Customize</string>
-    <string name="opacity">Opacity</string>
-    <string name="leaderboard_size">Leaderboard Size</string>
-    <string name="show_grid">Show Grid</string>
-    <string name="show_grid_coordinates">Show Grid Coordinates</string>
+    <string name="language_ukrainian">Українська | 우크라이나어</string>
+    <string name="background">배경</string>
+    <string name="background_black">검정색</string>
+    <string name="background_white">흰색</string>
+    <string name="controls">조작</string>
+    <string name="control_joystick">조이스틱</string>
+    <string name="control_relative">렐러티브</string>
+    <string name="control_touch">터치</string>
+    <string name="button_layout">버튼 레이아웃</string>
+    <string name="customize">직접 수정하기</string>
+    <string name="opacity">불투명도</string>
+    <string name="leaderboard_size">순위표 사이즈</string>
+    <string name="show_grid">격자 표시</string>
+    <string name="show_grid_coordinates">격자번호 표시</string>
     <string name="show_coordinate_tint">Show Coordinate Tint</string>
-    <string name="custom_background_image">Custom Background Image</string>
-    <string name="custom_background_select">Select Image</string>
-    <string name="custom_background_opacity">Background Opacity</string>
-    <string name="show_performance_metrics">Show Performance Metrics</string>
-    <string name="skin_outlines">Skin Outlines</string>
-    <string name="direction_arrow">Direction Arrow</string>
-    <string name="border_above_entities">Border Above Entities</string>
-    <string name="map_border_visible">Show Map Border</string>
-    <string name="star_background_enabled">Stars</string>
-    <string name="star_color_white">White</string>
-    <string name="star_color_black">Black</string>
-    <string name="name_position">Name Position</string>
-    <string name="name_position_above">Above</string>
-    <string name="name_position_center">Center</string>
-    <string name="name_position_below">Below</string>
-    <string name="name_scale">Name Scale</string>
-    <string name="timer_format">Timer Format</string>
-    <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arcade</string>
-    <string name="timer_format_ticks">Ticks</string>
-    <string name="auto_spectate_killer">Auto Spectate Killer</string>
-    <string name="cycle_progressbar">Cycle XP Progress Bar Text</string>
+    <string name="custom_background_image">커스텀 배경</string>
+    <string name="custom_background_select">이미지 선택</string>
+    <string name="custom_background_opacity">배경 불투명도</string>
+    <string name="show_performance_metrics">게임 성능 표시</string>
+    <string name="skin_outlines">스킨 테두리</string>
+    <string name="direction_arrow">방향 화살표</string>
+    <string name="border_above_entities">경계선 위에 표시</string>
+    <string name="map_border_visible">맵 경계선 보이기</string>
+    <string name="star_background_enabled">별 표시</string>
+    <string name="star_color_white">흰색</string>
+    <string name="star_color_black">검정색</string>
+    <string name="name_position">이름 위치</string>
+    <string name="name_position_above">위</string>
+    <string name="name_position_center">가운데</string>
+    <string name="name_position_below">아래</string>
+    <string name="name_scale">이름 크기</string>
+    <string name="timer_format">타이머 형식</string>
+    <string name="timer_format_normal">일반</string>
+    <string name="timer_format_arcade">아케이드</string>
+    <string name="timer_format_ticks">틱</string>
+    <string name="auto_spectate_killer">자신을 죽인 플레이어 관전</string>
+    <string name="cycle_progressbar">연속 경험치 표시</string>
     <string name="verbose_in_game_ui">Verbose In-Game UI</string>
     <string name="jitter_buffer">Jitter Buffer</string>
 
