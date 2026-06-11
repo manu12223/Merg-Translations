@@ -217,13 +217,13 @@
     <string name="reward_already_owned_compensation">Уже имеется. Конвертировано в Пустотные камни</string>
     <string name="purchase_id">ID покупки: %d</string>
     <string name="history">История</string>
-    <string name="voidstone_history">История пустотных камней</string>
+    <string name="voidstone_history">История войдстоунов</string>
     <string name="purchase_history">История покупок</string>
     <string name="no_transactions_yet">Операций пока нет</string>
     <string name="admin_reward">Награда от администратора</string>
     <string name="in_app_purchase">Внутриигровая покупка</string>
-    <string name="voidstone_gift_received">Получен подарок пустотных камней</string>
-    <string name="voidstone_gift_send">Отправлен подарок пустотных камней</string>
+    <string name="voidstone_gift_received">Получен подарок войдстоунов</string>
+    <string name="voidstone_gift_send">Отправлен подарок войдстоунов</string>
     <string name="skin_bought">Куплен скин</string>
     <string name="profile_name_change_bought">Куплена смена имени профиля</string>
     <string name="profile_name_color_bought">Открыт цвет имени профиля</string>
