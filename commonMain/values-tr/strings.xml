@@ -237,7 +237,7 @@
     <string name="admin_deduction_sent">Admin Deduction Sent</string>
     <string name="verify_reward">Verify Reward</string>
     <string name="competitive_season_reward">Competitive season reward</string>
-    <string name="purchase_remove_ads_label">Remove Ads</string>
+    <string name="purchase_remove_ads_label">Reklam kaldırcı </string>
     <string name="purchase_status_permanent">Permanent</string>
     <string name="purchase_status_refunded">Refunded</string>
 
@@ -295,15 +295,15 @@
     <string name="description_text_color">Description Text Color</string>
     <string name="unlock_description_color_success">Description text color unlocked!</string>
     <string name="unlock_description_color_already_unlocked">Description text color already unlocked</string>
-    <string name="statistics">Statistics</string>
+    <string name="statistics">İstatistikler</string>
     <string name="achievements">Achievements</string>
     <string name="delete_account">DELETE ACCOUNT</string>
     <string name="change_profile_name">Change Profile Name</string>
     <string name="enter_profile_name">Enter Profile Name</string>
     <string name="profile_color">PROFILE COLOR</string>
-    <string name="profile_text_color_white">White text</string>
-    <string name="profile_text_color_black">Black text</string>
-    <string name="profile_gradient_color">Gradient color</string>
+    <string name="profile_text_color_white">Beyaz text</string>
+    <string name="profile_text_color_black">Siyah text</string>
+    <string name="profile_gradient_color">Eğim rengi</string>
     <string name="profile_3_gradient_color">Gradient color 2</string>
     <string name="profile_animated_gradient">Animated Gradient</string>
     <string name="profile_animated_circle_gradient">Animated circle Gradient</string>
@@ -316,9 +316,9 @@
     <string name="profile_name_change_error">Failed to change name: %d</string>
     <string name="profile_goodbye">Goodbye! :(</string>
     <string name="profile_logged_in_with_name">Logged in to %s</string>
-    <string name="profile_logged_in">Logged in</string>
-    <string name="profile_logout_confirm">Log out of %s?</string>
-    <string name="profile_logout_confirm_no_name">Log out?</string>
+    <string name="profile_logged_in">Giriş yapıldı</string>
+    <string name="profile_logout_confirm">Çıkış yap %s?</string>
+    <string name="profile_logout_confirm_no_name">Çıkış yap?</string>
     <string name="profile_logout_all_confirm">Log out all devices of %s? This may take up to an hour.</string>
     <string name="profile_logout_all_confirm_no_name">Log out all devices? This may take up to an hour.</string>
     <string name="profile_logout_failed">Logout failed</string>
@@ -326,11 +326,11 @@
     <string name="profile_delete_type_prompt">Type %s to confirm account deletion:</string>
     <string name="profile_delete_confirm_text">DELETE</string>
     <string name="profile_delete_failed">Delete failed</string>
-    <string name="name_color">Name Color</string>
-    <string name="unlock_name_colors">Unlock Name Colors</string>
+    <string name="name_color">string<tring</string>
+    <string name="unlock_name_colors"Deleteock Name Colors</string>
     <string name="unlock_name_colors_success">Name colors unlocked!</string>
     <string name="name_colors_already_unlocked">Name colors already unlocked</string>
-    <string name="unlock_name_color_gradient">Unlock Gradient Name Colors</string>
+    <string name="unlock_name_color_gradient">UnlockNamedient Name Colors</string>
     <string name="unlock_name_color_gradient_success">Name color gradient unlocked!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Name color gradient is already unlocked</string>
     <string name="unlock_name_triple_gradient">Unlock Gradient Name Colors 2</string>
@@ -367,12 +367,12 @@
     <string name="code_contribution_tag">Code Contribution</string>
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
-    <string name="verified">Verified</string>
-    <string name="youtube">YouTube</string>
-    <string name="translator">Translator</string>
+    <string name="verified">Doğrulandı</string>
+    <string name="youtube"stringbe</string>
+    <string name="translator">Çevirmen</string>
     <string name="internal_tester">Internal Tester</string>
     <string name="alpha_tester">Alpha Tester</string>
-    <string name="beta_tester">Beta Tester</string>
+    <string name="beta_tester">Betstringer</string>
     <string name="discord_staff">Discord Staff</string>
 
     <!-- Voidstone Transfer -->
@@ -389,7 +389,7 @@
     <string name="transaction_fee_amount">-%s fee</string>
 
     <!-- Search Profile -->
-    <string name="search_account">Search Account</string>
+    <string name="search_account">Hesap Ara</string>
     <string name="search_account_by_id_or_name">Search for an account by ID or name</string>
     <string name="no_account_found">No account found</string>
 
@@ -406,12 +406,12 @@
     <string name="clan_my_invites">My Invites</string>
     <string name="clan_invite_declined">Invite declined.</string>
     <string name="clan_joined">Clan joined!</string>
-    <string name="clan_private">This clan is private or no longer active.</string>
-    <string name="clan_members">Members</string>
+    <string name="clan_private">Thiprivateis private or no longer active.</string>
+    <string name="clan_members">Üyeler</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
-    <string name="clan_leave">Leave Clan</string>
-    <string name="clan_leave_confirm">Are you sure you want to leave this clan?</string>
+    <string name="clan_leave">Klanı Terk Et</string>
+    <string name="clan_leave_confirm">Buradan ayrılmak istediğinizden emin misiniz?/string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
     <string name="clan_request_sent">Join request sent.</string>
     <string name="clan_disband">Disband Clan</string>
@@ -419,9 +419,8 @@
     <string name="clan_invite">Invite Player</string>
     <string name="clan_invite_hint">Invite by ID or Name</string>
     <string name="clan_settings">Clan Settings</string>
-    <string name="clan_join_mode">Join Mode</string>
-    <string name="clan_join_mode_open">Open</string>
-    <string name="clan_join_mode_request">Request Only</string>
+    <string name="clan_join_mode">Katıl Modu</string>
+    <string name="clan_join_mOpenAçık</strstring   <string name="clan_join_mode_request">Request Only</string>
     <string name="clan_join_mode_private">Private</string>
     <string name="clan_join_mode_abandoned">Abandoned</string>
     <string name="clan_pending_requests">Join Requests</string>
