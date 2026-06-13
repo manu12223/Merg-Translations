@@ -5,7 +5,7 @@
     <string name="singleplayer">Un Jugador</string>
     <string name="lan_multiplayer">Multijugador LAN</string>
     <string name="online_multiplayer">Multijugador</string>
-    <string name="options">Configuración</string>
+    <string name="options">Configuraciones</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
@@ -50,8 +50,8 @@
     <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
     <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Fondo</string>
-    <string name="background_black">Fondo Negro</string>
-    <string name="background_white">Fondo Blanco</string>
+    <string name="background_black">Negro</string>
+    <string name="background_white">Blanco</string>
     <string name="controls">Controles</string>
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
@@ -60,7 +60,7 @@
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
-    <string name="show_grid">Mostrar Cuadrícula</string>
+    <string name="show_grid">Cuadrícula</string>
     <string name="show_grid_coordinates">Mostrar Coordenadas de Cuadrícula</string>
     <string name="show_coordinate_tint">Mostrar Resaltado de Coordenadas</string>
     <string name="custom_background_image">Fondo Personalizado</string>
@@ -70,7 +70,7 @@
     <string name="skin_outlines">Contorno de Skin</string>
     <string name="direction_arrow">Flecha de Dirección</string>
     <string name="border_above_entities">Borde por Encima de las Entidades</string>
-    <string name="map_border_visible">Mostrar el Borde del Mapa</string>
+    <string name="map_border_visible">Borde del Mapa</string>
     <string name="star_background_enabled">Estrellas</string>
     <string name="star_color_white">Blancas</string>
     <string name="star_color_black">Negras</string>
@@ -84,7 +84,7 @@
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
-    <string name="cycle_progressbar">>Alternar Automát. Texto de la Barra de EXP</string>
+    <string name="cycle_progressbar">Alternar Automát. Texto de la Barra EXP</string>
     <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
 
@@ -119,7 +119,7 @@
     <string name="starting_difficulty">Dificultad Inicial</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">JUGAR EN LÍNEA</string>
+    <string name="play_online">PARTIDA RÁPIDA</string>
     <string name="switch_server">Cambiar de Servidor</string>
     <string name="x_players">%s jugadores</string>
     <string name="x_player">%s jugador</string>
@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">¿Seguro(a) qué quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
     <string name="friend_request_error_already_sent">Ya has enviado una Solicitud de Amistad</string>
     <string name="friend_request_error_already_friends">Ya son Amigos</string>
@@ -186,7 +186,7 @@
     <string name="play_again">Volver a Jugar</string>
     <string name="play_x_more_matches_to_rated">¡Juega %d partidas más para Clasificar!</string>
     <string name="play_one_more_match_to_rated">¡Juega un partido más para Obtener Puntuación!</string>
-    <string name="history_viewer_vs_opponent">%1$svs%2$s</string>
+    <string name="history_viewer_vs_opponent">%1$s VS %2$s</string>
     <string name="prizes">Premios</string>
     <string name="prizes_dialog_intro">¡Antes del reinicio de temporada, los mejores recibirán Voidstone según su rendimiento!</string>
     <string name="current_season">Temporada Actual</string>
@@ -427,8 +427,8 @@
     <string name="clan_pending_requests">Solicitudes de Clan</string>
     <string name="clan_role_owner">Líder</string>
     <string name="clan_role_co_owner">Colíder</string>
-    <string name="clan_role_admin">Admin</string>
-    <string name="clan_role_elder">Elder</string>
+    <string name="clan_role_admin">Administrador</string>
+    <string name="clan_role_elder">Veterano</string>
     <string name="clan_role_member">Miembro</string>
     <string name="clan_name_taken">Ups, Nombre de Clan en uso.</string>
     <string name="clan_already_member">Ya estás dentro del Clan.</string>
@@ -463,7 +463,7 @@
     <string name="clan_already_requested">Ups, ya tienes una Solicitud de Ingreso pendiente con otro Clan.</string>
     <string name="clan_copy_tag">Copiar Siglas</string>
     <string name="clan_creator">Creador</string>
-    <string name="clan_history">Historial de Clan</string>
+    <string name="clan_history">Historial</string>
     <string name="clan_history_no_entries">Sin Historial</string>
     <string name="clan_history_event_join">Se Unió</string>
     <string name="clan_history_event_leave">Se Salió</string>
@@ -474,7 +474,7 @@
     <string name="clan_history_event_donation">Donado</string>
     <string name="clan_history_id">Historial de ID: %d</string>
     <string name="clan_public_profile">Perfil de Clan Público</string>
-    <string name="clan_kicked_banned_players">Jugadores Expulsados/Baneados</string>
+    <string name="clan_kicked_banned_players">Lista Negra</string>
     <string name="clan_unkick_confirm">¿Seguro(a) que quieres Readmitir a \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">¿Seguro(a) que quieres Desbanear a \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_search_hint">Buscar por ID o por Nombre</string>
@@ -566,11 +566,11 @@
     <string name="no_mail_yet">Ups, parece que aún no tienes Correos.</string>
     <string name="mail_from">de:</string>
     <string name="mail_to">para:</string>
-    <string name="received">Correo Recibido</string>
+    <string name="received">Recibido</string>
     <string name="refresh">Actualizar Lista</string>
-    <string name="write_mail">Escribir Correo</string>
-    <string name="mail_reply">Responder Correo</string>
-    <string name="mail_title_hint">Asunto del Correo</string>
+    <string name="write_mail">Escribir</string>
+    <string name="mail_reply">Responder</string>
+    <string name="mail_title_hint">Asunto</string>
     <string name="mail_content_hint">Cuerpo del Correo</string>
     <string name="mail_recipient_not_found">El Destinatario no fue Encontrado.</string>
     <string name="mail_send_to_self">Ups, no puedes Enviarte un Correo a ti mismo.</string>
@@ -694,7 +694,7 @@
     <string name="stage_failed">Etapa %s Fallida!</string>
     <string name="restarting_adventure">Reiniciando Aventura…</string>
     <string name="server_in_maintenance">SERVIDOR EN MANTENIMIENTO.</string>
-    <string name="server_reboot">SERVIDOR REINICIDADO</string>
+    <string name="server_reboot">SERVIDOR REINICIADO</string>
     <string name="server_shutdown">SERVIDOR CAÍDO</string>
     <string name="afk_disconnect">Desconectado por Inactividad</string>
 
@@ -829,7 +829,7 @@
     <string name="custom_image_invalid_format">Ups, el archivo debe ser una Imagen.</string>
     <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (max %2$dKB)</string>
     <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d no cumple con las especificaciones (max. %2$dKB / %5$dx%6$d pixels)</string>
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
@@ -906,7 +906,7 @@
     <string name="select">Seleccionar</string>
     <string name="reset">Reiniciar</string>
     <string name="done">Hecho</string>
-    <string name="info">Info</string>
+    <string name="info">Información</string>
     <string name="empty">Vacío</string>
     <string name="online">Conectado</string>
     <string name="offline">Desconectado</string>
@@ -968,11 +968,11 @@
     <string name="unlock_skin">Desbloquear Skin</string>
     <string name="database_write_fail">Ups, hubo un error al escribir la Base de Datos.</string>
     <string name="database_read_fail">Ups, hubo un error en la lectura de la Base de Datos.</string>
-    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_title">Términos de Servicio &amp; Política de Privacidad</string>
+    <string name="tos_message">Al continuar, aceptas nuestros Términos de Servicio y Política de Privacidad.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">Aceptar</string>
+    <string name="decline">Rechazar</string>
     <string name="banned">Baneado</string>
     <string name="muted">Muteado</string>
     <string name="banned_until">Baneado hasta %s</string>

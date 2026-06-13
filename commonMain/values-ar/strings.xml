@@ -236,10 +236,10 @@
     <string name="admin_reward_sent">تم ارسال مكافاة الادارة</string>
     <string name="admin_deduction_sent">تم ارسال الخصم الإداري</string>
     <string name="verify_reward">مكافئة توثيق</string>
-    <string name="competitive_season_reward">Competitive season reward</string>
-    <string name="purchase_remove_ads_label">Remove Ads</string>
-    <string name="purchase_status_permanent">Permanent</string>
-    <string name="purchase_status_refunded">Refunded</string>
+    <string name="competitive_season_reward">مكافأة الموسم التنافسي</string>
+    <string name="purchase_remove_ads_label">إزالة الإعلانات</string>
+    <string name="purchase_status_permanent">دائم</string>
+    <string name="purchase_status_refunded">تم الاسترداد</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
@@ -265,6 +265,19 @@
      <string name="september">سبتمبر</string>
      <string name="october">أكتوبر</string>
      <string name="november">نوڤمبر</string>
+     <string name="season_pass">تذكرة الموسم</string>
+     <string name="season_pass_season_number">Season %s</string>
+     <string name="january">يناير</string>
+     <string name="february">فبراير</string>
+     <string name="march">مارس</string>
+     <string name="april">ابريل</string>
+     <string name="may">مايو</string>
+     <string name="june">يونيو</string>
+     <string name="july">يوليو</string>
+     <string name="august">اغسطس</string>
+     <string name="september">سبتمبر</string>
+     <string name="october">أكتوبر</string>
+     <string name="november">نوفمبر</string>
      <string name="december">ديسمبر</string>
      <string name="season_bag_title">Currency Bag</string>
      <string name="season_bag_entry">الموسم %1$s — %2$s (%3$s)</string>
@@ -363,20 +376,20 @@
     <string name="profile_color_save_failed">فشل حفظ الوان الملف الشخصي</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">Developer</string>
-    <string name="code_contribution_tag">Code Contribution</string>
+    <string name="developer_tag">مطور</string>
+    <string name="code_contribution_tag">مساهمة في الكود</string>
     <string name="admin">مُشرف</string>
     <string name="mod">مُدير</string>
     <string name="verified">موثق</string>
     <string name="youtube">يوتيوبر</string>
     <string name="translator">مُترجم</string>
-    <string name="internal_tester">Internal Tester</string>
-    <string name="alpha_tester">Alpha Tester</string>
-    <string name="beta_tester">Beta Tester</string>
-    <string name="discord_staff">Discord Staff</string>
+    <string name="internal_tester">مختبر داخلي</string>
+    <string name="alpha_tester">مختبر نسخة ألفا</string>
+    <string name="beta_tester">مختبر نسخة بيتا</string>
+    <string name="discord_staff">طاقم الديسكورد</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Send Voidstones</string>
+    <string name="send_voidstones">إرسال الفويدستون</string>
     <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
     <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
     <string name="send_voidstones_self">Cannot send voidstones to yourself</string>
@@ -672,19 +685,19 @@
 
 
     <!-- Chat !-->
-    <string name="chat">Chat</string>
+    <string name="chat">الدردشة</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
     <string name="chat_close">إغلاق المحادثة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
     <string name="chat_send_message">ارسل الرسالة</string>
     <string name="copy_name">نسخ الاسم</string>
     <string name="copy_message">نسخ الرسالة</string>
-    <string name="view_profile">View Profile</string>
-    <string name="delete_message">Delete Message</string>
-    <string name="edit_message">Edit Message</string>
-    <string name="report_message">Report Message</string>
-    <string name="chat_paused">Chat paused</string>
-    <string name="reply">Reply</string>
+    <string name="view_profile">عرض الملف الشخصي</string>
+    <string name="delete_message">حذف الرسالة</string>
+    <string name="edit_message">تعديل الرسالة</string>
+    <string name="report_message">الإبلاغ عن الرسالة</string>
+    <string name="chat_paused">تم إيقاف المحادثة مؤقتاً</string>
+    <string name="reply">رد</string>
     <string name="replying_to">Replying to %s</string>
 
     <!-- Notification box !-->
@@ -746,23 +759,23 @@
     <string name="dialog_disconnected_message">انقطع الاتصال بالخادم.</string>
     <string name="kicked_from_room">تم طردك من الغرفة!</string>
     <string name="banned_from_room">تم حظرك من الغرفة!</string>
-    <string name="enter_room_name">Enter Room Name</string>
-    <string name="room_not_found">Room not found</string>
-    <string name="already_in_room">You are already in a room!</string>
-    <string name="room_closed">Room Closed</string>
-    <string name="room_name">Room Name</string>
-    <string name="reported">Reported</string>
+    <string name="enter_room_name">أدخل اسم الغرفة</string>
+    <string name="room_not_found">لم يتم العثور على الغرفة</string>
+    <string name="already_in_room">أنت بالفعل في غرفة!</string>
+    <string name="room_closed">الغرفة مغلقة</string>
+    <string name="room_name">إسم الغرفة</string>
+    <string name="reported">تم الإبلاغ</string>
     <string name="reason">السبب</string>
     <string name="room_crash">حدث خطأ للغرفة: %s</string>
     <string name="app_crash">حدث خطأ في التطبيق: %s</string>
-    <string name="dialog_reload">RELOAD</string>
+    <string name="dialog_reload">إعادة تحميل</string>
     <string name="dialog_yes">نعم</string>
     <string name="dialog_no">لا</string>
     <string name="dialog_ok">حسنا</string>
     <string name="dialog_copy">نسخ</string>
-    <string name="dialog_notice">Notice</string>
-    <string name="dialog_warning">Warning</string>
-    <string name="dialog_alert">Alert</string>
+    <string name="dialog_notice">إشعار</string>
+    <string name="dialog_warning">تحذير</string>
+    <string name="dialog_alert">إنذار</string>
     <string name="dialog_dont_show_again">Don't show again</string>
     <string name="dialog_dismiss">Dismiss</string>
     <string name="dialog_previous">Previous</string>
@@ -820,8 +833,15 @@
     <string name="custom_image_replace">Replace</string>
     <string name="custom_image_deselect">Deselect</string>
     <string name="custom_image_confirm_title">Upload Image</string>
+    <string name="custom_images">صورة مخصصة</string>
+    <string name="profile_avatar">Profile Avatar</string>
+    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_image_upload">تحميل</string>
+    <string name="custom_image_replace">استبدال</string>
+    <string name="custom_image_deselect">إلغاء التحديد</string>
+    <string name="custom_image_confirm_title">رفع صورة</string>
     <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
-    <string name="custom_image_upload_success">Image sent for review</string>
+    <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">Avatar selected</string>
     <string name="custom_image_deselected">Avatar deselected</string>
     <string name="custom_image_upload_failed">Failed to upload image</string>
@@ -988,6 +1008,9 @@
     <string name="success">نجاح</string>
     <string name="duplicate_action">Duplicate Action</string>
     <string name="invalid_action">Invalid Action</string>
+    <string name="success">Success</string>
+    <string name="duplicate_action">إجراء مكرر</string>
+    <string name="invalid_action">غير صالح</string>
     <string name="invalid_value">Invalid Value</string>
     <string name="admin_cannot_act_self">Cannot perform this action on yourself</string>
     <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
@@ -997,9 +1020,9 @@
     <string name="clan_owner_must_transfer_error">You must transfer ownership to another member before leaving.</string>
     <string name="mail_cannot_send_self">You cannot send mail to yourself</string>
     <string name="clan_already_requested_other">Already requested to join this clan</string>
-    <string name="before">Before</string>
-    <string name="after">After</string>
+    <string name="before">قبل</string>
+    <string name="after">بعد</string>
     <string name="clan_id">Clan ID:</string>
-    <string name="editing_message">Editing message</string>
+    <string name="editing_message">تعديل الرسالة</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>
