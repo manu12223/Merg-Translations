@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">Estás seguro que quieres eliminar a "%1$s" (ID: %2$d) como amigos?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Estás seguro que quieres cancelar la solicitud de amistad a "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
     <string name="friend_request_error_already_sent">Ya has enviado una Solicitud de Amistad</string>
     <string name="friend_request_error_already_friends">Ya son Amigos</string>
@@ -427,8 +427,8 @@
     <string name="clan_pending_requests">Solicitudes de Clan</string>
     <string name="clan_role_owner">Líder</string>
     <string name="clan_role_co_owner">Colíder</string>
-    <string name="clan_role_admin">Admin</string>
-    <string name="clan_role_elder">Elder</string>
+    <string name="clan_role_admin">Administrador</string>
+    <string name="clan_role_elder">Veterano</string>
     <string name="clan_role_member">Miembro</string>
     <string name="clan_name_taken">Ups, Nombre de Clan en uso.</string>
     <string name="clan_already_member">Ya estás dentro del Clan.</string>
@@ -694,7 +694,7 @@
     <string name="stage_failed">Etapa %s Fallida!</string>
     <string name="restarting_adventure">Reiniciando Aventura…</string>
     <string name="server_in_maintenance">SERVIDOR EN MANTENIMIENTO.</string>
-    <string name="server_reboot">SERVIDOR REINICIDADO</string>
+    <string name="server_reboot">SERVIDOR REINICIDO</string>
     <string name="server_shutdown">SERVIDOR CAÍDO</string>
     <string name="afk_disconnect">Desconectado por Inactividad</string>
 
@@ -829,7 +829,7 @@
     <string name="custom_image_invalid_format">Ups, el archivo debe ser una Imagen.</string>
     <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (max %2$dKB)</string>
     <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d es demasiado grande (max %2$dKB / %5$dx%6$d pixels)</string>
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
@@ -906,7 +906,7 @@
     <string name="select">Seleccionar</string>
     <string name="reset">Reiniciar</string>
     <string name="done">Hecho</string>
-    <string name="info">Info</string>
+    <string name="info">Información</string>
     <string name="empty">Vacío</string>
     <string name="online">Conectado</string>
     <string name="offline">Desconectado</string>
@@ -968,11 +968,11 @@
     <string name="unlock_skin">Desbloquear Skin</string>
     <string name="database_write_fail">Ups, hubo un error al escribir la Base de Datos.</string>
     <string name="database_read_fail">Ups, hubo un error en la lectura de la Base de Datos.</string>
-    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_title">Términos de Servicio &amp; Politica de Privacidad</string>
+    <string name="tos_message">Al continuar, aceptas nuestros Términos de Servicio y Política de Privacidad.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">Aceptar</string>
+    <string name="decline">Rechazar</string>
     <string name="banned">Baneado</string>
     <string name="muted">Muteado</string>
     <string name="banned_until">Baneado hasta %s</string>
