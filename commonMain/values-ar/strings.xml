@@ -252,6 +252,19 @@
     <string name="ad_reward">جائزة الإعلان</string>
 
     <!-- Season Pass -->
+     <string name="season_pass">Season Pass</string>
+     <string name="season_pass_season_number">الموسم %s</string>
+     <string name="january">يناير</string>
+     <string name="february">فبراير</string>
+     <string name="march">مارس</string>
+     <string name="april">أبريل</string>
+     <string name="may">مايو</string>
+     <string name="june">يونيو</string>
+     <string name="july">يوليو</string>
+     <string name="august">أغسطس</string>
+     <string name="september">سبتمبر</string>
+     <string name="october">أكتوبر</string>
+     <string name="november">نوڤمبر</string>
      <string name="season_pass">تذكرة الموسم</string>
      <string name="season_pass_season_number">Season %s</string>
      <string name="january">يناير</string>
@@ -267,9 +280,9 @@
      <string name="november">نوفمبر</string>
      <string name="december">ديسمبر</string>
      <string name="season_bag_title">Currency Bag</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
-     <string name="season_bag_current">Current</string>
-     <string name="season_bag_last">Last</string>
+     <string name="season_bag_entry">الموسم %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_current">الحالي</string>
+     <string name="season_bag_last">الأخير</string>
 
     <!-- Profile -->
     <string name="profile">الملف الشخصي</string>
@@ -284,13 +297,13 @@
     <string name="share_id">Share ID</string>
     <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
     <string name="created">Created %s</string>
-    <string name="last_seen">Last seen %s</string>
+    <string name="last_seen">آخر ظهور %s</string>
     <string name="save_profile_description">حفظ وصف الملف الشخصي</string>
     <string name="profile_description_placeholder">اكتب وصفا…</string>
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
     <string name="profile_description_save_failed">فشل حفظ وصف الملف الشخصي</string>
     <string name="profile_description_too_long">الوصف طويل جدا! (الحد الأقصى %d حرفا)</string>
-    <string name="profile_description_too_large">Profile description is larger than %s</string>
+    <string name="profile_description_too_large">وصف الملف الشخصي أكبر من %s</string>
     <string name="unlock_description_color">فتح قفل لون نص الوصف</string>
     <string name="description_text_color">لون نص الوصف</string>
     <string name="unlock_description_color_success">تم فتح لون نص الوصف!</string>
@@ -396,18 +409,18 @@
     <!-- Clan -->
     <string name="clan_create">انشاء عشيرة</string>
     <string name="clan_name">اسم العشيرة</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_name_hint">أدخل اسم العشيرة (الحد الأقصى 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
     <string name="clan_list">Public Clans</string>
-    <string name="clan_no_clans">No clans found</string>
+    <string name="clan_no_clans">لم يتم العثور على عشائر</string>
     <string name="no_clan">لا يوجد عشيرة</string>
     <string name="clan_request_clans">Request Only Clans</string>
     <string name="clan_my_invites">دعوه العشيرة</string>
-    <string name="clan_invite_declined">Invite declined.</string>
+    <string name="clan_invite_declined">تم رفض الدعوة.</string>
     <string name="clan_joined">Clan joined!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
-    <string name="clan_members">Members</string>
+    <string name="clan_members">الأعضاء</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
     <string name="clan_leave">الخروج من العشيرة</string>
@@ -432,9 +445,9 @@
     <string name="clan_role_member">عضو</string>
     <string name="clan_name_taken">اسم الكلان مأخوذ بالفعل</string>
     <string name="clan_already_member">أنت بالفعل في كلان آخر</string>
-    <string name="clan_accept_invite_leave_confirm">You are already in a clan. Leave your current clan and accept this invite?</string>
-    <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
+    <string name="clan_promoted">تمت ترقيته إلى %1$s.</string>
+    <string name="clan_demoted">تم تنزيل رتبته إلى %1$s.</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
     <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
     <string name="clan_ban_confirm_title">Ban Member</string>
@@ -482,30 +495,30 @@
     <string name="clan_transfer_ownership_title">Transfer Ownership</string>
     <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID does not match</string>
-    <string name="clan_customize_name_color">Clan Name Color</string>
+    <string name="clan_customize_name_color">لون اسم العشيرة</string>
     <string name="clan_customize_tag_color">Clan Tag Color</string>
-    <string name="clan_customize_color">Clan Color</string>
+    <string name="clan_customize_color">لون العشيرة</string>
     <string name="clan_unlock_name_color">Unlock Clan Name Colors</string>
-    <string name="clan_unlock_color">Unlock Clan Colors</string>
+    <string name="clan_unlock_color">فتح ألوان العشيرة</string>
     <string name="clan_unlock_gradient">Unlock Clan Gradient Colors</string>
     <string name="clan_unlock_triple_gradient">Unlock Clan Gradient Colors 2</string>
     <string name="clan_unlock_name_font">Unlock Clan Name Fonts</string>
     <string name="clan_unlock_description_color">Unlock Clan Description Color</string>
     <string name="clan_unlock_name_gradient">Unlock Clan Name Gradient</string>
-    <string name="clan_color_saved">Clan colors saved!</string>
-    <string name="clan_color_save_failed">Failed to save clan colors</string>
+    <string name="clan_color_saved">تم حفظ ألوان العشيرة!</string>
+    <string name="clan_color_save_failed">فشل حفظ ألوان العشيرة</string>
     <string name="clan_name_color_saved">Clan name colors saved!</string>
     <string name="clan_name_color_save_failed">Failed to save clan name colors</string>
-    <string name="clan_name_font">Clan Name Font</string>
+    <string name="clan_name_font">خط اسم العشيرة</string>
     <string name="clan_name_font_saved">Clan font saved!</string>
     <string name="clan_name_font_save_failed">Failed to save clan font</string>
-    <string name="clan_description_saved">Clan description saved</string>
-    <string name="clan_description_save">Save Clan Description</string>
-    <string name="clan_description_save_failed">Failed to save clan description</string>
-    <string name="clan_feature_not_unlocked">Feature not unlocked</string>
-    <string name="clan_history_event_purchase_name_color">Purchased Clan Name Colors</string>
+    <string name="clan_description_saved">تم حفظ وصف العشيرة</string>
+    <string name="clan_description_save">حفظ وصف العشيرة</string>
+    <string name="clan_description_save_failed">فشل حفظ وصف العشيرة</string>
+    <string name="clan_feature_not_unlocked">الميزة غير مفتوحة بعد</string>
+    <string name="clan_history_event_purchase_name_color">تم شراء الوان اسم العشيرة</string>
     <string name="clan_history_event_purchase_name_gradient">Purchased Clan Name Gradient</string>
-    <string name="clan_history_event_purchase_name_font">Purchased Clan Name Font</string>
+    <string name="clan_history_event_purchase_name_font">تم شراء خط اسم العشيرة</string>
     <string name="clan_history_event_purchase_color">Purchased Clan Color</string>
     <string name="clan_history_event_purchase_gradient">Purchased Clan Gradient</string>
     <string name="clan_history_event_purchase_triple_gradient">Purchased Clan Triple Gradient</string>
@@ -813,6 +826,13 @@
     <string name="ban_confirm_message">هل انت متأكد من رغبتك في حظر %s من هذه الغرفة؟ لن يتمكنوا من الانضمام إليها مجدداً، ولا يمكن التراجع عن هذا الحظر!</string>
 
     <!-- Custom Images -->
+    <string name="custom_images">صور مخصصة</string>
+    <string name="profile_avatar">الصورة الشخصية للملف</string>
+    <string name="custom_image_rules">المحتوى الممنوع منعاً باتاً:\n\n- محتوى إباحي / جنسي\n- العنف الشديد / الدماء\n- الأسلحة\n- رموز الكراهية\n- خطاب الكراهية / التمييز\n- المخدرات\n- المحتوى الصادم أو المقزز\n- الشخصيات أو الشعارات المحمية بحقوق الطبع والنشر\n- الإشارات إلى الكحول أو التبغ\n- الصور المرعبة أو المخيفة وت</string>
+    <string name="custom_image_upload">Upload</string>
+    <string name="custom_image_replace">Replace</string>
+    <string name="custom_image_deselect">Deselect</string>
+    <string name="custom_image_confirm_title">Upload Image</string>
     <string name="custom_images">صورة مخصصة</string>
     <string name="profile_avatar">Profile Avatar</string>
     <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
@@ -846,15 +866,15 @@
     <string name="report_avatar_failed">Failed to report avatar</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Account Recovery</string>
+    <string name="account_recovery">إستعادة الحساب</string>
     <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
-    <string name="recovery_continue">Continue</string>
+    <string name="recovery_continue">متابعة</string>
     <string name="recovery_enter_account_id">Enter your account ID</string>
     <string name="recovery_account_id_placeholder">Account ID</string>
     <string name="recovery_load_preview">Load account</string>
-    <string name="recovery_new_email_label">New email address</string>
+    <string name="recovery_new_email_label">عنوان البريد الإلكتروني الجديد</string>
     <string name="recovery_new_email_placeholder">new@example.com</string>
-    <string name="recovery_change_mail">Change mail</string>
+    <string name="recovery_change_mail">تغيير البريد</string>
     <string name="recovery_confirm_title">Change account email?</string>
     <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
     <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
@@ -875,9 +895,9 @@
     <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت. تحقق من إعدادات الشبكة في جهازك.</string>
+    <string name="server_not_running">السيرفر لا يعمل حالياً</string>
+    <string name="name_change_reconnect_notice">لتفعيل تغيير الاسم، سيتم إعادة اتصالك بالسيرفر.</string>
     <string name="play">العب</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -888,10 +908,10 @@
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">إعادة الظهور</string>
     <string name="wait">انتظر</string>
-    <string name="exit">Exit</string>
+    <string name="exit">خروج</string>
     <string name="back">الرجوع</string>
     <string name="mode">الطور</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">تأكيد</string>
     <string name="save">حفظ</string>
     <string name="saved">تم الحفظ</string>
     <string name="saving">جاري الحفظ…</string>
@@ -985,6 +1005,9 @@
     <string name="unknown_error_code">رمز خطأ غير معروف %d</string>
     <string name="page_x_of_y">الصفحة %s من %s</string>
     <string name="timeout">انتهت مهلة الجلسة بعد %dms</string>
+    <string name="success">نجاح</string>
+    <string name="duplicate_action">Duplicate Action</string>
+    <string name="invalid_action">Invalid Action</string>
     <string name="success">Success</string>
     <string name="duplicate_action">إجراء مكرر</string>
     <string name="invalid_action">غير صالح</string>
