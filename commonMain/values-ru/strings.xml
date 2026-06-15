@@ -3,8 +3,8 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">Одиночный режим</string>
-    <string name="lan_multiplayer">Сетевая игра LAN</string>
-    <string name="online_multiplayer">Онлайн игра</string>
+    <string name="lan_multiplayer">Мультиплеер по LAN</string>
+    <string name="online_multiplayer">Онлайн-мультиплеер</string>
     <string name="options">Настройки</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -49,7 +49,7 @@
     <string name="language_turkish">Türkçe | Турецкий</string>
     <string name="language_vietnamese">Tiếng Việt | Вьетнамский</string>
     <string name="language_ukrainian">Українська | Ukrainian</string>
-    <string name="background">Фоновое изображение</string>
+    <string name="background">Фон</string>
     <string name="background_black">Чёрный</string>
     <string name="background_white">Белый</string>
     <string name="controls">Управление</string>
@@ -79,7 +79,7 @@
     <string name="name_position_center">По центру</string>
     <string name="name_position_below">Снизу</string>
     <string name="name_scale">Размер имени</string>
-    <string name="timer_format">Отображение таймера</string>
+    <string name="timer_format">Формат таймера</string>
     <string name="timer_format_normal">Стандартный</string>
     <string name="timer_format_arcade">Аркада</string>
     <string name="timer_format_ticks">Тики</string>
@@ -160,7 +160,7 @@
     <string name="competitive_menu">СОРЕВНОВАТЕЛЬНЫЙ РЕЖИМ</string>
     <string name="competitive_history">История соревнований</string>
     <string name="rating_label">Рейтинг</string>
-    <string name="unrated">Рейтинг отсутствует</string>
+    <string name="unrated">Без рейтинга</string>
     <string name="find_opponent">НАЙТИ СОПЕРНИКА</string>
     <string name="leave_matchmaking">ПОКИНУТЬ ПОИСК ИГРЫ</string>
     <string name="searching_ellipsis">Поиск…</string>
@@ -205,7 +205,7 @@
     <string name="code_already_claimed">Код уже активирован!</string>
     <string name="successfully_claimed_code">Награда успешно получена</string>
     <string name="reward_voidstones">Пустотные камни: +%s</string>
-    <string name="reward_unlock">Открыто: %s</string>
+    <string name="reward_unlock">Разблокировано: %s</string>
     <string name="reward_name_color">Цвет имени</string>
     <string name="reward_name_color_gradient">Градиент цвета имени</string>
     <string name="reward_name_triple_gradient">Тройной градиент имени</string>
@@ -219,7 +219,7 @@
     <string name="history">История</string>
     <string name="voidstone_history">История войдстоунов</string>
     <string name="purchase_history">История покупок</string>
-    <string name="no_transactions_yet">Операций пока нет</string>
+    <string name="no_transactions_yet">Транзакций пока нет</string>
     <string name="admin_reward">Награда от администратора</string>
     <string name="in_app_purchase">Внутриигровая покупка</string>
     <string name="voidstone_gift_received">Получен подарок войдстоунов</string>
