@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">الطلبات المرسلة</string>
     <string name="no_friends">ليس لديك أصدقاء بعد…</string>
     <string name="remove_friend_title">ازالة صديق</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">هل انت متأكد من ازالة "%1$s" (ID: %2$d) كصديق؟</string>
     <string name="cancel_request_title">الغاء الطلب</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">هل انت متأكد من الغاء طلب الصداقة"%1$s" (ID: %2$d)؟</string>
     <string name="friend_request_error_self">لا يمكنك إرسال طلب صداقة الى نفسك</string>
     <string name="friend_request_error_already_sent">تم ارسال طلب الصداقة بالفعل</string>
     <string name="friend_request_error_already_friends">اصدقاء بالفعل</string>
@@ -253,7 +253,7 @@
 
     <!-- Season Pass -->
      <string name="season_pass">تذكرة الموسم</string>
-     <string name="season_pass_season_number">Season %s</string>
+     <string name="season_pass_season_number">الموسم %s</string>
      <string name="january">يناير</string>
      <string name="february">فبراير</string>
      <string name="march">مارس</string>
@@ -267,7 +267,7 @@
      <string name="november">نوفمبر</string>
      <string name="december">ديسمبر</string>
      <string name="season_bag_title">حقيبة العملات</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_entry">الموسم %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">الحالي</string>
      <string name="season_bag_last">الأخير</string>
 
@@ -282,9 +282,9 @@
     <string name="change_name">تغيير الاسم</string>
     <string name="copy_id">نسخ الهوية</string>
     <string name="share_id">مشاركة المعرف</string>
-    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
-    <string name="created">Created %s</string>
-    <string name="last_seen">Last seen %s</string>
+    <string name="share_id_message">قم باضافتي في ميرج! الهوية الخاصة بي %1$s</string>
+    <string name="created">انشاء %s</string>
+    <string name="last_seen">اخر ظهور %s</string>
     <string name="save_profile_description">حفظ وصف الملف الشخصي</string>
     <string name="profile_description_placeholder">اكتب وصفا…</string>
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
@@ -377,16 +377,16 @@
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">إرسال الفويدستون</string>
-    <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_to">ارسال فويدستون الى %1$s الهوية: %2$d</string>
+    <string name="send_voidstones_confirm">ارسال %1$s فويدستون الى %2$s (ID: %3$d)?</string>
     <string name="send_voidstones_self">لا يمكنك إرسال الفويدستون إلى نفسك</string>
-    <string name="voidstone_gift_from">Voidstone Gift from %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Voidstone Gift to %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Voidstone Gift from:</string>
-    <string name="voidstone_gift_to_label">Voidstone Gift to:</string>
-    <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">includes %d%% fee</string>
-    <string name="transaction_fee_amount">-%s fee</string>
+    <string name="voidstone_gift_from">هدية فويدستون من %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_to">هدية فويدستون الى %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">هدية فويدستون من:</string>
+    <string name="voidstone_gift_to_label">هدية فويدستون الى:</string>
+    <string name="voidstone_gift_player">%1$s (هوية: %2$d)</string>
+    <string name="transaction_fee">يشمل %d%% ضريبة</string>
+    <string name="transaction_fee_amount">-%s ضريبة</string>
 
     <!-- Search Profile -->
     <string name="search_account">البحث عن حساب</string>
@@ -396,9 +396,9 @@
     <!-- Clan -->
     <string name="clan_create">إنشاء عشيرة</string>
     <string name="clan_name">اسم العشيرة</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_name_hint">ادخل اسم العشيرة (الحد الاقصى 14 حرف)</string>
     <string name="clan_tag">وسم العشيرة</string>
-    <string name="clan_tag_hint">Tag (1-4 letters)</string>
+    <string name="clan_tag_hint">الشعار (4-1 احرف)</string>
     <string name="clan_list">العشائر العامة</string>
     <string name="clan_no_clans">لم يتم العثور على عشائر</string>
     <string name="no_clan">لا يوجد عشيرة</string>
@@ -408,7 +408,7 @@
     <string name="clan_joined">تم الانضمام إلى العشيرة!</string>
     <string name="clan_private">هذه العشيرة خاصة أو لم تعد نشطة.</string>
     <string name="clan_members">الأعضاء</string>
-    <string name="clan_members_count">%1$d / %2$d members</string>
+    <string name="clan_members_count">%1$d / %2$d الاعضاء</string>
     <string name="clan_request_join">طلب الانضمام</string>
     <string name="clan_leave">الخروج من العشيرة</string>
     <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
@@ -427,25 +427,25 @@
     <string name="clan_pending_requests">طلبات الانضمام</string>
     <string name="clan_role_owner">المالك</string>
     <string name="clan_role_co_owner">مساعد القائد</string>
-    <string name="clan_role_admin">المسؤول</string>
-    <string name="clan_role_elder">Elder</string>
+    <string name="clan_role_admin">مشرف</string>
+    <string name="clan_role_elder">مساعد مشرف</string>
     <string name="clan_role_member">عضو</string>
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
-    <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_promoted">تمت ترقيته إلى %1$s.</string>
+    <string name="clan_demoted">تم تخفيض رتبته إلى %1$s.</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_kick_confirm_message">طرد \"%1$s\" (هوية: %2$d) من العشيرة؟ يمكنه اعادة الدخول باستخدام الدعوة</string>
     <string name="clan_ban_confirm_title">حظر العضو</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_ban_confirm_message">حضر \"%1$s\" (الهوية: %2$d) من العشيرة؟ لا يمكنه الدخول مرة اخرى</string>
     <string name="clan_unban_confirm_title">إلغاء حظر العضو</string>
-    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
+    <string name="clan_unban_confirm_message">الغاء حضر \"%1$s\" (ID: %2$d)? سيمكنه الدخول مرة اخرى</string>
     <string name="clan_unkick_confirm_title">إعادة العضو</string>
-    <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">قم بإزالة شرط طلب الانضمام لـ \"%1$s\" (الهوية: %2$d)?</string>
     <string name="clan_invited">تمت دعوته</string>
     <string name="clan_revoke_invite_confirm_title">إلغاء الدعوة</string>
-    <string name="clan_revoke_invite_confirm_message">Revoke invite for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">إلغاء دعوة لـ \"%1$s\" (الهوية: %2$d)?</string>
     <string name="clan_invite_sent">تم إرسال الدعوة</string>
     <string name="clan_player_not_found">اللاعب غير موجود.</string>
     <string name="clan_player_banned">هذا اللاعب محظور من عشيرتك.</string>
@@ -453,9 +453,9 @@
     <string name="clan_full">العشيرة ممتلئة</string>
     <string name="clan_join_button_full">العشيرة ممتلئة</string>
     <string name="clan_join_request_sent">تم إرسال الطلب</string>
-    <string name="clan_invite_list_full">This clan's invite list is full (max 100).</string>
-    <string name="clan_player_invite_list_full">This player already has the maximum number of pending invites.</string>
-    <string name="clan_request_list_full">This clan's join request list is full (max 100).</string>
+    <string name="clan_invite_list_full">قائمة المدعوين لهذه العشيرة ممتلئة (الحد الأقصى 100)</string>
+    <string name="clan_player_invite_list_full">هذا اللاعب لديه بالفعل الحد الأقصى لعدد الدعوات المعلقة</string>
+    <string name="clan_request_list_full">قائمة طلبات الانضمام لهذه العشيرة ممتلئة (الحد الأقصى 100)</string>
     <string name="clan_donate_voidstones">التبرع بالفويدستون</string>
     <string name="clan_donate_hint">100 – 100,000</string>
     <string name="clan_donate_sent">تم إرسال التبرع</string>
@@ -475,12 +475,12 @@
     <string name="clan_history_id">History ID: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
-    <string name="clan_unkick_confirm">Are you sure you want to unkick \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Are you sure you want to unban \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">هل انت متأكد من الغاء طرد \"%1$s\" (هوية: %2$d)؟</string>
+    <string name="clan_unban_confirm">هل انت متأكد من الغاء حضر \"%1$s\" (الهوية: %2$d)؟</string>
     <string name="clan_search_hint">البحث بالهوية أو الاسم</string>
     <string name="clan_promote_to_owner">ترقية إلى مالك</string>
     <string name="clan_transfer_ownership_title">نقل الملكية</string>
-    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
+    <string name="clan_transfer_ownership_message">أنت على وشك الترقية \"%1$s\" (هوية: %2$d) الى مالك. سيتم تخفيضك الى مساعد قائد. لا يمكن التراجع عن هذا.\n\nقم بكتابه هوية اللاعب للمتابعة:</string>
     <string name="clan_transfer_ownership_id_mismatch">رقم الهوية غير مطابق</string>
     <string name="clan_customize_name_color">لون اسم العشيرة</string>
     <string name="clan_customize_tag_color">لون وسم العشيرة</string>
@@ -598,10 +598,10 @@
     <string name="description_team_survival">نمط البقاء على قيد الحياة مع فرق! تعاون مع زملائك في الفريق للقضاء على الفرق الأخرى. الفريق الاخير المتبقي او الفريق الاكبر حجماً عند انتهاء الوقت هو الفائز!</string>
     <string name="description_knockout">تنافس في جولات الاقصاء! يمكن للاعبين العودة إلى اللعبة بحرية حتى يتم إقصاؤهم على فترات منتظمة. اللاعبون الأقل قوة في كل جولة يقصون نهائيا. كن آخر من يبقى على قيد الحياة لتفوز!</string>
     <string name="description_adventure">اكمل مراحل مليئة بالتحديات واهداف فريدة! تقدم عبر مستويات صعوبة متزايدة، واربح مكافات، واكتشف الى اي مدى يمكنك الوصول. كل مرحلة تقدم تحديات جديدة!</string>
-    <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
+    <string name="description_soccer">استولِ على الكرة وسددها في مرمى الخصم لتسجيل هدف. الفريق الذي يسجل أكبر عدد من الأهداف عند انتهاء الوقت يفوز!</string>
     <string name="description_coming_soon">هذا الوضع قادم قريباً، ترقبوا!</string>
-    <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
-    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
+    <string name="description_competitive">مباراة بقاء فردية مصنفة! اربح نقاطًا بالفوز على خصوم من نفس مستواك. مباراة مدتها 3 دقائق، مع دقيقتين إضافيتين في حال عدم موت أي من اللاعبين. اربح لتتصدر قائمة المتصدرين العالمية، واخسر لتتراجع، ولكن...</string>
+    <string name="description_multimerg">تُنشئ كتلتين هلاميتين وتُبدّل التحكم بينهما باستخدام زر الين واليانغ! تستجيب الكتلة النشطة فقط لعصا التحكم، فتنقسم وتُطلق النار. أما الأخرى فتستمر في التحرك في اتجاهها الأخير. قد تلتهم الكتلتان بعضهما البعض إذا انقسمتا، لكن الجزء الأخير يبقى محميًا.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">صغير جداً</string>
@@ -685,7 +685,7 @@
     <string name="report_message">الإبلاغ عن الرسالة</string>
     <string name="chat_paused">تم إيقاف المحادثة مؤقتاً</string>
     <string name="reply">رد</string>
-    <string name="replying_to">Replying to %s</string>
+    <string name="replying_to">ردًا على %s</string>
 
     <!-- Notification box !-->
     <string name="level_up">ارتفع المستوى! %d</string>
@@ -728,7 +728,7 @@
     <string name="session_stat_size_gained">الحجم الذي تم أكله</string>
     <string name="highest_rank">أعلى رتبة</string>
     <string name="session_stat_highest_size">أعلى حجم</string>
-    <string name="spectate_ball">Ball</string>
+    <string name="spectate_ball">الكرة</string>
     <string name="leaderboard">لوحة الصدارة</string>
     <string name="session_stats">إحصائيات الجلسة</string>
     <string name="debug">تصحيح الأخطاء</string>
@@ -763,7 +763,7 @@
     <string name="dialog_notice">إشعار</string>
     <string name="dialog_warning">تحذير</string>
     <string name="dialog_alert">إنذار</string>
-    <string name="dialog_dont_show_again">Don't show again</string>
+    <string name="dialog_dont_show_again">ﻻ تقم باظهارها مرة اخرى</string>
     <string name="dialog_dismiss">إغلاق</string>
     <string name="dialog_previous">السابق</string>
     <string name="dialog_next">التالي</string>
@@ -772,7 +772,7 @@
     <string name="permission_denied">تم رفض الاذن</string>
     <string name="dialog_locked">مقفول</string>
     <string name="duplicate_connection">الحساب مرتبط بالفعل</string>
-    <string name="outdated_client">Outdated Client!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
+    <string name="outdated_client">عميل قديم!\n عميل: %1$s (%2$d)\الخادم: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">اللاعبون المحظورون</string>
@@ -806,7 +806,7 @@
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">STAFF LIST</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">اللاعبين: %d ⋅ البوتات: %d ⋅ المشاهدين: %d ⋅ المجموع: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
     <string name="ban_confirm_title">حظر اللاعب من الغرفة</string>
@@ -815,39 +815,39 @@
     <!-- Custom Images -->
     <string name="custom_images">صورة مخصصة</string>
     <string name="profile_avatar">صورة الملف الشخصي</string>
-    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_image_rules">المحتوى المحظور صراحةً:\n\n- محتوى جنسي غير مناسب للعمل\n- عنف شديد / مشاهد دموية\n- اسلحة\n- رموز الكراهية\n- خطاب الكراهية / التمييز\n- المخدرات\n- محتوى صادم/مثير للاشمئزاز\n- الشخصيات/الشعارات المحمية بحقوق الطبع والنشر\n- إشارات إلى الكحول/التبغ\n- صور مرعبة/مخيفة</string>
     <string name="custom_image_upload">تحميل</string>
     <string name="custom_image_replace">استبدال</string>
     <string name="custom_image_deselect">إلغاء التحديد</string>
     <string name="custom_image_confirm_title">رفع صورة</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
+    <string name="custom_image_confirm_body">تحميل هذه الصورة مقابل %1$s فويدستون؟</string>
     <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">تم اختيار الصورة الشخصية</string>
     <string name="custom_image_deselected">تم إلغاء اختيار الصورة الشخصية</string>
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_bought">Custom Image Upload</string>
-    <string name="custom_image_refund">Custom Image Refund</string>
-    <string name="custom_image_slot">Image %1$d</string>
+    <string name="custom_image_error_size">صورتك %1$dKB كبيرة جدا (الحد الاقصى %2$dKB)</string>
+    <string name="custom_image_error_dimensions">صورتك %1$dx%2$d كبيرة جدا (الحد الاقصى %3$dx%4$d بكسل)</string>
+    <string name="custom_image_error_both">صورتك %1$dKB / %3$dx%4$d كبيرة جدا (الحد الاقصى %2$dKB / %5$dx%6$d بكسل)</string>
+    <string name="custom_image_compress_title">الصورة كبيرة جدًا - هل تريد ضغطها؟</string>
+    <string name="custom_image_compress_accept">استعمال الضغط</string>
+    <string name="custom_image_compress_failed">تعذر ضغط الصورة لتناسب الحد الأقصى للحجم</string>
+    <string name="custom_image_bought">تحميل صورة مخصصة</string>
+    <string name="custom_image_refund">استرداد رسوم الصور المخصصة</string>
+    <string name="custom_image_slot">الصورة %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
-    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
-    <string name="report_avatar">Report Avatar</string>
-    <string name="report_avatar_message">Report the avatar of %1$s?</string>
+    <string name="custom_image_skin_load_failed">فشل تحميل الصورة الخاصة بك: %1$s</string>
+    <string name="custom_image_no_approved_image">لا توجد صورة معتمدة في الفتحة %1$d</string>
+    <string name="report_avatar">تقرير الصورة الرمزية</string>
+    <string name="report_avatar_message">أبلغ عن الصورة الرمزية لـ %1$s؟</string>
     <string name="report_avatar_success">تم الإبلاغ عن الصورة الشخصية</string>
     <string name="report_avatar_failed">فشل الإبلاغ عن الصورة الشخصية</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">استعادة الحساب</string>
-    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
+    <string name="recovery_info">يلزم استخدام نفس شبكة الواي فاي والجهاز، وإلا فقد تفشل عملية الاستعادة.</string>
     <string name="recovery_continue">متابعة</string>
     <string name="recovery_enter_account_id">أدخل رقم حسابك</string>
     <string name="recovery_account_id_placeholder">رقم الحساب</string>
@@ -856,32 +856,32 @@
     <string name="recovery_new_email_placeholder">new@example.com</string>
     <string name="recovery_change_mail">تغيير البريد الإلكتروني</string>
     <string name="recovery_confirm_title">تغيير بريد الحساب الإلكتروني؟</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
+    <string name="recovery_confirm_body">أنت على وشك تغيير البريد الإلكتروني لهذا الحساب إلى %1$s. ستسجل الدخول باستخدام حساب جوجل المطابق بعد ذلك. لا يمكن التراجع عن هذه العملية.</string>
+    <string name="recovery_success_body">تم تغيير البريد الإلكتروني للحساب إلى %1$s. يرجى تسجيل الدخول الآن باستخدام حساب جوجل الجديد الخاص بك.</string>
     <string name="recovery_error_invalid_id">يرجى إدخال رقم هوية حساب صحيح.</string>
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
     <string name="recovery_error_network">خطأ في الشبكة. يرجى التحقق من الاتصال والمحاولة مرة أخرى.</string>
-    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
-    <string name="recovery_error_email_taken">This email is already used by another account. Delete that account or use a different email.</string>
-    <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
-    <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
-    <string name="recovery_error_cooldown">This account was recently recovered. Please wait 24 hours before trying again.</string>
-    <string name="recovery_error_banned">This account is banned and cannot be recovered.</string>
-    <string name="recovery_error_not_found">No account found with that ID.</string>
-    <string name="recovery_error_rate_limited">Too many attempts. Please wait and try again later.</string>
-    <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
-    <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
-    <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
+    <string name="recovery_error_fingerprint_mismatch">هذا الجهاز والشبكة لا يتطابقان مع هذا الحساب. يتطلب الاسترداد استخدام نفس الهاتف على شبكة Wi-Fi التي استخدمتها مع هذا الحساب سابقًا.</string>
+    <string name="recovery_error_email_taken">هذا البريد الإلكتروني مستخدم بالفعل من قبل حساب آخر. احذف ذلك الحساب أو استخدم بريدًا إلكترونيًا مختلفًا.</string>
+    <string name="recovery_error_google_taken">هذا الحساب على جوجل مرتبط بالفعل بحساب آخر.</string>
+    <string name="recovery_error_email_mismatch">البريد الإلكتروني الذي أدخلته لا يتطابق مع حساب جوجل الذي سجلت الدخول به.</string>
+    <string name="recovery_error_cooldown">تم استعادة هذا الحساب مؤخراً. يرجى الانتظار 24 ساعة قبل المحاولة مرة أخرى.</string>
+    <string name="recovery_error_banned">تم حظر هذا الحساب ولا يمكن استعادته.</string>
+    <string name="recovery_error_not_found">لم يتم العثور على حساب بهذا المعرّف.</string>
+    <string name="recovery_error_rate_limited">عدد المحاولات كبير جدًا. يرجى الانتظار والمحاولة مرة أخرى لاحقًا.</string>
+    <string name="recovery_error_google_invalid">تعذر التحقق من حسابك على جوجل. يرجى المحاولة مرة أخرى.</string>
+    <string name="recovery_error_google_cancelled">تم إلغاء تسجيل الدخول إلى حساب جوجل أو فشله.</string>
+    <string name="recovery_error_internal">حدث خطأ ما من جانبنا. يرجى المحاولة مرة أخرى لاحقاً.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت. تحقق من إعدادات الشبكة على جهازك.</string>
+    <string name="server_not_running">الخادم لا يعمل</string>
+    <string name="name_change_reconnect_notice">لكي يسري تغيير الاسم، سيتم إعادة توصيلك بالخادم.</string>
     <string name="play">العب</string>
-    <string name="id">ID:</string>
-    <string name="sort_id_desc">ID ↓</string>
-    <string name="sort_id_asc">ID ↑</string>
+    <string name="id">الهوية:</string>
+    <string name="sort_id_desc">هوية ↓</string>
+    <string name="sort_id_asc">هوية ↑</string>
     <string name="sort_xp_desc">XP ↓</string>
     <string name="sort_xp_asc">XP ↑</string>
     <string name="arrow_expanded">▼</string>
