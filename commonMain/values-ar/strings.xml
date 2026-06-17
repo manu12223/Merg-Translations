@@ -4,8 +4,8 @@
     <!-- Main menu !-->
     <string name="singleplayer">لعب فردي</string>
     <string name="lan_multiplayer">الشبكة المحلية</string>
-    <string name="online_multiplayer">اللعب اونلاين</string>
-    <string name="options">الإعدادات</string>
+    <string name="online_multiplayer">اللعب الفردي</string>
+    <string name="options">الأعدادات</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
@@ -16,34 +16,34 @@
     <string name="code_contribution">مساهمات الكود:</string>
     <string name="skins">الجلود:</string>
     <string name="graphics_icons">الرسوم/الايقونات:</string>
-    <string name="translations">المترجمون:</string>
+    <string name="translations">المترجمين:</string>
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
     <string name="language_arabic">العربية</string>
     <string name="language_bengali">বাংলা | البنغالية</string>
-    <string name="language_chinese">简体中文 | الصينية (المبسطة)</string>
-    <string name="language_chinese_traditional">繁體中文 | الصينية (التقليدية)</string>
+    <string name="language_chinese">简体中文 | الصينية(المبسطة)</string>
+    <string name="language_chinese_traditional">繁體中文 | الصينية(التقليدية)</string>
     <string name="language_czech">Čeština | التشيكية</string>
     <string name="language_danish">Dansk | الدنماركية</string>
     <string name="language_dutch">Nederlands | الهولندية</string>
-    <string name="language_english">English | الإنجليزية</string>
-    <string name="language_filipino">Filipino | التاغالوغية</string>
+    <string name="language_english">English | الانجليزية</string>
+    <string name="language_filipino">Filipino | الفلبينية</string>
     <string name="language_finnish">Suomi | الفنلندية</string>
     <string name="language_french">Français | الفرنسية</string>
     <string name="language_german">Deutsch | الألمانية</string>
     <string name="language_greek">Ελληνικά | اليونانية</string>
     <string name="language_hindi">हिन्दी | الهندية</string>
-    <string name="language_indonesian">Bahasa Indonesia | الإندونيسية</string>
-    <string name="language_italian">Italiano | الإيطالية</string>
+    <string name="language_indonesian">Bahasa Indonesia | الأندونيسية</string>
+    <string name="language_italian">Italiano | الأيطالية</string>
     <string name="language_japanese">日本語 | اليابانية</string>
     <string name="language_korean">한국어 | الكورية</string>
     <string name="language_polish">Polski | البولندية</string>
     <string name="language_portuguese">Português (Brasil) | البرتغالية (البرازيل)</string>
-    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتفال)</string>
+    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتغال)</string>
     <string name="language_romanian">Română | الرومانية</string>
     <string name="language_russian">Русский | الروسية</string>
-    <string name="language_spanish">Español | الإسبانية</string>
+    <string name="language_spanish">Español | الأسبانية</string>
     <string name="language_swedish">Svenska | السويدية</string>
     <string name="language_thai">ไทย | التايلاندية</string>
     <string name="language_turkish">Türkçe | التركية</string>
