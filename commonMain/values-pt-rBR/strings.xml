@@ -11,9 +11,9 @@
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Copiar E-mail</string>
-    <string name="email_support">E-mail para Suporte:</string>
+    <string name="email_support">E-mail de Contato:</string>
     <string name="developer">Desenvolvedores:</string>
-    <string name="code_contribution">Contribuidores do código:</string>
+    <string name="code_contribution">Contribuidores do Código:</string>
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Ícones:</string>
     <string name="translations">Traduções:</string>
@@ -1001,5 +1001,5 @@
     <string name="after">Agora</string>
     <string name="clan_id">ID do Clã:</string>
     <string name="editing_message">Editando mensagem</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">Foram detectadas configurações inválidas de exibição. Isso poderá causar problemas com os controles do jogo e o multi-toque. Este problema é conhecido em dispositivos com One UI (Samsung). Para tentar solucionar este problema, reproduza estes passos com cautela:\n\n1. Abra o Game Booster Plus → Desempenho do Jogo → defina para \"Desempenho\" ou 100%\n2. Remova o app da biblioteca da Game Launcher\n3. Diminua a resolução da tela se o seu dispositivo suportar este recurso (1440p → 1080p)\n4. Reinicie o dispositivo\n\nSe o problema persistir ou se você não estiver usando um dispositivo com One UI (Samsung), relate o bug para o nosso Servidor do Discord ou e-mail de contato.</string>
 </resources>
