@@ -968,11 +968,11 @@
     <string name="unlock_skin">Desbloquear</string>
     <string name="database_write_fail">Falha no salvamento do banco de dados</string>
     <string name="database_read_fail">Falha no carregamento do banco de dados</string>
-    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_title">Termos de Uso &amp; Política de Privacidade/string>
+    <string name="tos_message">Ao continuar, você concorda com os nossos Termos de Uso e Política de Privacidade.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">Concordar</string>
+    <string name="decline">Não concordar</string>
     <string name="banned">Banido(a)</string>
     <string name="muted">Silenciado(a)</string>
     <string name="banned_until">Banido(a) até %s</string>
