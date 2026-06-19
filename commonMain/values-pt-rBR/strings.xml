@@ -196,7 +196,7 @@
     <string name="ticket">Ticket</string>
     <string name="free_voidstones">Voidstones Grátis!</string>
     <string name="free_voidstones_subtitle">Escolha um quadradinho e assista a um anúncio para obter Voidstones!</string>
-    <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
+    <string name="free_voidstones_won">Vocé ganhou %d Voidstones!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Escolher</string>
@@ -252,7 +252,7 @@
     <string name="ad_reward">Recompensa por anúncios</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Passe de Temporada</string>
+     <string name="season_pass">Passe da Temporada</string>
      <string name="season_pass_season_number">Temporada %s</string>
      <string name="january">Janeiro</string>
      <string name="february">Fevereiro</string>
@@ -273,7 +273,7 @@
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
-    <string name="not_logged_in">Não conectado(a)!</string>
+    <string name="not_logged_in">Não Conectado(a)!</string>
     <string name="login">Fazer login</string>
     <string name="login_google">Entrar com Google</string>
     <string name="login_apple">Entrar com Apple</string>
@@ -297,7 +297,7 @@
     <string name="unlock_description_color_already_unlocked">Cores para o texto da biografia já desbloqueadas</string>
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
-    <string name="delete_account">EXCLUIR CONTA</string>
+    <string name="delete_account">DELETAR CONTA</string>
     <string name="change_profile_name">Alterar Nome</string>
     <string name="enter_profile_name">Insira um Nome</string>
     <string name="profile_color">COR DO PERFIL</string>
@@ -412,7 +412,7 @@
     <string name="clan_request_join">Solicitação de Entrada</string>
     <string name="clan_leave">Sair do Clã</string>
     <string name="clan_leave_confirm">Tem certeza de que deseja sair deste clã?</string>
-    <string name="clan_owner_must_transfer">É necessário transferir a liderança a algum(a) membro antes de sair.</string>
+    <string name="clan_owner_must_transfer">É necessário transferir a liderança a algum membro antes de sair.</string>
     <string name="clan_request_sent">Solicitação de entrada enviada.</string>
     <string name="clan_disband">Desfazer Clã</string>
     <string name="clan_disband_confirm">Tem certeza de que deseja desfazer o clã? Esta ação é irreversível!</string>
@@ -430,7 +430,7 @@
     <string name="clan_role_admin">Admin</string>
     <string name="clan_role_elder">Ancião</string>
     <string name="clan_role_member">Membro</string>
-    <string name="clan_name_taken">Este nome do clã já está em uso.</string>
+    <string name="clan_name_taken">Este nome de clã já está em uso.</string>
     <string name="clan_already_member">Já está em um clã.</string>
     <string name="clan_accept_invite_leave_confirm">Já está em um clã. Deseja sair do clã atual e aceitar este convite?</string>
     <string name="clan_promoted">Promovido a %1$s.</string>
@@ -573,7 +573,7 @@
     <string name="mail_title_hint">Título</string>
     <string name="mail_content_hint">Texto</string>
     <string name="mail_recipient_not_found">Destinatário não encontrado(a)</string>
-    <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo.</string>
+    <string name="mail_send_to_self">Não é possível enviar mensagens para si mesmo(a).</string>
     <string name="mail_title_too_long">Conteúdo do título muito longo</string>
     <string name="mail_content_too_long">Conteúdo do texto muito longo</string>
     <string name="mail_sent_success">Enviado</string>
@@ -597,7 +597,7 @@
     <string name="description_survival">Uma vida, uma rodada! Consiga o maior tamanho que conseguir dentro do tempo de invencibilidade, depois disso a morte será permanente! Seja o último, ou maior, jogador restante para ganhar quando o tempo acabar!</string>
     <string name="description_team_survival">Sobrevivência em equipes! Jogue com a sua equipe para eliminar as equipes adversárias. A última equipe restante, ou maior, será a ganhadora!</string>
     <string name="description_knockout">Compita em rodadas eliminatórias! Os jogadores poderão renascer livremente até que sejam eliminados em intervalos regulares. Os jogadores menores serão eliminados permanentemente a cada intervalo. Seja o(a) último(a) jogador(a) restante para ganhar!</string>
-    <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar.</string>
+    <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar!</string>
     <string name="description_soccer">Chute a bola até o gol do time adversário. O time com o maior número de gols assim que o tempo acabar será o ganhador!</string>
     <string name="description_coming_soon">Esse modo de jogo chegará em breve, fique antenado(a)!</string>
     <string name="description_competitive">Sobrevivência classificatória 1v1! Obtenha classificação derrotando adversários com habilidades semelhantes. Uma partida de 3 minutos com um acréscimo de 2 minutos começará se ambos os jogadores sobreviverem. Cada vitória fará subir no ranking global, enquanto cada derrota fará cair, mas a variação da classificação dependerá na diferença de habilidade entre você e o(a) adversário(a).</string>
@@ -737,9 +737,9 @@
 
     <!-- Dialogs -->
     <string name="dialog_confirm">Confirmar</string>
-    <string name="dialog_confirm_account_deletion">EXCLUIR CONTA</string>
+    <string name="dialog_confirm_account_deletion">DELETAR CONTA</string>
     <string name="dialog_leave_game">Sair do Jogo?</string>
-    <string name="dialog_respawn_warning">Resetar? Todo o seu tamanho será perdido.</string>
+    <string name="dialog_respawn_warning">Renascer? Todo o seu tamanho será perdido.</string>
     <string name="dialog_change_language">Alterar idioma para %s? O aplicativo será recarregado.</string>
     <string name="dialog_connection_error">Erro de Conexão</string>
     <string name="dialog_disconnected">Desconectado</string>
@@ -856,7 +856,7 @@
     <string name="recovery_new_email_placeholder">novo@exemplo.com</string>
     <string name="recovery_change_mail">Alterar e-mail</string>
     <string name="recovery_confirm_title">Alterar o e-mail da conta?</string>
-    <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Essa ação é irreversível.</string>
+    <string name="recovery_confirm_body">Você está prestes a alterar o e-mail nesta conta para %1$s. Após isso, será possível entrar com a conta do Google correspondente. Esta ação é irreversível.</string>
     <string name="recovery_success_body">O endereço de e-mail da conta foi alterado para %1$s. Já é possível entrar com a sua nova conta do Google.</string>
     <string name="recovery_error_invalid_id">Insira um ID de conta válido.</string>
     <string name="recovery_error_invalid_email">Insira um endereço de e-mail válido.</string>
