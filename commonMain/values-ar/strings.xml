@@ -396,9 +396,9 @@
     <!-- Clan -->
     <string name="clan_create">إنشاء عشيرة</string>
     <string name="clan_name">اسم العشيرة</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_name_hint">تلميح لأسم العشيرة</string>
     <string name="clan_tag">وسم العشيرة</string>
-    <string name="clan_tag_hint">Tag (1-4 letters)</string>
+    <string name="clan_tag_hint">تلميح لعلامة العشيرة</string>
     <string name="clan_list">العشائر العامة</string>
     <string name="clan_no_clans">لم يتم العثور على عشائر</string>
     <string name="no_clan">لا يوجد عشيرة</string>
@@ -408,7 +408,7 @@
     <string name="clan_joined">تم الانضمام إلى العشيرة!</string>
     <string name="clan_private">هذه العشيرة خاصة أو لم تعد نشطة.</string>
     <string name="clan_members">الأعضاء</string>
-    <string name="clan_members_count">%1$d / %2$d members</string>
+    <string name="clan_members_count">عدد أعضاء العشيرة/string>
     <string name="clan_request_join">طلب الانضمام</string>
     <string name="clan_leave">الخروج من العشيرة</string>
     <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
@@ -433,14 +433,14 @@
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
-    <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_promoted">تمت ترقية العشيرة</string>
+    <string name="clan_demoted">تم تخفيض رتبة العشيرة</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_kick_confirm_message">رسالة تأكيد طرد العشيرة</string>
     <string name="clan_ban_confirm_title">حظر العضو</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_ban_confirm_message">رسالة تأكيد الحظر من العشيرة</string>
     <string name="clan_unban_confirm_title">إلغاء حظر العضو</string>
-    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
+    <string name="clan_unban_confirm_message">رسالة تأكيد فتح حظر العشيرة</string>
     <string name="clan_unkick_confirm_title">إعادة العضو</string>
     <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_invited">تمت دعوته</string>
@@ -472,7 +472,7 @@
     <string name="clan_history_event_promote">تم ترفيعه</string>
     <string name="clan_history_event_demote">تم تنزيل الرتبة</string>
     <string name="clan_history_event_donation">تبرع</string>
-    <string name="clan_history_id">History ID: %d</string>
+    <string name="clan_history_id">هوية تاريخ العشيرة</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
@@ -553,7 +553,7 @@
     <string name="stat_stages_cleared">تم الإنتهاء من المراحل:</string>
     <string name="stat_highest_stage">اعلى مرحلة:</string>
     <string name="stat_adventures_completed">المغامرات مكتملة:</string>
-    <string name="stat_goals_scored">Goals Scored:</string>
+    <string name="stat_goals_scored">الأهداف المسجلة:</string>
     <string name="stat_collisions">التصادمات:</string>
     <string name="stat_boosts">التعزيزات:</string>
     <string name="stat_teleports">الإنتقالات:</string>
@@ -685,7 +685,7 @@
     <string name="report_message">الإبلاغ عن الرسالة</string>
     <string name="chat_paused">تم إيقاف المحادثة مؤقتاً</string>
     <string name="reply">رد</string>
-    <string name="replying_to">Replying to %s</string>
+    <string name="replying_to">الرد على</string>
 
     <!-- Notification box !-->
     <string name="level_up">ارتفع المستوى! %d</string>
@@ -699,17 +699,17 @@
     <string name="afk_disconnect">فصل بسبب عدم النشاط</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%dst</string>
-    <string name="ordinal_second">%dnd</string>
-    <string name="ordinal_third">%drd</string>
-    <string name="ordinal_fourth">%dth</string>
-    <string name="ordinal_fifth">%dth</string>
-    <string name="ordinal_sixth">%dth</string>
-    <string name="ordinal_seventh">%dth</string>
-    <string name="ordinal_eighth">%dth</string>
-    <string name="ordinal_ninth">%dth</string>
-    <string name="ordinal_zeroth">%dth</string>
-    <string name="ordinal_fallback">%dth</string>
+    <string name="ordinal_first">الترتيب الأول</string>
+    <string name="ordinal_second">الترتيب الثاني</string>
+    <string name="ordinal_third">الترتيب الثالث</string>
+    <string name="ordinal_fourth">الترتيب الرابع</string>
+    <string name="ordinal_fifth">الترتيب الخامس</string>
+    <string name="ordinal_sixth">الترتيب السادس</string>
+    <string name="ordinal_seventh">الترتيب السابع</string>
+    <string name="ordinal_eighth">الترتيب الثامن</string>
+    <string name="ordinal_ninth">الترتيب التاسع</string>
+    <string name="ordinal_zeroth">الترتيب الصفري</string>
+    <string name="ordinal_fallback">التراجع الترتيبي</string>
 
     <!-- In Game UI !-->
     <string name="player_size">الحجم: %d</string>
@@ -719,9 +719,9 @@
     <string name="merge">التجمع: %ss</string>
     <string name="invincibility">المنعة: %ss</string>
     <string name="speed_boost">+السرعة: %ss</string>
-    <string name="xp">XP</string>
+    <string name="xp">الخبرة</string>
     <string name="level">المستوى</string>
-    <string name="level_number">Level %d</string>
+    <string name="level_number">مستوئ رقم</string>
     <string name="food">الطعام</string>
     <string name="voidstones">فويدستون</string>
     <string name="blobs_eaten">الدوائر المأكولة</string>
@@ -802,11 +802,11 @@
     <!-- Player List -->
     <string name="players">اللاعبين</string>
     <string name="spectators">المشاهدين</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="joined_room">تم الانضمام الى الغرفة</string>
     <string name="player_list_title">قائمة اللاعبين</string>
-    <string name="staff_list_title">STAFF LIST</string>
-    <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="staff_list_title">قائمة طاقم العمل</string>
+    <string name="player_list_count">عدد اللاعبين في القائمة</string>
+    <string name="player_list_count_with_spectators">قائمة اللاعبين والمشاهدين</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
     <string name="ban_confirm_title">حظر اللاعب من الغرفة</string>
@@ -815,27 +815,27 @@
     <!-- Custom Images -->
     <string name="custom_images">صورة مخصصة</string>
     <string name="profile_avatar">صورة الملف الشخصي</string>
-    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_image_rules">قواعد الصورة المخصصة</string>
     <string name="custom_image_upload">تحميل</string>
     <string name="custom_image_replace">استبدال</string>
     <string name="custom_image_deselect">إلغاء التحديد</string>
     <string name="custom_image_confirm_title">رفع صورة</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
+    <string name="custom_image_confirm_body">تأكيد نص الصورة المخصصه</string>
     <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">تم اختيار الصورة الشخصية</string>
     <string name="custom_image_deselected">تم إلغاء اختيار الصورة الشخصية</string>
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_image_error_size">حدث خطأ في حجم الصورة المخصصة</string>
+    <string name="custom_image_error_dimensions">أبعاد الصورة المخصصة</string>
     <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
+    <string name="custom_image_compress_title">عنوان ضغط الصورة المخصصة</string>
+    <string name="custom_image_compress_accept">قبول ضغط الصورة المخصصة</string>
+    <string name="custom_image_compress_failed">فشل ضغط الصورة المخصصة</string>
     <string name="custom_image_bought">رفع صورة مخصصة</string>
     <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
-    <string name="custom_image_slot">Image %1$d</string>
+    <string name="custom_image_slot">فتح الصورة المخصصة</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">فشل تحميل المظهر المخصص الخاص بك: %1$s</string>
@@ -847,45 +847,45 @@
 
     <!-- Account recovery -->
     <string name="account_recovery">استعادة الحساب</string>
-    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
+    <string name="recovery_info">معلومات الأسترداد</string>
     <string name="recovery_continue">متابعة</string>
     <string name="recovery_enter_account_id">أدخل رقم حسابك</string>
     <string name="recovery_account_id_placeholder">رقم الحساب</string>
     <string name="recovery_load_preview">تحميل الحساب</string>
     <string name="recovery_new_email_label">البريد الإلكتروني الجديد</string>
-    <string name="recovery_new_email_placeholder">new@example.com</string>
+    <string name="recovery_new_email_placeholder">إستعادة عنصر جديد إيميل</string>
     <string name="recovery_change_mail">تغيير البريد الإلكتروني</string>
     <string name="recovery_confirm_title">تغيير بريد الحساب الإلكتروني؟</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
+    <string name="recovery_confirm_body">تأكيد التعافي </string>
+    <string name="recovery_success_body">تهيئة نجاح الشفاء</string>
     <string name="recovery_error_invalid_id">يرجى إدخال رقم هوية حساب صحيح.</string>
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
     <string name="recovery_error_network">خطأ في الشبكة. يرجى التحقق من الاتصال والمحاولة مرة أخرى.</string>
-    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
+    <string name="recovery_error_fingerprint_mismatch">خطأ في الاسترداد عدم تطابق بصمة الأصبع</string>
     <string name="recovery_error_email_taken">هذا البريد الإلكتروني مستخدم بالفعل من قبل حساب آخر. احذف ذلك الحساب أو استخدم بريداً إلكترونياً مختلفاً.</string>
-    <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
+    <string name="recovery_error_google_taken">خطأ في الاسترداد قوقل </string>
     <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
     <string name="recovery_error_cooldown">تمت استعادة هذا الحساب مؤخراً. يرجى الانتظار 24 ساعة قبل المحاولة مرة أخرى.</string>
     <string name="recovery_error_banned">هذا الحساب محظور ولا يمكن استعادته.</string>
     <string name="recovery_error_not_found">لم يتم العثور على حساب بهذه الهوية.</string>
     <string name="recovery_error_rate_limited">عدد كبير جداً من المحاولات. يرجى الانتظار والمحاولة مرة أخرى لاحقاً.</string>
-    <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
-    <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
-    <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
+    <string name="recovery_error_google_invalid">حدث خطأ في الاسترداد قوقل غير صالح</string>
+    <string name="recovery_error_google_cancelled">تم إلغاء عملية الاستراد من قوقل</string>
+    <string name="recovery_error_internal">حدث خطأ في الاستراد</string>
 
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">لا يوجد اتصال بالإنترنت. تحقق من إعدادات الشبكة في جهازك.</string>
     <string name="server_not_running">السيرفر لا يعمل</string>
     <string name="name_change_reconnect_notice">لكي يتم تفعيل تغيير الاسم، ستتم إعادة اتصالك بالسيرفر.</string>
     <string name="play">العب</string>
-    <string name="id">ID:</string>
-    <string name="sort_id_desc">ID ↓</string>
-    <string name="sort_id_asc">ID ↑</string>
-    <string name="sort_xp_desc">XP ↓</string>
-    <string name="sort_xp_asc">XP ↑</string>
-    <string name="arrow_expanded">▼</string>
-    <string name="arrow_collapsed">▶</string>
+    <string name="id">الهوية</string>
+    <string name="sort_id_desc">فرز حسب المعرف تنازليا</string>
+    <string name="sort_id_asc">فرز حسب المعرف تصاعديا</string>
+    <string name="sort_xp_desc">فرز نقاط الخبره تنازليا</string>
+    <string name="sort_xp_asc">فرز نقاط الخبره تصاعديا</string>
+    <string name="arrow_expanded">السهم متسع</string>
+    <string name="arrow_collapsed">إنهار السهم</string>
     <string name="respawn">إعادة الظهور</string>
     <string name="wait">انتظر</string>
     <string name="exit">خروج</string>
@@ -940,21 +940,21 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
-    <string name="uptime">Uptime: %s</string>
+    <string name="uptime">وقت التطبيق</string>
     <string name="players_count">اللاعبين</string>
-    <string name="show_ui">إظهار UI</string>
+    <string name="show_ui">إظهار</string>
     <string name="open_menu">افتح القائمة</string>
     <string name="stop_spectating">توقف عن المشاهدة</string>
     <string name="spectate">شاهد</string>
     <string name="previous_entity">الكيان السابق</string>
     <string name="next_entity">الكيان التالي</string>
-    <string name="level_abbreviated">Lv.%d</string>
+    <string name="level_abbreviated">اختصار المستوى</string>
     <string name="left">متبقي</string> <!-- left as in remaining, not the left direction -->
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
     <string name="invalid_selection">إختيار غير صالح!</string>
     <string name="invalid_name">اسم غير صالح!</string>
-    <string name="content_blocked">String contains blocked content</string>
+    <string name="content_blocked">تم حظر المحتوى</string>
     <string name="connecting">الاتصال%s</string>
     <string name="error">خطأ</string>
     <string name="error_with_string">خطأ: %s</string>
@@ -965,14 +965,14 @@
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
     <string name="not_enough_voidstones">لا توجد ما يكفي من الفويدستون</string>
     <string name="ok">OK</string>
-    <string name="unlock_skin">Unlock</string>
+    <string name="unlock_skin">تم فتح الجلد</string>
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
-    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
-    <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="tos_title">شروط اللقب</string>
+    <string name="tos_message">شروط الرسالة</string>
+    <string name="tos_link">رابط شروط الخدمة</string>
+    <string name="accept">مقبول</string>
+    <string name="decline">مرفوض</string>
     <string name="banned">محظور</string>
     <string name="muted">حظر من الدردشة</string>
     <string name="banned_until">محظور حتى %s</string>
