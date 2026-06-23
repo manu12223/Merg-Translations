@@ -22,6 +22,7 @@
     <!-- Options menu !-->
     <string name="language">Jazyk</string>
     <string name="language_arabic">هلعربية | Arabština</string>
+    <string name="language_azerbaijani">Azərbaycanca | Azerbaijani</string>
     <string name="language_bengali">বাংলা | Bengálština</string>
     <string name="language_chinese">简体中文 | Čínština (zjednodušená)</string>
     <string name="language_chinese_traditional">繁體中文 | Čínština (tradiční)</string>
