@@ -4,6 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">Un Jugador</string>
     <string name="lan_multiplayer">Multijugador LAN</string>
+    <string name="lan">LAN</string>
     <string name="online_multiplayer">Multijugador</string>
     <string name="options">Configuraciones</string>
     <string name="discord" translatable="false">Discord</string>
@@ -79,14 +80,12 @@
     <string name="name_position_center">Centrado</string>
     <string name="name_position_below">Abajo</string>
     <string name="name_scale">Escala del Nombre</string>
-    <string name="timer_format">Formato del Temporizador</string>
-    <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arcade</string>
-    <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
     <string name="cycle_progressbar">Alternar Automát. Texto de la Barra EXP</string>
     <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
+    <string name="extrapolation">Extrapolation</string>
+    <string name="no_interpolation">No Interpolation</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Juego</string>
@@ -130,6 +129,8 @@
     <string name="connected">Conectado</string>
     <string name="select_server">Seleccionar Región</string>
     <string name="server_europe">Europa</string>
+    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_south_america">South America</string>
     <string name="join">Entrar</string>
     <string name="create">Crear</string>
     <string name="create_chat_room">CREAR CHAT DE SALA</string>
@@ -164,6 +165,7 @@
     <string name="find_opponent">ENCONTRAR OPONENTE</string>
     <string name="leave_matchmaking">ABANDONAR EMPAREJAMIENTO</string>
     <string name="searching_ellipsis">Buscando…</string>
+    <string name="competitive_entering">Entering…</string>
     <string name="x_searching_y_playing">%1$s Buscando · %2$s jugando</string>
     <string name="x_searching">%d Buscando…</string>
     <string name="x_playing">%d jugando</string>
@@ -201,6 +203,28 @@
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Elegir</string>
     <string name="redeem_code">Canjear Código</string>
+    <!-- Boosters -->
+    <string name="boosters">Boosters</string>
+    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
+    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
+    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_choose_boost">Choose your XP boost</string>
+    <string name="booster_active">active</string>
+    <string name="booster_max">MAX</string>
+    <string name="booster_upgrade">Upgrade</string>
+    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_autosplit">Autosplit</string>
+    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="speed_none">None</string>
+    <string name="speed_slow">Slow (5/sec)</string>
+    <string name="speed_medium">Medium (10/sec)</string>
+    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="speed_ultra">Ultra (30/sec)</string>
+    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">Código Inválido</string>
     <string name="code_already_claimed">Ups, el Código ya fue Canjeado…</string>
     <string name="successfully_claimed_code">¡Código Canjeado!</string>
@@ -240,6 +264,8 @@
     <string name="purchase_remove_ads_label">Quitar Anuncios</string>
     <string name="purchase_status_permanent">Estado de Compra Permanente</string>
     <string name="purchase_status_refunded">Estado de Compra Reembolsada</string>
+    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
+    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">El Anuncio aún no ha cargado</string>
@@ -283,6 +309,7 @@
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartir ID</string>
     <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
+    <string name="no_youtube_link">No Link</string>
     <string name="created">Creada %s</string>
     <string name="last_seen">Última Conexión %s</string>
     <string name="save_profile_description">Guardar Descripción del Perfil</string>
@@ -666,6 +693,7 @@
     <string name="skin_tab_standard">Estándar</string>
     <string name="skin_tab_level">Nivel</string>
     <string name="skin_tab_voidstones">Voidstones</string>
+    <string name="flags">Flags</string>
     <string name="skin_tab_special">Especial</string>
     <string name="level_skin_locked">Esta Skin se desbloquea en el Nivel %d</string>
     <string name="level_lock">Nivel Bloqueado</string>
@@ -833,6 +861,9 @@
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
+    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_crop_apply">Crop &amp; use</string>
+    <string name="custom_image_processing">Processing…</string>
     <string name="custom_image_bought">En Revisión</string>
     <string name="custom_image_refund">Reembolsada</string>
     <string name="custom_image_slot">Imagen %1$d</string>
@@ -844,6 +875,37 @@
     <string name="report_avatar_message">¿Seguro(a) que quieres Reportar la Skin Personalizada de %1$s?</string>
     <string name="report_avatar_success">Skin Personalizada Reportada</string>
     <string name="report_avatar_failed">Ups, no se pudo Reportar la Skin Personalizada.</string>
+    <string name="report_banner">Report Banner</string>
+    <string name="report_banner_message">Report the banner of %1$s?</string>
+    <string name="report_banner_success">Banner reported</string>
+    <string name="report_banner_failed">Failed to report banner</string>
+
+    <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
+    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_banner_upload">Upload</string>
+    <string name="custom_banner_replace">Replace</string>
+    <string name="custom_banner_deselect">Deselect</string>
+    <string name="custom_banner_confirm_title">Upload Banner</string>
+    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
+    <string name="custom_banner_upload_success">Banner sent for review</string>
+    <string name="custom_banner_selected">Banner selected</string>
+    <string name="custom_banner_deselected">Banner deselected</string>
+    <string name="custom_banner_upload_failed">Failed to upload banner</string>
+    <string name="custom_banner_read_error">Failed to read banner</string>
+    <string name="custom_banner_invalid_format">File must be an image</string>
+    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
+    <string name="custom_banner_compress_accept">Use Compressed</string>
+    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
+    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
+    <string name="custom_banner_crop_apply">Crop &amp; use</string>
+    <string name="custom_banner_processing">Processing…</string>
+    <string name="custom_banner_bought">Custom Banner Upload</string>
+    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Recuperar Cuenta</string>

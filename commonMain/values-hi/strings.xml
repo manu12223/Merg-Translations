@@ -4,6 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">सिंगलप्लेयर</string>
     <string name="lan_multiplayer">LAN मल्टीप्लेयर</string>
+    <string name="lan">LAN</string>
     <string name="online_multiplayer">ऑनलाइन मल्टीप्लेयर</string>
     <string name="options">विकल्प</string>
     <string name="discord" translatable="false">Discord</string>
@@ -79,14 +80,12 @@
     <string name="name_position_center">केंद्र</string>
     <string name="name_position_below">नीचे</string>
     <string name="name_scale">नाम स्केल</string>
-    <string name="timer_format">टाइमर प्रारूप</string>
-    <string name="timer_format_normal">सामान्य</string>
-    <string name="timer_format_arcade">आर्केड</string>
-    <string name="timer_format_ticks">टिक्स</string>
     <string name="auto_spectate_killer">किलर को ऑटो स्पेक्टेट करें</string>
     <string name="cycle_progressbar">XP प्रोग्रेस बार टेक्स्ट साइकिल</string>
     <string name="verbose_in_game_ui">विस्तृत इन-गेम UI</string>
     <string name="jitter_buffer">जिटर बफर</string>
+    <string name="extrapolation">Extrapolation</string>
+    <string name="no_interpolation">No Interpolation</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">गेम मोड</string>
@@ -130,6 +129,8 @@
     <string name="connected">कनेक्टेड</string>
     <string name="select_server">सर्वर चुनें</string>
     <string name="server_europe">यूरोप</string>
+    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_south_america">South America</string>
     <string name="join">जुड़ें</string>
     <string name="create">बनाएं</string>
     <string name="create_chat_room">चैट रूम बनाएं</string>
@@ -164,6 +165,7 @@
     <string name="find_opponent">प्रतिद्वंद्वी खोजें</string>
     <string name="leave_matchmaking">मैचमेकिंग छोड़ें</string>
     <string name="searching_ellipsis">खोज रहे हैं…</string>
+    <string name="competitive_entering">Entering…</string>
     <string name="x_searching_y_playing">%1$s खोज रहे हैं · %2$s खेल रहे हैं</string>
     <string name="x_searching">%d खोज रहे हैं</string>
     <string name="x_playing">%d खेल रहे हैं</string>
@@ -201,6 +203,28 @@
     <string name="free_voidstones_left">%d बचे हैं</string>
     <string name="pick">चुनें</string>
     <string name="redeem_code">कोड रिडीम करें</string>
+    <!-- Boosters -->
+    <string name="boosters">Boosters</string>
+    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
+    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
+    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_choose_boost">Choose your XP boost</string>
+    <string name="booster_active">active</string>
+    <string name="booster_max">MAX</string>
+    <string name="booster_upgrade">Upgrade</string>
+    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_autosplit">Autosplit</string>
+    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="speed_none">None</string>
+    <string name="speed_slow">Slow (5/sec)</string>
+    <string name="speed_medium">Medium (10/sec)</string>
+    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="speed_ultra">Ultra (30/sec)</string>
+    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">अमान्य कोड</string>
     <string name="code_already_claimed">कोड पहले ही क्लेम किया जा चुका है!</string>
     <string name="successfully_claimed_code">पुरस्कार क्लेम किया गया</string>
@@ -240,6 +264,8 @@
     <string name="purchase_remove_ads_label">विज्ञापन हटाएं</string>
     <string name="purchase_status_permanent">स्थायी</string>
     <string name="purchase_status_refunded">रिफंड किया गया</string>
+    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
+    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">विज्ञापन अभी तक लोड नहीं हुआ</string>
@@ -283,6 +309,7 @@
     <string name="copy_id">ID कॉपी करें</string>
     <string name="share_id">ID साझा करें</string>
     <string name="share_id_message">मुझे Merg पर जोड़ें! मेरी ID %1$s है</string>
+    <string name="no_youtube_link">No Link</string>
     <string name="created">बनाया गया %s</string>
     <string name="last_seen">अंतिम बार देखा गया %s</string>
     <string name="save_profile_description">प्रोफ़ाइल विवरण सहेजें</string>
@@ -512,7 +539,7 @@
     <string name="clan_history_event_purchase_description_color">कुल के विवरण का रंग खरीदा</string>
     <string name="clan_history_event_rename">कुल का नाम बदला</string>
 
-       <!-- Leaderboard !-->
+    <!-- Leaderboard !-->
     <string name="leaderboard_type">लीडरबोर्ड का प्रकार</string>
     <string name="leaderboard_xp_description">अनुभव अंक (Experience points)। लेवल अप करने के लिए आवश्यक। गेम में कोई भी सार्थक क्रिया करके प्राप्त किया जा सकता है।</string>
     <string name="leaderboard_competitive_description">रैंक किया हुआ 1v1 लैडर। केवल उन खिलाड़ियों को सूचीबद्ध किया जाता है जिन्होंने कम से कम 12 प्रतिस्पर्धी मैच पूरे कर लिए हैं।</string>
@@ -666,6 +693,7 @@
     <string name="skin_tab_standard">स्टैंडर्ड</string>
     <string name="skin_tab_level">लेवल</string>
     <string name="skin_tab_voidstones">Voidstones</string>
+    <string name="flags">Flags</string>
     <string name="skin_tab_special">विशेष</string>
     <string name="level_skin_locked">Skin लेवल %d पर अनलॉक होती है</string>
     <string name="level_lock">लेवल लॉक</string>
@@ -833,6 +861,9 @@
     <string name="custom_image_compress_title">इमेज बहुत बड़ी है - कंप्रेस करें?</string>
     <string name="custom_image_compress_accept">कंप्रेस की हुई उपयोग करें</string>
     <string name="custom_image_compress_failed">इमेज को आकार सीमा में फिट करने के लिए कंप्रेस नहीं किया जा सका</string>
+    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_crop_apply">Crop &amp; use</string>
+    <string name="custom_image_processing">Processing…</string>
     <string name="custom_image_bought">कस्टम इमेज अपलोड</string>
     <string name="custom_image_refund">कस्टम इमेज रिफंड</string>
     <string name="custom_image_slot">इमेज %1$d</string>
@@ -844,6 +875,37 @@
     <string name="report_avatar_message">%1$s के अवतार को रिपोर्ट करें?</string>
     <string name="report_avatar_success">अवतार रिपोर्ट किया गया</string>
     <string name="report_avatar_failed">अवतार रिपोर्ट करने में विफल</string>
+    <string name="report_banner">Report Banner</string>
+    <string name="report_banner_message">Report the banner of %1$s?</string>
+    <string name="report_banner_success">Banner reported</string>
+    <string name="report_banner_failed">Failed to report banner</string>
+
+    <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
+    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_banner_upload">Upload</string>
+    <string name="custom_banner_replace">Replace</string>
+    <string name="custom_banner_deselect">Deselect</string>
+    <string name="custom_banner_confirm_title">Upload Banner</string>
+    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
+    <string name="custom_banner_upload_success">Banner sent for review</string>
+    <string name="custom_banner_selected">Banner selected</string>
+    <string name="custom_banner_deselected">Banner deselected</string>
+    <string name="custom_banner_upload_failed">Failed to upload banner</string>
+    <string name="custom_banner_read_error">Failed to read banner</string>
+    <string name="custom_banner_invalid_format">File must be an image</string>
+    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
+    <string name="custom_banner_compress_accept">Use Compressed</string>
+    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
+    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
+    <string name="custom_banner_crop_apply">Crop &amp; use</string>
+    <string name="custom_banner_processing">Processing…</string>
+    <string name="custom_banner_bought">Custom Banner Upload</string>
+    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">खाता रिकवरी</string>
@@ -949,7 +1011,7 @@
     <string name="previous_entity">पिछली एंटिटी</string>
     <string name="next_entity">अगली एंटिटी</string>
     <string name="level_abbreviated">Lv.%d</string>
-    <string name="left">बाकी</string> 
+    <string name="left">बाकी</string> <!-- left as in remaining, not the left direction -->
     <string name="total">कुल</string>
     <string name="unknown">अज्ञात</string>
     <string name="invalid_selection">अवैध चयन!</string>

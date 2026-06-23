@@ -4,6 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">ผู้เล่นคนเดียว</string>
     <string name="lan_multiplayer">ผู้เล่นหลายคนผ่าน LAN</string>
+    <string name="lan">LAN</string>
     <string name="online_multiplayer">ผู้เล่นหลายคนออนไลน์</string>
     <string name="options">ตัวเลือก</string>
     <string name="discord" translatable="false">Discord</string>
@@ -79,14 +80,12 @@
     <string name="name_position_center">ตรงกลาง</string>
     <string name="name_position_below">ด้านล่าง</string>
     <string name="name_scale">ขนาดชื่อ</string>
-    <string name="timer_format">รูปแบบเวลา</string>
-    <string name="timer_format_normal">ปกติ</string>
-    <string name="timer_format_arcade">อาร์เคด</string>
-    <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">สังเกตการณ์ผู้ฆ่าอัตโนมัติ</string>
     <string name="cycle_progressbar">สลับข้อความแถบความคืบหน้า XP</string>
     <string name="verbose_in_game_ui">UI ในเกมแบบละเอียด</string>
     <string name="jitter_buffer">Jitter Buffer</string>
+    <string name="extrapolation">Extrapolation</string>
+    <string name="no_interpolation">No Interpolation</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">โหมดเกม</string>
@@ -130,6 +129,8 @@
     <string name="connected">เชื่อมต่อแล้ว</string>
     <string name="select_server">เลือกเซิร์ฟเวอร์</string>
     <string name="server_europe">ยุโรป</string>
+    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_south_america">South America</string>
     <string name="join">เข้าร่วม</string>
     <string name="create">สร้าง</string>
     <string name="create_chat_room">สร้างห้องแชท</string>
@@ -164,6 +165,7 @@
     <string name="find_opponent">ค้นหาคู่ต่อสู้</string>
     <string name="leave_matchmaking">ออกจากการจับคู่</string>
     <string name="searching_ellipsis">กำลังค้นหา…</string>
+    <string name="competitive_entering">Entering…</string>
     <string name="x_searching_y_playing">กำลังค้นหา %1$s · กำลังเล่น %2$s</string>
     <string name="x_searching">กำลังค้นหา %d</string>
     <string name="x_playing">กำลังเล่น %d</string>
@@ -201,6 +203,28 @@
     <string name="free_voidstones_left">เหลือ %d</string>
     <string name="pick">เลือก</string>
     <string name="redeem_code">แลกโค้ด</string>
+    <!-- Boosters -->
+    <string name="boosters">Boosters</string>
+    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
+    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
+    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_choose_boost">Choose your XP boost</string>
+    <string name="booster_active">active</string>
+    <string name="booster_max">MAX</string>
+    <string name="booster_upgrade">Upgrade</string>
+    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_autosplit">Autosplit</string>
+    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="speed_none">None</string>
+    <string name="speed_slow">Slow (5/sec)</string>
+    <string name="speed_medium">Medium (10/sec)</string>
+    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="speed_ultra">Ultra (30/sec)</string>
+    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">โค้ดไม่ถูกต้อง</string>
     <string name="code_already_claimed">โค้ดถูกใช้ไปแล้ว!</string>
     <string name="successfully_claimed_code">แลกรับรางวัลสำเร็จ</string>
@@ -240,6 +264,8 @@
     <string name="purchase_remove_ads_label">ลบโฆษณา</string>
     <string name="purchase_status_permanent">ถาวร</string>
     <string name="purchase_status_refunded">คืนเงินแล้ว</string>
+    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
+    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">โฆษณายังไม่พร้อม</string>
@@ -283,6 +309,7 @@
     <string name="copy_id">คัดลอก ID</string>
     <string name="share_id">แชร์ ID</string>
     <string name="share_id_message">เพิ่มฉันใน Merg! ID ของฉันคือ %1$s</string>
+    <string name="no_youtube_link">No Link</string>
     <string name="created">สร้างเมื่อ %s</string>
     <string name="last_seen">ออนไลน์ล่าสุด %s</string>
     <string name="save_profile_description">บันทึกคำอธิบายโปรไฟล์</string>
@@ -666,6 +693,7 @@
     <string name="skin_tab_standard">มาตรฐาน</string>
     <string name="skin_tab_level">เลเวล</string>
     <string name="skin_tab_voidstones">Voidstones</string>
+    <string name="flags">Flags</string>
     <string name="skin_tab_special">พิเศษ</string>
     <string name="level_skin_locked">Skin จะปลดล็อกที่เลเวล %d</string>
     <string name="level_lock">ล็อกตามเลเวล</string>
@@ -833,6 +861,9 @@
     <string name="custom_image_compress_title">รูปภาพใหญ่เกินไป - ต้องการบีบอัดหรือไม่?</string>
     <string name="custom_image_compress_accept">ใช้ภาพที่บีบอัด</string>
     <string name="custom_image_compress_failed">ไม่สามารถบีบอัดรูปภาพให้มีขนาดพอดีกับขีดจำกัดได้</string>
+    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_crop_apply">Crop &amp; use</string>
+    <string name="custom_image_processing">Processing…</string>
     <string name="custom_image_bought">อัปโหลดรูปภาพที่กำหนดเอง</string>
     <string name="custom_image_refund">คืนเงินค่ารูปภาพที่กำหนดเอง</string>
     <string name="custom_image_slot">รูปภาพ %1$d</string>
@@ -844,6 +875,37 @@
     <string name="report_avatar_message">รายงานอวาตาร์ของ %1$s หรือไม่?</string>
     <string name="report_avatar_success">รายงานอวาตาร์แล้ว</string>
     <string name="report_avatar_failed">รายงานอวาตาร์ไม่สำเร็จ</string>
+    <string name="report_banner">Report Banner</string>
+    <string name="report_banner_message">Report the banner of %1$s?</string>
+    <string name="report_banner_success">Banner reported</string>
+    <string name="report_banner_failed">Failed to report banner</string>
+
+    <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
+    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_banner_upload">Upload</string>
+    <string name="custom_banner_replace">Replace</string>
+    <string name="custom_banner_deselect">Deselect</string>
+    <string name="custom_banner_confirm_title">Upload Banner</string>
+    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
+    <string name="custom_banner_upload_success">Banner sent for review</string>
+    <string name="custom_banner_selected">Banner selected</string>
+    <string name="custom_banner_deselected">Banner deselected</string>
+    <string name="custom_banner_upload_failed">Failed to upload banner</string>
+    <string name="custom_banner_read_error">Failed to read banner</string>
+    <string name="custom_banner_invalid_format">File must be an image</string>
+    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
+    <string name="custom_banner_compress_accept">Use Compressed</string>
+    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
+    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
+    <string name="custom_banner_crop_apply">Crop &amp; use</string>
+    <string name="custom_banner_processing">Processing…</string>
+    <string name="custom_banner_bought">Custom Banner Upload</string>
+    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">การกู้คืนบัญชี</string>

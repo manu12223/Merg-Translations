@@ -4,6 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">Singleplayer</string>
     <string name="lan_multiplayer">LAN Multiplayer</string>
+    <string name="lan">LAN</string>
     <string name="online_multiplayer">Online Multiplayer</string>
     <string name="options">Options</string>
     <string name="discord" translatable="false">Discord</string>
@@ -79,14 +80,12 @@
     <string name="name_position_center">Center</string>
     <string name="name_position_below">Below</string>
     <string name="name_scale">Name Scale</string>
-    <string name="timer_format">Timer Format</string>
-    <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arcade</string>
-    <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Auto Spectate Killer</string>
     <string name="cycle_progressbar">Cycle XP Progress Bar Text</string>
     <string name="verbose_in_game_ui">Verbose In-Game UI</string>
     <string name="jitter_buffer">Jitter Buffer</string>
+    <string name="extrapolation">Extrapolation</string>
+    <string name="no_interpolation">No Interpolation</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Game Mode</string>
@@ -130,6 +129,8 @@
     <string name="connected">Connected</string>
     <string name="select_server">Select Server</string>
     <string name="server_europe">Europe</string>
+    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_south_america">South America</string>
     <string name="join">Join</string>
     <string name="create">Create</string>
     <string name="create_chat_room">CREATE CHAT ROOM</string>
@@ -164,6 +165,7 @@
     <string name="find_opponent">FIND OPPONENT</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
     <string name="searching_ellipsis">Searching…</string>
+    <string name="competitive_entering">Entering…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
     <string name="x_searching">%d searching</string>
     <string name="x_playing">%d playing</string>
@@ -201,6 +203,28 @@
     <string name="free_voidstones_left">%d left</string>
     <string name="pick">Pick</string>
     <string name="redeem_code">Redeem Code</string>
+    <!-- Boosters -->
+    <string name="boosters">Boosters</string>
+    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
+    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
+    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_choose_boost">Choose your XP boost</string>
+    <string name="booster_active">active</string>
+    <string name="booster_max">MAX</string>
+    <string name="booster_upgrade">Upgrade</string>
+    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_autosplit">Autosplit</string>
+    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="speed_none">None</string>
+    <string name="speed_slow">Slow (5/sec)</string>
+    <string name="speed_medium">Medium (10/sec)</string>
+    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="speed_ultra">Ultra (30/sec)</string>
+    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">Invalid Code</string>
     <string name="code_already_claimed">Code Already Claimed!</string>
     <string name="successfully_claimed_code">Reward Claimed</string>
@@ -240,6 +264,8 @@
     <string name="purchase_remove_ads_label">Remove Ads</string>
     <string name="purchase_status_permanent">Permanent</string>
     <string name="purchase_status_refunded">Refunded</string>
+    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
+    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Ad not loaded yet</string>
@@ -283,6 +309,7 @@
     <string name="copy_id">Copy ID</string>
     <string name="share_id">Share ID</string>
     <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
+    <string name="no_youtube_link">No Link</string>
     <string name="created">Created %s</string>
     <string name="last_seen">Last seen %s</string>
     <string name="save_profile_description">Save Profile Description</string>
@@ -666,6 +693,7 @@
     <string name="skin_tab_standard">Standard</string>
     <string name="skin_tab_level">Level</string>
     <string name="skin_tab_voidstones">Voidstones</string>
+    <string name="flags">Flags</string>
     <string name="skin_tab_special">Special</string>
     <string name="level_skin_locked">Skin unlocks at level %d</string>
     <string name="level_lock">Level lock</string>
@@ -833,6 +861,9 @@
     <string name="custom_image_compress_title">Image Too Large - Compress?</string>
     <string name="custom_image_compress_accept">Use Compressed</string>
     <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
+    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_crop_apply">Crop &amp; use</string>
+    <string name="custom_image_processing">Processing…</string>
     <string name="custom_image_bought">Custom Image Upload</string>
     <string name="custom_image_refund">Custom Image Refund</string>
     <string name="custom_image_slot">Image %1$d</string>
@@ -844,6 +875,37 @@
     <string name="report_avatar_message">Report the avatar of %1$s?</string>
     <string name="report_avatar_success">Avatar reported</string>
     <string name="report_avatar_failed">Failed to report avatar</string>
+    <string name="report_banner">Report Banner</string>
+    <string name="report_banner_message">Report the banner of %1$s?</string>
+    <string name="report_banner_success">Banner reported</string>
+    <string name="report_banner_failed">Failed to report banner</string>
+
+    <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
+    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_banner_upload">Upload</string>
+    <string name="custom_banner_replace">Replace</string>
+    <string name="custom_banner_deselect">Deselect</string>
+    <string name="custom_banner_confirm_title">Upload Banner</string>
+    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
+    <string name="custom_banner_upload_success">Banner sent for review</string>
+    <string name="custom_banner_selected">Banner selected</string>
+    <string name="custom_banner_deselected">Banner deselected</string>
+    <string name="custom_banner_upload_failed">Failed to upload banner</string>
+    <string name="custom_banner_read_error">Failed to read banner</string>
+    <string name="custom_banner_invalid_format">File must be an image</string>
+    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
+    <string name="custom_banner_compress_accept">Use Compressed</string>
+    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
+    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
+    <string name="custom_banner_crop_apply">Crop &amp; use</string>
+    <string name="custom_banner_processing">Processing…</string>
+    <string name="custom_banner_bought">Custom Banner Upload</string>
+    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Account Recovery</string>
