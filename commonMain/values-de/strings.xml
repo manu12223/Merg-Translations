@@ -81,7 +81,7 @@
     <string name="name_scale">Namensgröße</string>
     <string name="timer_format">Timer-Format</string>
     <string name="timer_format_normal">Normal</string>
-    <string name="timer_format_arcade">Arcade</string>
+    <string name="timer_format_arcade">Arkade</string>
     <string name="timer_format_ticks">Ticks</string>
     <string name="auto_spectate_killer">Mörder automatisch zuschauen</string>
     <string name="cycle_progressbar">EP-Fortschrittsbalken-Text umschalten</string>
@@ -158,10 +158,10 @@
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Kompetitiv</string>
     <string name="competitive_menu">KOMPETITIV</string>
-    <string name="competitive_history">Kompetitive Historie</string>
+    <string name="competitive_history">Kompetitive Verlauf</string>
     <string name="rating_label">Bewertung</string>
     <string name="unrated">Ohne Rang</string>
-    <string name="find_opponent">GEGNER SÜCHEN</string>
+    <string name="find_opponent">GEGNER SUCHEN</string>
     <string name="leave_matchmaking">MATCHMAKING VERLASSEN</string>
     <string name="searching_ellipsis">Suche nach Gegnern…</string>
     <string name="x_searching_y_playing">%1$s auf der Suche · %2$s im Spiel</string>
@@ -178,7 +178,7 @@
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Laufende Matches</string>
     <string name="match_status_starting">STARTET</string>
-    <string name="match_status_in_progress">LAUFENDE</string>
+    <string name="match_status_in_progress">LAUFEND</string>
     <string name="match_status_finished">BEENDET</string>
     <string name="victory">SIEG</string>
     <string name="defeat">NIEDERLAGE</string>
@@ -218,7 +218,7 @@
     <string name="purchase_id">Kauf-ID: %d</string>
     <string name="history">Verlauf</string>
     <string name="voidstone_history">Voidstone-Verlauf</string>
-    <string name="purchase_history">Kaufhistorie</string>
+    <string name="purchase_history">Kaufverlauf</string>
     <string name="no_transactions_yet">Noch keine Transaktionen</string>
     <string name="admin_reward">Admin-Belohnung</string>
     <string name="in_app_purchase">In-App-Kauf</string>
@@ -273,12 +273,12 @@
 
     <!-- Profile -->
     <string name="profile">Profil</string>
-    <string name="not_logged_in">Nicht eingeloggt!</string>
-    <string name="login">Einloggen</string>
+    <string name="not_logged_in">Nicht angemeldet!</string>
+    <string name="login">Anmelden</string>
     <string name="login_google">Mit Google anmelden</string>
     <string name="login_apple">Mit Apple anmelden</string>
-    <string name="logout">Ausloggen</string>
-    <string name="logout_all_devices">Von allen Geräten ausloggen</string>
+    <string name="logout">Abmelden</string>
+    <string name="logout_all_devices">Von allen Geräten Abmelden</string>
     <string name="change_name">Name ändern</string>
     <string name="copy_id">ID kopieren</string>
     <string name="share_id">ID teilen</string>
@@ -412,7 +412,7 @@
     <string name="clan_request_join">Beitritt anfragen</string>
     <string name="clan_leave">Clan verlassen</string>
     <string name="clan_leave_confirm">Bist du sicher, dass du diesen Clan verlassen möchtest?</string>
-    <string name="clan_owner_must_transfer">Du musst die Eigentümerschaft auf ein anderes Mitglied übertragen, bevor du den Clan verlässt.</string>
+    <string name="clan_owner_must_transfer">Du musst die Clan Führung auf ein anderes Mitglied übertragen, bevor du den Clan verlässt.</string>
     <string name="clan_request_sent">Beitrittsanfrage gesendet.</string>
     <string name="clan_disband">Clan auflösen</string>
     <string name="clan_disband_confirm">Bist du sicher, dass du diesen Clan auflösen möchtest? Dies kann nicht rückgängig gemacht werden!</string>
@@ -425,8 +425,8 @@
     <string name="clan_join_mode_private">Privat</string>
     <string name="clan_join_mode_abandoned">Verlassen</string>
     <string name="clan_pending_requests">Beitrittsanfragen</string>
-    <string name="clan_role_owner">Eigentümer</string>
-    <string name="clan_role_co_owner">Miteigentümer</string>
+    <string name="clan_role_owner">Besitzer</string>
+    <string name="clan_role_co_owner">Mit-Besitzer</string>
     <string name="clan_role_admin">Admin</string>
     <string name="clan_role_elder">Ältester</string>
     <string name="clan_role_member">Mitglied</string>
@@ -718,7 +718,7 @@
     <string name="pieces">Teile: %1d/%2d</string>
     <string name="merge">Verschmelzen: %ss</string>
     <string name="invincibility">Unverwundbarkeit: %ss</string>
-    <string name="speed_boost">+Tempo: %ss</string>
+    <string name="speed_boost">+Geschwindigkeit: %ss</string>
     <string name="xp">EP</string>
     <string name="level">Stufe</string>
     <string name="level_number">Stufe %d</string>
@@ -818,9 +818,9 @@
     <string name="custom_image_rules">Ausdrücklich verbotene Inhalte:\n\n- NSFW / Sexuelle Inhalte\n- Explizite Gewalt / Blutdarstellungen\n- Waffen\n- Hassesymbole\n- Hassrede / Diskriminierung\n- Drogen\n- Schockierende/ekelerregende Inhalte\n- Urheberrechtlich geschützte Charaktere/Logos\n- Alkohol-/Tabak-Referenzen\n- Horror-/Grusel-Motive</string>
     <string name="custom_image_upload">Hochladen</string>
     <string name="custom_image_replace">Ersetzen</string>
-    <string name="custom_image_deselect">Abwählen</string>
+    <string name="custom_image_deselect">Ablegen</string>
     <string name="custom_image_confirm_title">Bild hochladen</string>
-    <string name="custom_image_confirm_body">Dieses Bild für %1$s Leerensteine hochladen?</string>
+    <string name="custom_image_confirm_body">Dieses Bild für %1$s voidstones hochladen?</string>
     <string name="custom_image_upload_success">Bild zur Überprüfung gesendet</string>
     <string name="custom_image_selected">Avatar ausgewählt</string>
     <string name="custom_image_deselected">Avatar abgewählt</string>
@@ -1000,6 +1000,6 @@
     <string name="before">Vorher</string>
     <string name="after">Nachher</string>
     <string name="clan_id">Clan-ID:</string>
-    <string name="editing_message">Nachricht wird bearbeitet</string>
+    <string name="editing_message">Nachricht bearbeiten</string>
     <string name="samsung_compat_warning_body">Ungültige Display-Konfiguration erkannt. Dies kann zu Problemen bei der In-Game-Steuerung und beim Multitouch führen. Dies ist ein bekannter Fehler bei Samsung OneUI. Um das Problem zu beheben, versuche bitte folgende Schritte der Reihe nach:\n\n1. Öffne Game Booster Plus → Game-Leistung → auf „Leistung“ oder 100% stellen\n2. Entferne die App aus der Bibliothek des Game Launchers\n3. Verringere die Bildschirmauflösung, falls dein Gerät dies unterstützt (1440p → 1080p)\n4. Starte dein Gerät neu\n\nFalls das Problem weiterhin besteht oder du kein Samsung OneUI nutzt, sende uns bitte einen Fehlerbericht auf unserem Discord-Server oder per Support-Mail.</string>
 </resources>
