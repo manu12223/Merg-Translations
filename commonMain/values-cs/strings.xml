@@ -149,9 +149,9 @@
     <string name="friend_requests_sent">Odeslané žádosti</string>
     <string name="no_friends">Zatím žádní přátelé…</string>
     <string name="remove_friend_title">Odebrat přítele</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">Jsi si jistý, že chceš odstánit "%1$s" (ID: %2$d) z přátel?</string>
     <string name="cancel_request_title">Zrušit žádost</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Jsi si jistý, že chceš zrušit žádost o přátelství hráči "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Nemůžeš poslat žádost sám sobě</string>
     <string name="friend_request_error_already_sent">Žádost již byla odeslána</string>
     <string name="friend_request_error_already_friends">Už jste přátelé</string>
@@ -200,29 +200,29 @@
     <string name="free_voidstones">Voidstones zdarma!</string>
     <string name="free_voidstones_subtitle">Vyber čtverec a podívej se na krátkou videoreklamu, abys získal Voidstones!</string>
     <string name="free_voidstones_won">Získal jsi %d Voidstones!</string>
-    <string name="free_voidstones_status">Zbývá %1$d ⋅ Reset za %2$s</string>
+    <string name="free_voidstones_status">Zbývá %1$d ⋅ Obnovení za %2$s</string>
     <string name="free_voidstones_left">Zbývá %d</string>
     <string name="pick">Vybrat</string>
     <string name="redeem_code">Uplatnit kód</string>
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="boosters">Boostery</string>
+    <string name="booster_permanent_upgrades">Permanentní vylepšení</string>
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
+    <string name="booster_ad_xp_desc">Sleduj video za dočasný XP boost!</string>
+    <string name="booster_stacks_base_xp">Sčítá se se základním XP</string>
+    <string name="booster_watch_ad">Sleduj reklamu</string>
+    <string name="booster_choose_boost">Vyber si svůj XP boost</string>
+    <string name="booster_active">aktivní</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_base_xp">Základní XP Multiplier</string>
     <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="booster_spawn_size">Počáteční velikost</string>
+    <string name="speed_none">Žádná</string>
+    <string name="speed_slow">Pomalá (5/sec)</string>
+    <string name="speed_medium">Střední (10/sec)</string>
+    <string name="speed_fast">Rychlá (20/sec)</string>
     <string name="speed_ultra">Ultra (30/sec)</string>
     <string name="speed_crazy">Crazy (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
@@ -265,8 +265,8 @@
     <string name="purchase_remove_ads_label">Odstranit reklamy</string>
     <string name="purchase_status_permanent">Trvalé</string>
     <string name="purchase_status_refunded">Vráceno</string>
-    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
-    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_no_ads_gift_received">Dárek: No Ads od #%d</string>
+    <string name="purchase_no_ads_gift_purchased">No Ads dárek pro #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Reklama ještě není načtena</string>
@@ -310,7 +310,7 @@
     <string name="copy_id">Kopírovat ID</string>
     <string name="share_id">Sdílet ID</string>
     <string name="share_id_message">Přidej si mě na Merg! Moje ID je %1$s</string>
-    <string name="no_youtube_link">No Link</string>
+    <string name="no_youtube_link">Žádný odkaz</string>
     <string name="created">Vytvořeno %s</string>
     <string name="last_seen">Naposledy viděn %s</string>
     <string name="save_profile_description">Uložit popis profilu</string>
@@ -401,7 +401,7 @@
     <string name="internal_tester">Interní tester</string>
     <string name="alpha_tester">Alpha tester</string>
     <string name="beta_tester">Beta tester</string>
-    <string name="discord_staff">Discord Staff</string>
+    <string name="discord_staff">Discord tým</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Poslat Voidstones</string>
@@ -818,7 +818,7 @@
     <string name="both_blocked">Oba uživatelé se vzájemně zablokovali</string>
 
     <!-- LAN Multiplayer -->
-    <string name="host_local_game">HOSTOVAT LOKÁLNÍ HRU</string>
+    <string name="host_local_game">VYTVOŘIT LOKÁLNÍ HRU</string>
     <string name="local_ip">Lokální IP: %s</string>
     <string name="public_ip">Veřejná IP: %s</string>
     <string name="searching_rooms">Hledání dostupných místností…</string>
@@ -843,7 +843,7 @@
 
     <!-- Custom Images -->
     <string name="custom_images">Vlastní obrázky</string>
-    <string name="profile_avatar">Profilový avatar</string>
+    <string name="profile_avatar">Profilový obrázek</string>
     <string name="custom_image_rules">Výslovně zakázaný obsah:\n\n- NSFW / Sexuální obsah\n- Grafické násilí / Gore\n- Zbraně\n- Nenávistné symboly\n- Nenávistné projevy / Diskriminace\n- Drogy\n- Šokující/nechutný obsah\n- Postavy/loga chráněná autorským právem\n- Odkazy na alkohol/tabák\n- Hororové/strašidelné obrázky</string>
     <string name="custom_image_upload">Nahrát</string>
     <string name="custom_image_replace">Nahradit</string>
@@ -851,8 +851,8 @@
     <string name="custom_image_confirm_title">Nahrát obrázek</string>
     <string name="custom_image_confirm_body">Nahrát tento obrázek za %1$s Voidstones?</string>
     <string name="custom_image_upload_success">Obrázek odeslán ke kontrole</string>
-    <string name="custom_image_selected">Avatar vybrán</string>
-    <string name="custom_image_deselected">Výběr avatara zrušen</string>
+    <string name="custom_image_selected">Obrázek vybrán</string>
+    <string name="custom_image_deselected">Výběr obrázku zrušen</string>
     <string name="custom_image_upload_failed">Nepodařilo se nahrát obrázek</string>
     <string name="custom_image_read_error">Nepodařilo se přečíst obrázek</string>
     <string name="custom_image_invalid_format">Soubor musí být obrázek</string>
@@ -862,51 +862,51 @@
     <string name="custom_image_compress_title">Obrázek je příliš velký - Komprimovat?</string>
     <string name="custom_image_compress_accept">Použít komprimovaný</string>
     <string name="custom_image_compress_failed">Obrázek se nepodařilo zkomprimovat tak, aby vyhovoval limitu velikosti</string>
-    <string name="custom_image_crop_title">Crop to a square</string>
-    <string name="custom_image_crop_apply">Crop &amp; use</string>
-    <string name="custom_image_processing">Processing…</string>
+    <string name="custom_image_crop_title">Oříznout do čtverce</string>
+    <string name="custom_image_crop_apply">Oříznout &amp; a použít</string>
+    <string name="custom_image_processing">Zpracovávání…</string>
     <string name="custom_image_bought">Nahrání vlastního obrázku</string>
     <string name="custom_image_refund">Vrácení platby za vlastní obrázek</string>
     <string name="custom_image_slot">Obrázek %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">Nepodařilo se načíst tvůj vlastní skin: %1$s</string>
-    <string name="custom_image_no_approved_image">Žádný schválený obrázek v slotu %1$d</string>
-    <string name="report_avatar">Nahlásit avatara</string>
-    <string name="report_avatar_message">Nahlásit avatara uživatele %1$s?</string>
-    <string name="report_avatar_success">Avatar nahlášen</string>
-    <string name="report_avatar_failed">Nepodařilo se nahlásit avatara</string>
-    <string name="report_banner">Report Banner</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
-    <string name="report_banner_success">Banner reported</string>
-    <string name="report_banner_failed">Failed to report banner</string>
+    <string name="custom_image_no_approved_image">Žádný schválený obrázek ve slotu %1$d</string>
+    <string name="report_avatar">Nahlásit obrázek</string>
+    <string name="report_avatar_message">Nahlásit obrázek uživatele %1$s?</string>
+    <string name="report_avatar_success">Obrázek nahlášen</string>
+    <string name="report_avatar_failed">Nepodařilo se nahlásit obrázek</string>
+    <string name="report_banner">Nahlásit Banner</string>
+    <string name="report_banner_message">Nahlásit banner %1$s?</string>
+    <string name="report_banner_success">Banner nahlášen</string>
+    <string name="report_banner_failed">Nahlášení banneru selhalo</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
-    <string name="custom_banner_confirm_title">Upload Banner</string>
-    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
-    <string name="custom_banner_upload_success">Banner sent for review</string>
-    <string name="custom_banner_selected">Banner selected</string>
-    <string name="custom_banner_deselected">Banner deselected</string>
-    <string name="custom_banner_upload_failed">Failed to upload banner</string>
-    <string name="custom_banner_read_error">Failed to read banner</string>
+    <string name="custom_banner_rules">Výslovně zakázaný obsah:\n\n- NSFW / Sexualní obsah\n- Grafické násilí / Gore\n- Zbraně\n- Symboly nenávisti\n- Nenávistné projevy / Diskriminace\n- Drogy\n- Šokující / odpudivý obsah\n- Autorsky chráněné postavy / loga\n- Odkazy na alkohol / tabák\n- Hororové / děsivé obrázkyy</string>
+    <string name="custom_banner_upload">Nahrát</string>
+    <string name="custom_banner_replace">Vyměnit</string>
+    <string name="custom_banner_deselect">Zrušit výběr</string>
+    <string name="custom_banner_confirm_title">Nahrát Banner</string>
+    <string name="custom_banner_confirm_body">Nahrát tento banner za %1$s voidstones?</string>
+    <string name="custom_banner_upload_success">Banner byl odeslán k posouzení</string>
+    <string name="custom_banner_selected">Banner označen</string>
+    <string name="custom_banner_deselected">Banner odznačen</string>
+    <string name="custom_banner_upload_failed">Nepodařilo se nahrát banner</string>
+    <string name="custom_banner_read_error">Nepodařilo se načíst banner</string>
     <string name="custom_banner_invalid_format">File must be an image</string>
-    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
-    <string name="custom_banner_compress_accept">Use Compressed</string>
-    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
-    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
-    <string name="custom_banner_crop_apply">Crop &amp; use</string>
-    <string name="custom_banner_processing">Processing…</string>
-    <string name="custom_banner_bought">Custom Banner Upload</string>
-    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_error_size">Tvůj banner %1$dKB je příliš velký (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Tvůj banner %1$dx%2$d je příliš velký (max %3$dx%4$d pixelů)</string>
+    <string name="custom_banner_error_both">Tvůj banner %1$dKB / %3$dx%4$d je příliš velký (max %2$dKB / %5$dx%6$d pixelů)</string>
+    <string name="custom_banner_compress_title">Banner je příliš velký – zmenšit?</string>
+    <string name="custom_banner_compress_accept">Použít zmenšený</string>
+    <string name="custom_banner_compress_failed">Banner se nevešel do limitu ani po zmenšení</string>
+    <string name="custom_banner_crop_title">Oříznout na banner 16:9</string>
+    <string name="custom_banner_crop_apply">Oříznout &amp; a použít</string>
+    <string name="custom_banner_processing">Zpracovávání…</string>
+    <string name="custom_banner_bought">Nahrání vlastního banneru</string>
+    <string name="custom_banner_refund">Vrácení peněz za vlastní banner</string>
     <string name="custom_banner_slot">Banner %1$d</string>
-    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
+    <string name="custom_banner_no_approved_image">Ve slotu není žádný schválený banner %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Obnova účtu</string>
@@ -1032,10 +1032,10 @@
     <string name="database_write_fail">Zápis do databáze selhal</string>
     <string name="database_read_fail">Čtení z databáze selhalo</string>
     <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_message">Pokračováním přijímáte naše Podmínky služby a Zásady ochrany osobních údajů.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">Přijmout</string>
+    <string name="decline">Nepřijmout</string>
     <string name="banned">Zakázán přístup</string>
     <string name="muted">Ztlumeno</string>
     <string name="banned_until">Zakázán přístup do %s</string>
@@ -1052,17 +1052,17 @@
     <string name="duplicate_action">Duplicitní akce</string>
     <string name="invalid_action">Neplatná akce</string>
     <string name="invalid_value">Neplatná hodnota</string>
-    <string name="admin_cannot_act_self">Nemůžeš provést tuto akci na sobě</string>
-    <string name="admin_cannot_act_on_staff">Nemůžeš provést tuto akci na členech staffu</string>
+    <string name="admin_cannot_act_self">Nemůžeš provést tuto akci na sobě.</string>
+    <string name="admin_cannot_act_on_staff">Nemůžeš provést tuto akci na členech staff týmu.</string>
     <string name="code_not_found">Neplatný kód</string>
     <string name="code_expired">Kód vypršel</string>
     <string name="code_already_redeemed">Kód již byl uplatněn!</string>
     <string name="clan_owner_must_transfer_error">Před odchodem musíš převést vlastnictví na jiného člena.</string>
-    <string name="mail_cannot_send_self">Nemůžeš poslat poštu sám sobě</string>
-    <string name="clan_already_requested_other">Již jsi požádal o připojení k tomuto klanu</string>
+    <string name="mail_cannot_send_self">Nemůžeš poslat poštu sám sobě.</string>
+    <string name="clan_already_requested_other">Již jsi požádal o připojení k tomuto klanu.</string>
     <string name="before">Před</string>
     <string name="after">Po</string>
     <string name="clan_id">ID klanu:</string>
     <string name="editing_message">Úprava zprávy</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">Byla zjištěna neplatná konfigurace displeje. To může způsobovat problémy s ovládáním ve hře a více dotyky. Jedná se o známou chybu Samsung OneUI. Pro pokus o vyřešení problému postupujte v tomto pořadí:\n\n1. Otevřete Game Booster Plus → Game Performance → nastavte na \"Performance\" nebo 100%\n2. Odeberte aplikaci z knihovny Game Launcheru\'s library\n3. Snižte rozlišení obrazovky, pokud to vaše zařízení podporuje (1440p → 1080p)\n4. Restartujte zařízení\n\nPokud problém přetrvává nebo nepoužíváte Samsung OneUI, nahlaste prosím chybu na našem Discord serveru nebo e-mailem na podporu.</string>
 </resources>
