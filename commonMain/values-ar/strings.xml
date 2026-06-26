@@ -434,13 +434,13 @@
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
     <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">تم تخفيض رتبة العشيرة</string>
+<string name="clan_demoted">تم تخفيض رتبة العشيرة إلى %1$s.</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
-    <string name="clan_kick_confirm_message">رسالة تأكيد طرد العشيرة</string>
+<string name="clan_kick_confirm_message">رسالة تأكيد طرد العشيرة \%1$s\ ID: %2$d</string>
     <string name="clan_ban_confirm_title">حظر العضو</string>
-    <string name="clan_ban_confirm_message">رسالة تأكيد الحظر من العشيرة</string>
+<string name="clan_ban_confirm_message">رسالة تأكيد الحظر من العشيرة \"%1$s\" (ID: %2$d)</string>
     <string name="clan_unban_confirm_title">إلغاء حظر العضو</string>
-    <string name="clan_unban_confirm_message">رسالة تأكيد فتح حظر العشيرة</string>
+<string name="clan_unban_confirm_message">رسالة تأكيد فتح حظر العشيرة \"%1$s\" (ID: %2$d)</string>
     <string name="clan_unkick_confirm_title">إعادة العضو</string>
     <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_invited">تمت دعوته</string>
@@ -472,7 +472,7 @@
     <string name="clan_history_event_promote">تم ترفيعه</string>
     <string name="clan_history_event_demote">تم تنزيل الرتبة</string>
     <string name="clan_history_event_donation">تبرع</string>
-    <string name="clan_history_id">هوية تاريخ العشيرة</string>
+<string name="clan_history_id">هوية تاريخ العشيرة: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
@@ -721,7 +721,7 @@
     <string name="speed_boost">+السرعة: %ss</string>
     <string name="xp">الخبرة</string>
     <string name="level">المستوى</string>
-    <string name="level_number">مستوئ رقم</string>
+<string name="level_number">رقم المستوئ %d</string>
     <string name="food">الطعام</string>
     <string name="voidstones">فويدستون</string>
     <string name="blobs_eaten">الدوائر المأكولة</string>
@@ -802,10 +802,10 @@
     <!-- Player List -->
     <string name="players">اللاعبين</string>
     <string name="spectators">المشاهدين</string>
-    <string name="joined_room">تم الانضمام الى الغرفة</string>
+<string name="joined_room">تم الانضمام الى الغرفة %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">قائمة طاقم العمل</string>
-    <string name="player_list_count">عدد اللاعبين في القائمة</string>
+<string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
     <string name="player_list_count_with_spectators">قائمة اللاعبين والمشاهدين</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
@@ -820,22 +820,22 @@
     <string name="custom_image_replace">استبدال</string>
     <string name="custom_image_deselect">إلغاء التحديد</string>
     <string name="custom_image_confirm_title">رفع صورة</string>
-    <string name="custom_image_confirm_body">تأكيد نص الصورة المخصصه</string>
+<string name="custom_image_confirm_body">هل تريد تحميل هذه الصورة مقابل %1$s</string>
     <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">تم اختيار الصورة الشخصية</string>
     <string name="custom_image_deselected">تم إلغاء اختيار الصورة الشخصية</string>
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">حدث خطأ في حجم الصورة المخصصة</string>
-    <string name="custom_image_error_dimensions">أبعاد الصورة المخصصة</string>
+<string name="custom_image_error_size">حدث خطأ في حجم الصورة المخصصة %1$dKB (max %2$dKB)</string>
+<string name="custom_image_error_dimensions">حدث خطأ في حجم الصورة المخصصة %1$dx%2$d (max %3$dx%4$d pixels)</string>
     <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
     <string name="custom_image_compress_title">عنوان ضغط الصورة المخصصة</string>
     <string name="custom_image_compress_accept">قبول ضغط الصورة المخصصة</string>
     <string name="custom_image_compress_failed">فشل ضغط الصورة المخصصة</string>
     <string name="custom_image_bought">رفع صورة مخصصة</string>
     <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
-    <string name="custom_image_slot">فتح الصورة المخصصة</string>
+<string name="custom_image_slot">فتح الصورة المخصصة %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">فشل تحميل المظهر المخصص الخاص بك: %1$s</string>
@@ -853,11 +853,11 @@
     <string name="recovery_account_id_placeholder">رقم الحساب</string>
     <string name="recovery_load_preview">تحميل الحساب</string>
     <string name="recovery_new_email_label">البريد الإلكتروني الجديد</string>
-    <string name="recovery_new_email_placeholder">إستعادة عنصر جديد إيميل</string>
+<string name="recovery_new_email_placeholder">استعادة عنصر نائب جديد</string>
     <string name="recovery_change_mail">تغيير البريد الإلكتروني</string>
     <string name="recovery_confirm_title">تغيير بريد الحساب الإلكتروني؟</string>
-    <string name="recovery_confirm_body">تأكيد التعافي </string>
-    <string name="recovery_success_body">تهيئة نجاح الشفاء</string>
+<string name="recovery_confirm_body">تأكيد التعافي: %1$s</string>
+<string name="recovery_success_body">تهيئة نجاح الشفاء: %1$s</string>
     <string name="recovery_error_invalid_id">يرجى إدخال رقم هوية حساب صحيح.</string>
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
@@ -940,7 +940,7 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
-    <string name="uptime">وقت التطبيق</string>
+<string name="uptime">وقت التطبيق: %s</string>
     <string name="players_count">اللاعبين</string>
     <string name="show_ui">إظهار</string>
     <string name="open_menu">افتح القائمة</string>
@@ -948,7 +948,7 @@
     <string name="spectate">شاهد</string>
     <string name="previous_entity">الكيان السابق</string>
     <string name="next_entity">الكيان التالي</string>
-    <string name="level_abbreviated">اختصار المستوى</string>
+<string name="level_abbreviated">مستوئ مختصر %d</string>
     <string name="left">متبقي</string> <!-- left as in remaining, not the left direction -->
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
@@ -970,7 +970,7 @@
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
     <string name="tos_title">شروط اللقب</string>
     <string name="tos_message">شروط الرسالة</string>
-    <string name="tos_link">رابط شروط الخدمة</string>
+<string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">مقبول</string>
     <string name="decline">مرفوض</string>
     <string name="banned">محظور</string>
