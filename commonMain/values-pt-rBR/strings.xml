@@ -1018,7 +1018,7 @@
     <string name="invalid_selection">Seleção inválida!</string>
     <string name="invalid_name">Nome inválido!</string>
     <string name="content_blocked">Conteúdo bloqueado detectado na string</string>
-    <string name="connecting">Conectando %s</string>
+    <string name="connecting">Conectando%s</string>
     <string name="error">Erro</string>
     <string name="error_with_string">Erro: %s</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência.</string>
