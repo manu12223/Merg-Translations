@@ -22,7 +22,7 @@
     <!-- Options menu !-->
     <string name="language">Ngôn Ngữ</string>
     <string name="language_arabic">العربية | Tiếng Ả Rập</string>
-    <string name="language_azerbaijani">Azərbaycanca | Azerbaijani</string>
+    <string name="language_azerbaijani">Azərbaycanca | Tiếng Azerbaijan</string>
     <string name="language_bengali">বাংলা | Tiếng Bengali</string>
     <string name="language_chinese">简体中文 | Tiếng Trung (Giản Thể)</string>
     <string name="language_chinese_traditional">繁體中文 | Tiếng Trung (Chữ Truyền Thống)</string>
@@ -50,7 +50,7 @@
     <string name="language_thai">ไทย | Tiếng Thái</string>
     <string name="language_turkish">Türkçe | Tiếng Thổ Nhĩ Kỳ</string>
     <string name="language_vietnamese">Tiếng Việt</string>
-    <string name="language_ukrainian">Українська | Ukrainian</string>
+    <string name="language_ukrainian">Українська | Tiếng Ukraina</string>
     <string name="background">Hình nền</string>
     <string name="background_black">Đen</string>
     <string name="background_white">Trắng</string>

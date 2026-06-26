@@ -113,7 +113,7 @@
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールを無効にする</string>
     <string name="circle_map">丸いマップ</string>
-    <string name="relax">プレイヤー対ブロブのみ</string>
+    <string name="relax">リアルプレイヤー対ボットのみ</string>
     <string name="warning_no_holes">統計は更新されません</string>
     <string name="gold_holes">ゴールドホールを有効にする</string>
     <string name="starting_difficulty">難易度のスキップ</string>
@@ -220,11 +220,11 @@
     <string name="booster_autoshoot">オートイジェクト</string>
     <string name="booster_spawn_size">スポーンサイズ</string>
     <string name="speed_none">なし</string>
-    <string name="speed_slow">低速 (5／秒)</string>
-    <string name="speed_medium">普通 (10／秒)</string>
-    <string name="speed_fast">高速 (20／秒)</string>
-    <string name="speed_ultra">ウルトラ (30／秒)</string>
-    <string name="speed_crazy">クレイジー (60／秒)</string>
+    <string name="speed_slow">スロー (5回／秒)</string>
+    <string name="speed_medium">ミディアム (10回／秒)</string>
+    <string name="speed_fast">ファスト (20回／秒)</string>
+    <string name="speed_ultra">ウルトラ (30回／秒)</string>
+    <string name="speed_crazy">クレイジー (60回／秒)</string>
     <string name="minutes_short">%1$d分間</string>
     <string name="invalid_code">無効なコードです</string>
     <string name="code_already_claimed">コードはすでに利用されました！</string>
@@ -263,7 +263,7 @@
     <string name="verify_reward">リワード確認</string>
     <string name="competitive_season_reward">ランクバトルのシーズンリワード</string>
     <string name="purchase_remove_ads_label">広告を非表示化</string>
-    <string name="purchase_status_permanent">生涯</string>
+    <string name="purchase_status_permanent">無期限</string>
     <string name="purchase_status_refunded">返金</string>
     <string name="purchase_no_ads_gift_received">#%dからの『広告を非表示化』ギフト</string>
     <string name="purchase_no_ads_gift_purchased">#%dへの『広告を非表示化』ギフト</string>
@@ -790,8 +790,8 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">コピー</string>
     <string name="dialog_notice">注意</string>
-    <string name="dialog_warning">警告</string>
-    <string name="dialog_alert">警告</string>
+    <string name="dialog_warning">注意</string>
+    <string name="dialog_alert">注意</string>
     <string name="dialog_dont_show_again">再表示しない</string>
     <string name="dialog_dismiss">取り消す</string>
     <string name="dialog_previous">前へ</string>
