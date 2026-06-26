@@ -22,7 +22,7 @@
     <!-- Options menu !-->
     <string name="language">语言</string>
     <string name="language_arabic">العربية｜阿拉伯语</string>
-    <string name="language_azerbaijani">Azərbaycanca | Azerbaijani</string>
+    <string name="language_azerbaijani">Azərbaycanca｜阿塞拜疆语</string>
     <string name="language_bengali">বাংলা｜孟加拉语</string>
     <string name="language_chinese">简体中文</string>
     <string name="language_chinese_traditional">繁體中文｜繁体中文</string>
@@ -50,7 +50,7 @@
     <string name="language_thai">ไทย｜泰语</string>
     <string name="language_turkish">Türkçe｜土耳其语</string>
     <string name="language_vietnamese">Tiếng Việt｜越南语</string>
-    <string name="language_ukrainian">Українська | Ukrainian</string>
+    <string name="language_ukrainian">Українська｜乌克兰语</string>
     <string name="background">Background</string>
     <string name="background_black">Black</string>
     <string name="background_white">White</string>
