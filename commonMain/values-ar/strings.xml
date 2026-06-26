@@ -472,7 +472,7 @@
     <string name="clan_history_event_promote">تم ترفيعه</string>
     <string name="clan_history_event_demote">تم تنزيل الرتبة</string>
     <string name="clan_history_event_donation">تبرع</string>
-<string name="clan_history_id">هوية تاريخ العشيرة: %d</string>
+    <string name="clan_history_id">هوية تاريخ العشيرة: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
@@ -802,7 +802,7 @@
     <!-- Player List -->
     <string name="players">اللاعبين</string>
     <string name="spectators">المشاهدين</string>
-<string name="joined_room">تم الانضمام الى الغرفة %s</string>
+    <string name="joined_room">تم الانضمام الى الغرفة %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">قائمة طاقم العمل</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
