@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+    <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
@@ -21,36 +21,36 @@
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
-    <string name="language_arabic">العربية | Árabe</string>
-    <string name="language_azerbaijani">Azərbaycanca | Azerbaijano</string>
-    <string name="language_bengali">বাংলা | Bengali</string>
-    <string name="language_chinese">简体中文 | Chinês (Simplificado)</string>
-    <string name="language_chinese_traditional">繁體中文 | Chinês (Tradicional)</string>
-    <string name="language_czech">Čeština | Checo</string>
-    <string name="language_danish">Dansk | Dinamarquês</string>
-    <string name="language_dutch">Nederlands | Neerlandês</string>
-    <string name="language_english">English | Inglês</string>
-    <string name="language_filipino">Filipino | Tagalo</string>
-    <string name="language_finnish">Suomi | Finlandês</string>
-    <string name="language_french">Français | Francês</string>
-    <string name="language_german">Deutsch | Alemão</string>
-    <string name="language_greek">Ελληνικά | Grego</string>
-    <string name="language_hindi">हिन्दी | Híndi</string>
-    <string name="language_indonesian">Bahasa Indonesia | Indonésio</string>
-    <string name="language_italian">Italiano | Italiano</string>
-    <string name="language_japanese">日本語 | Japonês</string>
-    <string name="language_korean">한국어 | Coreano</string>
-    <string name="language_polish">Polski | Polonês</string>
+    <string name="language_arabic">Árabe</string>
+    <string name="language_azerbaijani">Azerbaijano</string>
+    <string name="language_bengali">Bengali</string>
+    <string name="language_chinese">Chinês (Simplificado)</string>
+    <string name="language_chinese_traditional">Chinês (Tradicional)</string>
+    <string name="language_czech">Checo</string>
+    <string name="language_danish">Dinamarquês</string>
+    <string name="language_dutch">Neerlandês</string>
+    <string name="language_english">Inglês</string>
+    <string name="language_filipino">Tagalo</string>
+    <string name="language_finnish">Finlandês</string>
+    <string name="language_french">Francês</string>
+    <string name="language_german">Alemão</string>
+    <string name="language_greek">Grego</string>
+    <string name="language_hindi">Híndi</string>
+    <string name="language_indonesian">Indonésio</string>
+    <string name="language_italian">Italiano</string>
+    <string name="language_japanese">Japonês</string>
+    <string name="language_korean">Coreano</string>
+    <string name="language_polish">Polonês</string>
     <string name="language_portuguese">Português (Brasil)</string>
     <string name="language_portuguese_portugal">Português (Portugal)</string>
-    <string name="language_romanian">Română | Romeno</string>
-    <string name="language_russian">Русский | Russo</string>
-    <string name="language_spanish">Español | Espanhol</string>
-    <string name="language_swedish">Svenska | Sueco</string>
-    <string name="language_thai">ไทย | Tailandês</string>
-    <string name="language_turkish">Türkçe | Turco</string>
-    <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
-    <string name="language_ukrainian">Українська | Ucraniano</string>
+    <string name="language_romanian">Romeno</string>
+    <string name="language_russian">Russo</string>
+    <string name="language_spanish">Espanhol</string>
+    <string name="language_swedish">Sueco</string>
+    <string name="language_thai">Tailandês</string></resources>
+        <string name="language_turkish">Turco</string>
+    <string name="language_vietnamese">Vietnamita</string>
+    <string name="language_ukrainian">Ucraniano</string>
     <string name="background">Fundo</string>
     <string name="background_black">Preto</string>
     <string name="background_white">Branco</string>
@@ -85,8 +85,8 @@
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
     <string name="verbose_in_game_ui">IU Detalhada no Jogo</string>
     <string name="jitter_buffer">Jitter Buffer</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">Extrapolação</string>
+    <string name="no_interpolation">Sem Interpolação</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Jogo</string>
