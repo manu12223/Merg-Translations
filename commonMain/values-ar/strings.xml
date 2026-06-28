@@ -85,8 +85,8 @@
     <string name="cycle_progressbar">نص شريط تقدم المستوى XP</string>
     <string name="verbose_in_game_ui">تفاصيل واجهة اللعبة</string>
     <string name="jitter_buffer">مخزن مؤقت</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">الأستكمال</string>
+    <string name="no_interpolation">بدون استكمال</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">نوع اللعبة</string>
@@ -131,7 +131,7 @@
     <string name="select_server">اختيار السيرفر</string>
     <string name="server_europe">أوروبا</string>
     <string name="server_americas_nc">Americas (N/C)</string>
-    <string name="server_south_america">South America</string>
+    <string name="server_south_america">بطيء أميركا</string>
     <string name="join">دخول</string>
     <string name="create">إنشاء</string>
     <string name="create_chat_room">إنشاء غرفة دردشة</string>
@@ -166,7 +166,7 @@
     <string name="find_opponent">العثور على خصم</string>
     <string name="leave_matchmaking">مغادرة البحث</string>
     <string name="searching_ellipsis">جارٍ البحث...</string>
-    <string name="competitive_entering">Entering…</string>
+    <string name="competitive_entering">الدخول…</string>
     <string name="x_searching_y_playing">%1$s يبحث · %2$s يلعب</string>
     <string name="x_searching">%d يبحث</string>
     <string name="x_playing">%d يلعب</string>
@@ -203,29 +203,29 @@
     <string name="free_voidstones_status">متبقي %1$d ⋅ يعاد كل %2$s</string>
     <string name="free_voidstones_left">متبقي: %d</string>
     <string name="pick">يختار</string>
-    <string name="redeem_code">استرداد الرمز</string>
+    <string name="redeem_code">استرداد الرمز</string
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
-    <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
-    <string name="speed_ultra">Ultra (30/sec)</string>
-    <string name="speed_crazy">Crazy (60/sec)</string>
-    <string name="minutes_short">%1$d min</string>
+    <string name="boosters">داعمون</string>
+    <string name="booster_permanent_upgrades">ترقيات دائمة</string>
+    <string name="booster_ad_xp_title">مضاعف نقاط الخبرة الإعلانية</string>
+    <string name="booster_ad_xp_desc">شاهد مقطع فيديو للحصول على تعزيز مؤقت لنقاط الخبرة (XP).!</string>
+    <string name="booster_stacks_base_xp">تُضاف إلى نقاط الخبرة الأساسية</string>
+    <string name="booster_watch_ad">شاهد اعلاناً</string>
+    <string name="booster_choose_boost">اختر تعزيز نقاط الخبرة الخاص بك</string>
+    <string name="booster_active">نشيط</string>
+    <string name="booster_max">الحد الأقصى</string>
+    <string name="booster_upgrade">ترقية</string>
+    <string name="booster_base_xp">مُضاعِف نقاط الخبرة الأساسية</string>
+    <string name="booster_autosplit">التقسيم التلقائي</string>
+    <string name="booster_autoshoot">إطلاق تلقائي</string>
+    <string name="booster_spawn_size">حجم التقاوي</string>
+    <string name="speed_none">لا أحد</string>
+    <string name="speed_slow">بطيء (5/ثواني)</string>
+    <string name="speed_medium">متوسط (10/ثواني)</string>
+    <string name="speed_fast">سريع (20/ثانيه)</string>
+    <string name="speed_ultra">فائق (30/ثانيه)</string>
+    <string name="speed_crazy">مجنون (60/ثانيه)</string>
+    <string name="minutes_short">%1$d دقيقه</string>
     <string name="invalid_code">رمز غير صالح</string>
     <string name="code_already_claimed">تم استرداد الرمز مسبقاً!</string>
     <string name="successfully_claimed_code">تم استلام المكافأة</string>
@@ -265,8 +265,8 @@
     <string name="purchase_remove_ads_label">إزالة الإعلانات</string>
     <string name="purchase_status_permanent">دائم</string>
     <string name="purchase_status_refunded">تم الاسترداد</string>
-    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
-    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_no_ads_gift_received">هدية "بدون إعلانات" من #%d</string>
+    <string name="purchase_no_ads_gift_purchased">هدية "بدون إعلانات" لـ #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
@@ -309,8 +309,8 @@
     <string name="change_name">تغيير الاسم</string>
     <string name="copy_id">نسخ الهوية</string>
     <string name="share_id">مشاركة المعرف</string>
-    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
-    <string name="no_youtube_link">No Link</string>
+    <string name="share_id_message">أضفني على Merg! مُعرِّفي هو %1$s</string>
+    <string name="no_youtube_link">لا رابط</string>
     <string name="created">Created %s</string>
     <string name="last_seen">آخر ظهور: %s</string>
     <string name="save_profile_description">حفظ وصف الملف الشخصي</string>
@@ -318,7 +318,7 @@
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
     <string name="profile_description_save_failed">فشل حفظ وصف الملف الشخصي</string>
     <string name="profile_description_too_long">الوصف طويل جدا! (الحد الأقصى %d حرفا)</string>
-    <string name="profile_description_too_large">Profile description is larger than %s</string>
+    <string name="profile_description_too_large">وصف الملف الشخصي أكبر من %s</string>
     <string name="unlock_description_color">فتح قفل لون نص الوصف</string>
     <string name="description_text_color">لون نص الوصف</string>
     <string name="unlock_description_color_success">تم فتح لون نص الوصف!</string>
@@ -424,9 +424,9 @@
     <!-- Clan -->
     <string name="clan_create">إنشاء عشيرة</string>
     <string name="clan_name">اسم العشيرة</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_name_hint">أدخل اسم العشيرة (بحد أقصى 14 حرفاً)</string>
     <string name="clan_tag">وسم العشيرة</string>
-    <string name="clan_tag_hint">Tag (1-4 letters)</string>
+    <string name="clan_tag_hint">الوسم (1-4 أحرف)</string>
     <string name="clan_list">العشائر العامة</string>
     <string name="clan_no_clans">لم يتم العثور على عشائر</string>
     <string name="no_clan">لا يوجد عشيرة</string>
@@ -436,7 +436,7 @@
     <string name="clan_joined">تم الانضمام إلى العشيرة!</string>
     <string name="clan_private">هذه العشيرة خاصة أو لم تعد نشطة.</string>
     <string name="clan_members">الأعضاء</string>
-    <string name="clan_members_count">%1$d / %2$d members</string>
+    <string name="clan_members_count">%1$d / %2$d عضواً</string>
     <string name="clan_request_join">طلب الانضمام</string>
     <string name="clan_leave">الخروج من العشيرة</string>
     <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
@@ -456,17 +456,18 @@
     <string name="clan_role_owner">المالك</string>
     <string name="clan_role_co_owner">مساعد القائد</string>
     <string name="clan_role_admin">المسؤول</string>
-    <string name="clan_role_elder">Elder</string>
+    <string name="clan_role_elder">كبير السن</string>
     <string name="clan_role_member">عضو</string>
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
-    <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_promoted">تمت الترقية إلى %1$s.</string>
+    <string name="clan_demoted">تم خفض الرتبة إلى %1$s.</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_kick_confirm_message">طرد\"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
     <string name="clan_ban_confirm_title">حظر العضو</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_ban_confirm_message">حظر
+        n \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
     <string name="clan_unban_confirm_title">إلغاء حظر العضو</string>
     <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
     <string name="clan_unkick_confirm_title">إعادة العضو</string>
@@ -500,7 +501,7 @@
     <string name="clan_history_event_promote">تم ترفيعه</string>
     <string name="clan_history_event_demote">تم تنزيل الرتبة</string>
     <string name="clan_history_event_donation">تبرع</string>
-    <string name="clan_history_id">History ID: %d</string>
+    <string name="clan_history_id">معرف السجل: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
@@ -577,11 +578,11 @@
     <string name="stat_blobs_eaten">الدوائر المأكولة:</string>
     <string name="stat_games_won">المباريات الي تم الفوز بها:</string>
     <string name="stat_longest_session">اعلى مدة بقاء على قيد الحياة:</string>
-    <string name="stat_time_played">Time Played:</string>
+    <string name="stat_time_played">وقت اللعب:</string>
     <string name="stat_stages_cleared">تم الإنتهاء من المراحل:</string>
     <string name="stat_highest_stage">اعلى مرحلة:</string>
     <string name="stat_adventures_completed">المغامرات مكتملة:</string>
-    <string name="stat_goals_scored">Goals Scored:</string>
+    <string name="stat_goals_scored">الأهداف المسجلة:</string>
     <string name="stat_collisions">التصادمات:</string>
     <string name="stat_boosts">التعزيزات:</string>
     <string name="stat_teleports">الإنتقالات:</string>
@@ -694,7 +695,7 @@
     <string name="skin_tab_standard">معيار</string>
     <string name="skin_tab_level">المستوى</string>
     <string name="skin_tab_voidstones">فويدستون</string>
-    <string name="flags">Flags</string>
+    <string name="flags">أعلام</string>
     <string name="skin_tab_special">مُميز</string>
     <string name="level_skin_locked">الجلد يفتح في مستوى %d</string>
     <string name="level_lock">قفل المستوى</string>
@@ -728,7 +729,7 @@
     <string name="afk_disconnect">فصل بسبب عدم النشاط</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%dst</string>
+    <string name="ordinal_first">%التوقيت الصيفي</string>
     <string name="ordinal_second">%dnd</string>
     <string name="ordinal_third">%drd</string>
     <string name="ordinal_fourth">%dth</string>
@@ -831,9 +832,9 @@
     <!-- Player List -->
     <string name="players">اللاعبين</string>
     <string name="spectators">المشاهدين</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="joined_room">تم الانضمام إلى الغرفة %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
-    <string name="staff_list_title">STAFF LIST</string>
+    <string name="staff_list_title">قائمة الموظفين</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
     <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
@@ -864,10 +865,10 @@
     <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
     <string name="custom_image_crop_title">Crop to a square</string>
     <string name="custom_image_crop_apply">Crop &amp; use</string>
-    <string name="custom_image_processing">Processing…</string>
+    <string name="custom_image_processing">يعالج…</string>
     <string name="custom_image_bought">رفع صورة مخصصة</string>
     <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
-    <string name="custom_image_slot">Image %1$d</string>
+    <string name="custom_image_slot">الصورة %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">فشل تحميل المظهر المخصص الخاص بك: %1$s</string>
@@ -876,17 +877,17 @@
     <string name="report_avatar_message">هل تريد الإبلاغ عن الصورة الشخصية لـ %1$s؟</string>
     <string name="report_avatar_success">تم الإبلاغ عن الصورة الشخصية</string>
     <string name="report_avatar_failed">فشل الإبلاغ عن الصورة الشخصية</string>
-    <string name="report_banner">Report Banner</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
-    <string name="report_banner_success">Banner reported</string>
-    <string name="report_banner_failed">Failed to report banner</string>
+    <string name="report_banner">لافتة الإبلاغ</string>
+    <string name="report_banner_message">هل تود الإبلاغ عن لافتة %1$s؟</string>
+    <string name="report_banner_success">تم الإبلاغ عن اللافتة</string>
+    <string name="report_banner_failed">فشل الإبلاغ عن اللافتة</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
     <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
-    <string name="custom_banner_confirm_title">Upload Banner</string>
+    <string name="custom_banner_upload">رفع</string>
+    <string name="custom_banner_replace">يستبدل</string>
+    <string name="custom_banner_deselect">إلغاء التحديد</string>
+    <string name="custom_banner_confirm_title">تحميل لافتة</string>
     <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
     <string name="custom_banner_upload_success">Banner sent for review</string>
     <string name="custom_banner_selected">Banner selected</string>
@@ -902,10 +903,10 @@
     <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
     <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
     <string name="custom_banner_crop_apply">Crop &amp; use</string>
-    <string name="custom_banner_processing">Processing…</string>
-    <string name="custom_banner_bought">Custom Banner Upload</string>
-    <string name="custom_banner_refund">Custom Banner Refund</string>
-    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_processing">يعالج…</string>
+    <string name="custom_banner_bought">رفع لافتة مخصصة</string>
+    <string name="custom_banner_refund">استرداد مبلغ لافتة مخصصة</string>
+    <string name="custom_banner_slot">لافتة %1$d</string>
     <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
