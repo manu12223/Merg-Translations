@@ -18,6 +18,7 @@
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Đồ họa/Biểu tượng:</string>
     <string name="translations">Bản dịch:</string>
+    <string name="fonts">Fonts:</string>
 
     <!-- Options menu !-->
     <string name="language">Ngôn Ngữ</string>
@@ -45,6 +46,7 @@
     <string name="language_portuguese_portugal">Português (Portugal) | Tiếng Bồ Đào Nha</string>
     <string name="language_romanian">Română | Tiếng Rumani</string>
     <string name="language_russian">Русский | Tiếng Nga</string>
+    <string name="language_slovak">Slovenčina | Slovak</string>
     <string name="language_spanish">Español | Tiếng Tây Ban Nha</string>
     <string name="language_swedish">Svenska | Tiếng Thụy Điến</string>
     <string name="language_thai">ไทย | Tiếng Thái</string>
@@ -70,6 +72,7 @@
     <string name="custom_background_opacity">Độ mờ hình nền</string>
     <string name="show_performance_metrics">Hiển thị chỉ số hiệu năng</string>
     <string name="skin_outlines">Đường viền Skin</string>
+    <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">Mũi tên chỉ hướng</string>
     <string name="border_above_entities">Viền nằm trên thực thể</string>
     <string name="map_border_visible">Hiển thị viền bản đồ</string>
@@ -250,6 +253,11 @@
     <string name="voidstone_gift_received">Đã nhận quà Voidstone</string>
     <string name="voidstone_gift_send">Đã gửi quà Voidstone</string>
     <string name="skin_bought">Skin</string>
+    <string name="booster_base_xp_bought">Base XP Upgrade</string>
+    <string name="booster_autosplit_bought">Autosplit Upgrade</string>
+    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
+    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">Đổi tên hồ sơ</string>
     <string name="profile_name_color_bought">Mở khóa màu tên hồ sơ</string>
     <string name="profile_color_bought">Mở khóa màu hồ sơ</string>
@@ -267,6 +275,9 @@
     <string name="purchase_status_refunded">Đã hoàn tiền</string>
     <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
     <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
+    <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Quảng cáo chưa được tải</string>
@@ -297,6 +308,74 @@
      <string name="season_bag_entry">Mùa %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Hiện tại</string>
      <string name="season_bag_last">Trước</string>
+
+     <!-- Season Pass UI labels -->
+     <string name="season_pass_tab_daily">DAILY</string>
+     <string name="season_pass_tab_weekly">WEEKLY</string>
+     <string name="season_pass_tab_season">SEASON</string>
+     <string name="season_pass_done">DONE</string>
+     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_admin_cd">Admin</string>
+     <string name="season_pass_level_short">Lvl %1$d</string>
+     <string name="season_pass_resets_now">Resets now</string>
+     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
+     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
+     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+
+     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
+     <string name="season_pass_history_cd">History</string>
+     <string name="season_pass_history_empty">No rewards collected yet</string>
+     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
+     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
+     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
+     <string name="season_pass_history_task_season">Season Task: %1$s</string>
+     <string name="season_pass_history_season_page">Season %1$d</string>
+     <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
+     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
+     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
+     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+
+     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
+     <string name="season_pass_missed_cd">Missed rewards</string>
+     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
+     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
+
+     <!-- Season Pass task titles — one per event_type. Catalog in
+          season_task_templates table; the client looks these up by
+          event_type at render time. DB `season_tasks.title` stays as
+          canonical English fallback (admin can no longer edit it). -->
+     <string name="season_task_food_eaten">Eat food</string>
+     <string name="season_task_voidstone_any_eaten">Collect voidstones</string>
+     <string name="season_task_voidstone_regular_eaten">Collect regular voidstones</string>
+     <string name="season_task_voidstone_bronze_eaten">Collect bronze voidstones</string>
+     <string name="season_task_voidstone_silver_eaten">Collect silver voidstones</string>
+     <string name="season_task_voidstone_gold_eaten">Collect gold voidstones</string>
+     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
+     <string name="season_task_food_and_voidstone_eaten">Collect food and voidstones</string>
+     <string name="season_task_bots_eaten">Eat bots</string>
+     <string name="season_task_players_eaten">Eat players</string>
+     <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
+     <string name="season_task_hole_blue_powerup">Use blue hole powerups</string>
+     <string name="season_task_hole_purple_powerup">Use purple hole powerups</string>
+     <string name="season_task_hole_gold_powerup">Use gold hole powerups</string>
+     <string name="season_task_hole_any_punishment">Get hit by any hole</string>
+     <string name="season_task_hole_black_punishment">Get hit by black holes</string>
+     <string name="season_task_hole_blue_punishment">Get hit by blue holes</string>
+     <string name="season_task_hole_purple_punishment">Get hit by purple holes</string>
+     <string name="season_task_hole_gold_punishment">Get hit by gold holes</string>
+     <string name="season_task_win_competitive">Win competitive games</string>
+     <string name="season_task_win_survival">Win survival games</string>
+     <string name="season_task_win_team_survival">Win team survival games</string>
+     <string name="season_task_win_knockout">Win knockout games</string>
+     <string name="season_task_win_soccer">Win soccer games</string>
+     <string name="season_task_soccer_goal_scored">Score soccer goals</string>
+     <string name="season_task_split">Split</string>
+     <string name="season_task_shoot">Shoot</string>
 
     <!-- Profile -->
     <string name="profile">Hồ sơ</string>
@@ -742,17 +821,18 @@
 
     <!-- In Game UI !-->
     <string name="player_size">Kích thước: %d</string>
+    <string name="player_size_decimal">Size: %s</string>
     <string name="effective_size">Kích thước hiệu dụng: %d</string>
+    <string name="effective_size_decimal">Effective Size: %s</string>
     <string name="decay">Giảm dần: %.2f/s</string>
     <string name="pieces">Mảnh: %1d/%2d</string>
     <string name="merge">Hợp nhất: %ss</string>
-    <string name="invincibility">Bất khả xâm phạm: %ss</string>
-    <string name="speed_boost">+Tốc độ: %ss</string>
     <string name="xp">XP</string>
     <string name="level">Cấp độ</string>
     <string name="level_number">Cấp %d</string>
     <string name="food">Thức ăn</string>
     <string name="voidstones">Voidstones</string>
+    <string name="items">Items</string>
     <string name="blobs_eaten">Blobs đã ăn</string>
     <string name="session_stat_size_gained">Kích thước đạt được</string>
     <string name="highest_rank">Hạng cao nhất</string>
