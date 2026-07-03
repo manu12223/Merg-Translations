@@ -345,7 +345,7 @@
      <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
 
-     <!-- Seaon Pass task titles — one per event_type. Catalog in
+     <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
