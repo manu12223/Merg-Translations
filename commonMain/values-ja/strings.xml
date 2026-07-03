@@ -12,13 +12,13 @@
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Ｅメールをコピー</string>
-    <string name="email_support">サポートＥメール:</string>
-    <string name="developer">開発者:</string>
-    <string name="code_contribution">コードヘルパー:</string>
-    <string name="skins">スキン:</string>
-    <string name="graphics_icons">グラフィックとアイコン:</string>
-    <string name="translations">翻訳:</string>
-    <string name="fonts">Fonts:</string>
+    <string name="email_support">サポートＥメール：</string>
+    <string name="developer">デベロッパー：</string>
+    <string name="code_contribution">コードヘルパー：</string>
+    <string name="skins">スキン：</string>
+    <string name="graphics_icons">グラフィックとアイコン：</string>
+    <string name="translations">翻訳：</string>
+    <string name="fonts">フォント：</string>
 
     <!-- Options menu !-->
     <string name="language">言語</string>
@@ -46,7 +46,7 @@
     <string name="language_portuguese_portugal">Português (Portugal)｜ポルトガル語</string>
     <string name="language_romanian">Română｜ルーマニア語</string>
     <string name="language_russian">Русский｜ロシア語</string>
-    <string name="language_slovak">Slovenčina | Slovak</string>
+    <string name="language_slovak">Slovenčina｜スロバキア語</string>
     <string name="language_spanish">Español｜スペイン語</string>
     <string name="language_swedish">Svenska｜スウェーデン語</string>
     <string name="language_thai">ไทย｜タイ語</string>
@@ -72,7 +72,7 @@
     <string name="custom_background_opacity">背景の不透明度</string>
     <string name="show_performance_metrics">パフォーマンス統計を表示化</string>
     <string name="skin_outlines">スキンボーダー</string>
-    <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
+    <string name="delayed_auto_fire">オートスプリットとオートイジェクトのディレイ</string>
     <string name="direction_arrow">方向矢印を表示化</string>
     <string name="border_above_entities">太いボーダーのマップ</string>
     <string name="map_border_visible">マップボーダーを表示化</string>
@@ -253,10 +253,10 @@
     <string name="voidstone_gift_received">ボイドストーンギフト受取済み</string>
     <string name="voidstone_gift_send">ボイドストーンギフトを贈る</string>
     <string name="skin_bought">購入したスキン</string>
-    <string name="booster_base_xp_bought">Base XP Upgrade</string>
-    <string name="booster_autosplit_bought">Autosplit Upgrade</string>
-    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
-    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_base_xp_bought">基本経験値のアップグレード</string>
+    <string name="booster_autosplit_bought">オートスプリットのアップグレード</string>
+    <string name="booster_autoshoot_bought">オートイジェクトのアップグレード</string>
+    <string name="booster_spawn_size_bought">スポーンサイズのアップグレード</string>
     <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">名前変更購入済み</string>
     <string name="profile_name_color_bought">ネームカラー購入済み</string>
@@ -276,8 +276,8 @@
     <string name="purchase_no_ads_gift_received">#%dからの『広告を非表示化』ギフト</string>
     <string name="purchase_no_ads_gift_purchased">#%dへの『広告を非表示化』ギフト</string>
     <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
-    <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
+    <string name="purchase_season_pass_gold_gift_received">#%dからの『Season Pass Gold』ギフト</string>
+    <string name="purchase_season_pass_gold_gift_purchased">#%dへの『Season Pass Gold』ギフト</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
@@ -310,72 +310,72 @@
      <string name="season_bag_last">最後</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">DAILY</string>
-     <string name="season_pass_tab_weekly">WEEKLY</string>
-     <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
-     <string name="season_pass_admin_cd">Admin</string>
+     <string name="season_pass_tab_daily">デイリー</string>
+     <string name="season_pass_tab_weekly">ウィークリー</string>
+     <string name="season_pass_tab_season">シーズン</string>
+     <string name="season_pass_done">完了</string>
+     <string name="season_pass_claim">クレーム</string>
+     <string name="season_pass_admin_cd">アドミン</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+     <string name="season_pass_resets_now">今はリセット</string>
+     <string name="season_pass_resets_in_dh">%1$d日 %2$d時間後にリセット</string>
+     <string name="season_pass_resets_in_hm">%1$d時間 %2$d分後にリセット</string>
+     <string name="season_pass_resets_in_m">%1$d分後にリセット</string>
 
-     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
-     <string name="season_pass_history_cd">History</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
-     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
-     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
-     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Season Task: %1$s</string>
-     <string name="season_pass_history_season_page">Season %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+     <string name="season_pass_history_title">シーズンパスの履歴</string>
+     <string name="season_pass_history_cd">履歴</string>
+     <string name="season_pass_history_empty">ゲットしたリワードはまだありません</string>
+     <string name="season_pass_history_stage_free">ステージ %1$d (無料)</string>
+     <string name="season_pass_history_stage_paid">ステージ %1$d (有料)</string>
+     <string name="season_pass_history_task_daily">デイリークエスト: %1$s</string>
+     <string name="season_pass_history_task_weekly">ウィークリークエスト: %1$s</string>
+     <string name="season_pass_history_task_season">シーズンクエスト: %1$s</string>
+     <string name="season_pass_history_season_page">シーズン %1$d</string>
+     <string name="season_pass_history_revoked_stage_paid">シーズン %1$d (有料) — 取消済み</string>
+     <string name="season_pass_history_revoked_voidstones">ボイドストーンの解除</string>
+     <string name="season_pass_history_revoked_unlock">アンロックの解除</string>
+     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold の返金</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold の異議申し立て</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold のチャージバック</string>
 
-     <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
-     <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
-     <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_missed_title">未クレームのリワード</string>
+     <string name="season_pass_missed_subtitle">シーズン %1$d での未クレームのリワード</string>
+     <string name="season_pass_missed_empty">前のシーズンでは未クレームのリワードがありません</string>
+     <string name="season_pass_missed_cd">未クレームのリワード</string>
+     <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
+     <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
-     <string name="season_task_food_eaten">Eat food</string>
-     <string name="season_task_voidstone_any_eaten">Collect voidstones</string>
-     <string name="season_task_voidstone_regular_eaten">Collect regular voidstones</string>
-     <string name="season_task_voidstone_bronze_eaten">Collect bronze voidstones</string>
-     <string name="season_task_voidstone_silver_eaten">Collect silver voidstones</string>
-     <string name="season_task_voidstone_gold_eaten">Collect gold voidstones</string>
-     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
-     <string name="season_task_food_and_voidstone_eaten">Collect food and voidstones</string>
-     <string name="season_task_bots_eaten">Eat bots</string>
-     <string name="season_task_players_eaten">Eat players</string>
-     <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
-     <string name="season_task_hole_blue_powerup">Use blue hole powerups</string>
-     <string name="season_task_hole_purple_powerup">Use purple hole powerups</string>
-     <string name="season_task_hole_gold_powerup">Use gold hole powerups</string>
-     <string name="season_task_hole_any_punishment">Get hit by any hole</string>
-     <string name="season_task_hole_black_punishment">Get hit by black holes</string>
-     <string name="season_task_hole_blue_punishment">Get hit by blue holes</string>
-     <string name="season_task_hole_purple_punishment">Get hit by purple holes</string>
-     <string name="season_task_hole_gold_punishment">Get hit by gold holes</string>
-     <string name="season_task_win_competitive">Win competitive games</string>
-     <string name="season_task_win_survival">Win survival games</string>
-     <string name="season_task_win_team_survival">Win team survival games</string>
-     <string name="season_task_win_knockout">Win knockout games</string>
-     <string name="season_task_win_soccer">Win soccer games</string>
-     <string name="season_task_soccer_goal_scored">Score soccer goals</string>
-     <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Shoot</string>
+     <string name="season_task_food_eaten">ドットを食べよう</string>
+     <string name="season_task_voidstone_any_eaten">ボイドストーンを集めよう</string>
+     <string name="season_task_voidstone_regular_eaten">普通ボイドストーンを集めよう</string>
+     <string name="season_task_voidstone_bronze_eaten">ブロンズボイドストーンを集めよう</string>
+     <string name="season_task_voidstone_silver_eaten">シルバーボイドストーンを集めよう</string>
+     <string name="season_task_voidstone_gold_eaten">ゴールドボイドストーンを集めよう</string>
+     <string name="season_task_voidstone_rainbow_eaten">レインボーボイドストーンを集めよう</string>
+     <string name="season_task_food_and_voidstone_eaten">ドットとボイドストーンを集めよう</string>
+     <string name="season_task_bots_eaten">ボットを食べよう</string>
+     <string name="season_task_players_eaten">リアルプレイヤーを食べよう</string>
+     <string name="season_task_hole_any_powerup">ホールを集めよう</string>
+     <string name="season_task_hole_blue_powerup">ブルーホールを集めよう</string>
+     <string name="season_task_hole_purple_powerup">パープルホールを集めよう</string>
+     <string name="season_task_hole_gold_powerup">ゴールドホールを集めよう</string>
+     <string name="season_task_hole_any_punishment">ホールに衝突しよう</string>
+     <string name="season_task_hole_black_punishment">ブラックホールに衝突しよう</string>
+     <string name="season_task_hole_blue_punishment">ブルーホールに衝突しよう</string>
+     <string name="season_task_hole_purple_punishment">パープルホールに衝突しよう</string>
+     <string name="season_task_hole_gold_punishment">ゴールドホールに衝突しよう</string>
+     <string name="season_task_win_competitive">ランクバトルのマッチを勝とう</string>
+     <string name="season_task_win_survival">サバイバルのマッチを勝とう</string>
+     <string name="season_task_win_team_survival">チームサバイバルのマッチを勝とう</string>
+     <string name="season_task_win_knockout">ノックアウトのマッチを勝とう</string>
+     <string name="season_task_win_soccer">サッカーのマッチを勝とう</string>
+     <string name="season_task_soccer_goal_scored">サッカーモードでゴールを決めよう</string>
+     <string name="season_task_split">スプリットしよう</string>
+     <string name="season_task_shoot">イジェクトしよう</string>
 
     <!-- Profile -->
     <string name="profile">プロフィール</string>
@@ -389,7 +389,7 @@
     <string name="copy_id">IDをコピー</string>
     <string name="share_id">IDをシェア</string>
     <string name="share_id_message">Mergで追加してね！ID %1$s</string>
-    <string name="no_youtube_link">No Link</string>
+    <string name="no_youtube_link">リンクなし</string>
     <string name="created">作成日付: %s</string>
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介保存</string>
@@ -821,9 +821,9 @@
 
     <!-- In Game UI !-->
     <string name="player_size">サイズ: %d</string>
-    <string name="player_size_decimal">Size: %s</string>
+    <string name="player_size_decimal">サイズ: %s</string>
     <string name="effective_size">表示サイズ: %d</string>
-    <string name="effective_size_decimal">Effective Size: %s</string>
+    <string name="effective_size_decimal">表示サイズ: %s</string>
     <string name="decay">サイズ減少: %.2f/s</string>
     <string name="pieces">スプリット: %1d/%2d</string>
     <string name="merge">マージまで: %ss</string>
@@ -832,7 +832,7 @@
     <string name="level_number">レベル: %d</string>
     <string name="food">ドット数</string>
     <string name="voidstones">収集したボイドストーンの数</string>
-    <string name="items">Items</string>
+    <string name="items">アイテム</string>
     <string name="blobs_eaten">食べたブロブの数</string>
     <string name="session_stat_size_gained">獲得サイズ量</string>
     <string name="highest_rank">最高ランキング</string>
