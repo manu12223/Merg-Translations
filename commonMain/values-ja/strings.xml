@@ -820,9 +820,9 @@
 
     <!-- In Game UI !-->
     <string name="player_size">サイズ: %d</string>
-    <string name="player_size_decimal">Size: %s</string>
+    <string name="player_size_decimal">サイズ: %s</string>
     <string name="effective_size">表示サイズ: %d</string>
-    <string name="effective_size_decimal">Effective Size: %s</string>
+    <string name="effective_size_decimal">表示サイズ: %s</string>
     <string name="decay">サイズ減少: %.2f/s</string>
     <string name="pieces">スプリット: %1d/%2d</string>
     <string name="merge">マージまで: %ss</string>
