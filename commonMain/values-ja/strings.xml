@@ -317,7 +317,7 @@
      <string name="season_pass_claim">クレーム</string>
      <string name="season_pass_admin_cd">アドミン</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">今はリセット</string>
+     <string name="season_pass_resets_now">今すぐリセット</string>
      <string name="season_pass_resets_in_dh">%1$d日 %2$d時間後にリセット</string>
      <string name="season_pass_resets_in_hm">%1$d時間 %2$d分後にリセット</string>
      <string name="season_pass_resets_in_m">%1$d分後にリセット</string>
