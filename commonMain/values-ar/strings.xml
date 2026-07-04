@@ -209,7 +209,7 @@
     <string name="redeem_code">استرداد الرمز</string>
     <!-- Boosters -->
     <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_permanent_upgrades">... ترقيات دائمة</string>
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
@@ -219,10 +219,10 @@
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Upgrade</string>
     <string name="booster_base_xp">Base XP Multiplier</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_autosplit">تقسيم تلقائي</string>
+    <string name="booster_autoshoot">التصوير التلقائي</string>
     <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
+    <string name="speed_none">لا أحد</string>
     <string name="speed_slow">Slow (5/sec)</string>
     <string name="speed_medium">Medium (10/sec)</string>
     <string name="speed_fast">Fast (20/sec)</string>
@@ -254,9 +254,9 @@
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
     <string name="booster_base_xp_bought">Base XP Upgrade</string>
-    <string name="booster_autosplit_bought">Autosplit Upgrade</string>
-    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
-    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_autosplit_bought">ترقية نظام التقسيم التلقائي</string>
+    <string name="booster_autoshoot_bought">ترقية التصوير التلقائي</string>
+    <string name="booster_spawn_size_bought">ترقيةحجم التكاثر</string>
     <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">تم شراء تغيير اسم الملف الشخصي</string>
     <string name="profile_name_color_bought">تم شراء لون اسم الملف الشخصي</string>
@@ -310,21 +310,21 @@
      <string name="season_bag_last">الأخير</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">DAILY</string>
-     <string name="season_pass_tab_weekly">WEEKLY</string>
-     <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
-     <string name="season_pass_admin_cd">Admin</string>
+     <string name="season_pass_tab_daily">يومياً</string>
+     <string name="season_pass_tab_weekly">أسبوعي</string>
+     <string name="season_pass_tab_season">موسم</string>
+     <string name="season_pass_done">منتهي</string>
+     <string name="season_pass_claim">مطالبة</string>
+     <string name="season_pass_admin_cd">مسؤول</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
+     <string name="season_pass_resets_now">تمت إعادة الضبط الآن</string>
      <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
      <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
      <string name="season_pass_resets_in_m">Resets in %1$dm</string>
 
-     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
+     <string name="season_pass_history_title">تاريخ اشتراكات الموسم</string>
      <string name="season_pass_history_cd">History</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
+     <string name="season_pass_history_empty">لم يتم جمع أي مكافآت حتى الآن</string>
      <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
      <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
