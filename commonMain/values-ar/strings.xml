@@ -88,8 +88,8 @@
     <string name="cycle_progressbar">نص شريط تقدم المستوى XP</string>
     <string name="verbose_in_game_ui">تفاصيل واجهة اللعبة</string>
     <string name="jitter_buffer">مخزن مؤقت</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">توقع</string>
+    <string name="no_interpolation">عدم استيفاء</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">نوع اللعبة</string>
@@ -104,7 +104,10 @@
     <string name="elimination_count">عدد حالات الاستبعاد</string>
     <string name="decrease_elimination_count">تقليل عدد حالات الاستبعاد</string>
     <string name="increase_elimination_count">زيادة عدد حالات الاستبعاد</string>
-    <string name="elimination_interval">فترة الاستبعاد</string>
+    <string name="elimination_intervExtrapolation معنى الكلمه
+
+
+al">فترة الاستبعاد</string>
     <string name="decrease_elimination_interval">تقليل فترة الاستبعاد</string>
     <string name="increase_elimination_interval">زيادة فترة الاستبعاد</string>
     <string name="map_size">حجم الخريطة</string>
@@ -209,19 +212,19 @@
     <string name="redeem_code">استرداد الرمز</string>
     <!-- Boosters -->
     <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_permanent_upgrades">تحسينات دائمة</string>
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_watch_ad">شاهد اعلان</string>
     <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
-    <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
+    <string name="booster_active">نشط</string>
+    <string name="booster_max">الاقصى</string>
+    <string name="booster_upgrade">ترقية</string>
     <string name="booster_base_xp">Base XP Multiplier</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="booster_autosplit">قسمة تلقائية</string>
+    <string name="booster_autoshoot">إطلاق تلقائي</string>
+    <string name="booster_spawn_size">حجم الظهور</string>
     <string name="speed_none">None</string>
     <string name="speed_slow">Slow (5/sec)</string>
     <string name="speed_medium">Medium (10/sec)</string>
@@ -254,9 +257,9 @@
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
     <string name="booster_base_xp_bought">Base XP Upgrade</string>
-    <string name="booster_autosplit_bought">Autosplit Upgrade</string>
-    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
-    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_autosplit_bought">ترقية التقسيم التلقائي</string>
+    <string name="booster_autoshoot_bought">ترقية الاطلاق التلقائي</string>
+    <string name="booster_spawn_size_bought">ترقية حجم الظهور</string>
     <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">تم شراء تغيير اسم الملف الشخصي</string>
     <string name="profile_name_color_bought">تم شراء لون اسم الملف الشخصي</string>
@@ -273,11 +276,11 @@
     <string name="purchase_remove_ads_label">إزالة الإعلانات</string>
     <string name="purchase_status_permanent">دائم</string>
     <string name="purchase_status_refunded">تم الاسترداد</string>
-    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
-    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_no_ads_gift_received">هدية إزالة الاعلانات من #%d</string>
+    <string name="purchase_no_ads_gift_purchased">إهداء إزالة الاعلانات الى #%d</string>
     <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
-    <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
+    <string name="purchase_season_pass_gold_gift_received">هدية التذكره الذهبية للموسم من #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">إهداء التذكره الذهبية للموسم إلى #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
@@ -310,11 +313,11 @@
      <string name="season_bag_last">الأخير</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">DAILY</string>
-     <string name="season_pass_tab_weekly">WEEKLY</string>
-     <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_tab_daily">اليومي</string>
+     <string name="season_pass_tab_weekly">الأسبوعي</string>
+     <string name="season_pass_tab_season">موسم</string>
+     <string name="season_pass_done">تمت</string>
+     <string name="season_pass_claim">استلام</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">Resets now</string>
@@ -322,17 +325,17 @@
      <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
      <string name="season_pass_resets_in_m">Resets in %1$dm</string>
 
-     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
-     <string name="season_pass_history_cd">History</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
+     <string name="season_pass_history_title">سجل تذكرة الموسم</string>
+     <string name="season_pass_history_cd">السجل</string>
+     <string name="season_pass_history_empty">لم يتم إستلام اي مكافأت بعد</string>
      <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
      <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
-     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Season Task: %1$s</string>
+     <string name="season_pass_history_task_weekly">المهام الاسبوعيه: %1$s</string>
+     <string name="season_pass_history_task_season">المهام الموسمية: %1$s</string>
      <string name="season_pass_history_season_page">Season %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
+     <string name="season_pass_history_revoked_voidstones">إزالة أحجار الفراغ</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
      <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
@@ -350,32 +353,32 @@
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
      <string name="season_task_food_eaten">Eat food</string>
-     <string name="season_task_voidstone_any_eaten">Collect voidstones</string>
-     <string name="season_task_voidstone_regular_eaten">Collect regular voidstones</string>
-     <string name="season_task_voidstone_bronze_eaten">Collect bronze voidstones</string>
-     <string name="season_task_voidstone_silver_eaten">Collect silver voidstones</string>
-     <string name="season_task_voidstone_gold_eaten">Collect gold voidstones</string>
-     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
-     <string name="season_task_food_and_voidstone_eaten">Collect food and voidstones</string>
-     <string name="season_task_bots_eaten">Eat bots</string>
-     <string name="season_task_players_eaten">Eat players</string>
+     <string name="season_task_voidstone_any_eaten">أحصل على احجار الفراغ</string>
+     <string name="season_task_voidstone_regular_eaten">أجمع احجار الفراغ العادية</string>
+     <string name="season_task_voidstone_bronze_eaten">أجمع احجار الفراغ البرونزية</string>
+     <string name="season_task_voidstone_silver_eaten">أجمع احجار الفراغ الفضية</string>
+     <string name="season_task_voidstone_gold_eaten">أجمع احجار الفراغ الذهبية</string>
+     <string name="season_task_voidstone_rainbow_eaten">أجمع احجار قوس قزح</string>
+     <string name="season_task_food_and_voidstone_eaten">أجمع الطعام وأحجار الفراغ</string>
+     <string name="season_task_bots_eaten">التهِم الروبوتات</string>
+     <string name="season_task_players_eaten">التهِم اللاعبين</string>
      <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
      <string name="season_task_hole_blue_powerup">Use blue hole powerups</string>
      <string name="season_task_hole_purple_powerup">Use purple hole powerups</string>
-     <string name="season_task_hole_gold_powerup">Use gold hole powerups</string>
-     <string name="season_task_hole_any_punishment">Get hit by any hole</string>
-     <string name="season_task_hole_black_punishment">Get hit by black holes</string>
-     <string name="season_task_hole_blue_punishment">Get hit by blue holes</string>
-     <string name="season_task_hole_purple_punishment">Get hit by purple holes</string>
-     <string name="season_task_hole_gold_punishment">Get hit by gold holes</string>
-     <string name="season_task_win_competitive">Win competitive games</string>
-     <string name="season_task_win_survival">Win survival games</string>
-     <string name="season_task_win_team_survival">Win team survival games</string>
+     <string name="season_task_hole_gold_powerup">إستخدم تعزيزات الحفرة الذهبية</string>
+     <string name="season_task_hole_any_punishment">تعرض لضرر من اي حفرة</string>
+     <string name="season_task_hole_black_punishment">تعرّض لضربة من الثقوب السوداء</string>
+     <string name="season_task_hole_blue_punishment">تعرض لضربة من الثقوب الزرقاء</string>
+     <string name="season_task_hole_purple_punishment">تعرض لضربة من الثقوب البنفسجية</string>
+     <string name="season_task_hole_gold_punishment">تعرض لضربة من الثوب الذهبية</string>
+     <string name="season_task_win_competitive">اربح المباريات التنافسية</string>
+     <string name="season_task_win_survival">اربح مباريات البقاء</string>
+     <string name="season_task_win_team_survival">اربح مباريات البقاء الجماعية</string>
      <string name="season_task_win_knockout">Win knockout games</string>
-     <string name="season_task_win_soccer">Win soccer games</string>
-     <string name="season_task_soccer_goal_scored">Score soccer goals</string>
-     <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Shoot</string>
+     <string name="season_task_win_soccer">فز في كرة القدم</string>
+     <string name="season_task_soccer_goal_scored">احرز الاهداف في كرة القدم</string>
+     <string name="season_task_split">انقسام</string>
+     <string name="season_task_shoot">إطلاق</string>
 
     <!-- Profile -->
     <string name="profile">الملف الشخصي</string>
@@ -579,7 +582,7 @@
     <string name="clan_history_event_promote">تم ترفيعه</string>
     <string name="clan_history_event_demote">تم تنزيل الرتبة</string>
     <string name="clan_history_event_donation">تبرع</string>
-    <string name="clan_history_id">History ID: %d</string>
+    <string name="clan_history_id">معرف السجل: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
@@ -807,17 +810,17 @@
     <string name="afk_disconnect">فصل بسبب عدم النشاط</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
-    <string name="ordinal_first">%dst</string>
-    <string name="ordinal_second">%dnd</string>
-    <string name="ordinal_third">%drd</string>
-    <string name="ordinal_fourth">%dth</string>
-    <string name="ordinal_fifth">%dth</string>
-    <string name="ordinal_sixth">%dth</string>
-    <string name="ordinal_seventh">%dth</string>
-    <string name="ordinal_eighth">%dth</string>
-    <string name="ordinal_ninth">%dth</string>
-    <string name="ordinal_zeroth">%dth</string>
-    <string name="ordinal_fallback">%dth</string>
+    <string name="ordinal_first">% الأول</string>
+    <string name="ordinal_second">% الثاني</string>
+    <string name="ordinal_third">% الثالث</string>
+    <string name="ordinal_fourth">% الرابع</string>
+    <string name="ordinal_fifth">% الخامس</string>
+    <string name="ordinal_sixth">% السادس</string>
+    <string name="ordinal_seventh">% السابع</string>
+    <string name="ordinal_eighth">% الثامن</string>
+    <string name="ordinal_ninth">% التاسع</string>
+    <string name="ordinal_zeroth">% !صفر</string>
+    <string name="ordinal_fallback">% الترتيب البديل</string>
 
     <!-- In Game UI !-->
     <string name="player_size">الحجم: %d</string>
@@ -963,9 +966,9 @@
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
     <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
+    <string name="custom_banner_upload">رفع</string>
+    <string name="custom_banner_replace">إستبدال</string>
+    <string name="custom_banner_deselect">إلغاء تحديد</string>
     <string name="custom_banner_confirm_title">Upload Banner</string>
     <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
     <string name="custom_banner_upload_success">Banner sent for review</string>
