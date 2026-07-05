@@ -470,7 +470,7 @@
     <string name="profile_color_save_failed">プロフィール背景カラーが保存できませんでした</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">開発者</string>
+    <string name="developer_tag">デベロッパー</string>
     <string name="code_contribution_tag">コードヘルパー</string>
     <string name="admin">アドミン</string>
     <string name="mod">モデ</string>
