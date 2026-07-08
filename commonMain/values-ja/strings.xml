@@ -340,7 +340,7 @@
 
      <string name="season_pass_missed_title">未ゲットのリワード</string>
      <string name="season_pass_missed_subtitle">シーズン %1$d での未ゲットのリワード</string>
-     <string name="season_pass_missed_empty">前のシーズンでは未ゲットのリワードがありません</string>
+     <string name="season_pass_missed_empty">前のシーズンに未ゲットのリワードはありません</string>
      <string name="season_pass_missed_cd">未ゲットのリワード</string>
      <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
