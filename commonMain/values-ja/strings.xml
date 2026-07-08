@@ -314,7 +314,7 @@
      <string name="season_pass_tab_weekly">ウィークリー</string>
      <string name="season_pass_tab_season">シーズン</string>
      <string name="season_pass_done">クリア</string>
-     <string name="season_pass_claim">クレーム</string>
+     <string name="season_pass_claim">ゲット</string>
      <string name="season_pass_admin_cd">アドミン</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">今リセット</string>
@@ -324,7 +324,7 @@
 
      <string name="season_pass_history_title">シーズンパスの履歴</string>
      <string name="season_pass_history_cd">履歴</string>
-     <string name="season_pass_history_empty">ゲットしたリワードはまだありません</string>
+     <string name="season_pass_history_empty">受け取ったリワードはまだありません</string>
      <string name="season_pass_history_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_history_stage_paid">ステージ %1$d (有料)</string>
      <string name="season_pass_history_task_daily">デイリークエスト: %1$s</string>
@@ -338,10 +338,10 @@
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold の異議申し立て</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold のチャージバック</string>
 
-     <string name="season_pass_missed_title">未クレームのリワード</string>
-     <string name="season_pass_missed_subtitle">シーズン %1$d での未クレームのリワード</string>
-     <string name="season_pass_missed_empty">前のシーズンでは未クレームのリワードがありません</string>
-     <string name="season_pass_missed_cd">未クレームのリワード</string>
+     <string name="season_pass_missed_title">未ゲットのリワード</string>
+     <string name="season_pass_missed_subtitle">シーズン %1$d での未ゲットのリワード</string>
+     <string name="season_pass_missed_empty">前のシーズンでは未ゲットのリワードがありません</string>
+     <string name="season_pass_missed_cd">未ゲットのリワード</string>
      <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
 
