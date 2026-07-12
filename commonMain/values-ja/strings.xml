@@ -1133,7 +1133,7 @@
     <string name="invalid_action">無効な操作です</string>
     <string name="invalid_value">無効な値です</string>
     <string name="admin_cannot_act_self">自分自身には実行できません</string>
-    <string name="admin_cannot_act_on_staff">スタッフには実行できません</string>
+    <string name="admin_cannot_act_on_staff">スタッフメンバーには実行できません</string>
     <string name="code_not_found">無効なコードです</string>
     <string name="code_expired">コードの有効期限が切れました</string>
     <string name="code_already_redeemed">コードはすでに利用されました！</string>
