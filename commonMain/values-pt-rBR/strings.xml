@@ -275,9 +275,9 @@
     <string name="purchase_status_refunded">Reembolsado</string>
     <string name="purchase_no_ads_gift_received">Presente de Remover Anúncios de #%d</string>
     <string name="purchase_no_ads_gift_purchased">Presente de Remover Anúncios para #%d</string>
-    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
-    <string name="purchase_season_pass_gold_gift_received">Presente de Season Pass Gold de #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Presente de Season Pass Gold para #%d</string>
+    <string name="purchase_season_pass_gold_label">Passe de Temporada Gold</string>
+    <string name="purchase_season_pass_gold_gift_received">Presente de Passe de Temporada Gold de #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Presente de Passe de Temporada Gold para #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Anúncio ainda não carregado</string>
