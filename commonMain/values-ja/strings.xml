@@ -64,18 +64,18 @@
     <string name="customize">カスタマイズ</string>
     <string name="opacity">不透明度</string>
     <string name="leaderboard_size">リーダーボードサイズ</string>
-    <string name="show_grid">グリッドを表示化</string>
-    <string name="show_grid_coordinates">グリッド座標を表示化</string>
-    <string name="show_coordinate_tint">座標の色合いを表示化</string>
-    <string name="custom_background_image">背景のカスタム画像を使用する</string>
+    <string name="show_grid">グリッドを表示</string>
+    <string name="show_grid_coordinates">グリッド座標を表示</string>
+    <string name="show_coordinate_tint">座標の色合いを表示</string>
+    <string name="custom_background_image">カスタム背景カスタム画像を使用</string>
     <string name="custom_background_select">画像選択</string>
     <string name="custom_background_opacity">背景の不透明度</string>
-    <string name="show_performance_metrics">パフォーマンス統計を表示化</string>
+    <string name="show_performance_metrics">パフォーマンス統計を表示</string>
     <string name="skin_outlines">スキンボーダー</string>
     <string name="delayed_auto_fire">オートスプリットとオートイジェクトのディレイ</string>
-    <string name="direction_arrow">方向矢印を表示化</string>
+    <string name="direction_arrow">方向矢印を表示</string>
     <string name="border_above_entities">太いボーダーのマップ</string>
-    <string name="map_border_visible">マップボーダーを表示化</string>
+    <string name="map_border_visible">マップボーダーを表示</string>
     <string name="star_background_enabled">背景のスター</string>
     <string name="star_color_white">ホワイトスター</string>
     <string name="star_color_black">ブラックスター</string>
@@ -93,7 +93,7 @@
 
     <!-- Game/room creation menu-->
     <string name="game_mode">ゲームモード</string>
-    <string name="select_mode">モード選択</string>
+    <string name="select_mode">モードの選択</string>
     <string name="minimum_players">最小プレイヤー数</string>
     <string name="maximum_players">最大プレイヤー数</string>
     <string name="decrease_time">残り時間を下げる</string>
@@ -114,11 +114,11 @@
     <string name="increase_bots">ボット量を上げる</string>
     <string name="max_split_pieces">最大スプリット数:</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
-    <string name="no_holes">ホールを無効にする</string>
+    <string name="no_holes">ホールを無効</string>
     <string name="circle_map">丸いマップ</string>
     <string name="relax">リアルプレイヤー対ボットのみ</string>
     <string name="warning_no_holes">統計は更新されません</string>
-    <string name="gold_holes">ゴールドホールを有効にする</string>
+    <string name="gold_holes">ゴールドホールを有効</string>
     <string name="starting_difficulty">難易度のスキップ</string>
 
     <!-- Multiplayer -->
@@ -131,14 +131,14 @@
     <string name="private_room">プライベートルーム</string>
     <string name="private_rooms">カスタムルーム</string>
     <string name="connected">接続済み</string>
-    <string name="select_server">サーバー選択</string>
+    <string name="select_server">サーバーの選択</string>
     <string name="server_europe">ヨーロッパ</string>
     <string name="server_americas_nc">北米＋中米</string>
     <string name="server_south_america">南米</string>
     <string name="join">参加</string>
     <string name="create">作成</string>
     <string name="create_chat_room">チャットルームの作成</string>
-    <string name="create_private_game">カスタムゲームの作成</string>
+    <string name="create_private_game">カスタムルームの作成</string>
     <string name="room_full">満員</string>
     <string name="clan">クラン</string>
     <string name="friends">フレンド</string>
@@ -148,15 +148,15 @@
     <string name="cancel_friend_request">申請をキャンセル</string>
     <string name="remove_friend">フレンドから解除</string>
     <string name="friend_request_sent">申請送信済み</string>
-    <string name="friend_requests_received">受信した申請</string>
-    <string name="friend_requests_sent">保留中の申請</string>
+    <string name="friend_requests_received">受信フレンド申請</string>
+    <string name="friend_requests_sent">保留中フレンド申請</string>
     <string name="no_friends">フレンドはこちらに表示されます</string>
     <string name="remove_friend_title">フレンドから解除</string>
     <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドから解除してもよろしいですか？</string>
     <string name="cancel_request_title">申請をキャンセル</string>
     <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請をキャンセルしてもよろしいですか？</string>
     <string name="friend_request_error_self">フレンド申請を自分自身に送信できません。</string>
-    <string name="friend_request_error_already_sent">この申請は保留中です。</string>
+    <string name="friend_request_error_already_sent">このフレンド申請は保留中です。</string>
     <string name="friend_request_error_already_friends">すでにフレンドリストにいます。</string>
     <string name="friend_request_error_list_full">フレンドリストが満員です。</string>
 
@@ -181,7 +181,7 @@
     <string name="stat_losses_label"> · 敗戦回数: </string>
     <string name="stat_winrate_label"> · 勝率: </string>
     <string name="match_starts_in">マッチの開始…</string>
-    <string name="vs_label">対</string>
+    <string name="vs_label">VS</string>
     <string name="ongoing_matches">進行中のマッチ</string>
     <string name="match_status_starting">開始中</string>
     <string name="match_status_in_progress">進行中</string>
@@ -192,7 +192,7 @@
     <string name="play_again">再プレイ</string>
     <string name="play_x_more_matches_to_rated">あと%d試合プレイしてランキングに入りましょう！</string>
     <string name="play_one_more_match_to_rated">あと1試合プレイしてランキングに入りましょう！</string>
-    <string name="history_viewer_vs_opponent">「%1$s」さん　対　「%2$s」さん</string>
+    <string name="history_viewer_vs_opponent">「%1$s」さん　VS　「%2$s」さん</string>
     <string name="prizes">景品</string>
     <string name="prizes_dialog_intro">各シーズンのリセット前に、上位のプレイヤーがスキルに応じてボイドストーンリワードを獲得します！</string>
     <string name="current_season">現在のシーズン</string>
@@ -201,7 +201,7 @@
     <string name="shop">ショップ</string>
     <string name="ticket">チケット</string>
     <string name="free_voidstones">無料ボイドストーン！</string>
-    <string name="free_voidstones_subtitle">マスを選んで、広告を視聴してボイドストーンをケットしよう！</string>
+    <string name="free_voidstones_subtitle">マスを選んで、広告を視聴してボイドストーンをゲットしよう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
     <string name="free_voidstones_left">残り%d件</string>
@@ -251,7 +251,7 @@
     <string name="admin_reward">アドミンリワード</string>
     <string name="in_app_purchase">アプリ内購入</string>
     <string name="voidstone_gift_received">ボイドストーンギフトの受取</string>
-    <string name="voidstone_gift_send">ボイドストーンギフトの贈り</string>
+    <string name="voidstone_gift_send">ボイドストーンギフトの送付</string>
     <string name="skin_bought">スキンの購入</string>
     <string name="booster_base_xp_bought">基本経験値のアップグレード</string>
     <string name="booster_autosplit_bought">オートスプリットのアップグレード</string>
@@ -266,8 +266,8 @@
     <string name="profile_name_font_bought">ネームフォントのアンロック</string>
     <string name="admin_deduction">アドミン控除</string>
     <string name="giveaway">プレゼントリワード</string>
-    <string name="admin_reward_sent">アドミンリワードの送信</string>
-    <string name="admin_deduction_sent">アドミン控除の送信</string>
+    <string name="admin_reward_sent">アドミンリワードの送付</string>
+    <string name="admin_deduction_sent">アドミン控除の送付</string>
     <string name="verify_reward">リワードの確認</string>
     <string name="competitive_season_reward">ランクバトルのシーズンリワード</string>
     <string name="purchase_remove_ads_label">広告を非表示化</string>
@@ -275,9 +275,9 @@
     <string name="purchase_status_refunded">返金</string>
     <string name="purchase_no_ads_gift_received">#%dからの『広告を非表示化』ギフト</string>
     <string name="purchase_no_ads_gift_purchased">#%dへの『広告を非表示化』ギフト</string>
-    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
-    <string name="purchase_season_pass_gold_gift_received">#%dからの『Season Pass Gold』ギフト</string>
-    <string name="purchase_season_pass_gold_gift_purchased">#%dへの『Season Pass Gold』ギフト</string>
+    <string name="purchase_season_pass_gold_label">シーズンパスGold</string>
+    <string name="purchase_season_pass_gold_gift_received">#%dからの『シーズンパスGold』ギフト</string>
+    <string name="purchase_season_pass_gold_gift_purchased">#%dへの『シーズンパスGold』ギフト</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
