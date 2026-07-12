@@ -509,8 +509,8 @@
     <string name="clan_list">パブリッククラン</string>
     <string name="clan_no_clans">参加可能なクランはありません</string>
     <string name="no_clan">クランにいません</string>
-    <string name="clan_request_clans">申請のみのクラン</string>
-    <string name="clan_my_invites">保留中の招待</string>
+    <string name="clan_request_clans">申請のみクラン</string>
+    <string name="clan_my_invites">保留中招待</string>
     <string name="clan_invite_declined">招待が拒否されました</string>
     <string name="clan_joined">クランに参加しました！</string>
     <string name="clan_private">クランはプライベートまたは削除されました。</string>
@@ -522,8 +522,8 @@
     <string name="clan_owner_must_transfer">クランを脱退するには、オーナーシップを移転する必要があります。</string>
     <string name="clan_request_sent">加入申請を送信しました</string>
     <string name="clan_disband">クランを解散</string>
-    <string name="clan_disband_confirm">クランを解散してもよろしいですか？これは取り消せません！</string>
-    <string name="clan_invite">プレイヤー招待</string>
+    <string name="clan_disband_confirm">クランを解散してもよろしいですか？これは元に戻せません！</string>
+    <string name="clan_invite">プレイヤーを招待</string>
     <string name="clan_invite_hint">名前またはIDで招待する</string>
     <string name="clan_settings">クラン設定</string>
     <string name="clan_join_mode">クランプライバシー</string>
@@ -531,7 +531,7 @@
     <string name="clan_join_mode_request">申請のみ</string>
     <string name="clan_join_mode_private">プライベート</string>
     <string name="clan_join_mode_abandoned">離脱</string>
-    <string name="clan_pending_requests">保留中の申請</string>
+    <string name="clan_pending_requests">保留中加入申請</string>
     <string name="clan_role_owner">オーナー</string>
     <string name="clan_role_co_owner">共同オーナー</string>
     <string name="clan_role_admin">アドミン</string>
@@ -563,9 +563,9 @@
     <string name="clan_invite_list_full">このクランの招待リストが満員です（最大100件）。</string>
     <string name="clan_player_invite_list_full">このユーザーの保留中の招待はすでに上限に達しています。</string>
     <string name="clan_request_list_full">このクランの加入申請リストが満員（最大100件）です。</string>
-    <string name="clan_donate_voidstones">ボイドストーン寄付</string>
+    <string name="clan_donate_voidstones">ボイドストーンを寄付</string>
     <string name="clan_donate_hint">100枚〜100,000枚</string>
-    <string name="clan_donate_sent">寄付完了！</string>
+    <string name="clan_donate_sent">寄付が完了しました！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
     <string name="clan_already_requested">すでに別のクランとの保留中の加入申請があります。</string>
     <string name="clan_copy_tag">タグをコピー</string>
@@ -579,15 +579,15 @@
     <string name="clan_history_event_promote">昇格</string>
     <string name="clan_history_event_demote">広角</string>
     <string name="clan_history_event_donation">寄付</string>
-    <string name="clan_history_id">履歴ID: %d</string>
+    <string name="clan_history_id">履歴ID：%d</string>
     <string name="clan_public_profile">クランの公開説明</string>
-    <string name="clan_kicked_banned_players">招待必要／バン中のユーザー</string>
+    <string name="clan_kicked_banned_players">招待必要／バン済みのユーザー</string>
     <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をキック解除しますか？</string>
     <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をバン解除しますか？</string>
     <string name="clan_search_hint">名前またはIDで検索する</string>
-    <string name="clan_promote_to_owner">オーナーシップ移転</string>
+    <string name="clan_promote_to_owner">オーナーシップを移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップの移転</string>
-    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは元に戻せません。\n\nユーザーIDを入力して確認してください:</string>
+    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは元に戻せません。\n\nユーザーIDを入力して確認してください：</string>
     <string name="clan_transfer_ownership_id_mismatch">無効なIDです。</string>
     <string name="clan_customize_name_color">クラン名カラー</string>
     <string name="clan_customize_tag_color">クランタグカラー</string>
@@ -617,7 +617,7 @@
     <string name="clan_history_event_purchase_gradient">クラン背景グラデーションの購入</string>
     <string name="clan_history_event_purchase_triple_gradient">クラン背景3色のグラデーションの購入</string>
     <string name="clan_history_event_purchase_description_color">クラン説明カラーの購入</string>
-    <string name="clan_history_event_rename">クラン名の変更</string>
+    <string name="clan_history_event_rename">クラン名変更の購入</string>
 
     <!-- Leaderboard !-->
     <string name="leaderboard_type">リーダーボード種類</string>
@@ -683,7 +683,7 @@
     <string name="mail_send_to_self">自分宛てにメールを送信できません</string>
     <string name="mail_title_too_long">タイトルが長すぎます</string>
     <string name="mail_content_too_long">テキストが長すぎます</string>
-    <string name="mail_sent_success">送信完了！</string>
+    <string name="mail_sent_success">送信が完了しました！</string>
     <string name="mark_unread">未読にする</string>
     <string name="copy_verification_code">確認コードをコピー</string>
     <string name="code_copied">コードをクリップボードへコピーしました</string>
@@ -757,8 +757,8 @@
     <string name="buttons_split">スプリットボタン</string>
     <string name="select_split">スプリットボタンの位置移動</string>
     <string name="split">スプリット</string>
-    <string name="buttons_yinyang">マルチマーグのボタン</string>
-    <string name="select_yinyang">マルチマーグのボタンの位置移動</string>
+    <string name="buttons_yinyang">マルチマーグボタン</string>
+    <string name="select_yinyang">マルチマーグボタンの位置移動</string>
     <string name="yinyang">マルチマーグ</string>
     <string name="buttons_customize">カスタマイズ</string>
     <string name="buttons_orientation_message">ポットレートとランドスケープのカスタム設定は、別々に保存されます。</string>
@@ -769,7 +769,7 @@
     <string name="no_skin">スキンなし</string>
     <string name="selected_skin">現在のスキン</string>
     <string name="select_skin_color">カラー選択</string>
-    <string name="skin_color_preview">プレビュー:</string>
+    <string name="skin_color_preview">プレビュー：</string>
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボドスト</string>
@@ -781,7 +781,7 @@
 
     <!-- Chat !-->
     <string name="chat">チャット</string>
-    <string name="room_commands" tools:ignore="TypographyDashes">コマンド:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1〜60]\n!pausechat [-1: 停止解除・0: 永久・1〜3600]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
+    <string name="room_commands" tools:ignore="TypographyDashes">コマンド：\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1〜60]\n!pausechat [-1: 停止解除・0: 永久・1〜3600]\n!hidden\n!minplayers [数]\n!reset\n!close</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_message_hint">メッセージを書く…</string>
     <string name="chat_send_message">メッセージを送る</string>
@@ -820,16 +820,16 @@
     <string name="ordinal_fallback">%d位</string>
 
     <!-- In Game UI !-->
-    <string name="player_size">サイズ: %d</string>
-    <string name="player_size_decimal">サイズ: %s</string>
-    <string name="effective_size">表示サイズ: %d</string>
-    <string name="effective_size_decimal">表示サイズ: %s</string>
-    <string name="decay">サイズ減少: %.2f/s</string>
-    <string name="pieces">スプリット: %1d/%2d</string>
-    <string name="merge">マージまで: %ss</string>
+    <string name="player_size">サイズ：%d</string>
+    <string name="player_size_decimal">サイズ：%s</string>
+    <string name="effective_size">表示サイズ：%d</string>
+    <string name="effective_size_decimal">表示サイズ：%s</string>
+    <string name="decay">サイズ減少：%.2f/s</string>
+    <string name="pieces">スプリット：%1d/%2d</string>
+    <string name="merge">マージまで：%ss</string>
     <string name="xp">経験値</string>
     <string name="level">レベル</string>
-    <string name="level_number">レベル: %d</string>
+    <string name="level_number">レベル：%d</string>
     <string name="food">ドット数</string>
     <string name="voidstones">収集したボイドストーンの数</string>
     <string name="items">アイテム</string>
@@ -860,7 +860,7 @@
     <string name="already_in_room">すでにルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
-    <string name="reported">報告完了</string>
+    <string name="reported">報告が完了しました</string>
     <string name="reason">理由</string>
     <string name="room_crash">ルームがクラッシュしました: %s</string>
     <string name="app_crash">アプリがクラッシュしました: %s</string>
@@ -914,8 +914,8 @@
     <string name="joined_room">ルーム「%s」に入りました</string>
     <string name="player_list_title">プレイヤーリスト</string>
     <string name="staff_list_title">スタッフリスト</string>
-    <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
-    <string name="player_list_count_with_spectators">プレイヤー数: %d ⋅ ボット数: %d ⋅ 観戦者数: %d ⋅ 総数: %d</string>
+    <string name="player_list_count">プレイヤー数：%d・ボット数：%d・総数：%d</string>
+    <string name="player_list_count_with_spectators">プレイヤー数：%d ⋅ ボット数：%d ⋅ 観戦者数：%d ⋅ 総数：%d</string>
     <string name="kick_confirm_title">プレイヤーをキック</string>
     <string name="kick_confirm_message">「%s」さんをキックしますか？まだ再参加できます。</string>
     <string name="ban_confirm_title">プレイヤーをバン</string>
@@ -924,7 +924,7 @@
     <!-- Custom Images -->
     <string name="custom_images">カスタム画像</string>
     <string name="profile_avatar">プロフィールアイコン</string>
-    <string name="custom_image_rules">使用禁止アイコンの種類:\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
+    <string name="custom_image_rules">使用禁止アイコンの種類：\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
     <string name="custom_image_upload">アップロード</string>
     <string name="custom_image_replace">差替</string>
     <string name="custom_image_deselect">選択解除</string>
@@ -937,8 +937,8 @@
     <string name="custom_image_read_error">画像が読み込めませんでした</string>
     <string name="custom_image_invalid_format">画像ファイルを選択してください</string>
     <string name="custom_image_error_size">画像が大きすぎます: %1$dKB（最大%2$dKB）</string>
-    <string name="custom_image_error_dimensions">画像が大きすぎます: %1$dx%2$d（最大%3$dx%4$dp)</string>
-    <string name="custom_image_error_both">画像が大きすぎます: %1$dKB／%3$dx%4$d（最大%2$dKB／%5$dx%6$dp）</string>
+    <string name="custom_image_error_dimensions">画像が大きすぎます: %1$dx%2$（最大%3$dx%4$dp）</string>
+    <string name="custom_image_error_both">画像が大きすぎます: %1$dKB／%3$dx%4$dp（最大%2$dKB／%5$dx%6$dp）</string>
     <string name="custom_image_compress_title">画像が大きすぎます・圧縮？</string>
     <string name="custom_image_compress_accept">圧縮</string>
     <string name="custom_image_compress_failed">画像が圧縮できませんでした</string>
@@ -950,7 +950,7 @@
     <string name="custom_image_slot">画像 %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした: %1$s</string>
+    <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした：%1$s</string>
     <string name="custom_image_no_approved_image">スロット %1$d に承認画像はありません</string>
     <string name="report_avatar">アイコンを報告</string>
     <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
@@ -962,7 +962,7 @@
     <string name="report_banner_failed">バナーが報告できませんでした</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">使用禁止アイコンの種類:\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
+    <string name="custom_banner_rules">使用禁止アイコンの種類：\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
     <string name="custom_banner_upload">アップロード</string>
     <string name="custom_banner_replace">差替</string>
     <string name="custom_banner_deselect">選択解除</string>
