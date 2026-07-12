@@ -937,7 +937,7 @@
     <string name="custom_image_read_error">画像が読み込めませんでした</string>
     <string name="custom_image_invalid_format">画像ファイルを選択してください</string>
     <string name="custom_image_error_size">画像が大きすぎます: %1$dKB（最大%2$dKB）</string>
-    <string name="custom_image_error_dimensions">画像が大きすぎます: %1$dx%2$（最大%3$dx%4$dp）</string>
+    <string name="custom_image_error_dimensions">画像が大きすぎます: %1$dx%2$dp（最大%3$dx%4$dp）</string>
     <string name="custom_image_error_both">画像が大きすぎます: %1$dKB／%3$dx%4$dp（最大%2$dKB／%5$dx%6$dp）</string>
     <string name="custom_image_compress_title">画像が大きすぎます・圧縮？</string>
     <string name="custom_image_compress_accept">圧縮</string>
@@ -975,8 +975,8 @@
     <string name="custom_banner_read_error">バナー画像が読み込めませんでした</string>
     <string name="custom_banner_invalid_format">画像ファイルを選択してください</string>
     <string name="custom_banner_error_size">バナー画像が大きすぎます：%1$dKB（最大%2$dKB）</string>
-    <string name="custom_banner_error_dimensions">バナー画像が大きすぎます：%1$dx%2$d（最大%3$dx%4$dp)</string>
-    <string name="custom_banner_error_both">バナー画像が大きすぎます：%1$dKB／%3$dx%4$d（最大%2$dKB／%5$dx%6$dp)</string>
+    <string name="custom_banner_error_dimensions">バナー画像が大きすぎます：%1$dx%2$dp（最大%3$dx%4$dp)</string>
+    <string name="custom_banner_error_both">バナー画像が大きすぎます：%1$dKB／%3$dx%4$dp（最大%2$dKB／%5$dx%6$dp)</string>
     <string name="custom_banner_compress_title">バナー画像が大きすぎます・圧縮？</string>
     <string name="custom_banner_compress_accept">圧縮</string>
     <string name="custom_banner_compress_failed">バナー画像が圧縮できませんでした</string>
