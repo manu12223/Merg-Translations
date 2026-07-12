@@ -480,7 +480,7 @@
     <string name="internal_tester">内部テスター</string>
     <string name="alpha_tester">アルファテスター</string>
     <string name="beta_tester">ベータテスター</string>
-    <string name="discord_staff">Discordサーバーでのスタッフ</string>
+    <string name="discord_staff">Discordサーバーでのスタッフメンバー</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">ボイドストーンを贈る</string>
