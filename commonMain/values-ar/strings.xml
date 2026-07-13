@@ -88,8 +88,8 @@
     <string name="cycle_progressbar">نص شريط تقدم المستوى XP</string>
     <string name="verbose_in_game_ui">تفاصيل واجهة اللعبة</string>
     <string name="jitter_buffer">مخزن مؤقت</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">تنبؤ بالحركه</string>
+    <string name="no_interpolation">عدم استيفاء</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">نوع اللعبة</string>
@@ -208,20 +208,20 @@
     <string name="pick">يختار</string>
     <string name="redeem_code">استرداد الرمز</string>
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
-    <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="boosters">التعزيزات</string>
+    <string name="booster_permanent_upgrades">ترقية دائمة</string>
+    <string name="booster_ad_xp_title">ضعف الخبرة</string>
+    <string name="booster_ad_xp_desc">شاهد فيديو لمضاعفة نقاط الخبرة مؤقتا!</string>
+    <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
+    <string name="booster_watch_ad">شاهد إعلاناً</string>
+    <string name="booster_choose_boost">اختر تعزيز نقاط الخبرة الخاص بك</string>
+    <string name="booster_active">نشط</string>
+    <string name="booster_max">الحد الأقصى</string>
+    <string name="booster_upgrade">ترقية</string>
+    <string name="booster_base_xp">مُضاعِف نقاط الخبرة الأساسية</string>
+    <string name="booster_autosplit">انقسام تلقائي</string>
+    <string name="booster_autoshoot">مسرع الضغط</string>
+    <string name="booster_spawn_size">حجم الظهور</string>
     <string name="speed_none">None</string>
     <string name="speed_slow">Slow (5/sec)</string>
     <string name="speed_medium">Medium (10/sec)</string>
@@ -254,9 +254,9 @@
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
     <string name="booster_base_xp_bought">Base XP Upgrade</string>
-    <string name="booster_autosplit_bought">Autosplit Upgrade</string>
-    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
-    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_autosplit_bought">ترقية الانقسام التلقائي</string>
+    <string name="booster_autoshoot_bought">ترقية الإطلاق التلقائي</string>
+    <string name="booster_spawn_size_bought">ترقية حجم الظهور</string>
     <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">تم شراء تغيير اسم الملف الشخصي</string>
     <string name="profile_name_color_bought">تم شراء لون اسم الملف الشخصي</string>
@@ -275,7 +275,7 @@
     <string name="purchase_status_refunded">تم الاسترداد</string>
     <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
     <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
-    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
+    <string name="purchase_season_pass_gold_label">تذكرة الموسم الذهبية</string>
     <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
     <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
 
@@ -310,21 +310,21 @@
      <string name="season_bag_last">الأخير</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">DAILY</string>
-     <string name="season_pass_tab_weekly">WEEKLY</string>
-     <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_tab_daily">يومي</string>
+     <string name="season_pass_tab_weekly">أسبوعي</string>
+     <string name="season_pass_tab_season">موسمي</string>
+     <string name="season_pass_done">تم</string>
+     <string name="season_pass_claim">استلام</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
+     <string name="season_pass_resets_now">إعادة تعيين الان</string>
      <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
      <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
      <string name="season_pass_resets_in_m">Resets in %1$dm</string>
 
-     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
+     <string name="season_pass_history_title">سجل تذكرة الموسم</string>
      <string name="season_pass_history_cd">History</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
+     <string name="season_pass_history_empty">لم يتم جمع أي مكافآت بعد</string>
      <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
      <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
@@ -334,13 +334,13 @@
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
+     <string name="season_pass_history_revoked_trigger_refund">تم استرداد مبلغ التذكرة الذهبية</string>
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
-     <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
+     <string name="season_pass_missed_empty">لاتوجد مكافئات فائته من الموسم الماضي</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
@@ -349,33 +349,33 @@
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
-     <string name="season_task_food_eaten">Eat food</string>
-     <string name="season_task_voidstone_any_eaten">Collect voidstones</string>
-     <string name="season_task_voidstone_regular_eaten">Collect regular voidstones</string>
-     <string name="season_task_voidstone_bronze_eaten">Collect bronze voidstones</string>
-     <string name="season_task_voidstone_silver_eaten">Collect silver voidstones</string>
-     <string name="season_task_voidstone_gold_eaten">Collect gold voidstones</string>
+     <string name="season_task_food_eaten">اجمع الطعام</string>
+     <string name="season_task_voidstone_any_eaten">جمع فويدستون</string>
+     <string name="season_task_voidstone_regular_eaten">اجمع الفويدستون الطبيعي</string>
+     <string name="season_task_voidstone_bronze_eaten">اجمع الفويدستون البرونزي</string>
+     <string name="season_task_voidstone_silver_eaten">اجمع الفويدستون الفضي</string>
+     <string name="season_task_voidstone_gold_eaten">اجمع الفويدستون الذهبي</string>
      <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
-     <string name="season_task_food_and_voidstone_eaten">Collect food and voidstones</string>
-     <string name="season_task_bots_eaten">Eat bots</string>
-     <string name="season_task_players_eaten">Eat players</string>
+     <string name="season_task_food_and_voidstone_eaten">اجمع الطعام ثم الفويدستون</string>
+     <string name="season_task_bots_eaten">التهِم البوتات</string>
+     <string name="season_task_players_eaten">اِلتهِم اللاعبين</string>
      <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
      <string name="season_task_hole_blue_powerup">Use blue hole powerups</string>
-     <string name="season_task_hole_purple_powerup">Use purple hole powerups</string>
-     <string name="season_task_hole_gold_powerup">Use gold hole powerups</string>
-     <string name="season_task_hole_any_punishment">Get hit by any hole</string>
-     <string name="season_task_hole_black_punishment">Get hit by black holes</string>
-     <string name="season_task_hole_blue_punishment">Get hit by blue holes</string>
-     <string name="season_task_hole_purple_punishment">Get hit by purple holes</string>
-     <string name="season_task_hole_gold_punishment">Get hit by gold holes</string>
-     <string name="season_task_win_competitive">Win competitive games</string>
-     <string name="season_task_win_survival">Win survival games</string>
-     <string name="season_task_win_team_survival">Win team survival games</string>
-     <string name="season_task_win_knockout">Win knockout games</string>
-     <string name="season_task_win_soccer">Win soccer games</string>
-     <string name="season_task_soccer_goal_scored">Score soccer goals</string>
-     <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Shoot</string>
+     <string name="season_task_hole_purple_powerup">استخدم معززات الثقب البنفسجي</string>
+     <string name="season_task_hole_gold_powerup">استخدم معززات الثقب الذهبي</string>
+     <string name="season_task_hole_any_punishment">اِصطدم بأي ثقب</string>
+     <string name="season_task_hole_black_punishment">اِصطدم بالثقوب السوداء</string>
+     <string name="season_task_hole_blue_punishment">اِصطدم بالثقوب الزرقاء</string>
+     <string name="season_task_hole_purple_punishment">اِصطدم بالثقوب البنفسجية</string>
+     <string name="season_task_hole_gold_punishment">اِصطدم بالثقوب الذهبية</string>
+     <string name="season_task_win_competitive">​فُز في المباريات التنافسية</string>
+     <string name="season_task_win_survival">فُز في ألعاب البقاء</string>
+     <string name="season_task_win_team_survival">فُز في ألعاب البقاء الجماعية</string>
+     <string name="season_task_win_knockout">فُز في ألعاب الإقصاء</string>
+     <string name="season_task_win_soccer">فُز في مباراة كرة القدم</string>
+     <string name="season_task_soccer_goal_scored">احرز هدفا في المباراة</string>
+     <string name="season_task_split">انقسام</string>
+     <string name="season_task_shoot">اطلاق</string>
 
     <!-- Profile -->
     <string name="profile">الملف الشخصي</string>
@@ -1114,8 +1114,8 @@
     <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
     <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">قُبل</string>
+    <string name="decline">رُفْض</string>
     <string name="banned">محظور</string>
     <string name="muted">حظر من الدردشة</string>
     <string name="banned_until">محظور حتى %s</string>
