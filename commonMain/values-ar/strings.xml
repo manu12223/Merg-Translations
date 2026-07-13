@@ -210,8 +210,8 @@
     <!-- Boosters -->
     <string name="boosters">التعزيزات</string>
     <string name="booster_permanent_upgrades">ترقية دائمة</string>
-    <string name="booster_ad_xp_title">ضعف الخبرة</string>
-    <string name="booster_ad_xp_desc">شاهد فيديو لمضاعفة نقاط الخبرة مؤقتا!</string>
+    <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
+    <string name="booster_ad_xp_desc">شاهد فيديو للحصول على تعزيز مؤقت لنقاط الخبره!</string>
     <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
     <string name="booster_watch_ad">شاهد إعلاناً</string>
     <string name="booster_choose_boost">اختر تعزيز نقاط الخبرة الخاص بك</string>
@@ -310,9 +310,9 @@
      <string name="season_bag_last">الأخير</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">يومي</string>
-     <string name="season_pass_tab_weekly">أسبوعي</string>
-     <string name="season_pass_tab_season">موسمي</string>
+     <string name="season_pass_tab_daily">اليومي</string>
+     <string name="season_pass_tab_weekly">الأسبوعي</string>
+     <string name="season_pass_tab_season">الموسم</string>
      <string name="season_pass_done">تم</string>
      <string name="season_pass_claim">استلام</string>
      <string name="season_pass_admin_cd">Admin</string>
@@ -1114,8 +1114,8 @@
     <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
     <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">قُبل</string>
-    <string name="decline">رُفْض</string>
+    <string name="accept">قبول</string>
+    <string name="decline">رفض</string>
     <string name="banned">محظور</string>
     <string name="muted">حظر من الدردشة</string>
     <string name="banned_until">محظور حتى %s</string>
