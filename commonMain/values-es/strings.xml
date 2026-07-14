@@ -343,7 +343,7 @@
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Recompensas perdidas</string>
      <string name="season_pass_missed_stage_free">Nivel %1$d (Gratis)</string>
-     <string name="season_pass_missed_stage_paid">Nivel %1$d (Paga)</string>
+     <string name="season_pass_missed_stage_paid">Nivel %1$d (Pago)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
