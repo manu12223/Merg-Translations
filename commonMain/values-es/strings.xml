@@ -133,8 +133,8 @@
     <string name="connected">Conectado</string>
     <string name="select_server">Seleccionar Región</string>
     <string name="server_europe">Europa</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
-    <string name="server_south_america">South America</string>
+    <string name="server_americas_nc">Américas (N/C)</string>
+    <string name="server_south_america">Sudamérica</string>
     <string name="join">Entrar</string>
     <string name="create">Crear</string>
     <string name="create_chat_room">CREAR CHAT DE SALA</string>
@@ -310,40 +310,40 @@
      <string name="season_bag_last">Anterior</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">DAILY</string>
-     <string name="season_pass_tab_weekly">WEEKLY</string>
-     <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
+     <string name="season_pass_tab_daily">DIARIO</string>
+     <string name="season_pass_tab_weekly">SEMANAL</string>
+     <string name="season_pass_tab_season">TEMPORADA</string>
+     <string name="season_pass_done">HECHO</string>
      <string name="season_pass_claim">CLAIM</string>
      <string name="season_pass_admin_cd">Admin</string>
-     <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+     <string name="season_pass_level_short">Nvl %1$d</string>
+     <string name="season_pass_resets_now">Reinicio en</string>
+     <string name="season_pass_resets_in_dh">Reinicio en %1$dd %2$dh</string>
+     <string name="season_pass_resets_in_hm">Reinicio en %1$dh %2$dm</string>
+     <string name="season_pass_resets_in_m">Reinicio en %1$dm</string>
 
-     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
-     <string name="season_pass_history_cd">History</string>
+     <string name="season_pass_history_title">HISTORIAL DEL PASE DE TEMPORADA</string>
+     <string name="season_pass_history_cd">Historial</string>
      <string name="season_pass_history_empty">No rewards collected yet</string>
      <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
      <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
      <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Season Task: %1$s</string>
-     <string name="season_pass_history_season_page">Season %1$d</string>
+     <string name="season_pass_history_task_season">Misión de Temporada: %1$s</string>
+     <string name="season_pass_history_season_page">Temporada %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Dorado Reembolsado</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Dorado en Disputa</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Dorado en Proceso</string>
 
-     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_title">RECOMPENSAS PERDIDAS</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
-     <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_missed_cd">Recompensas perdidas</string>
+     <string name="season_pass_missed_stage_free">Nivel %1$d (Gratis)</string>
+     <string name="season_pass_missed_stage_paid">Nivel %1$d (Paga)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -375,7 +375,7 @@
      <string name="season_task_win_soccer">Win soccer games</string>
      <string name="season_task_soccer_goal_scored">Score soccer goals</string>
      <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Shoot</string>
+     <string name="season_task_shoot">Disparos</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
@@ -391,7 +391,7 @@
     <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
     <string name="no_youtube_link">No Link</string>
     <string name="created">Creada %s</string>
-    <string name="last_seen">Última Conexión %s</string>
+    <string name="last_seen">Última Vez %s</string>
     <string name="save_profile_description">Guardar Descripción del Perfil</string>
     <string name="profile_description_placeholder">Escribe una Descripción</string>
     <string name="profile_description_save_success">Descripción del Perfil Guardada</string>
@@ -563,7 +563,7 @@
     <string name="clan_invite_list_full">La Lista de Invitaciones está Llena (100/100).</string>
     <string name="clan_player_invite_list_full">Ups, este Jugador ya tiene el número máximo de Invitaciones de Clan pendientes.</string>
     <string name="clan_request_list_full">La Lista de Solicitudes de Ingreso está Llena (100/100).</string>
-    <string name="clan_donate_voidstones">Donar Voidstones</string>
+    <string name="clan_donate_voidstones">Regalar Voidstones</string>
     <string name="clan_donate_hint">100 – 100,000</string>
     <string name="clan_donate_sent">¡Donación Enviada!</string>
     <string name="clan_not_a_member">Ups, ya no eres Miembro de este Clan.</string>
@@ -576,9 +576,9 @@
     <string name="clan_history_event_leave">Se Salió</string>
     <string name="clan_history_event_kick">Expulsado</string>
     <string name="clan_history_event_ban">Baneado</string>
-    <string name="clan_history_event_promote">Ascendido</string>
+    <string name="clan_history_event_promote">Ascendió</string>
     <string name="clan_history_event_demote">Descendido</string>
-    <string name="clan_history_event_donation">Donado</string>
+    <string name="clan_history_event_donation">Regaló</string>
     <string name="clan_history_id">Historial de ID: %d</string>
     <string name="clan_public_profile">Perfil de Clan Público</string>
     <string name="clan_kicked_banned_players">Lista Negra</string>
@@ -952,14 +952,14 @@
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">Ups, no se pudo cargar la Skin Personalizada: %1$s</string>
     <string name="custom_image_no_approved_image">No hay Skins Personalizadas Aprobadas en el espacio: %1$d</string>
-    <string name="report_avatar">Reportar Skin Personalizada</string>
-    <string name="report_avatar_message">¿Seguro(a) que quieres Reportar la Skin Personalizada de %1$s?</string>
-    <string name="report_avatar_success">Skin Personalizada Reportada</string>
-    <string name="report_avatar_failed">Ups, no se pudo Reportar la Skin Personalizada.</string>
-    <string name="report_banner">Report Banner</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
-    <string name="report_banner_success">Banner reported</string>
-    <string name="report_banner_failed">Failed to report banner</string>
+    <string name="report_avatar">Reportar Avatar</string>
+    <string name="report_avatar_message">¿Seguro(a) que quieres Reportar el Avatar de %1$s?</string>
+    <string name="report_avatar_success">Avatar Reportado</string>
+    <string name="report_avatar_failed">Ups, no se pudo Reportar el Avatar.</string>
+    <string name="report_banner">Reportar Banner</string>
+    <string name="report_banner_message">¿Seguro(a) que quieres Reportar el Banner de %1$s?</string>
+    <string name="report_banner_success">Banner Reportado</string>
+    <string name="report_banner_failed">Ups, no se pudo Reportar el Banner.</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
     <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
@@ -969,8 +969,8 @@
     <string name="custom_banner_confirm_title">Upload Banner</string>
     <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
     <string name="custom_banner_upload_success">Banner sent for review</string>
-    <string name="custom_banner_selected">Banner selected</string>
-    <string name="custom_banner_deselected">Banner deselected</string>
+    <string name="custom_banner_selected">Banner seleccionado</string>
+    <string name="custom_banner_deselected">Banner deseleccionado</string>
     <string name="custom_banner_upload_failed">Failed to upload banner</string>
     <string name="custom_banner_read_error">Failed to read banner</string>
     <string name="custom_banner_invalid_format">File must be an image</string>
