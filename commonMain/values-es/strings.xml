@@ -135,7 +135,7 @@
     <string name="server_europe">Europa</string>
     <string name="server_americas_nc">Américas (N/C)</string>
     <string name="server_south_america">Sudamérica</string>
-    <string name="join">Entrar</string>
+    <string name="join">Unirse</string>
     <string name="create">Crear</string>
     <string name="create_chat_room">CREAR CHAT DE SALA</string>
     <string name="create_private_game">CREAR PARTIDA PRIVADA</string>
@@ -855,11 +855,11 @@
     <string name="dialog_disconnected_message">Ups, se ha perdido la Conexión con el Servidor.</string>
     <string name="kicked_from_room">Ups, has sido Expulsado de la Sala.</string>
     <string name="banned_from_room">Ups, has sido Baneado de la Sala.</string>
-    <string name="enter_room_name">Escribe el Nombre de la Sala</string>
+    <string name="enter_room_name">Unirse a una Sala</string>
     <string name="room_not_found">Ups, la Sala no existe.</string>
     <string name="already_in_room">¡Ya estás en la Sala!</string>
     <string name="room_closed">Ups, la Sala ha sido cerrada.</string>
-    <string name="room_name">Nombre de la Sala</string>
+    <string name="room_name">Escribir Nombre de la Sala</string>
     <string name="reported">Sala Reportada</string>
     <string name="reason">Razón</string>
     <string name="room_crash">Ups, hay un Error con la Sala: %s</string>
@@ -1046,7 +1046,7 @@
     <string name="search">Buscar</string>
     <string name="cancel">Cancelar</string>
     <string name="close">Cerrar</string>
-    <string name="select">Seleccionar</string>
+    <string name="select">Elegir</string>
     <string name="reset">Reiniciar</string>
     <string name="done">Hecho</string>
     <string name="info">Información</string>
