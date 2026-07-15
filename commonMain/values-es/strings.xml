@@ -314,7 +314,7 @@
      <string name="season_pass_tab_weekly">SEMANAL</string>
      <string name="season_pass_tab_season">TEMPORADA</string>
      <string name="season_pass_done">HECHO</string>
-     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_claim">RECLAMAR</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Nvl %1$d</string>
      <string name="season_pass_resets_now">Reinicio en</string>
@@ -324,16 +324,16 @@
 
      <string name="season_pass_history_title">HISTORIAL DEL PASE DE TEMPORADA</string>
      <string name="season_pass_history_cd">Historial</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
-     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
-     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
-     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Misión de Temporada: %1$s</string>
+     <string name="season_pass_history_empty">Aún no has reclamado ninguna recompensa</string>
+     <string name="season_pass_history_stage_free">Nivel %1$d (Gratis)</string>
+     <string name="season_pass_history_stage_paid">Nivel %1$d (Pago)</string>
+     <string name="season_pass_history_task_daily">Misiones Diarias: %1$s</string>
+     <string name="season_pass_history_task_weekly">Misiones Semanales: %1$s</string>
+     <string name="season_pass_history_task_season">Misiones de Temporada: %1$s</string>
      <string name="season_pass_history_season_page">Temporada %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
+     <string name="season_pass_history_revoked_stage_paid">Nivel %1$d (Pago) — Anulado</string>
+     <string name="season_pass_history_revoked_voidstones">Voidstones Anuladas</string>
+     <string name="season_pass_history_revoked_unlock">Desbloqueo Anulado</string>
      <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Dorado Reembolsado</string>
      <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Dorado en Disputa</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Dorado en Proceso</string>
@@ -667,22 +667,22 @@
     <string name="stat_rewarded_ads_watched">Anuncios Vistos:</string>
 
     <!-- Mail !-->
-    <string name="mail">Correo</string>
+    <string name="mail">CORREOS</string>
     <string name="sent_mail_to_id">Enviar Correo a %d</string>
-    <string name="mail_id">Correo de ID: %d</string>
-    <string name="no_mail_yet">Ups, parece que aún no tienes Correos.</string>
+    <string name="mail_id">ID del Correo: %d</string>
+    <string name="no_mail_yet">Ups, aún no hay nada aquí.</string>
     <string name="mail_from">de:</string>
     <string name="mail_to">para:</string>
-    <string name="received">Recibido</string>
+    <string name="received">Recibidos</string>
     <string name="refresh">Actualizar Lista</string>
-    <string name="write_mail">Escribir</string>
+    <string name="write_mail">Enviar</string>
     <string name="mail_reply">Responder</string>
     <string name="mail_title_hint">Asunto</string>
-    <string name="mail_content_hint">Cuerpo del Correo</string>
+    <string name="mail_content_hint">Mensaje</string>
     <string name="mail_recipient_not_found">El Destinatario no fue Encontrado.</string>
     <string name="mail_send_to_self">Ups, no puedes Enviarte un Correo a ti mismo.</string>
-    <string name="mail_title_too_long">Ups, el Asunto del Correo es demasiado largo.</string>
-    <string name="mail_content_too_long">Ups, el Cuerpo del Correo es demasiado largo.</string>
+    <string name="mail_title_too_long">Ups, el Asunto es demasiado largo.</string>
+    <string name="mail_content_too_long">Ups, el Mensaje es demasiado largo.</string>
     <string name="mail_sent_success">Correo Enviado</string>
     <string name="mark_unread">Marcar como No Leído</string>
     <string name="copy_verification_code">Copiar Código de Verificación</string>
@@ -867,7 +867,7 @@
     <string name="dialog_reload">RECARGAR</string>
     <string name="dialog_yes">SÍ</string>
     <string name="dialog_no">NO</string>
-    <string name="dialog_ok">OKEY</string>
+    <string name="dialog_ok">OK</string>
     <string name="dialog_copy">COPIADO</string>
     <string name="dialog_notice">Noticia</string>
     <string name="dialog_warning">Advertencia</string>
