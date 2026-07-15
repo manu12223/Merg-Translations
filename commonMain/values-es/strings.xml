@@ -18,7 +18,7 @@
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Iconos:</string>
     <string name="translations">Traducciones:</string>
-    <string name="fonts">Fonts:</string>
+    <string name="fonts">Fuentes:</string>
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
@@ -88,8 +88,8 @@
     <string name="cycle_progressbar">Alternar Automát. Texto de la Barra EXP</string>
     <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">Extrapolación</string>
+    <string name="no_interpolation">Sin interpolación</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Juego</string>
@@ -206,7 +206,7 @@
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Elegir</string>
-    <string name="redeem_code">Canjear Código</string>
+    <string name="redeem_code">Código Canjeado</string>
     <!-- Boosters -->
     <string name="boosters">Boosters</string>
     <string name="booster_permanent_upgrades">Permanent Upgrades</string>
@@ -245,37 +245,37 @@
     <string name="reward_already_owned_compensation">Listo, fue convertido en Voidstones.</string>
     <string name="purchase_id">ID de Compra: %d</string>
     <string name="history">Historial</string>
-    <string name="voidstone_history">Historial de Voidstones</string>
-    <string name="purchase_history">Historial de Compras</string>
-    <string name="no_transactions_yet">Aún no hay Transacciones</string>
-    <string name="admin_reward">Recompensa Admin</string>
+    <string name="voidstone_history">Voidstones</string>
+    <string name="purchase_history">Transacciones</string>
+    <string name="no_transactions_yet">Aún no hay transacciones</string>
+    <string name="admin_reward">Bonificación (STAFF)</string>
     <string name="in_app_purchase">Compras en la Aplicación</string>
     <string name="voidstone_gift_received">Regalo de Voidstone Recibido</string>
-    <string name="voidstone_gift_send">Regalo de Voidstone Envidado</string>
+    <string name="voidstone_gift_send">Regalo de Voidstone Enviado</string>
     <string name="skin_bought">Skin Comprada</string>
     <string name="booster_base_xp_bought">Base XP Upgrade</string>
     <string name="booster_autosplit_bought">Autosplit Upgrade</string>
     <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
     <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
-    <string name="booster_level_short">Lv %1$d</string>
+    <string name="booster_level_short">Nvl %1$d</string>
     <string name="profile_name_change_bought">Cambio de Nombre del Perfil Comprado</string>
     <string name="profile_name_color_bought">Color de Nombre del Perfil Comprado</string>
     <string name="profile_color_bought">Color del Perfil Comprado</string>
     <string name="profile_color_gradient_bought">Degradado del Perfil Comprado</string>
     <string name="profile_color_gradient_2_bought">Degradado Doble del Perfil Comprado</string>
     <string name="profile_name_font_bought">Fuente de Nombre del Perfil Desbloqueado</string>
-    <string name="admin_deduction">Deducción Admin</string>
+    <string name="admin_deduction">Deducción (STAFF)</string>
     <string name="giveaway">Premio de Giveaway</string>
-    <string name="admin_reward_sent">Recompensa Admin enviada</string>
-    <string name="admin_deduction_sent">Deducción Admin enviada</string>
-    <string name="verify_reward">Verificar Recompensa</string>
+    <string name="admin_reward_sent">Bonificación (STAFF) Enviada</string>
+    <string name="admin_deduction_sent">Deducción (STAFF) Retirada</string>
+    <string name="verify_reward">Recompensa de Verificación (Servidor Discord)</string>
     <string name="competitive_season_reward">Recompensa de la Temporada Competitiva</string>
     <string name="purchase_remove_ads_label">Quitar Anuncios</string>
     <string name="purchase_status_permanent">Estado de Compra Permanente</string>
     <string name="purchase_status_refunded">Estado de Compra Reembolsada</string>
     <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
     <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
-    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
+    <string name="purchase_season_pass_gold_label">Pase de Temporada Dorado</string>
     <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
     <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
 
@@ -287,7 +287,7 @@
     <string name="time_hrs">hr(s)</string>
     <string name="time_min">min(s)</string>
     <string name="time_sec">seg(s)</string>
-    <string name="ad_reward">Recompensas de Anuncios</string>
+    <string name="ad_reward">Recompensa de Anuncio</string>
 
     <!-- Season Pass -->
      <string name="season_pass">Pase de Temporada</string>
@@ -945,7 +945,7 @@
     <string name="custom_image_crop_title">Crop to a square</string>
     <string name="custom_image_crop_apply">Crop &amp; use</string>
     <string name="custom_image_processing">Processing…</string>
-    <string name="custom_image_bought">En Revisión</string>
+    <string name="custom_image_bought">Skin Personalizada</string>
     <string name="custom_image_refund">Reembolsada</string>
     <string name="custom_image_slot">Imagen %1$d</string>
 
