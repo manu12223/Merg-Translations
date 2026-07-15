@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">لعب فردي</string>
     <string name="lan_multiplayer">الشبكة المحلية</string>
-    <string name="lan">LAN</string>
+    <string name="lan">الشبكة المحلية</string>
     <string name="online_multiplayer">اللعب اونلاين</string>
     <string name="options">الإعدادات</string>
     <string name="discord" translatable="false">Discord</string>
@@ -18,7 +18,7 @@
     <string name="skins">الجلود:</string>
     <string name="graphics_icons">الرسوم/الايقونات:</string>
     <string name="translations">المترجمون:</string>
-    <string name="fonts">Fonts:</string>
+    <string name="fonts">الخطوط:</string>
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
@@ -133,8 +133,8 @@
     <string name="connected">متصل</string>
     <string name="select_server">اختيار السيرفر</string>
     <string name="server_europe">أوروبا</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
-    <string name="server_south_america">South America</string>
+    <string name="server_americas_nc">أمريكا الشمالية والوسطى</string>
+    <string name="server_south_america">أمريكا الجنوبية</string>
     <string name="join">دخول</string>
     <string name="create">إنشاء</string>
     <string name="create_chat_room">إنشاء غرفة دردشة</string>
@@ -147,9 +147,9 @@
     <string name="send_friend_request_by_id_or_name">ارسل طلب صداقة باستخدام معرف أو الاسم</string>
     <string name="cancel_friend_request">إلغاء طلب الصداقة</string>
     <string name="remove_friend">ازالة صديق</string>
-    <string name="friend_request_sent">تم ارسال الطلب</string>
-    <string name="friend_requests_received">طلبات الصداقة</string>
-    <string name="friend_requests_sent">الطلبات المرسلة</string>
+    <string name="friend_request_sent">تم إرسال طلب الصداقة</string>
+    <string name="friend_requests_received">طلبات الصداقة المستلمة</string>
+    <string name="friend_requests_sent">طلبات الصداقة المرسلة</string>
     <string name="no_friends">ليس لديك أصدقاء بعد…</string>
     <string name="remove_friend_title">ازالة صديق</string>
     <string name="remove_friend_message">هل أنت متأكد أنك تريد إزالة "%1$s" (الهوية: %2$d) من قائمة أصدقائك؟</string>
@@ -169,7 +169,7 @@
     <string name="find_opponent">العثور على خصم</string>
     <string name="leave_matchmaking">مغادرة البحث</string>
     <string name="searching_ellipsis">جارٍ البحث...</string>
-    <string name="competitive_entering">Entering…</string>
+    <string name="competitive_entering">جاري الإنضمام...</string>
     <string name="x_searching_y_playing">%1$s يبحث · %2$s يلعب</string>
     <string name="x_searching">%d يبحث</string>
     <string name="x_playing">%d يلعب</string>
@@ -209,7 +209,7 @@
     <string name="redeem_code">استرداد الرمز</string>
     <!-- Boosters -->
     <string name="boosters">التعزيزات</string>
-    <string name="booster_permanent_upgrades">ترقية دائمة</string>
+    <string name="booster_permanent_upgrades">ترقيات دائمة</string>
     <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
     <string name="booster_ad_xp_desc">شاهد فيديو للحصول على تعزيز مؤقت لنقاط الخبره!</string>
     <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
@@ -222,12 +222,12 @@
     <string name="booster_autosplit">انقسام تلقائي</string>
     <string name="booster_autoshoot">مسرع الضغط</string>
     <string name="booster_spawn_size">حجم الظهور</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
-    <string name="speed_ultra">Ultra (30/sec)</string>
-    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="speed_none">لا يوجد</string>
+    <string name="speed_slow">بطيء (5/sec)</string>
+    <string name="speed_medium">متوسط (10/sec)</string>
+    <string name="speed_fast">سريع (20/sec)</string>
+    <string name="speed_ultra">فائق (30/sec)</string>
+    <string name="speed_crazy">جنوني (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">رمز غير صالح</string>
     <string name="code_already_claimed">تم استرداد الرمز مسبقاً!</string>
@@ -253,7 +253,7 @@
     <string name="voidstone_gift_received">استلام هدية فويدستون</string>
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
-    <string name="booster_base_xp_bought">Base XP Upgrade</string>
+    <string name="booster_base_xp_bought">ترقية الخبرة الأساسية</string>
     <string name="booster_autosplit_bought">ترقية الانقسام التلقائي</string>
     <string name="booster_autoshoot_bought">ترقية الإطلاق التلقائي</string>
     <string name="booster_spawn_size_bought">ترقية حجم الظهور</string>
@@ -273,11 +273,11 @@
     <string name="purchase_remove_ads_label">إزالة الإعلانات</string>
     <string name="purchase_status_permanent">دائم</string>
     <string name="purchase_status_refunded">تم الاسترداد</string>
-    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
-    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_no_ads_gift_received">هدية إزالة الإعلانات من #%d</string>
+    <string name="purchase_no_ads_gift_purchased">هدية إزالة الإعلانات إلى #%d</string>
     <string name="purchase_season_pass_gold_label">تذكرة الموسم الذهبية</string>
-    <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
+    <string name="purchase_season_pass_gold_gift_received">هدية التذكرة الذهبية للموسم من #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">هدية التذكرة الذهبية للموسم إلى #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
@@ -389,8 +389,8 @@
     <string name="copy_id">نسخ الهوية</string>
     <string name="share_id">مشاركة المعرف</string>
     <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
-    <string name="no_youtube_link">No Link</string>
-    <string name="created">Created %s</string>
+    <string name="no_youtube_link">لا يوجد رابط</string>
+    <string name="created">أنشئ %s</string>
     <string name="last_seen">آخر ظهور: %s</string>
     <string name="save_profile_description">حفظ وصف الملف الشخصي</string>
     <string name="profile_description_placeholder">اكتب وصفا…</string>
@@ -503,9 +503,9 @@
     <!-- Clan -->
     <string name="clan_create">إنشاء عشيرة</string>
     <string name="clan_name">اسم العشيرة</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_name_hint">ادخل إسم العشيرة (الحد الأقصى 14)</string>
     <string name="clan_tag">وسم العشيرة</string>
-    <string name="clan_tag_hint">Tag (1-4 letters)</string>
+    <string name="clan_tag_hint">الوسم (1-4 أحرف)</string>
     <string name="clan_list">العشائر العامة</string>
     <string name="clan_no_clans">لم يتم العثور على عشائر</string>
     <string name="no_clan">لا يوجد عشيرة</string>
@@ -515,7 +515,7 @@
     <string name="clan_joined">تم الانضمام إلى العشيرة!</string>
     <string name="clan_private">هذه العشيرة خاصة أو لم تعد نشطة.</string>
     <string name="clan_members">الأعضاء</string>
-    <string name="clan_members_count">%1$d / %2$d members</string>
+    <string name="clan_members_count">%1$d / %2$d الأعضاء</string>
     <string name="clan_request_join">طلب الانضمام</string>
     <string name="clan_leave">الخروج من العشيرة</string>
     <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
@@ -622,7 +622,7 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">نوع لوحة الصدارة</string>
     <string name="leaderboard_xp_description">نقاط الخبرة مطلوبة للترقية إلى مستوى أعلى. يمكن الحصول عليها من خلال أي نشاط مهم داخل اللعبة.</string>
-    <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
+    <string name="leaderboard_competitive_description">في تصنيف مواجهات 1 ضد 1 لا يظهر في القائمة إلا اللاعبون الذين أكملوا 12 مباراة تنافسية على الأقل</string>
     <string name="leaderboard_rating">التقييم</string>
     <string name="leaderboard_period_daily">اليومي</string>
     <string name="leaderboard_period_weekly">الاسبوعي</string>
@@ -705,10 +705,10 @@
     <string name="description_team_survival">نمط البقاء على قيد الحياة مع فرق! تعاون مع زملائك في الفريق للقضاء على الفرق الأخرى. الفريق الاخير المتبقي او الفريق الاكبر حجماً عند انتهاء الوقت هو الفائز!</string>
     <string name="description_knockout">تنافس في جولات الاقصاء! يمكن للاعبين العودة إلى اللعبة بحرية حتى يتم إقصاؤهم على فترات منتظمة. اللاعبون الأقل قوة في كل جولة يقصون نهائيا. كن آخر من يبقى على قيد الحياة لتفوز!</string>
     <string name="description_adventure">اكمل مراحل مليئة بالتحديات واهداف فريدة! تقدم عبر مستويات صعوبة متزايدة، واربح مكافات، واكتشف الى اي مدى يمكنك الوصول. كل مرحلة تقدم تحديات جديدة!</string>
-    <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
+    <string name="description_soccer">! التقط الكرة وسددها في مرمى الخصم لتسجيل الأهداف. عند انتهاء الوقت يفوز الفريق صاحب أكبر عدد من الأهد </string>
     <string name="description_coming_soon">هذا الوضع قادم قريباً، ترقبوا!</string>
     <string name="description_competitive">نمط البقاء 1 ضد 1! اكسب التقييم من خلال هزيمة الخصوم ذوي المهارات المماثلة. المباراة مدتها 3 دقائق مع وقت إضافي مدته دقيقتان إذا لم يمت أي من اللاعبين. الفوز يجعلك تتسلق لوحة الصدارة العالمية، والخسارة تجعلك تتراجع، لكن تغير التقييم يعتمد على الفارق بينك وبين خصمك.</string>
-    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
+    <string name="description_multimerg">تبدأ العبة بكتلتين، ويمكنك التبديل بين التحكم بهما بإستخدام زر الين واليانغ. تستجيب الكتلة النشطة فقط لعصا التحكم وأوامر الانقسام والإطلاق، بينما تواصل الكتلة الأخرى الحركة في آخر اتجاه كانت تسير فيه. يمكن لكتلتيك التهام بعضهما بعد الانقسام، لكن آخر جزء يبقى محميا. </string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">صغير جداً</string>
@@ -773,7 +773,7 @@
     <string name="skin_tab_standard">معيار</string>
     <string name="skin_tab_level">المستوى</string>
     <string name="skin_tab_voidstones">فويدستون</string>
-    <string name="flags">Flags</string>
+    <string name="flags">الأعلام</string>
     <string name="skin_tab_special">مُميز</string>
     <string name="level_skin_locked">الجلد يفتح في مستوى %d</string>
     <string name="level_lock">قفل المستوى</string>
@@ -827,12 +827,12 @@
     <string name="decay">ديكا: %.2f/s</string>
     <string name="pieces">القطع: %1d/%2d</string>
     <string name="merge">التجمع: %ss</string>
-    <string name="xp">XP</string>
+    <string name="xp">نقاط الخبرة</string>
     <string name="level">المستوى</string>
     <string name="level_number">Level %d</string>
     <string name="food">الطعام</string>
     <string name="voidstones">فويدستون</string>
-    <string name="items">Items</string>
+    <string name="items">العناصر</string>
     <string name="blobs_eaten">الدوائر المأكولة</string>
     <string name="session_stat_size_gained">الحجم الذي تم أكله</string>
     <string name="highest_rank">أعلى رتبة</string>
@@ -872,7 +872,7 @@
     <string name="dialog_notice">إشعار</string>
     <string name="dialog_warning">تحذير</string>
     <string name="dialog_alert">إنذار</string>
-    <string name="dialog_dont_show_again">Don't show again</string>
+    <string name="dialog_dont_show_again">عدم الإظهار مرة أخرى</string>
     <string name="dialog_dismiss">إغلاق</string>
     <string name="dialog_previous">السابق</string>
     <string name="dialog_next">التالي</string>
@@ -913,7 +913,7 @@
     <string name="spectators">المشاهدين</string>
     <string name="joined_room">Joined room %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
-    <string name="staff_list_title">STAFF LIST</string>
+    <string name="staff_list_title">قائمة المدراء</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
     <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
@@ -989,8 +989,7 @@
     <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">استعادة الحساب</string>
-    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
+    <string name="account_recovery">استعادة الحساب</string>يجب أن يكون الجهاز متصلا بنفس شبكة الواي فاي، وإلا فقد تفشل عملية الاستعادة </string>
     <string name="recovery_continue">متابعة</string>
     <string name="recovery_enter_account_id">أدخل رقم حسابك</string>
     <string name="recovery_account_id_placeholder">رقم الحساب</string>
@@ -1029,7 +1028,7 @@
     <string name="sort_xp_asc">XP ↑</string>
     <string name="arrow_expanded">▼</string>
     <string name="arrow_collapsed">▶</string>
-    <string name="respawn">إعادة الظهور</string>
+    <string name="respawn">إعادة اللعب</string>
     <string name="wait">انتظر</string>
     <string name="exit">خروج</string>
     <string name="back">الرجوع</string>
@@ -1107,8 +1106,8 @@
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
     <string name="not_enough_voidstones">لا توجد ما يكفي من الفويدستون</string>
-    <string name="ok">OK</string>
-    <string name="unlock_skin">Unlock</string>
+    <string name="ok">حسناً</string>
+    <string name="unlock_skin">فتح</string>
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
     <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
@@ -1142,7 +1141,7 @@
     <string name="clan_already_requested_other">تم تقديم طلب انضمام مسبقاً لهذه العشيرة</string>
     <string name="before">قبل</string>
     <string name="after">بعد</string>
-    <string name="clan_id">Clan ID:</string>
+    <string name="clan_id">رقم هوية العشيرة</string>
     <string name="editing_message">تعديل الرسالة</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
 </resources>
