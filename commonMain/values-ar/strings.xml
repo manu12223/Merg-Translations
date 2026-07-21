@@ -43,7 +43,7 @@
     <string name="language_korean">한국어 | الكورية</string>
     <string name="language_polish">Polski | البولندية</string>
     <string name="language_portuguese">Português (Brasil) | البرتغالية (البرازيل)</string>
-    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتفال)</string>
+    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتغال)</string>
     <string name="language_romanian">Română | الرومانية</string>
     <string name="language_russian">Русский | الروسية</string>
     <string name="language_slovak">Slovenčina | Slovak</string>
@@ -223,11 +223,11 @@
     <string name="booster_autoshoot">مسرع الضغط</string>
     <string name="booster_spawn_size">حجم الظهور</string>
     <string name="speed_none">لا يوجد</string>
-    <string name="speed_slow">بطيء (5/sec)</string>
-    <string name="speed_medium">متوسط (10/sec)</string>
-    <string name="speed_fast">سريع (20/sec)</string>
-    <string name="speed_ultra">فائق (30/sec)</string>
-    <string name="speed_crazy">جنوني (60/sec)</string>
+    <string name="speed_slow">بطيء (5/ث)</string>
+    <string name="speed_medium">متوسط (10/ث)</string>
+    <string name="speed_fast">سريع (20/ث)</string>
+    <string name="speed_ultra">فائق (30/ث)</string>
+    <string name="speed_crazy">جنوني (60/ث)</string>
     <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">رمز غير صالح</string>
     <string name="code_already_claimed">تم استرداد الرمز مسبقاً!</string>
@@ -323,10 +323,10 @@
      <string name="season_pass_resets_in_m">Resets in %1$dm</string>
 
      <string name="season_pass_history_title">سجل تذكرة الموسم</string>
-     <string name="season_pass_history_cd">History</string>
+     <string name="season_pass_history_cd">السجل</string>
      <string name="season_pass_history_empty">لم يتم جمع أي مكافآت بعد</string>
-     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_history_stage_free">Stage %1$d (مجانية)</string>
+     <string name="season_pass_history_stage_paid">Stage %1$d (مدفوعة)</string>
      <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
      <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
      <string name="season_pass_history_task_season">Season Task: %1$s</string>
@@ -338,12 +338,12 @@
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
-     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_title">المكافآت الفائتة</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">لاتوجد مكافئات فائته من الموسم الماضي</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_missed_stage_free">Stage %1$d (مجانية)</string>
+     <string name="season_pass_missed_stage_paid">Stage %1$d (مدفوعة)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -540,16 +540,16 @@
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
-    <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_promoted">تمت ترقيتك إلى %1$s.</string>
+    <string name="clan_demoted">تم تخفيض رتبتك إلى %1$s.</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_kick_confirm_message">طرد \"%1$s\" (رقم الهوية: %2$d) من الكلان؟ يمكنهم الانضمام مجددًا عبر طلب انضمام.</string>
     <string name="clan_ban_confirm_title">حظر العضو</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_ban_confirm_message">حظر \"%1$s\" (رقم الهوية: %2$d) من الكلان؟ لن يتمكنوا من الانضمام مجددًا.</string>
     <string name="clan_unban_confirm_title">إلغاء حظر العضو</string>
-    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
+    <string name="clan_unban_confirm_message">إلغاء الحظر\"%1$s\" (رقم الهوية: %2$d)? سيتمكنون من الانضمام مجددًا.</string>
     <string name="clan_unkick_confirm_title">إعادة العضو</string>
-    <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">إزالة شرط طلب الانضمام عن. \"%1$s\" (رقم الهوية: %2$d)?</string>
     <string name="clan_invited">تمت دعوته</string>
     <string name="clan_revoke_invite_confirm_title">إلغاء الدعوة</string>
     <string name="clan_revoke_invite_confirm_message">Revoke invite for \"%1$s\" (ID: %2$d)?</string>
@@ -656,7 +656,7 @@
     <string name="stat_blobs_eaten">الدوائر المأكولة:</string>
     <string name="stat_games_won">المباريات الي تم الفوز بها:</string>
     <string name="stat_longest_session">اعلى مدة بقاء على قيد الحياة:</string>
-    <string name="stat_time_played">Time Played:</string>
+    <string name="stat_time_played">مدة اللعب</string>
     <string name="stat_stages_cleared">تم الإنتهاء من المراحل:</string>
     <string name="stat_highest_stage">اعلى مرحلة:</string>
     <string name="stat_adventures_completed">المغامرات مكتملة:</string>
@@ -911,7 +911,7 @@
     <!-- Player List -->
     <string name="players">اللاعبين</string>
     <string name="spectators">المشاهدين</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="joined_room">تم الانضمام إلى الغرفة %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">قائمة المدراء</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
@@ -937,17 +937,17 @@
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
     <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_error_dimensions">صورتك %1$dx%2$d كبير جدًا (الحد الأقصى %3$dx%4$d بكسل)</string>
+    <string name="custom_image_error_both">صورتك %1$dKB / %3$dx%4$d كبير جدًا (الحد الأقصى %2$dKB / %5$dx%6$d بكسل)</string>
+    <string name="custom_image_compress_title">الصورة كبيرة جدًا - هل تريد ضغطها؟</string>
+    <string name="custom_image_compress_accept">استخدام الصورة المضغوطة</string>
+    <string name="custom_image_compress_failed">تعذر ضغط الصورة لتناسب الحد المسموح به</string>
+    <string name="custom_image_crop_title">قص الصورة لتصبح مربعة</string>
     <string name="custom_image_crop_apply">Crop &amp; use</string>
-    <string name="custom_image_processing">Processing…</string>
+    <string name="custom_image_processing">جارٍ المعالجة…</string>
     <string name="custom_image_bought">رفع صورة مخصصة</string>
     <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
-    <string name="custom_image_slot">Image %1$d</string>
+    <string name="custom_image_slot">صورة %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">فشل تحميل المظهر المخصص الخاص بك: %1$s</string>
@@ -1005,17 +1005,17 @@
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
     <string name="recovery_error_network">خطأ في الشبكة. يرجى التحقق من الاتصال والمحاولة مرة أخرى.</string>
-    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
+    <string name="recovery_error_fingerprint_mismatch">هذا الجهاز وهذه الشبكة لا يتطابقان مع هذا الحساب. تتطلب عملية الاستعادة استخدام نفس الهاتف وعلى شبكة Wi-Fi استخدمتها مع هذا الحساب من قبل.</string>
     <string name="recovery_error_email_taken">هذا البريد الإلكتروني مستخدم بالفعل من قبل حساب آخر. احذف ذلك الحساب أو استخدم بريداً إلكترونياً مختلفاً.</string>
-    <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
-    <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
+    <string name="recovery_error_google_taken">حساب Google هذا مرتبط بالفعل بحساب آخر.</string>
+    <string name="recovery_error_email_mismatch">البريد الإلكتروني الذي أدخلته لا يتطابق مع حساب Google الذي سجلت الدخول به.</string>
     <string name="recovery_error_cooldown">تمت استعادة هذا الحساب مؤخراً. يرجى الانتظار 24 ساعة قبل المحاولة مرة أخرى.</string>
     <string name="recovery_error_banned">هذا الحساب محظور ولا يمكن استعادته.</string>
     <string name="recovery_error_not_found">لم يتم العثور على حساب بهذه الهوية.</string>
     <string name="recovery_error_rate_limited">عدد كبير جداً من المحاولات. يرجى الانتظار والمحاولة مرة أخرى لاحقاً.</string>
-    <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
-    <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
-    <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
+    <string name="recovery_error_google_invalid">تعذر التحقق من حساب Google الخاص بك. يرجى المحاولة مرة أخرى.</string>
+    <string name="recovery_error_google_cancelled">تم إلغاء تسجيل الدخول إلى Google أو فشل.</string>
+    <string name="recovery_error_internal">حدث خطأ من جانبنا. يرجى المحاولة مرة أخرى لاحقًا.</string>
 
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">لا يوجد اتصال بالإنترنت. تحقق من إعدادات الشبكة في جهازك.</string>
