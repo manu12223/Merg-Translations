@@ -43,7 +43,7 @@
     <string name="language_korean">한국어 | الكورية</string>
     <string name="language_polish">Polski | البولندية</string>
     <string name="language_portuguese">Português (Brasil) | البرتغالية (البرازيل)</string>
-    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتفال)</string>
+    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتغال)</string>
     <string name="language_romanian">Română | الرومانية</string>
     <string name="language_russian">Русский | الروسية</string>
     <string name="language_slovak">Slovenčina | Slovak</string>
@@ -223,11 +223,11 @@
     <string name="booster_autoshoot">مسرع الضغط</string>
     <string name="booster_spawn_size">حجم الظهور</string>
     <string name="speed_none">لا يوجد</string>
-    <string name="speed_slow">بطيء (5/sec)</string>
-    <string name="speed_medium">متوسط (10/sec)</string>
-    <string name="speed_fast">سريع (20/sec)</string>
-    <string name="speed_ultra">فائق (30/sec)</string>
-    <string name="speed_crazy">جنوني (60/sec)</string>
+    <string name="speed_slow">بطيء (5/ث)</string>
+    <string name="speed_medium">متوسط (10/ث)</string>
+    <string name="speed_fast">سريع (20/ث)</string>
+    <string name="speed_ultra">فائق (30/ث)</string>
+    <string name="speed_crazy">جنوني (60/ث)</string>
     <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">رمز غير صالح</string>
     <string name="code_already_claimed">تم استرداد الرمز مسبقاً!</string>
@@ -318,33 +318,32 @@
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">إعادة تعيين الان</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+     <string name="season_pass_resets_in_dh">إعادة التعيين خلال %1$d يوم و%2$d ساعة</string>
+     <string name="season_pass_resets_in_hm">إعادة التعيين خلال %1$d ساعة و%2$d دقيقة</string>
+     <string name="season_pass_resets_in_m">إعادة التعيين خلال %1$d دقيقة</string>
 
      <string name="season_pass_history_title">سجل تذكرة الموسم</string>
-     <string name="season_pass_history_cd">History</string>
+     <string name="season_pass_history_cd">السجل</string>
      <string name="season_pass_history_empty">لم يتم جمع أي مكافآت بعد</string>
-     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
-     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
-     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Season Task: %1$s</string>
-     <string name="season_pass_history_season_page">Season %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
+     <string name="season_pass_history_stage_free">المرحلة %1$d (مجانية)</string>
+     <string name="season_pass_history_stage_paid">المرحلة %1$d (مدفوعة)</string>
+     <string name="season_pass_history_task_daily">المهمة اليومية: %1$s</string>
+     <string name="season_pass_history_task_weekly">المهمة الأسبوعية: %1$s</string>
+     <string name="season_pass_history_task_season">مهمة الموسم: %1$s</string>
+     <string name="season_pass_history_season_page">الموسم %1$d</string>
+     <string name="season_pass_history_revoked_stage_paid">المرحلة %1$d (مدفوعة) — أُلغيت</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
      <string name="season_pass_history_revoked_trigger_refund">تم استرداد مبلغ التذكرة الذهبية</string>
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
-     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_title">المكافآت الفائتة</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">لاتوجد مكافئات فائته من الموسم الماضي</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
-
+     <string name="season_pass_missed_stage_free">المرحلة %1$d (مجانية)</string>
+     <string name="season_pass_missed_stage_paid">المرحلة %1$d (مدفوعة)</string>
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
@@ -540,16 +539,16 @@
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
-    <string name="clan_promoted">Promoted to %1$s.</string>
-    <string name="clan_demoted">Demoted to %1$s.</string>
+    <string name="clan_promoted">تمت ترقيتك إلى %1$s.</string>
+    <string name="clan_demoted">تم خفض رتبتك إلى %1$s.</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_kick_confirm_message">هل تريد طرد "%1$s" (رقم الهوية: %2$d) من الكلان؟ يمكنه الانضمام مجددًا عن طريق طلب انضمام.</string>
     <string name="clan_ban_confirm_title">حظر العضو</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_ban_confirm_message">هل تريد حظر "%1$s" (رقم الهوية: %2$d) من الكلان؟ لن يتمكن من الانضمام إليه مرة أخرى.</string>
     <string name="clan_unban_confirm_title">إلغاء حظر العضو</string>
-    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
+    <string name="clan_unban_confirm_message">هل تريد إلغاء حظر "%1$s" (رقم الهوية: %2$d)؟ سيتمكن من الانضمام مرة أخرى.</string>
     <string name="clan_unkick_confirm_title">إعادة العضو</string>
-    <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">إزالة شرط طلب الانضمام عن \"%1$s\" (رقم الهوية: %2$d)؟</string>
     <string name="clan_invited">تمت دعوته</string>
     <string name="clan_revoke_invite_confirm_title">إلغاء الدعوة</string>
     <string name="clan_revoke_invite_confirm_message">Revoke invite for \"%1$s\" (ID: %2$d)?</string>
@@ -587,7 +586,7 @@
     <string name="clan_search_hint">البحث بالهوية أو الاسم</string>
     <string name="clan_promote_to_owner">ترقية إلى مالك</string>
     <string name="clan_transfer_ownership_title">نقل الملكية</string>
-    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
+    <string name="clan_transfer_ownership_message">أنت على وشك ترقية \"%1$s\" (رقم الهوية: %2$d) إلى المالك. سيتم تخفيض رتبتك إلى نائب المالك. لا يمكن التراجع عن هذا الإجراء.\n\nاكتب رقم هوية اللاعب للتأكيد:</string>
     <string name="clan_transfer_ownership_id_mismatch">رقم الهوية غير مطابق</string>
     <string name="clan_customize_name_color">لون اسم العشيرة</string>
     <string name="clan_customize_tag_color">لون وسم العشيرة</string>
@@ -656,7 +655,7 @@
     <string name="stat_blobs_eaten">الدوائر المأكولة:</string>
     <string name="stat_games_won">المباريات الي تم الفوز بها:</string>
     <string name="stat_longest_session">اعلى مدة بقاء على قيد الحياة:</string>
-    <string name="stat_time_played">Time Played:</string>
+    <string name="stat_time_played">مدة اللعب:</string>
     <string name="stat_stages_cleared">تم الإنتهاء من المراحل:</string>
     <string name="stat_highest_stage">اعلى مرحلة:</string>
     <string name="stat_adventures_completed">المغامرات مكتملة:</string>
@@ -911,11 +910,11 @@
     <!-- Player List -->
     <string name="players">اللاعبين</string>
     <string name="spectators">المشاهدين</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="joined_room">تم الانضمام إلى الغرفة %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">قائمة المدراء</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">اللاعبون: %d ⋅ الروبوتات: %d ⋅ المشاهدون: %d ⋅ الإجمالي: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
     <string name="ban_confirm_title">حظر اللاعب من الغرفة</string>
@@ -936,18 +935,18 @@
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_error_size">حجم صورتك %1$dKB كبير جدًا (الحد الأقصى %2$dKB)</string>
+    <string name="custom_image_error_dimensions">أبعاد صورتك %1$dx%2$d كبيرة جدًا (الحد الأقصى %3$dx%4$d بكسل)</string>
+    <string name="custom_image_error_both">حجم صورتك %1$dKB وأبعادها %3$dx%4$d كبيرة جدًا (الحد الأقصى %2$dKB و%5$dx%6$d بكسل)</string>
+    <string name="custom_image_compress_title">الصورة كبيرة جدًا، هل تريد ضغطها؟</string>
+    <string name="custom_image_compress_accept">استخدام الصورة المضغوطة</string>
+    <string name="custom_image_compress_failed">تعذر ضغط الصورة لتناسب الحد الأقصى للحجم</string>
+    <string name="custom_image_crop_title">اقتصاص الصورة بشكل مربع</string>
     <string name="custom_image_crop_apply">Crop &amp; use</string>
-    <string name="custom_image_processing">Processing…</string>
+    <string name="custom_image_processing">جارٍ المعالجة…</string>
     <string name="custom_image_bought">رفع صورة مخصصة</string>
     <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
-    <string name="custom_image_slot">Image %1$d</string>
+    <string name="custom_image_slot">الصورة %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">فشل تحميل المظهر المخصص الخاص بك: %1$s</string>
