@@ -4,6 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">혼자 플레이</string>
     <string name="lan_multiplayer">LAN 멀티플레이</string>
+    <string name="lan">LAN</string>
     <string name="online_multiplayer">온라인 멀티플레이</string>
     <string name="options">설정</string>
     <string name="discord" translatable="false">Discord</string>
@@ -17,10 +18,12 @@
     <string name="skins">스킨:</string>
     <string name="graphics_icons">그래픽/아이콘:</string>
     <string name="translations">번역:</string>
+    <string name="fonts">Fonts:</string>
 
     <!-- Options menu !-->
     <string name="language">언어</string>
     <string name="language_arabic">العربية | 아랍어</string>
+    <string name="language_azerbaijani">Azərbaycanca | 아제르바이잔어</string>
     <string name="language_bengali">বাংলা | 벵골어</string>
     <string name="language_chinese">简体中文 | 중국어 (간체)</string>
     <string name="language_chinese_traditional">繁體中文 | 중국어 (번체)</string>
@@ -43,6 +46,7 @@
     <string name="language_portuguese_portugal">Português (Portugal) | 포르투갈어</string>
     <string name="language_romanian">Română | 루마니아어</string>
     <string name="language_russian">Русский | 러시아어</string>
+    <string name="language_slovak">Slovenčina | 슬로바키아어</string>
     <string name="language_spanish">Español | 스페인어</string>
     <string name="language_swedish">Svenska | 스웨덴어</string>
     <string name="language_thai">ไทย | 태국어</string>
@@ -68,6 +72,7 @@
     <string name="custom_background_opacity">배경 불투명도</string>
     <string name="show_performance_metrics">게임 성능 표시</string>
     <string name="skin_outlines">스킨 테두리</string>
+    <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">방향 화살표</string>
     <string name="border_above_entities">경계선 위에 표시</string>
     <string name="map_border_visible">맵 경계선 보이기</string>
@@ -79,14 +84,12 @@
     <string name="name_position_center">가운데</string>
     <string name="name_position_below">아래</string>
     <string name="name_scale">이름 크기</string>
-    <string name="timer_format">타이머 형식</string>
-    <string name="timer_format_normal">일반</string>
-    <string name="timer_format_arcade">아케이드</string>
-    <string name="timer_format_ticks">틱</string>
     <string name="auto_spectate_killer">자신을 죽인 플레이어 관전</string>
     <string name="cycle_progressbar">연속 경험치 표시</string>
     <string name="verbose_in_game_ui">Verbose In-Game UI</string>
     <string name="jitter_buffer">Jitter Buffer</string>
+    <string name="extrapolation">Extrapolation</string>
+    <string name="no_interpolation">No Interpolation</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Game Mode</string>
@@ -130,6 +133,8 @@
     <string name="connected">Connected</string>
     <string name="select_server">Select Server</string>
     <string name="server_europe">Europe</string>
+    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_south_america">South America</string>
     <string name="join">Join</string>
     <string name="create">Create</string>
     <string name="create_chat_room">CREATE CHAT ROOM</string>
@@ -164,6 +169,7 @@
     <string name="find_opponent">FIND OPPONENT</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
     <string name="searching_ellipsis">Searching…</string>
+    <string name="competitive_entering">Entering…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
     <string name="x_searching">%d searching</string>
     <string name="x_playing">%d playing</string>
@@ -201,6 +207,28 @@
     <string name="free_voidstones_left">%d left</string>
     <string name="pick">Pick</string>
     <string name="redeem_code">Redeem Code</string>
+    <!-- Boosters -->
+    <string name="boosters">Boosters</string>
+    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
+    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
+    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_choose_boost">Choose your XP boost</string>
+    <string name="booster_active">active</string>
+    <string name="booster_max">MAX</string>
+    <string name="booster_upgrade">Upgrade</string>
+    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_autosplit">Autosplit</string>
+    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="speed_none">None</string>
+    <string name="speed_slow">Slow (5/sec)</string>
+    <string name="speed_medium">Medium (10/sec)</string>
+    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="speed_ultra">Ultra (30/sec)</string>
+    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">Invalid Code</string>
     <string name="code_already_claimed">Code Already Claimed!</string>
     <string name="successfully_claimed_code">Reward Claimed</string>
@@ -225,6 +253,11 @@
     <string name="voidstone_gift_received">Voidstone Gift Received</string>
     <string name="voidstone_gift_send">Voidstone Gift Sent</string>
     <string name="skin_bought">Skin</string>
+    <string name="booster_base_xp_bought">Base XP Upgrade</string>
+    <string name="booster_autosplit_bought">Autosplit Upgrade</string>
+    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
+    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">Profile name change</string>
     <string name="profile_name_color_bought">Profile name color unlock</string>
     <string name="profile_color_bought">Profile color unlock</string>
@@ -240,6 +273,11 @@
     <string name="purchase_remove_ads_label">Remove Ads</string>
     <string name="purchase_status_permanent">Permanent</string>
     <string name="purchase_status_refunded">Refunded</string>
+    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
+    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
+    <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Ad not loaded yet</string>
@@ -271,6 +309,74 @@
      <string name="season_bag_current">Current</string>
      <string name="season_bag_last">Last</string>
 
+     <!-- Season Pass UI labels -->
+     <string name="season_pass_tab_daily">DAILY</string>
+     <string name="season_pass_tab_weekly">WEEKLY</string>
+     <string name="season_pass_tab_season">SEASON</string>
+     <string name="season_pass_done">DONE</string>
+     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_admin_cd">Admin</string>
+     <string name="season_pass_level_short">Lvl %1$d</string>
+     <string name="season_pass_resets_now">Resets now</string>
+     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
+     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
+     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+
+     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
+     <string name="season_pass_history_cd">History</string>
+     <string name="season_pass_history_empty">No rewards collected yet</string>
+     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
+     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
+     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
+     <string name="season_pass_history_task_season">Season Task: %1$s</string>
+     <string name="season_pass_history_season_page">Season %1$d</string>
+     <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
+     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
+     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
+     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+
+     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
+     <string name="season_pass_missed_cd">Missed rewards</string>
+     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
+     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
+
+     <!-- Season Pass task titles — one per event_type. Catalog in
+          season_task_templates table; the client looks these up by
+          event_type at render time. DB `season_tasks.title` stays as
+          canonical English fallback (admin can no longer edit it). -->
+     <string name="season_task_food_eaten">Eat food</string>
+     <string name="season_task_voidstone_any_eaten">Collect voidstones</string>
+     <string name="season_task_voidstone_regular_eaten">Collect regular voidstones</string>
+     <string name="season_task_voidstone_bronze_eaten">Collect bronze voidstones</string>
+     <string name="season_task_voidstone_silver_eaten">Collect silver voidstones</string>
+     <string name="season_task_voidstone_gold_eaten">Collect gold voidstones</string>
+     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
+     <string name="season_task_food_and_voidstone_eaten">Collect food and voidstones</string>
+     <string name="season_task_bots_eaten">Eat bots</string>
+     <string name="season_task_players_eaten">Eat players</string>
+     <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
+     <string name="season_task_hole_blue_powerup">Use blue hole powerups</string>
+     <string name="season_task_hole_purple_powerup">Use purple hole powerups</string>
+     <string name="season_task_hole_gold_powerup">Use gold hole powerups</string>
+     <string name="season_task_hole_any_punishment">Get hit by any hole</string>
+     <string name="season_task_hole_black_punishment">Get hit by black holes</string>
+     <string name="season_task_hole_blue_punishment">Get hit by blue holes</string>
+     <string name="season_task_hole_purple_punishment">Get hit by purple holes</string>
+     <string name="season_task_hole_gold_punishment">Get hit by gold holes</string>
+     <string name="season_task_win_competitive">Win competitive games</string>
+     <string name="season_task_win_survival">Win survival games</string>
+     <string name="season_task_win_team_survival">Win team survival games</string>
+     <string name="season_task_win_knockout">Win knockout games</string>
+     <string name="season_task_win_soccer">Win soccer games</string>
+     <string name="season_task_soccer_goal_scored">Score soccer goals</string>
+     <string name="season_task_split">Split</string>
+     <string name="season_task_shoot">Shoot</string>
+
     <!-- Profile -->
     <string name="profile">Profile</string>
     <string name="not_logged_in">Not logged in!</string>
@@ -283,6 +389,7 @@
     <string name="copy_id">Copy ID</string>
     <string name="share_id">Share ID</string>
     <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
+    <string name="no_youtube_link">No Link</string>
     <string name="created">Created %s</string>
     <string name="last_seen">Last seen %s</string>
     <string name="save_profile_description">Save Profile Description</string>
@@ -666,6 +773,7 @@
     <string name="skin_tab_standard">Standard</string>
     <string name="skin_tab_level">Level</string>
     <string name="skin_tab_voidstones">Voidstones</string>
+    <string name="flags">Flags</string>
     <string name="skin_tab_special">Special</string>
     <string name="level_skin_locked">Skin unlocks at level %d</string>
     <string name="level_lock">Level lock</string>
@@ -713,17 +821,18 @@
 
     <!-- In Game UI !-->
     <string name="player_size">Size: %d</string>
+    <string name="player_size_decimal">Size: %s</string>
     <string name="effective_size">Effective Size: %d</string>
+    <string name="effective_size_decimal">Effective Size: %s</string>
     <string name="decay">Decay: %.2f/s</string>
     <string name="pieces">Pieces: %1d/%2d</string>
     <string name="merge">Merge: %ss</string>
-    <string name="invincibility">Invincibility: %ss</string>
-    <string name="speed_boost">+Speed: %ss</string>
     <string name="xp">XP</string>
     <string name="level">Level</string>
     <string name="level_number">Level %d</string>
     <string name="food">Food</string>
     <string name="voidstones">Voidstones</string>
+    <string name="items">Items</string>
     <string name="blobs_eaten">Blobs Eaten</string>
     <string name="session_stat_size_gained">Size Gained</string>
     <string name="highest_rank">Highest Rank</string>
@@ -833,6 +942,9 @@
     <string name="custom_image_compress_title">Image Too Large - Compress?</string>
     <string name="custom_image_compress_accept">Use Compressed</string>
     <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
+    <string name="custom_image_crop_title">Crop to a square</string>
+    <string name="custom_image_crop_apply">Crop &amp; use</string>
+    <string name="custom_image_processing">Processing…</string>
     <string name="custom_image_bought">Custom Image Upload</string>
     <string name="custom_image_refund">Custom Image Refund</string>
     <string name="custom_image_slot">Image %1$d</string>
@@ -844,6 +956,37 @@
     <string name="report_avatar_message">Report the avatar of %1$s?</string>
     <string name="report_avatar_success">Avatar reported</string>
     <string name="report_avatar_failed">Failed to report avatar</string>
+    <string name="report_banner">Report Banner</string>
+    <string name="report_banner_message">Report the banner of %1$s?</string>
+    <string name="report_banner_success">Banner reported</string>
+    <string name="report_banner_failed">Failed to report banner</string>
+
+    <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
+    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_banner_upload">Upload</string>
+    <string name="custom_banner_replace">Replace</string>
+    <string name="custom_banner_deselect">Deselect</string>
+    <string name="custom_banner_confirm_title">Upload Banner</string>
+    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
+    <string name="custom_banner_upload_success">Banner sent for review</string>
+    <string name="custom_banner_selected">Banner selected</string>
+    <string name="custom_banner_deselected">Banner deselected</string>
+    <string name="custom_banner_upload_failed">Failed to upload banner</string>
+    <string name="custom_banner_read_error">Failed to read banner</string>
+    <string name="custom_banner_invalid_format">File must be an image</string>
+    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
+    <string name="custom_banner_compress_accept">Use Compressed</string>
+    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
+    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
+    <string name="custom_banner_crop_apply">Crop &amp; use</string>
+    <string name="custom_banner_processing">Processing…</string>
+    <string name="custom_banner_bought">Custom Banner Upload</string>
+    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_slot">Banner %1$d</string>
+    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Account Recovery</string>
