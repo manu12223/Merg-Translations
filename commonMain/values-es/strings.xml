@@ -493,7 +493,7 @@
     <string name="voidstone_gift_to_label">Voidstone Enviados:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
     <string name="transaction_fee">Incluye %d%% de tarifa</string>
-    <string name="transaction_fee_amount">-%s tarifa</string>
+    <string name="transaction_fee_amount">-%s de tarifa</string>
 
     <!-- Search Profile -->
     <string name="search_account">Buscar Cuenta</string>
@@ -962,29 +962,29 @@
     <string name="report_banner_failed">Ups, no se pudo Reportar el Banner.</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
-    <string name="custom_banner_confirm_title">Upload Banner</string>
-    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
-    <string name="custom_banner_upload_success">Banner sent for review</string>
+    <string name="custom_banner_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
+    <string name="custom_banner_upload">Subir</string>
+    <string name="custom_banner_replace">Reemplazar</string>
+    <string name="custom_banner_deselect">Deseleccionar</string>
+    <string name="custom_banner_confirm_title">Subir Banner</string>
+    <string name="custom_banner_confirm_body">¿Quieres Subir este Banner por %1$s Voidstones?</string>
+    <string name="custom_banner_upload_success">Banner en revisión</string>
     <string name="custom_banner_selected">Banner seleccionado</string>
     <string name="custom_banner_deselected">Banner deseleccionado</string>
-    <string name="custom_banner_upload_failed">Failed to upload banner</string>
-    <string name="custom_banner_read_error">Failed to read banner</string>
-    <string name="custom_banner_invalid_format">File must be an image</string>
-    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
-    <string name="custom_banner_compress_accept">Use Compressed</string>
-    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
-    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
-    <string name="custom_banner_crop_apply">Crop &amp; use</string>
-    <string name="custom_banner_processing">Processing…</string>
+    <string name="custom_banner_upload_failed">Ups, ocurrió un Error al Subir tu Banner.</string>
+    <string name="custom_banner_read_error">Ups, no pudimos Cargar tu Banner.</string>
+    <string name="custom_banner_invalid_format">Ups, el archivo debe ser una Imagen.</string>
+    <string name="custom_banner_error_size">El Banner %1$dKB es demasiado Pesado (max %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">El Banner %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
+    <string name="custom_banner_error_both">El Banner %1$dKB / %3$dx%4$d no cumple con las especificaciones (max. %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_compress_title">El Banner es demasiado Pesado - ¿Quieres Comprimirlo?</string>
+    <string name="custom_banner_compress_accept">Comprimir Banner</string>
+    <string name="custom_banner_compress_failed">El Banner no se pudo Comprimir para ajustarse al límite de KB.</string>
+    <string name="custom_banner_crop_title">Ajustar formato del Banner (16:9)</string>
+    <string name="custom_banner_crop_apply">Ajustar y Usar</string>
+    <string name="custom_banner_processing">En Proceso…</string>
     <string name="custom_banner_bought">Custom Banner Upload</string>
-    <string name="custom_banner_refund">Custom Banner Refund</string>
+    <string name="custom_banner_refund">Banner Reembolsado</string>
     <string name="custom_banner_slot">Banner %1$d</string>
     <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
