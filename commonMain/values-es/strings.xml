@@ -930,7 +930,7 @@
     <string name="custom_image_deselect">Deseleccionar</string>
     <string name="custom_image_confirm_title">Subir Imagen</string>
     <string name="custom_image_confirm_body">¿Quieres Subir esta Imagen por %1$s Voidstones?</string>
-    <string name="custom_image_upload_success">La skin Personalizada está en revisión</string>
+    <string name="custom_image_upload_success">Skin Personalizada en revisión</string>
     <string name="custom_image_selected">Avatar Seleccionado</string>
     <string name="custom_image_deselected">Avatar Deseleccionado</string>
     <string name="custom_image_upload_failed">Ups, ocurrió un Error al Subir tu Imagen.</string>
@@ -942,11 +942,11 @@
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
-    <string name="custom_image_crop_title">Crop to a square</string>
-    <string name="custom_image_crop_apply">Crop &amp; use</string>
-    <string name="custom_image_processing">Processing…</string>
-    <string name="custom_image_bought">Skin Personalizada</string>
-    <string name="custom_image_refund">Reembolsada</string>
+    <string name="custom_image_crop_title">Ajustar formato de la Imagen (1:1)</string>
+    <string name="custom_image_crop_apply">Ajustar y Usar</string>
+    <string name="custom_image_processing">En Proceso…</string>
+    <string name="custom_image_bought">Skin Personalizada Subida</string>
+    <string name="custom_image_refund">Skin Personalizada Reembolsada</string>
     <string name="custom_image_slot">Imagen %1$d</string>
 
     <!-- Custom image skin -->
@@ -983,10 +983,10 @@
     <string name="custom_banner_crop_title">Ajustar formato del Banner (16:9)</string>
     <string name="custom_banner_crop_apply">Ajustar y Usar</string>
     <string name="custom_banner_processing">En Proceso…</string>
-    <string name="custom_banner_bought">Custom Banner Upload</string>
+    <string name="custom_banner_bought">Banner Subido</string>
     <string name="custom_banner_refund">Banner Reembolsado</string>
     <string name="custom_banner_slot">Banner %1$d</string>
-    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
+    <string name="custom_banner_no_approved_image">No hay ningún Banner Aprobado en el espacio %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Recuperar Cuenta</string>
