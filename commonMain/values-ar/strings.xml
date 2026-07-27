@@ -320,7 +320,7 @@
      <string name="season_pass_resets_now">إعادة تعيين الان</string>
      <string name="season_pass_resets_in_dh">إعادة التعيين خلال%1$dd %2$dh</string>
      <string name="season_pass_resets_in_hm">إعادة التعيين خلال%1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">إعادة التعيين ختلال%1$dm</string>
+     <string name="season_pass_resets_in_m">إعادة التعيين خلال%1$dm</string>
 
      <string name="season_pass_history_title">سجل تذكرة الموسم</string>
      <string name="season_pass_history_cd">السجل</string>
@@ -1102,7 +1102,7 @@
     <string name="error">خطأ</string>
     <string name="error_with_string">خطأ: %s</string>
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
-    <string name="invalid_request">الطلب غير صالح أو يفتقد إلى حقو مطلوبة.</string>
+    <string name="invalid_request">الطلب غير صالح أو يفتقد إلى حقول مطلوبة.</string>
     <string name="invalid_token">جلسة غير صالحة أو منتهية الصلاحية. يرجى تسجيل الدخول مرة أخرى.</string>
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
@@ -1136,7 +1136,7 @@
     <string name="admin_cannot_act_on_staff">لا يمكن استخدام هذا الإجراء على أعضاء طاقم الإدارة.</string>
     <string name="code_not_found">رمز غير صالح</string>
     <string name="code_expired">انتهت صلاحية الرمز</string>
-    <string name="code_already_redeemed">تم استرد الرمز مسبقًا!</string>
+    <string name="code_already_redeemed">تم استرداد الرمز مسبقًا!</string>
     <string name="clan_owner_must_transfer_error">يجب نقل الملكية إلى عضو آخر قبل المغادرة.</string>
     <string name="mail_cannot_send_self">لا يمكنك إرسال رسالة إلى نفسك</string>
     <string name="clan_already_requested_other">تم تقديم طلب انضمام مسبقاً لهذه العشيرة</string>
