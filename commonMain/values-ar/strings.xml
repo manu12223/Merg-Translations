@@ -318,19 +318,19 @@
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">إعادة تعيين الان</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+     <string name="season_pass_resets_in_dh">إعادة التعيين خلال%1$dd %2$dh</string>
+     <string name="season_pass_resets_in_hm">إعادة التعيين خلال%1$dh %2$dm</string>
+     <string name="season_pass_resets_in_m">إعادة التعيين ختلال%1$dm</string>
 
      <string name="season_pass_history_title">سجل تذكرة الموسم</string>
      <string name="season_pass_history_cd">السجل</string>
      <string name="season_pass_history_empty">لم يتم جمع أي مكافآت بعد</string>
-     <string name="season_pass_history_stage_free">Stage %1$d (مجانية)</string>
-     <string name="season_pass_history_stage_paid">Stage %1$d (مدفوعة)</string>
-     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
-     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Season Task: %1$s</string>
-     <string name="season_pass_history_season_page">Season %1$d</string>
+     <string name="season_pass_history_stage_free">المرحلة %1$d (مجانية)</string>
+     <string name="season_pass_history_stage_paid">المرحلة %1$d (مدفوعة)</string>
+     <string name="season_pass_history_task_daily">المهمة اليومية: %1$s</string>
+     <string name="season_pass_history_task_weekly">المهمة الأسبوعية: %1$s</string>
+     <string name="season_pass_history_task_season">مهمة الموسم: %1$s</string>
+     <string name="season_pass_history_season_page">الموسم %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
@@ -341,9 +341,9 @@
      <string name="season_pass_missed_title">المكافآت الفائتة</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">لاتوجد مكافئات فائته من الموسم الماضي</string>
-     <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (مجانية)</string>
-     <string name="season_pass_missed_stage_paid">Stage %1$d (مدفوعة)</string>
+     <string name="season_pass_missed_cd">المكافآت الفائتة</string>
+     <string name="season_pass_missed_stage_free">المرحلة %1$d (مجانية)</string>
+     <string name="season_pass_missed_stage_paid">المرحلة %1$d (مدفوعة)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -388,7 +388,7 @@
     <string name="change_name">تغيير الاسم</string>
     <string name="copy_id">نسخ الهوية</string>
     <string name="share_id">مشاركة المعرف</string>
-    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
+    <string name="share_id_message">أضفني في MERG! رقم هويتي هو %1$s</string>
     <string name="no_youtube_link">لا يوجد رابط</string>
     <string name="created">أنشئ %s</string>
     <string name="last_seen">آخر ظهور: %s</string>
@@ -397,7 +397,7 @@
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
     <string name="profile_description_save_failed">فشل حفظ وصف الملف الشخصي</string>
     <string name="profile_description_too_long">الوصف طويل جدا! (الحد الأقصى %d حرفا)</string>
-    <string name="profile_description_too_large">Profile description is larger than %s</string>
+    <string name="profile_description_too_large">وصف الملف الشخصي أطول من الحد المسموح به. %s</string>
     <string name="unlock_description_color">فتح قفل لون نص الوصف</string>
     <string name="description_text_color">لون نص الوصف</string>
     <string name="unlock_description_color_success">تم فتح لون نص الوصف!</string>
@@ -915,7 +915,7 @@
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">قائمة المدراء</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">اللاعبون: %d ⋅ الروبوتات: %d ⋅ المتفرجون: %d ⋅ الإجمالي: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
     <string name="ban_confirm_title">حظر اللاعب من الغرفة</string>
@@ -929,14 +929,14 @@
     <string name="custom_image_replace">استبدال</string>
     <string name="custom_image_deselect">إلغاء التحديد</string>
     <string name="custom_image_confirm_title">رفع صورة</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
+    <string name="custom_image_confirm_body">هل تريد رفع هذه الصورة مقابل %1$s من أحجار الفراغ؟</string>
     <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">تم اختيار الصورة الشخصية</string>
     <string name="custom_image_deselected">تم إلغاء اختيار الصورة الشخصية</string>
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_image_error_size">صورتك %1$dKB كبيرة جدًا (الحد الأقصى %2$dKB)</string>
     <string name="custom_image_error_dimensions">صورتك %1$dx%2$d كبير جدًا (الحد الأقصى %3$dx%4$d بكسل)</string>
     <string name="custom_image_error_both">صورتك %1$dKB / %3$dx%4$d كبير جدًا (الحد الأقصى %2$dKB / %5$dx%6$d بكسل)</string>
     <string name="custom_image_compress_title">الصورة كبيرة جدًا - هل تريد ضغطها؟</string>
@@ -999,8 +999,8 @@
     <string name="recovery_new_email_placeholder">new@example.com</string>
     <string name="recovery_change_mail">تغيير البريد الإلكتروني</string>
     <string name="recovery_confirm_title">تغيير بريد الحساب الإلكتروني؟</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
+    <string name="recovery_confirm_body">أنت على وشك تغيير البريد الإلكتروني لهذا الحساب إلى %1$s. بعد ذلك، ستسجل الدخول باستخدام حساب Google المطابق. لا يمكن الترجع عن هذا الإجراء.</string>
+    <string name="recovery_success_body">تم تغيير البريد الإلكتروني للحساب إلى %1$s. يُرجى الآن تسجيل الدخول باستخدام حساب Google الجديد.</string>
     <string name="recovery_error_invalid_id">يرجى إدخال رقم هوية حساب صحيح.</string>
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
@@ -1022,7 +1022,7 @@
     <string name="server_not_running">السيرفر لا يعمل</string>
     <string name="name_change_reconnect_notice">لكي يتم تفعيل تغيير الاسم، ستتم إعادة اتصالك بالسيرفر.</string>
     <string name="play">العب</string>
-    <string name="id">ID:</string>
+    <string name="id">رقم الهوية:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
     <string name="sort_xp_desc">XP ↓</string>
@@ -1097,12 +1097,12 @@
     <string name="unknown">مجهول</string>
     <string name="invalid_selection">إختيار غير صالح!</string>
     <string name="invalid_name">اسم غير صالح!</string>
-    <string name="content_blocked">String contains blocked content</string>
+    <string name="content_blocked">يحتوي النص على محتوى محظور.</string>
     <string name="connecting">الاتصال%s</string>
     <string name="error">خطأ</string>
     <string name="error_with_string">خطأ: %s</string>
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
-    <string name="invalid_request">Request malformed or missing required fields</string>
+    <string name="invalid_request">الطلب غير صالح أو يفتقد إلى حقو مطلوبة.</string>
     <string name="invalid_token">جلسة غير صالحة أو منتهية الصلاحية. يرجى تسجيل الدخول مرة أخرى.</string>
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
@@ -1112,7 +1112,7 @@
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
     <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_message">بالمتابعة، فإنك توافق على شروط الخدمة وسياسة الخصوصية.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">قبول</string>
     <string name="decline">رفض</string>
@@ -1132,11 +1132,11 @@
     <string name="duplicate_action">إجراء مكرر</string>
     <string name="invalid_action">غير صالح</string>
     <string name="invalid_value">قيمة غير صالحة</string>
-    <string name="admin_cannot_act_self">Cannot perform this action on yourself</string>
-    <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
+    <string name="admin_cannot_act_self">لا يمكن استخدام هذا الإجراء على نفسك.</string>
+    <string name="admin_cannot_act_on_staff">لا يمكن استخدام هذا الإجراء على أعضاء طاقم الإدارة.</string>
     <string name="code_not_found">رمز غير صالح</string>
     <string name="code_expired">انتهت صلاحية الرمز</string>
-    <string name="code_already_redeemed">Code Already Claimed!</string>
+    <string name="code_already_redeemed">تم استرد الرمز مسبقًا!</string>
     <string name="clan_owner_must_transfer_error">يجب نقل الملكية إلى عضو آخر قبل المغادرة.</string>
     <string name="mail_cannot_send_self">لا يمكنك إرسال رسالة إلى نفسك</string>
     <string name="clan_already_requested_other">تم تقديم طلب انضمام مسبقاً لهذه العشيرة</string>
