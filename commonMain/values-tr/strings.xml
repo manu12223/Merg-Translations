@@ -468,7 +468,8 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Gradient Profile colors not unlocked</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradient Profile colors 2 not unlocked</string>
     <string name="profile_color_save_failed">Failed to save Profile colors</string>
-        <!-- Profile Tags -->
+
+    <!-- Profile Tags -->
     <string name="developer_tag">Geliştirici</string>
     <string name="code_contribution_tag">Kod Katkısı</string>
     <string name="admin">YÖNETİCİ</string>
@@ -507,7 +508,7 @@
     <string name="clan_tag_hint">Etiket (1-4 harf)</string>
     <string name="clan_list">Açık Klanlar</string>
     <string name="clan_no_clans">Hiç klan bulunamadı</string>
-    <string name="clan_no_clan">Klanı yok</string>
+    <string name="clan_no_clans">Klanı yok</string>
     <string name="clan_request_clans">Sadece İstekle Alınan Klanlar</string>
     <string name="clan_my_invites">Davetlerim</string>
     <string name="clan_invite_declined">Davet reddedildi.</string>
