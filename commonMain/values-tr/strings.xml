@@ -468,56 +468,55 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Gradient Profile colors not unlocked</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Gradient Profile colors 2 not unlocked</string>
     <string name="profile_color_save_failed">Failed to save Profile colors</string>
-
-    <!-- Profile Tags -->
-    <string name="developer_tag">Developer</string>
-    <string name="code_contribution_tag">Code Contribution</string>
-    <string name="admin">ADMIN</string>
-    <string name="mod">MOD</string>
-    <string name="verified">Verified</string>
+        <!-- Profile Tags -->
+    <string name="developer_tag">Geliştirici</string>
+    <string name="code_contribution_tag">Kod Katkısı</string>
+    <string name="admin">YÖNETİCİ</string>
+    <string name="mod">MODERATÖR</string>
+    <string name="verified">Doğrulanmış</string>
     <string name="youtube">YouTube</string>
-    <string name="translator">Translator</string>
-    <string name="internal_tester">Internal Tester</string>
-    <string name="alpha_tester">Alpha Tester</string>
-    <string name="beta_tester">Beta Tester</string>
-    <string name="discord_staff">Discord Staff</string>
+    <string name="translator">Çevirmen</string>
+    <string name="internal_tester">Dahili Testçi</string>
+    <string name="alpha_tester">Alfa Testçisi</string>
+    <string name="beta_tester">Beta Testçisi</string>
+    <string name="discord_staff">Discord Yetkilisi</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Send Voidstones</string>
-    <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Cannot send voidstones to yourself</string>
-    <string name="voidstone_gift_from">Voidstone Gift from %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Voidstone Gift to %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Voidstone Gift from:</string>
-    <string name="voidstone_gift_to_label">Voidstone Gift to:</string>
+    <string name="send_voidstones">Voidstone Gönder</string>
+    <string name="send_voidstones_to">%1$s Kullanıcısına Voidstone Gönder (ID: %2$d)</string>
+    <string name="send_voidstones_confirm">%2$s adlı kullanıcıya (ID: %3$d) %1$s Voidstone gönderilsin mi?</string>
+    <string name="send_voidstones_self">Kendine Voidstone gönderemezsin</string>
+    <string name="voidstone_gift_from">%1$s (ID: %2$d) Kullanıcısından Voidstone Hediyesi</string>
+    <string name="voidstone_gift_to">%1$s (ID: %2$d) Kullanıcısına Voidstone Hediyesi</string>
+    <string name="voidstone_gift_from_label">Voidstone Hediyesini Gönderen:</string>
+    <string name="voidstone_gift_to_label">Voidstone Hediyesinin Alıcısı:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">includes %d%% fee</string>
-    <string name="transaction_fee_amount">-%s fee</string>
+    <string name="transaction_fee">%%%d işlem ücreti dahildir</string>
+    <string name="transaction_fee_amount">-%s işlem ücreti</string>
 
     <!-- Search Profile -->
-    <string name="search_account">Search Account</string>
-    <string name="search_account_by_id_or_name">Search for an account by ID or name</string>
-    <string name="no_account_found">No account found</string>
+    <string name="search_account">Hesap Ara</string>
+    <string name="search_account_by_id_or_name">ID veya isim ile hesap ara</string>
+    <string name="no_account_found">Hesap bulunamadı</string>
 
     <!-- Clan -->
-    <string name="clan_create">Create Clan</string>
-    <string name="clan_name">Clan Name</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
-    <string name="clan_tag">Clan Tag</string>
-    <string name="clan_tag_hint">Tag (1-4 letters)</string>
-    <string name="clan_list">Public Clans</string>
-    <string name="clan_no_clans">No clans found</string>
-    <string name="no_clan">No clan</string>
-    <string name="clan_request_clans">Request Only Clans</string>
-    <string name="clan_my_invites">My Invites</string>
-    <string name="clan_invite_declined">Invite declined.</string>
-    <string name="clan_joined">Clan joined!</string>
-    <string name="clan_private">This clan is private or no longer active.</string>
-    <string name="clan_members">Members</string>
-    <string name="clan_members_count">%1$d / %2$d members</string>
-    <string name="clan_request_join">Request to Join</string>
-    <string name="clan_leave">Leave Clan</string>
+    <string name="clan_create">Klan Oluştur</string>
+    <string name="clan_name">Klan Adı</string>
+    <string name="clan_name_hint">Klan adını gir (maks. 14 karakter)</string>
+    <string name="clan_tag">Klan Etiketi</string>
+    <string name="clan_tag_hint">Etiket (1-4 harf)</string>
+    <string name="clan_list">Açık Klanlar</string>
+    <string name="clan_no_clans">Hiç klan bulunamadı</string>
+    <string name="clan_no_clan">Klanı yok</string>
+    <string name="clan_request_clans">Sadece İstekle Alınan Klanlar</string>
+    <string name="clan_my_invites">Davetlerim</string>
+    <string name="clan_invite_declined">Davet reddedildi.</string>
+    <string name="clan_joined">Klana katılındı!</string>
+    <string name="clan_private">Bu klan özel veya artık aktif değil.</string>
+    <string name="clan_members">Üyeler</string>
+    <string name="clan_members_count">%1$d / %2$d üye</string>
+    <string name="clan_request_join">Katılma İsteği Gönder</string>
+    <string name="clan_leave">Klandan Ayrıl</string>
     <string name="clan_leave_confirm">Are you sure you want to leave this clan?</string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
     <string name="clan_request_sent">Join request sent.</string>
