@@ -492,7 +492,7 @@
     <string name="voidstone_gift_from_label">Voidstone Hediyesini Gönderen:</string>
     <string name="voidstone_gift_to_label">Voidstone Hediyesinin Alıcısı:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">%%%d işlem ücreti dahildir</string>
+    <string name="transaction_fee">%d%% işlem ücreti dahildir</string>
     <string name="transaction_fee_amount">-%s işlem ücreti</string>
 
     <!-- Search Profile -->
@@ -508,7 +508,7 @@
     <string name="clan_tag_hint">Etiket (1-4 harf)</string>
     <string name="clan_list">Açık Klanlar</string>
     <string name="clan_no_clans">Hiç klan bulunamadı</string>
-    <string name="clan_no_clans">Klanı yok</string>
+    <string name="no_clan">Klanı yok</string>
     <string name="clan_request_clans">Sadece İstekle Alınan Klanlar</string>
     <string name="clan_my_invites">Davetlerim</string>
     <string name="clan_invite_declined">Davet reddedildi.</string>
