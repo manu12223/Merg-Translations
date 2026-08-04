@@ -17,7 +17,7 @@
     <string name="code_contribution">Contribuidores do Código:</string>
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Ícones:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">Efeitos Sonoros:</string>
     <string name="translations">Traduções:</string>
     <string name="fonts">Fontes:</string>
 
@@ -62,13 +62,13 @@
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Toque</string>
     <string name="control_mouse">Mouse</string>
-    <string name="control_keyboard">Keyboard</string>
+    <string name="control_keyboard">Teclado</string>
     <string name="button_layout">Layout dos Botões</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidade</string>
     <string name="leaderboard_size">Tamanho do Placar</string>
-    <string name="sound_effects">Sound Effects</string>
-    <string name="sound_volume">Sound Volume</string>
+    <string name="sound_effects">Efeitos Sonoros</string>
+    <string name="sound_volume">Volume dos Sons</string>
     <string name="show_grid">Exibir Grades</string>
     <string name="show_grid_coordinates">Exibir Coordenadas das Grades</string>
     <string name="show_coordinate_tint">Exibir Matiz das Coordenadas</string>
@@ -93,8 +93,8 @@
     <string name="cycle_progressbar">Percorrer o Texto da Barra de Progresso de XP</string>
     <string name="verbose_in_game_ui">IU Detalhada no Jogo</string>
     <string name="jitter_buffer">Jitter Buffer</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">Extrapolação</string>
+    <string name="no_interpolation">Sem Interpolação</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Jogo</string>
@@ -124,7 +124,7 @@
     <string name="relax">Equipe de Jogadores vs. Bots</string>
     <string name="warning_no_holes">Nenhuma estatística será salva</string>
     <string name="gold_holes">Vírus Dourados</string>
-    <string name="teleport_holes">Teleport Holes</string>
+    <string name="teleport_holes">Vírus de Teletransporte</string>
     <string name="starting_difficulty">Pular para dificuldade</string>
 
     <!-- Multiplayer -->
@@ -216,7 +216,7 @@
     <!-- Boosters -->
     <string name="boosters">Incrementos</string>
     <string name="booster_permanent_upgrades">Aprimoramentos Permanentes</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="booster_owned">possui: %1$s</string>
     <string name="booster_ad_xp_title">Multiplicador de XP por Anúncio</string>
     <string name="booster_ad_xp_desc">Assista a um vídeo de anúncio para obter um incremento de XP temporário!</string>
     <string name="booster_stacks_base_xp">Acúmulos com XP de Base</string>
@@ -288,7 +288,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">Anúncio ainda não carregado</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill">Vazio: não há anúncios disponíveis no momento. Tente novamente mais tarde.</string>
     <string name="ad_show_failed">Falha ao exibir o anúncio</string>
     <string name="ad_load_failed">Falha ao carregar o anúncio</string>
     <string name="ad_rate_limited">Muitos anúncios foram exibidos em curto prazo. Tente novamente em %s.</string>
@@ -391,23 +391,23 @@
     <string name="login">Fazer login</string>
     <string name="login_google">Entrar com Google</string>
     <string name="login_apple">Entrar com Apple</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
-    <string name="link_success">Sign-in method linked!</string>
-    <string name="link_already_linked">This sign-in method is already linked to your account.</string>
-    <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
-    <string name="link_email_taken">The email on this sign-in belongs to another Merg account.</string>
-    <string name="link_stepup_failed">Verification failed. Please try again.</string>
-    <string name="link_cancelled">Linking was cancelled.</string>
-    <string name="link_failed">Could not link sign-in method. Please try again.</string>
+    <string name="link_google">Vincular Login do Google</string>
+    <string name="link_apple">Vincular login da Apple</string>
+    <string name="link_success">Método de login vinculado!</string>
+    <string name="link_already_linked">Este método de login já está vinculado à sua conta.</string>
+    <string name="link_identity_taken">Esta conta já está vinculada a uma outra conta do Merg. Faça login nessa conta ao invés disso.</string>
+    <string name="link_email_taken">O e-mail neste login pertence a uma outra conta do Merg.</string>
+    <string name="link_stepup_failed">Não foi possível verificar. Tente novamente.</string>
+    <string name="link_cancelled">O vínculo foi cancelado.</string>
+    <string name="link_failed">Não foi possível vincular o método de login. Tente novamente.</string>
     <string name="logout">Desconectar-se</string>
     <string name="logout_all_devices">Desconectar-se de Todos os Dispositivos</string>
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartilhar ID</string>
     <string name="share_id_message">Me adicione no Merg! Este é o meu ID: %1$s</string>
-    <string name="no_youtube_link">Sem Link</string>
-    <string name="no_tiktok_link">No Link</string>
+    <string name="no_youtube_link">Sem link</string>
+    <string name="no_tiktok_link">Sem link</string>
     <string name="created">Criou em: %s</string>
     <string name="last_seen">Visto(a) por último: %s</string>
     <string name="save_profile_description">Salvar Biografia</string>
@@ -718,8 +718,8 @@
     <string name="gamemode_coming_soon">Em Breve</string>
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
-    <string name="gamemode_domination">Domination</string>
-    <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
+    <string name="gamemode_domination">Dominação</string>
+    <string name="description_domination">Aquele clássico jogo cronometrado, onde o tamanho só conta enquanto estiver em primeiro lugar! Cada segundo passado como a maior bolha no mapa adiciona um segundo à sua pontuação; o tempo acrescentado nunca será desfeito ao ser absorvido(a). Aquele(a) que estiver em primeiro lugar por mais tempo quando o tempo acabar será o(a) vencedor(a)!</string>
     <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
@@ -756,8 +756,8 @@
     <string name="adventure_obj_reach_size">Atinja um Tamanho de %d</string>
     <string name="adventure_obj_finish_first">Chegue em 1º lugar</string>
     <string name="adventure_obj_collect_voidstones">Colete %d Voidstones</string>
-    <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
-    <string name="adventure_obj_boss_fight">Boss Fight</string>
+    <string name="adventure_obj_eat_count_bots">Absorva %d Bots</string>
+    <string name="adventure_obj_boss_fight">Derrote o Chefão</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tempo</string>
@@ -797,7 +797,7 @@
     <string name="skin_tab_level">Nível</string>
     <string name="skin_tab_voidstones">Voidstone</string>
     <string name="flags">Bandeiras</string>
-    <string name="skin_tab_particles">Particles</string>
+    <string name="skin_tab_particles">Partículas</string>
     <string name="skin_tab_special">Especial</string>
     <string name="level_skin_locked">Esta skin será desbloqueada no nível %d</string>
     <string name="level_lock">Bloqueio no nível</string>
@@ -851,8 +851,8 @@
     <string name="decay">Perda de Tamanho: %.2f/s</string>
     <string name="pieces">Divisões: %1d/%2d</string>
     <string name="merge">Juntar-se em: %ss</string>
-    <string name="throw_item_button">Throw item</string>
-    <string name="select_throw_item">Select throw item button</string>
+    <string name="throw_item_button">Jogar Item</string>
+    <string name="select_throw_item">Selecionar o botão de jogar item</string>
     <string name="xp">XP</string>
     <string name="level">Nível</string>
     <string name="level_number">Nível %d</string>
