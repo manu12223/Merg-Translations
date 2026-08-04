@@ -124,7 +124,7 @@
     <string name="relax">リアルプレイヤー対ボットのみ</string>
     <string name="warning_no_holes">統計は更新されません</string>
     <string name="gold_holes">ゴールドホールを有効</string>
-    <string name="teleport_holes">テレポートホール</string>
+    <string name="teleport_holes">テレポートホールを有効</string>
     <string name="starting_difficulty">難易度のスキップ</string>
 
     <!-- Multiplayer -->
@@ -407,7 +407,7 @@
     <string name="share_id">IDをシェア</string>
     <string name="share_id_message">Mergで追加してね！ID %1$s</string>
     <string name="no_youtube_link">リンクなし</string>
-    <string name="no_tiktok_link">No Link</string>
+    <string name="no_tiktok_link">リンクなし</string>
     <string name="created">作成日付: %s</string>
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介保存</string>
@@ -932,7 +932,7 @@
     <string name="enter_ip">IP入力</string>
     <string name="join_ip_title">IPアドレスに参加</string>
     <string name="tap_to_reveal">タップして表示</string>
-    <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZをオンにする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
+    <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZをオンにする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、次のリンクにアクセスしてください：%s</string>
 
     <!-- Player List -->
     <string name="players">プレイヤー</string>
