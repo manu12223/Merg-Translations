@@ -217,6 +217,8 @@
     <string name="boosters">ブースター</string>
     <string name="booster_permanent_upgrades">永久アップグレード</string>
     <string name="booster_owned">有効：%1$s</string>
+    <!-- Value shown for a booster the player has not bought any level of. -->
+    <string name="none">なし</string>
     <string name="booster_ad_xp_title">広告経験値倍率</string>
     <string name="booster_ad_xp_desc">広告を視聴して一時的なブーストをゲットしよう！</string>
     <string name="booster_stacks_base_xp">基本経験値を含むスタック</string>
