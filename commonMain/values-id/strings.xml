@@ -217,6 +217,8 @@
     <string name="boosters">Booster</string>
     <string name="booster_permanent_upgrades">Upgrade Permanen</string>
     <string name="booster_owned">dimiliki: %1$s</string>
+    <!-- Value shown for a booster the player has not bought any level of. -->
+    <string name="none">None</string>
     <string name="booster_ad_xp_title">Pengganda XP Iklan</string>
     <string name="booster_ad_xp_desc">Tonton video untuk mendapatkan XP boost sementara!</string>
     <string name="booster_stacks_base_xp">Dapat Ditumpuk dengan XP Dasar</string>

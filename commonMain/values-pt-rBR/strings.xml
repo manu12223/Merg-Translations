@@ -217,6 +217,8 @@
     <string name="boosters">Incrementos</string>
     <string name="booster_permanent_upgrades">Aprimoramentos Permanentes</string>
     <string name="booster_owned">owned: %1$s</string>
+    <!-- Value shown for a booster the player has not bought any level of. -->
+    <string name="none">None</string>
     <string name="booster_ad_xp_title">Multiplicador de XP por Anúncio</string>
     <string name="booster_ad_xp_desc">Assista a um vídeo de anúncio para obter um incremento de XP temporário!</string>
     <string name="booster_stacks_base_xp">Acúmulos com XP de Base</string>
