@@ -17,7 +17,7 @@
     <string name="code_contribution">Kontribusi Kode:</string>
     <string name="skins">Skin:</string>
     <string name="graphics_icons">Grafik/Ikon:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">Efek Suara:</string>
     <string name="translations">Terjemahan:</string>
     <string name="fonts">Font:</string>
 
@@ -67,8 +67,8 @@
     <string name="customize">Sesuaikan</string>
     <string name="opacity">Opasitas</string>
     <string name="leaderboard_size">Ukuran Papan Peringkat</string>
-    <string name="sound_effects">Sound Effects</string>
-    <string name="sound_volume">Sound Volume</string>
+    <string name="sound_effects">Efek Suara</string>
+    <string name="sound_volume">Volume Suara</string>
     <string name="show_grid">Tampilkan Grid</string>
     <string name="show_grid_coordinates">Tampilkan Koordinat Grid</string>
     <string name="show_coordinate_tint">Tampilkan Tinta Koordinat</string>
@@ -124,7 +124,7 @@
     <string name="relax">Santai</string>
     <string name="warning_no_holes">Statistik tidak akan disimpan</string>
     <string name="gold_holes">Lubang Emas</string>
-    <string name="teleport_holes">Teleport Holes</string>
+    <string name="teleport_holes">Lubang Teleportasi</string>
     <string name="starting_difficulty">Tingkat Kesulitan Awal</string>
 
     <!-- Multiplayer -->
@@ -181,11 +181,11 @@
     <string name="x_playing">%d bermain</string>
     <string name="global_position">Global #%s</string>
     <string name="global_label">Global #</string>
-    <string name="wins_draws_losses_winrate">Menang: %1$s · Seri: %2$s · Kalah: %3$s · Tingkat Menang: %4$s%%</string>
+    <string name="wins_draws_losses_winrate">Menang: %1$s · Seri: %2$s · Kalah: %3$s · Tingkat menang: %4$s%%</string>
     <string name="stat_wins_label">Menang: </string>
     <string name="stat_draws_label"> · Seri: </string>
     <string name="stat_losses_label"> · Kalah: </string>
-    <string name="stat_winrate_label"> · Tingkat Menang: </string>
+    <string name="stat_winrate_label"> · Tingkat menang: </string>
     <string name="match_starts_in">Pertandingan dimulai dalam…</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Aktif pertandingan</string>
@@ -216,7 +216,9 @@
     <!-- Boosters -->
     <string name="boosters">Booster</string>
     <string name="booster_permanent_upgrades">Upgrade Permanen</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="booster_owned">dimiliki: %1$s</string>
+    <!-- Value shown for a booster the player has not bought any level of. -->
+    <string name="none">None</string>
     <string name="booster_ad_xp_title">Pengganda XP Iklan</string>
     <string name="booster_ad_xp_desc">Tonton video untuk mendapatkan XP boost sementara!</string>
     <string name="booster_stacks_base_xp">Dapat Ditumpuk dengan XP Dasar</string>
@@ -288,7 +290,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">Iklan belum dimuat</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill">Tidak ada isian: tidak ada iklan yang tersedia untuk Anda saat ini. Silakan coba lagi nanti.</string>
     <string name="ad_show_failed">Gagal menampilkan iklan</string>
     <string name="ad_load_failed">Gagal memuat iklan</string>
     <string name="ad_rate_limited">Anda telah menonton terlalu banyak iklan belakangan ini. Silakan coba lagi dalam %s.</string>
@@ -391,15 +393,15 @@
     <string name="login">Login</string>
     <string name="login_google">Masuk dengan Google</string>
     <string name="login_apple">Masuk dengan Apple</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
-    <string name="link_success">Sign-in method linked!</string>
-    <string name="link_already_linked">This sign-in method is already linked to your account.</string>
-    <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
-    <string name="link_email_taken">The email on this sign-in belongs to another Merg account.</string>
-    <string name="link_stepup_failed">Verification failed. Please try again.</string>
-    <string name="link_cancelled">Linking was cancelled.</string>
-    <string name="link_failed">Could not link sign-in method. Please try again.</string>
+    <string name="link_google">Tautkan Login Google</string>
+    <string name="link_apple">Tautkan Login Apple</string>
+    <string name="link_success">Metode login telah ditautkan!</string>
+    <string name="link_already_linked">Metode login ini sudah ditautkan ke akun Anda.</string>
+    <string name="link_identity_taken">Akun ini sudah ditautkan ke akun Merg lain. Silakan login menggunakan akun tersebut.</string>
+    <string name="link_email_taken">Alamat email yang digunakan untuk login ini milik akun Merg lain.</string>
+    <string name="link_stepup_failed">Gagal memverifikasi. Silakan coba lagi.</string>
+    <string name="link_cancelled">Penautan dibatalkan.</string>
+    <string name="link_failed">Tidak dapat menautkan metode login. Silakan coba lagi.</string>
     <string name="logout">Logout</string>
     <string name="logout_all_devices">Logout Dari Semua Perangkat</string>
     <string name="change_name">Ubah Nama</string>
@@ -407,7 +409,7 @@
     <string name="share_id">Bagikan ID</string>
     <string name="share_id_message">Tambahkan saya di Merg! ID saya adalah %1$s</string>
     <string name="no_youtube_link">Tidak Ada Link</string>
-    <string name="no_tiktok_link">No Link</string>
+    <string name="no_tiktok_link">Tidak Ada Link</string>
     <string name="created">Dibuat %s</string>
     <string name="last_seen">Terakhir terlihat %s</string>
     <string name="save_profile_description">Simpan Deskripsi Profil</string>
@@ -672,7 +674,7 @@
     <string name="stat_food_eaten">Makanan yang Dimakan:</string>
     <string name="stat_players_eaten">Pemain yang Dimakan:</string>
     <string name="stat_bots_eaten">Bot yang Dimakan:</string>
-    <string name="stat_blobs_eaten">Gumpal yang Dimakan:</string>
+    <string name="stat_blobs_eaten">Gumpalan yang Dimakan:</string>
     <string name="stat_games_won">Kemenangan Permainan:</string>
     <string name="stat_longest_session">Sesi Terlama:</string>
     <string name="stat_time_played">Waktu Bermain:</string>
@@ -718,8 +720,8 @@
     <string name="gamemode_coming_soon">Segera Hadir</string>
     <string name="gamemode_competitive">Kompetitif</string>
     <string name="gamemode_multimerg">MultiMerg</string>
-    <string name="gamemode_domination">Domination</string>
-    <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
+    <string name="gamemode_domination">Dominasi</string>
+    <string name="description_domination">Permainan klasik berpacu dengan waktu, di mana ukuran hanya berpengaruh selama Anda memegang posisi pertama! Setiap detik yang Anda habiskan sebagai gumpalan terbesar di peta akan menambah satu detik pada skor Anda, dan jika Anda dimakan, waktu yang telah Anda kumpulkan tidak akan hilang. Siapa pun yang paling lama menempati posisi pertama saat waktu habis akan keluar sebagai pemenang!</string>
     <string name="description_classic">Santaplah pemain yang lebih kecil dan jadilah gumpalan terbesar di alam semesta! Manfaatkan ukuran Anda untuk menguasai peta, namun waspadalah terhadap pemain lebih besar yang ingin memangsa Anda!</string>
     <string name="description_teams">Bergabunglah dengan pemain lain yang memiliki warna sama! Bekerja samalah untuk menjebak musuh dan jadilah tim yang mendominasi papan peringkat. Anggota tim tidak bisa saling memakan.</string>
     <string name="description_survival">Satu nyawa, satu ronde! Kumpulkan sebanyak mungkin sebelum masa tenggang berakhir. Setelah itu, kematian bersifat permanen! Jadilah pemain terakhir yang bertahan atau yang terbesar saat waktu habis untuk memenangkan permainan!</string>
@@ -729,7 +731,7 @@
     <string name="description_soccer">Tangkap bola dan tembakkan ke gawang lawan untuk mencetak skor. Tim dengan jumlah gol terbanyak saat waktu habis akan menang!</string>
     <string name="description_coming_soon">Mode ini akan segera hadir, pantau terus!</string>
     <string name="description_competitive">Bertahan hidup 1v1 berperingkat! Dapatkan penilaian dengan mengalahkan lawan yang memiliki tingkat keahlian setara. Pertandingan berlangsung selama 3 menit, ditambah perpanjangan waktu 2 menit jika tidak ada pemain yang gugur. Menanglah untuk naik di papan peringkat global atau kalah dan turun peringkat; besarnya perubahan penilaian bergantung pada selisih kemampuan antara Anda dan lawan Anda.</string>
-    <string name="description_multimerg">Anda memunculkan DUA gumpalan dan beralih kendali di antara keduanya menggunakan tombol yin-yang! Hanya gumpalan aktif yang merespons perintah joystik, split, dan shoot. Gumpalan lainnya akan terus bergerak mengikuti arah terakhirnya. Kedua gumpalanmu bisa saling memakan jika sedang split, namun potongan terakhirnya terlindungi.</string>
+    <string name="description_multimerg">Anda memunculkan DUA gumpalan dan beralih kendali di antara keduanya menggunakan tombol yin-yang! Hanya gumpalan aktif yang merespons perintah joystik, split, dan shoot. Gumpalan lainnya akan terus bergerak mengikuti arah terakhirnya. Kedua gumpalan Anda bisa saling memakan jika sedang split, namun potongan terakhirnya terlindungi.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Mungil</string>
@@ -756,8 +758,8 @@
     <string name="adventure_obj_reach_size">Capai Ukuran %d</string>
     <string name="adventure_obj_finish_first">Finis di Posisi ke-1</string>
     <string name="adventure_obj_collect_voidstones">Kumpulkan %d Voidstone</string>
-    <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
-    <string name="adventure_obj_boss_fight">Boss Fight</string>
+    <string name="adventure_obj_eat_count_bots">Makan %d Bot</string>
+    <string name="adventure_obj_boss_fight">Pertarungan Bos</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Waktu</string>
@@ -780,7 +782,7 @@
     <string name="buttons_split">Tombol Split</string>
     <string name="select_split">Pilih Split</string>
     <string name="split">Split</string>
-    <string name="buttons_yinyang">Tombol Mengalihkan Gumpal</string>
+    <string name="buttons_yinyang">Tombol Mengalihkan Gumpalan</string>
     <string name="select_yinyang">Pilih Sakelar</string>
     <string name="yinyang">Sakelar</string>
     <string name="buttons_customize">Sesuaikan Tombol</string>
@@ -797,7 +799,7 @@
     <string name="skin_tab_level">Level</string>
     <string name="skin_tab_voidstones">Voidstone</string>
     <string name="flags">Bendera</string>
-    <string name="skin_tab_particles">Particles</string>
+    <string name="skin_tab_particles">Partikel</string>
     <string name="skin_tab_special">Spesial</string>
     <string name="level_skin_locked">Skin terbuka pada level %d</string>
     <string name="level_lock">Pengunci level</string>
@@ -851,15 +853,15 @@
     <string name="decay">Kehilangan: %.2f/d</string>
     <string name="pieces">Potongan: %1d/%2d</string>
     <string name="merge">Gabungan: %sd</string>
-    <string name="throw_item_button">Throw item</string>
-    <string name="select_throw_item">Select throw item button</string>
+    <string name="throw_item_button">Lempar item</string>
+    <string name="select_throw_item">Pilih tombol lempar item</string>
     <string name="xp">XP</string>
     <string name="level">Level</string>
     <string name="level_number">Level %d</string>
     <string name="food">Makanan</string>
     <string name="voidstones">Voidstone</string>
     <string name="items">Item</string>
-    <string name="blobs_eaten">Gumpal yang Dimakan</string>
+    <string name="blobs_eaten">Gumpalan yang Dimakan</string>
     <string name="session_stat_size_gained">Penambahan Ukuran</string>
     <string name="highest_rank">Peringkat Tertinggi</string>
     <string name="session_stat_highest_size">Ukuran Terbesar</string>
