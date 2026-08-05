@@ -217,6 +217,8 @@
     <string name="boosters">Güçlendiriciler</string>
     <string name="booster_permanent_upgrades">Kalıcı Yükseltmeler</string>
     <string name="booster_owned">owned: %1$s</string>
+    <!-- Value shown for a booster the player has not bought any level of. -->
+    <string name="none">None</string>
     <string name="booster_ad_xp_title">Reklam XP Katlayıcı</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>

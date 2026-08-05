@@ -217,6 +217,8 @@
     <string name="boosters">Boostery</string>
     <string name="booster_permanent_upgrades">Permanentní vylepšení</string>
     <string name="booster_owned">owned: %1$s</string>
+    <!-- Value shown for a booster the player has not bought any level of. -->
+    <string name="none">None</string>
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Sleduj video za dočasný XP boost!</string>
     <string name="booster_stacks_base_xp">Sčítá se se základním XP</string>
