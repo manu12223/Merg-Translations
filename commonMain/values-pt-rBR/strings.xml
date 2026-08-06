@@ -394,7 +394,7 @@
     <string name="login_google">Entrar com Google</string>
     <string name="login_apple">Entrar com Apple</string>
     <string name="link_google">Vincular Login do Google</string>
-    <string name="link_apple">Vincular login da Apple</string>
+    <string name="link_apple">Vincular Login da Apple</string>
     <string name="link_success">Método de login vinculado!</string>
     <string name="link_already_linked">Este método de login já está vinculado à sua conta.</string>
     <string name="link_identity_taken">Esta conta já está vinculada a uma outra conta do Merg. Faça login nessa conta ao invés disso.</string>
