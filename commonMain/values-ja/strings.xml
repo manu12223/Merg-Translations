@@ -17,7 +17,7 @@
     <string name="code_contribution">コードヘルパー：</string>
     <string name="skins">スキン：</string>
     <string name="graphics_icons">グラフィックとアイコン：</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">サウンドエフェクト：</string>
     <string name="translations">翻訳：</string>
     <string name="fonts">フォント：</string>
 
@@ -61,14 +61,14 @@
     <string name="control_joystick">スティック</string>
     <string name="control_relative">相対</string>
     <string name="control_touch">タッチ</string>
-    <string name="control_mouse">Mouse</string>
-    <string name="control_keyboard">Keyboard</string>
+    <string name="control_mouse">マウス</string>
+    <string name="control_keyboard">キーボード</string>
     <string name="button_layout">ボタンのレイアウト</string>
     <string name="customize">カスタマイズ</string>
     <string name="opacity">不透明度</string>
     <string name="leaderboard_size">リーダーボードサイズ</string>
-    <string name="sound_effects">Sound Effects</string>
-    <string name="sound_volume">Sound Volume</string>
+    <string name="sound_effects">SFX</string>
+    <string name="sound_volume">音量</string>
     <string name="show_grid">グリッドを表示</string>
     <string name="show_grid_coordinates">グリッド座標を表示</string>
     <string name="show_coordinate_tint">座標の色合いを表示</string>
@@ -124,7 +124,7 @@
     <string name="relax">リアルプレイヤー対ボットのみ</string>
     <string name="warning_no_holes">統計は更新されません</string>
     <string name="gold_holes">ゴールドホールを有効</string>
-    <string name="teleport_holes">Teleport Holes</string>
+    <string name="teleport_holes">テレポートホールを有効</string>
     <string name="starting_difficulty">難易度のスキップ</string>
 
     <!-- Multiplayer -->
@@ -216,11 +216,11 @@
     <!-- Boosters -->
     <string name="boosters">ブースター</string>
     <string name="booster_permanent_upgrades">永久アップグレード</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="booster_owned">有効：%1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
+    <string name="none">なし</string>
     <string name="booster_ad_xp_title">広告経験値倍率</string>
-    <string name="booster_ad_xp_desc">広告を視聴して一時的ななブーストをゲットしよう！</string>
+    <string name="booster_ad_xp_desc">広告を視聴して一時的なブーストをゲットしよう！</string>
     <string name="booster_stacks_base_xp">基本経験値を含むスタック</string>
     <string name="booster_watch_ad">広告視聴</string>
     <string name="booster_choose_boost">経験値ブーストの選択</string>
@@ -242,7 +242,7 @@
     <string name="code_already_claimed">コードはすでに利用されました！</string>
     <string name="successfully_claimed_code">リワードを利用しました</string>
     <string name="reward_voidstones">＋%s枚のボイドストーン</string>
-    <string name="reward_unlock">アンロック: %s</string>
+    <string name="reward_unlock">アンロック：%s</string>
     <string name="reward_name_color">ネームカラー</string>
     <string name="reward_name_color_gradient">ネームグラデーション</string>
     <string name="reward_name_triple_gradient">ネーム3色のグラデーション</string>
@@ -290,7 +290,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill">表示なし：現在は広告がありません。しばらくお待ちの上、再度お試しください。</string>
     <string name="ad_show_failed">広告が表示できませんでした</string>
     <string name="ad_load_failed">広告が読み込めませんでした</string>
     <string name="ad_rate_limited">多くの広告を一度に視聴しました。%s後に再度お試しください。</string>
@@ -344,9 +344,9 @@
      <string name="season_pass_history_revoked_stage_paid">シーズン %1$d (有料) — 取消済み</string>
      <string name="season_pass_history_revoked_voidstones">ボイドストーンの解除</string>
      <string name="season_pass_history_revoked_unlock">アンロックの解除</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold の返金</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold の異議申し立て</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold のチャージバック</string>
+     <string name="season_pass_history_revoked_trigger_refund">『シーズンパスGold』の返金</string>
+     <string name="season_pass_history_revoked_trigger_dispute">『シーズンパスGold』の異議申し立て</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">『シーズンパスGold』のチャージバック</string>
 
      <string name="season_pass_missed_title">未ゲットのリワード</string>
      <string name="season_pass_missed_subtitle">シーズン %1$d での未ゲットのリワード</string>
@@ -393,15 +393,15 @@
     <string name="login">ログイン</string>
     <string name="login_google">Google でサインイン</string>
     <string name="login_apple">Apple でサインイン</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
-    <string name="link_success">Sign-in method linked!</string>
-    <string name="link_already_linked">This sign-in method is already linked to your account.</string>
-    <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
-    <string name="link_email_taken">The email on this sign-in belongs to another Merg account.</string>
-    <string name="link_stepup_failed">Verification failed. Please try again.</string>
-    <string name="link_cancelled">Linking was cancelled.</string>
-    <string name="link_failed">Could not link sign-in method. Please try again.</string>
+    <string name="link_google">Googleのログインを連携</string>
+    <string name="link_apple">Appleのログインを連携</string>
+    <string name="link_success">ログイン方法を連携しました！</string>
+    <string name="link_already_linked">このログイン方法はすでにアカウントに連携されています。</string>
+    <string name="link_identity_taken">このアカウントはすでに別のMergアカウントに連携されています。アカウントにサインインしてください。</string>
+    <string name="link_email_taken">このログインのメールは別のアカウントに属しています。</string>
+    <string name="link_stepup_failed">確認できませんでした。再度お試しください。</string>
+    <string name="link_cancelled">連携がキャンセルされました。</string>
+    <string name="link_failed">ログイン方法を連携できませんでした。再度お試しください。</string>
     <string name="logout">ログアウト</string>
     <string name="logout_all_devices">すべてのデバイスでログアウト</string>
     <string name="change_name">名前変更</string>
@@ -409,7 +409,7 @@
     <string name="share_id">IDをシェア</string>
     <string name="share_id_message">Mergで追加してね！ID %1$s</string>
     <string name="no_youtube_link">リンクなし</string>
-    <string name="no_tiktok_link">No Link</string>
+    <string name="no_tiktok_link">リンクなし</string>
     <string name="created">作成日付: %s</string>
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介保存</string>
@@ -720,8 +720,8 @@
     <string name="gamemode_coming_soon">近日公開</string>
     <string name="gamemode_competitive">バトル</string>
     <string name="gamemode_multimerg">マルチマーグ</string>
-    <string name="gamemode_domination">Domination</string>
-    <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
+    <string name="gamemode_domination">ドミネーション</string>
+    <string name="description_domination">クラシックな制限時間ありのゲーム。サイズは1位を保っている間のみカウントされる！マップ上で最大のブロブとして1秒過ごすごとに、スコアに1秒が追加される。1位だった間に獲得した秒数が差し引かれない。最も長く1位を保ったプレイヤーの勝ち！</string>
     <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。より大きなブロブに気をつけてね！</string>
     <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
     <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
@@ -758,8 +758,8 @@
     <string name="adventure_obj_reach_size">サイズが%dに達しよう</string>
     <string name="adventure_obj_finish_first">1位になろう</string>
     <string name="adventure_obj_collect_voidstones">ボイドストーンを%d個集めよう</string>
-    <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
-    <string name="adventure_obj_boss_fight">Boss Fight</string>
+    <string name="adventure_obj_eat_count_bots">ボットを%dつ食べよう</string>
+    <string name="adventure_obj_boss_fight">ボスファイト</string>
 
     <!-- Timer text !-->
     <string name="timer_time">残り時間</string>
@@ -799,7 +799,7 @@
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボドスト</string>
     <string name="flags">フラグ</string>
-    <string name="skin_tab_particles">Particles</string>
+    <string name="skin_tab_particles">パーティクル</string>
     <string name="skin_tab_special">特別</string>
     <string name="level_skin_locked">このスキンをレベル%d以降にアンロックします。</string>
     <string name="level_lock">レベルロック</string>
@@ -853,8 +853,8 @@
     <string name="decay">サイズ減少：%.2f/s</string>
     <string name="pieces">スプリット：%1d/%2d</string>
     <string name="merge">マージまで：%ss</string>
-    <string name="throw_item_button">Throw item</string>
-    <string name="select_throw_item">Select throw item button</string>
+    <string name="throw_item_button">アイテムを投げる</string>
+    <string name="select_throw_item">アイテムを投げるのボタンを選択</string>
     <string name="xp">経験値</string>
     <string name="level">レベル</string>
     <string name="level_number">レベル：%d</string>
@@ -934,7 +934,7 @@
     <string name="enter_ip">IP入力</string>
     <string name="join_ip_title">IPアドレスに参加</string>
     <string name="tap_to_reveal">タップして表示</string>
-    <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZをオンにする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、%sにアクセスしてください。</string>
+    <string name="remote_lan_connections">他のクライアントがグローバルIP経由でリモート参加するには、このデバイスにUDP %dポートを転送するか、ルーター設定でDMZをオンにする必要があります。ネットワーク環境が対称型NAT／CGNATを使用している場合、接続に失敗する可能性があるためでご注意ください。詳細の確認や現在のNATタイプをチェックするには、次のリンクにアクセスしてください：%s</string>
 
     <!-- Player List -->
     <string name="players">プレイヤー</string>
