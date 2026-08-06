@@ -293,7 +293,7 @@
     <string name="ad_no_fill">表示なし：現在は広告がありません。しばらくお待ちの上、再度お試しください。</string>
     <string name="ad_show_failed">広告が表示できませんでした</string>
     <string name="ad_load_failed">広告が読み込めませんでした</string>
-    <string name="ad_rate_limited">多くの広告を一度に視聴しました。</string>
+    <string name="ad_rate_limited">多くの広告を一度に視聴しました。%s後に再度お試しください。</string>
     <string name="time_hrs">時間</string>
     <string name="time_min">分</string>
     <string name="time_sec">秒</string>
