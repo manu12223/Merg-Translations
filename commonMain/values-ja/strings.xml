@@ -721,7 +721,7 @@
     <string name="gamemode_competitive">バトル</string>
     <string name="gamemode_multimerg">マルチマーグ</string>
     <string name="gamemode_domination">ドミネーション</string>
-    <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
+    <string name="description_domination">クラシックな制限時間ありのゲーム。サイズは1位を保っている間のみカウントされる！マップ上で最大のブロブとして1秒過ごすごとに、スコアに1秒が追加される。1位だった間に獲得した秒数が差し引かれない。最も長く1位を保ったプレイヤーの勝ち！</string>
     <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。より大きなブロブに気をつけてね！</string>
     <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
     <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
