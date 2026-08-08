@@ -721,7 +721,7 @@
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominação</string>
-    <string name="description_domination">Aquele clássico jogo cronometrado, onde o tamanho só conta enquanto estiver em primeiro lugar! Cada segundo passado como a maior bolha no mapa adiciona um segundo à sua pontuação; o tempo acrescentado nunca será desfeito ao ser absorvido(a). Aquele(a) que estiver em primeiro lugar por mais tempo até o tempo acabar será o(a) vencedor(a)!</string>
+    <string name="description_domination">Aquele clássico jogo cronometrado, onde o tamanho só conta enquanto estiver em primeiro lugar! Cada segundo passado como o maior blob no mapa adiciona um segundo à sua pontuação; o tempo acrescentado nunca será desfeito ao ser absorvido(a). Aquele(a) que estiver em primeiro lugar por mais tempo até o tempo acabar será o(a) vencedor(a)!</string>
     <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
