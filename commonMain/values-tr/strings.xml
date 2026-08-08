@@ -5,7 +5,7 @@
     <string name="singleplayer">Tek oyunculu</string>
     <string name="lan_multiplayer">LAN çok oyunculu</string>
     <string name="lan">LAN</string>
-    <string name="online_multiplayer">Çevrimiçi çok oyunculu</string>
+    <string name="online_multiplayer">Çevrim içi çok oyunculu</string>
     <string name="options">Seçenekler</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -17,7 +17,7 @@
     <string name="code_contribution">Kod Katkısı:</string>
     <string name="skins">Ciltler:</string>
     <string name="graphics_icons">Grafikler/İkonlar:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">Ses Efektleri:</string>
     <string name="translations">Çeviriler:</string>
     <string name="fonts">Yazı Tipleri:</string>
 
@@ -109,7 +109,7 @@
     <string name="elimination_count">Eleme Sayısı</string>
     <string name="decrease_elimination_count">Eleme Sayısını Azalt</string>
     <string name="increase_elimination_count">Eleme Sayısını Artır</string>
-    <string name="elimination_interval">Elimination Interval</string>
+    <string name="elimination_interval">Eleme Aralığı</string>
     <string name="decrease_elimination_interval">Eleme Aralığını Azalt</string>
     <string name="increase_elimination_interval">Eleme Aralığını Artır</string>
     <string name="map_size">Harita Boyutu</string>
@@ -122,7 +122,7 @@
     <string name="no_holes">No Holes</string>
     <string name="circle_map">Circle Map</string>
     <string name="relax">Relax</string>
-    <string name="warning_no_holes">No statistics will be saved</string>
+    <string name="warning_no_holes">İstatistikler kaydedilmeyecek</string>
     <string name="gold_holes">Gold Holes</string>
     <string name="teleport_holes">Teleport Holes</string>
     <string name="starting_difficulty">Starting difficulty</string>
@@ -148,8 +148,8 @@
     <string name="room_full">Oda Dolu</string>
     <string name="clan">Klan</string>
     <string name="friends">Arkadaşlar</string>
-    <string name="send_friend_request">Send Friend Request</string>
-    <string name="friend_request_accepted">You are now friends!</string>
+    <string name="send_friend_request">Arkadaşlık isteği gönder</string>
+    <string name="friend_request_accepted">Artık arkadaşsınız!</string>
     <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
     <string name="cancel_friend_request">Cancel Friend Request</string>
     <string name="remove_friend">Remove Friend</string>
@@ -204,8 +204,8 @@
     <string name="current_season">Current Season</string>
 
     <!-- Shop -->
-    <string name="shop">Shop</string>
-    <string name="ticket">Ticket</string>
+    <string name="shop">Dükkan</string>
+    <string name="ticket">Bilet</string>
     <string name="free_voidstones">Free Voidstones!</string>
     <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
     <string name="free_voidstones_won">You got %d voidstones!</string>
@@ -253,9 +253,9 @@
     <string name="reward_name_font">Name Font</string>
     <string name="reward_already_owned_compensation">Already Owned. Converted to Voidstones</string>
     <string name="purchase_id">Purchase ID: %d</string>
-    <string name="history">History</string>
+    <string name="history">Geçmiş</string>
     <string name="voidstone_history">Voidstone History</string>
-    <string name="purchase_history">Purchase History</string>
+    <string name="purchase_history">Satın Alma Geçmişi</string>
     <string name="no_transactions_yet">No transactions yet</string>
     <string name="admin_reward">Admin reward</string>
     <string name="in_app_purchase">In-app purchase</string>
@@ -315,7 +315,7 @@
      <string name="november">Kasım</string>
      <string name="december">Aralık</string>
      <string name="season_bag_title">Currency Bag</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_entry">Sezon %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Current</string>
      <string name="season_bag_last">Last</string>
 
@@ -341,17 +341,17 @@
      <string name="season_pass_history_task_weekly">Haftalık Görev: %1$s</string>
      <string name="season_pass_history_task_season">Sezonluk Görev: %1$s</string>
      <string name="season_pass_history_season_page">Sezon %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Etap %1$d (Ödenmiş) — İptal Edildi</string>
+     <string name="season_pass_history_revoked_stage_paid">Etap %1$d (Ödenmiş) - İptal Edildi</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
      <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
-     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_title">KAÇIRILAN ÖDÜLLER</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
-     <string name="season_pass_missed_cd">Missed rewards</string>
+     <string name="season_pass_missed_cd">Kaçırılan Ödüller</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
 
@@ -422,12 +422,12 @@
     <string name="description_text_color">Description Text Color</string>
     <string name="unlock_description_color_success">Description text color unlocked!</string>
     <string name="unlock_description_color_already_unlocked">Description text color already unlocked</string>
-    <string name="statistics">Statistics</string>
-    <string name="achievements">Achievements</string>
-    <string name="delete_account">DELETE ACCOUNT</string>
-    <string name="change_profile_name">Change Profile Name</string>
-    <string name="enter_profile_name">Enter Profile Name</string>
-    <string name="profile_color">PROFILE COLOR</string>
+    <string name="statistics">İstatistikler</string>
+    <string name="achievements">Başarımlar</string>
+    <string name="delete_account">HESABI SİL</string>
+    <string name="change_profile_name">Profil İsmi Değiştir</string>
+    <string name="enter_profile_name">Profil İsmi Gir</string>
+    <string name="profile_color">PROFİL RENGİ</string>
     <string name="profile_text_color_white">White text</string>
     <string name="profile_text_color_black">Black text</string>
     <string name="profile_gradient_color">Gradient color</string>
@@ -436,7 +436,7 @@
     <string name="profile_animated_circle_gradient">Animated circle Gradient</string>
     <string name="prerequisite_not_met">You must unlock %s first</string>
     <string name="prerequisite_feature">required feature</string>
-    <string name="profile_name_color">PROFILE NAME COLOR</string>
+    <string name="profile_name_color">PROFİL İSİM RENGİ</string>
     <string name="profile_not_logged_in_error">Not logged in. Please log in first.</string>
     <string name="profile_name_changed_success">Name changed to %s</string>
     <string name="profile_name_change_failed">Failed to change name</string>
@@ -470,8 +470,8 @@
     <string name="unlock_name_fonts_already_unlocked">Name fonts already unlocked</string>
     <string name="name_font_save_success">Font saved!</string>
     <string name="name_fonts_not_unlocked">Name fonts not unlocked</string>
-    <string name="profile_name_font">Profile Name Font</string>
-    <string name="name_change_success">Name changed to: %s</string>
+    <string name="profile_name_font">Profil İsmi Yazı Tipi</string>
+    <string name="name_change_success">İsim %s olarak değiştirildi</string>
     <string name="name_change_invalid_length">Invalid name length</string>
     <string name="name_change_taken">Name taken</string>
     <string name="unlock_profile_colors">Unlock Profile Colors</string>
@@ -522,9 +522,9 @@
     <string name="no_account_found">No account found</string>
 
     <!-- Clan -->
-    <string name="clan_create">Create Clan</string>
-    <string name="clan_name">Clan Name</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_create">Klan Oluştur</string>
+    <string name="clan_name">Klan İsmi</string>
+    <string name="clan_name_hint">Klan ismi gir (maksimum 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
     <string name="clan_list">Public Clans</string>
