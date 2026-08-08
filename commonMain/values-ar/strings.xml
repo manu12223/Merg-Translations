@@ -991,7 +991,7 @@
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
     <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
+    <string name="custom_banner_upload">تحميل</string>
     <string name="custom_banner_replace">Replace</string>
     <string name="custom_banner_deselect">Deselect</string>
     <string name="custom_banner_confirm_title">Upload Banner</string>
