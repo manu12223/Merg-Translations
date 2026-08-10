@@ -181,7 +181,7 @@
     <string name="x_playing">%d playing</string>
     <string name="global_position">Küresel #%s</string>
     <string name="global_label">Küresel #</string>
-    <string name="wins_draws_losses_winrate">Galibiyetler: %1$s · Beraberlikler: %2$s · Kaybetmeler: %3$s · Kazanma oranı: %4$s%%</string>
+    <string name="wins_draws_losses_winrate">Galibiyetler: %1$s - Beraberlikler: %2$s - Yenilgiler: %3$s - Kazanma oranı: %4$s%%</string>
     <string name="stat_wins_label">Galibiyetler: </string>
     <string name="stat_draws_label"> · Beraberlikler: </string>
     <string name="stat_losses_label"> · Kaybetmeler: </string>
