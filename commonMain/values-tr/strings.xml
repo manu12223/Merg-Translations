@@ -169,7 +169,7 @@
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Rekabetçi</string>
     <string name="competitive_menu">REKABETÇİ</string>
-    <string name="competitive_history">Rekabet Tarihi</string>
+    <string name="competitive_history">Rekabet Geçmişi</string>
     <string name="rating_label">Rating</string>
     <string name="unrated">Unrated</string>
     <string name="find_opponent">FIND OPPONENT</string>
