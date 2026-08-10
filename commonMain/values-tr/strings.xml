@@ -389,7 +389,7 @@
 
     <!-- Profile -->
     <string name="profile">Profil</string>
-    <string name="not_logged_in">Giriş yapalmadı!</string>
+    <string name="not_logged_in">Giriş yapılmadı!</string>
     <string name="login">Giriş</string>
     <string name="login_google">Sign in with Google</string>
     <string name="login_apple">Sign in with Apple</string>
