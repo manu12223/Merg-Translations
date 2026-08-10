@@ -155,7 +155,7 @@
     <string name="remove_friend">Remove Friend</string>
     <string name="friend_request_sent">Friend request sent</string>
     <string name="friend_requests_received">Friend Requests</string>
-    <string name="friend_requests_sent">Arkadaşlık İsteği</string>
+    <string name="friend_requests_sent">Gönderilen İstekler</string>
     <string name="no_friends">No friends yet…</string>
     <string name="remove_friend_title">Arkadaşını Kaldır</string>
     <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
