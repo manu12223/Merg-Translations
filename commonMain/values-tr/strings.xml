@@ -244,7 +244,7 @@
     <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Unlocked: %s</string>
     <string name="reward_name_color">İsim Rengi</string>
-    <string name="reward_name_color_gradient">İsim Renk Gradyanı</string>
+    <string name="reward_name_color_gradient">İsim Renk Geçişi</string>
     <string name="reward_name_triple_gradient">Name Triple Gradient</string>
     <string name="reward_profile_color">Profil Rengi</string>
     <string name="reward_profile_gradient">Profil Renk Geçişi</string>
