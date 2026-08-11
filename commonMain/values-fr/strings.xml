@@ -1173,4 +1173,21 @@
     <string name="clan_id">ID du clan :</string>
     <string name="editing_message">Modification du message</string>
     <string name="samsung_compat_warning_body">Configuration d'affichage invalide détectée. Cela peut provoquer des problèmes avec las commandes en jeu y le multitouche. C'est un bug connu de Samsung OneUI. Pour tenter de résoudre le problème, essayez las étapes suivantes dans l'ordre :\n\n1. Ouvrez Game Booster Plus → Performance du jeu → réglez sur \"Performance\" ou 100%\n2. Supprimez l'application de la bibliothèque de Game Launcher\n3. Diminuez la résolution de l'écran si votre appareil le permet (1440p → 1080p)\n4. Redémarrez votre appareil\n\nSi le problème persiste ou si vous n'êtes pas sur Samsung OneUI, veuillez soumettre un rapport de bug sur notre serveur Discord ou via notre e-mail d'assistance.</string>
+    <string name="support">Support</string>
+    <string name="support_intro">Below are all the ways to contact support.</string>
+    <string name="copy">Copy</string>
+    <string name="open_link">Open</string>
+    <string name="whatsapp_note">Chat only, no calls or SMS</string>
+    <string name="recommended">recommended</string>
+    <string name="support_response_time">Answered within</string>
+    <string name="support_mail">Mail</string>
+    <string name="support_discord_channel">ticket support</string>
+    <string name="additional_settings">ADDITIONAL SETTINGS</string>
+    <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
+    <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
+    <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
+    <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
+    <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
+    <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
+    <string name="scored">scored!</string>
 </resources>
