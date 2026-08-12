@@ -1173,4 +1173,21 @@
     <string name="clan_id">ID do Clã:</string>
     <string name="editing_message">A editar mensagem</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="support">Support</string>
+    <string name="support_intro">Below are all the ways to contact support.</string>
+    <string name="copy">Copy</string>
+    <string name="open_link">Open</string>
+    <string name="whatsapp_note">Chat only, no calls or SMS</string>
+    <string name="recommended">recommended</string>
+    <string name="support_response_time">Answered within</string>
+    <string name="support_mail">Mail</string>
+    <string name="support_discord_channel">ticket support</string>
+    <string name="additional_settings">ADDITIONAL SETTINGS</string>
+    <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
+    <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
+    <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
+    <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
+    <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
+    <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
+    <string name="scored">scored!</string>
 </resources>

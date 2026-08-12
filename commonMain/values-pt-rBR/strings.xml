@@ -721,7 +721,7 @@
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominação</string>
-    <string name="description_domination">Aquele clássico jogo cronometrado, onde o tamanho só conta enquanto estiver em primeiro lugar! Cada segundo passado como a maior bolha no mapa adiciona um segundo à sua pontuação; o tempo acrescentado nunca será desfeito ao ser absorvido(a). Aquele(a) que estiver em primeiro lugar por mais tempo até o tempo acabar será o(a) vencedor(a)!</string>
+    <string name="description_domination">Aquele clássico jogo cronometrado, onde o tamanho só conta enquanto estiver em primeiro lugar! Cada segundo passado como o maior blob no mapa adiciona um segundo à sua pontuação; o tempo acrescentado nunca será desfeito ao ser absorvido(a). Aquele(a) que estiver em primeiro lugar por mais tempo até o tempo acabar será o(a) vencedor(a)!</string>
     <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
     <string name="description_survival">Uma vida, uma rodada! Obtenha o máximo de massa possível antes que acabe o tempo de tolerância. Após isso, a morte será permanente! Seja o(a) último(a) jogador(a) restante ou o(a) maior jogador(a) antes que o tempo se esgote para ganhar!</string>
@@ -1173,4 +1173,21 @@
     <string name="clan_id">ID do Clã:</string>
     <string name="editing_message">Editando mensagem</string>
     <string name="samsung_compat_warning_body">Foram detectadas configurações inválidas de exibição. Isso poderá causar problemas com os controles do jogo e o multi-toque. Este problema é conhecido em dispositivos com One UI (Samsung). Para tentar solucionar este problema, reproduza estes passos com cautela:\n\n1. Abra o Game Booster Plus → Desempenho do Jogo → defina para \"Desempenho\" ou 100%\n2. Remova o app da biblioteca da Game Launcher\n3. Diminua a resolução da tela se o seu dispositivo suportar este recurso (1440p → 1080p)\n4. Reinicie o dispositivo\n\nSe o problema persistir ou se você não estiver usando um dispositivo com One UI (Samsung), relate o bug para o nosso Servidor do Discord ou e-mail de contato.</string>
+    <string name="support">Support</string>
+    <string name="support_intro">Below are all the ways to contact support.</string>
+    <string name="copy">Copy</string>
+    <string name="open_link">Open</string>
+    <string name="whatsapp_note">Chat only, no calls or SMS</string>
+    <string name="recommended">recommended</string>
+    <string name="support_response_time">Answered within</string>
+    <string name="support_mail">Mail</string>
+    <string name="support_discord_channel">ticket support</string>
+    <string name="additional_settings">ADDITIONAL SETTINGS</string>
+    <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
+    <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
+    <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
+    <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
+    <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
+    <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
+    <string name="scored">scored!</string>
 </resources>
