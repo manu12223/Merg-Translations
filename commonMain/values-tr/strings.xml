@@ -119,7 +119,7 @@
     <string name="increase_bots">Botları Artır</string>
     <string name="max_split_pieces">Maksimum Bölünme</string>
     <string name="quick_merge">Hızlı Birleşme</string>
-    <string name="no_holes">Dikensiz</string>
+    <string name="no_holes">Diken yok</string>
     <string name="circle_map">Circle Map</string>
     <string name="relax">Relax</string>
     <string name="warning_no_holes">İstatistikler kaydedilmeyecek</string>
