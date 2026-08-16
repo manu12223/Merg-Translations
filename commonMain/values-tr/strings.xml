@@ -672,7 +672,7 @@
     <string name="stat_bronze_count">Bronz (Sayı):</string>
     <string name="stat_bonus">Bonus:</string>
     <string name="stat_food_eaten">Food Eaten:</string>
-    <string name="stat_players_eaten">Yenilen Oyunculan:</string>
+    <string name="stat_players_eaten">Yutulan Oyuncular</string>
     <string name="stat_bots_eaten">Yenilen Botlar:</string>
     <string name="stat_blobs_eaten">Blobs Eaten:</string>
     <string name="stat_games_won">Games Won:</string>
