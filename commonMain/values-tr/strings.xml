@@ -846,7 +846,7 @@
     <string name="ordinal_fallback">%dth</string>
 
     <!-- In Game UI !-->
-    <string name="player_size">Puan: %d</string>
+    <string name="player_size">Boyut: %d</string>
     <string name="player_size_decimal">Puan: %s</string>
     <string name="effective_size">Effective Size: %d</string>
     <string name="effective_size_decimal">Effective Size: %s</string>
