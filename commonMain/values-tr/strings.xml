@@ -1103,7 +1103,7 @@
     <string name="room_private">Özel</string>
     <string name="room_hidden">Gizli</string>
     <string name="map">Harita</string>
-    <string name="size">Puan</string>
+    <string name="size">Boyut</string>
     <string name="shots">Shots</string>
     <string name="bot">Bot</string>
     <string name="bots">Botlar</string>
