@@ -756,7 +756,7 @@
     <string name="adventure_obj_invisible_bots">Invisible Bots!</string>
     <string name="adventure_obj_growing_bots">Growing Bots!</string>
     <string name="adventure_obj_reach_size">Reach %d Size</string>
-    <string name="adventure_obj_finish_first">Bitiş 1'inci</string>
+    <string name="adventure_obj_finish_first">1. Bitir</string>
     <string name="adventure_obj_collect_voidstones">Collect %d Voidstones</string>
     <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
     <string name="adventure_obj_boss_fight">Boss Fight</string>
