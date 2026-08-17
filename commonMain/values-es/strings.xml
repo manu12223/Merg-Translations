@@ -53,17 +53,17 @@
     <string name="language_thai">ไทย | Tailandés</string>
     <string name="language_turkish">Türkçe | Turco</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
-    <string name="language_ukrainian">Українська | Ukrainian</string>
+    <string name="language_ukrainian">Українська | Ucraniano</string>
     <string name="background">Fondo</string>
     <string name="background_black">Negro</string>
     <string name="background_white">Blanco</string>
-    <string name="controls">Controles</string>
+    <string name="controls">Modo de Control</string>
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocar</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
-    <string name="button_layout">Diseño de Botones</string>
+    <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
@@ -132,7 +132,7 @@
     <string name="switch_server">Cambiar Región</string>
     <string name="x_players">%s jugadores</string>
     <string name="x_player">%s jugador</string>
-    <string name="x_online">%s conectado</string>
+    <string name="x_online">%s conectado(s)</string>
     <string name="x_requests">%s solicitud(es)</string>
     <string name="private_room">Sala Privada</string>
     <string name="private_rooms">Salas Privadas</string>
@@ -151,7 +151,7 @@
     <string name="friends">Amigos</string>
     <string name="send_friend_request">Solicitud de Amistad</string>
     <string name="friend_request_accepted">¡Ahora son Amigos!</string>
-    <string name="send_friend_request_by_id_or_name">Envía una Solicitud de Amistad con el ID o el Nombre</string>
+    <string name="send_friend_request_by_id_or_name">Enviar con ID o Nombre</string>
     <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
     <string name="remove_friend">Eliminar Amigo</string>
     <string name="friend_request_sent">Solicitud de Amistad Enviada</string>
@@ -530,7 +530,7 @@
     <string name="clan_tag_hint">Siglas (1-4 letras)</string>
     <string name="clan_list">Clanes Públicos</string>
     <string name="clan_no_clans">No se Encontraron Clanes</string>
-    <string name="no_clan">Sin Clan</string>
+    <string name="no_clan">sin clan</string>
     <string name="clan_request_clans">Solicitar Solo Clanes</string>
     <string name="clan_my_invites">Mis Invitaciones de Clan</string>
     <string name="clan_invite_declined">Invitación Rechazada.</string>
@@ -905,7 +905,7 @@
     <string name="dialog_dismiss">Minimizar</string>
     <string name="dialog_previous">Volver</string>
     <string name="dialog_next">Siguiente</string>
-    <string name="dialog_update">Actualización</string>
+    <string name="dialog_update">Actualizar</string>
     <string name="toast_please_wait">Por favor, espera.</string>
     <string name="permission_denied">Permiso Denegado</string>
     <string name="dialog_locked">Bloqueado</string>
@@ -919,7 +919,7 @@
     <string name="block_player">Bloquear Jugador</string>
     <string name="unblock_player">Desbloquear Jugador</string>
     <string name="block_confirm_title">Bloquear Jugador</string>
-    <string name="block_confirm_message">¿Seguro(a) qué quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán eliminados de sus Listas de Amigos.</string>
+    <string name="block_confirm_message">¿Seguro(a) qué quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán eliminados de su Lista de Amigos.</string>
     <string name="player_unblocked">Jugador desbloqueado</string>
     <string name="player_blocked">Jugador Bloqueado</string>
     <string name="you_blocked_user">Has Bloqueado a este Jugador</string>
