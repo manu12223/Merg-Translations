@@ -141,6 +141,7 @@
     <string name="server_europe">Eropa</string>
     <string name="server_americas_nc">Amerika (Ut./Tgh.)</string>
     <string name="server_south_america">Amerika Selatan</string>
+    <string name="server_asia">Asia</string>
     <string name="join">Gabung</string>
     <string name="create">Buat</string>
     <string name="create_chat_room">BUAT RUANG CHAT</string>
@@ -1190,4 +1191,8 @@
     <string name="desc_empty">Tidak memunculkan Makanan atau Voidstone apa pun, untuk keperluan debugging.</string>
     <string name="desc_room_hidden">Ruang Anda tidak akan muncul dalam daftar ruang pribadi bagi orang lain, akses ke ruang tersebut hanya dapat dilakukan dengan memasukkan nama yang tepat.</string>
     <string name="scored">dicetak!</string>
+    <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
+    <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
+    <string name="reconnect_attempt_succeeded">Reconnection attempt #%1$d succeeded</string>
+    <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
 </resources>
