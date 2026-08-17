@@ -141,6 +141,7 @@
     <string name="server_europe">Europe</string>
     <string name="server_americas_nc">Americas (N/C)</string>
     <string name="server_south_america">South America</string>
+    <string name="server_asia">Asia</string>
     <string name="join">Join</string>
     <string name="create">Create</string>
     <string name="create_chat_room">CREATE CHAT ROOM</string>
@@ -1190,4 +1191,8 @@
     <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
     <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
     <string name="scored">scored!</string>
+    <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
+    <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
+    <string name="reconnect_attempt_succeeded">Reconnection attempt #%1$d succeeded</string>
+    <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
 </resources>
