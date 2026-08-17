@@ -338,9 +338,9 @@
      <string name="season_pass_history_empty">Aún no has reclamado ninguna recompensa</string>
      <string name="season_pass_history_stage_free">Nivel %1$d (Gratis)</string>
      <string name="season_pass_history_stage_paid">Nivel %1$d (Pago)</string>
-     <string name="season_pass_history_task_daily">Misiones Diarias: %1$s</string>
-     <string name="season_pass_history_task_weekly">Misiones Semanales: %1$s</string>
-     <string name="season_pass_history_task_season">Misiones de Temporada: %1$s</string>
+     <string name="season_pass_history_task_daily">Misión Diaria: %1$s</string>
+     <string name="season_pass_history_task_weekly">Misión Semanal: %1$s</string>
+     <string name="season_pass_history_task_season">Misión de Temporada: %1$s</string>
      <string name="season_pass_history_season_page">Temporada %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Nivel %1$d (Pago) — Anulado</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones Anuladas</string>
@@ -404,7 +404,7 @@
     <string name="link_cancelled">Linking was cancelled.</string>
     <string name="link_failed">Could not link sign-in method. Please try again.</string>
     <string name="logout">Cerrar Sesión</string>
-    <string name="logout_all_devices">Cerrar Sesión en todos los dispositivos</string>
+    <string name="logout_all_devices">Cerrar sesión en todos los dispositivos</string>
     <string name="change_name">Cambiar Nombre</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartir ID</string>
@@ -438,12 +438,12 @@
     <string name="prerequisite_not_met">Debes Desbloquear %s Primero</string>
     <string name="prerequisite_feature">Característica Requerida</string>
     <string name="profile_name_color">COLOR DE NOMBRE</string>
-    <string name="profile_not_logged_in_error">No has iniciado Sesión. Por favor, Inicia Sesión Primero.</string>
+    <string name="profile_not_logged_in_error">No has iniciado sesión. Por favor, inicia sesión primero.</string>
     <string name="profile_name_changed_success">El Nombre fue cambiado a %s</string>
     <string name="profile_name_change_failed">No se pudo cambiar el Nombre</string>
     <string name="profile_name_change_error">No se pudo cambiar el Nombre: %d</string>
     <string name="profile_goodbye">¡Adiós! :(</string>
-    <string name="profile_logged_in_with_name">Iniciaste Sesión en %s</string>
+    <string name="profile_logged_in_with_name">Iniciaste sesión en %s</string>
     <string name="profile_logged_in">Sesión Iniciada</string>
     <string name="profile_logout_confirm">¿Quieres Cerrar Sesión en %s?</string>
     <string name="profile_logout_confirm_no_name">¿Quieres Cerrar la Sesión?</string>
@@ -491,17 +491,17 @@
     <string name="profile_color_save_failed">Ups, no se Pudieron Guardar los Colores de Perfil.</string>
 
     <!-- Profile Tags -->
-    <string name="developer_tag">Desarrollador</string>
-    <string name="code_contribution_tag">Contribuidor de código</string>
+    <string name="developer_tag">Desarrollador(a)</string>
+    <string name="code_contribution_tag">Contribuidor(a) de código</string>
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
-    <string name="verified">Verificado</string>
-    <string name="youtube">YouTube</string>
-    <string name="tiktok">TikTok</string>
-    <string name="translator">Traductor</string>
-    <string name="internal_tester">Evaluador Interno</string>
-    <string name="alpha_tester">Evaluador Alfa</string>
-    <string name="beta_tester">Evaluador Beta</string>
+    <string name="verified">Verificado(a)</string>
+    <string name="youtube">YouTuber</string>
+    <string name="tiktok">TikToker</string>
+    <string name="translator">Traductor(a)</string>
+    <string name="internal_tester">Evaluador(a) Interno(a)</string>
+    <string name="alpha_tester">Evaluador(a) Alfa</string>
+    <string name="beta_tester">Evaluador(a) Beta</string>
     <string name="discord_staff">Discord Merg Staff</string>
 
     <!-- Voidstone Transfer -->
@@ -1028,8 +1028,8 @@
     <string name="recovery_new_email_placeholder">ejemplo@nuevocorreo.com</string>
     <string name="recovery_change_mail">Cambiar Correo Electrónico</string>
     <string name="recovery_confirm_title">¿Seguro(a) que quieres Cambiar Correo Electrónico?</string>
-    <string name="recovery_confirm_body">Estás a punto de cambiar el Correo Electrónico de esta Cuenta a %1$s. Después, deberás Iniciar Sesión con la nueva Cuenta de Google. Esta acción no se puede deshacer.</string>
-    <string name="recovery_success_body">El Correo Electrónico de la Cuenta se ha cambiado a %1$s. Inicie Sesión ahora con la nueva Cuenta de Google.</string>
+    <string name="recovery_confirm_body">Estás a punto de cambiar el Correo Electrónico de esta Cuenta a %1$s. Después, deberás iniciar sesión con la nueva Cuenta de Google. Esta acción no se puede deshacer.</string>
+    <string name="recovery_success_body">El Correo Electrónico de la Cuenta se ha cambiado a %1$s. Inicie sesión ahora con la nueva Cuenta de Google.</string>
     <string name="recovery_error_invalid_id">Por favor, escribe el ID Correcto de la Cuenta.</string>
     <string name="recovery_error_invalid_email">Por favor, escribe un Correo Electrónico Válido.</string>
     <string name="recovery_error_invalid_request">Solicitud Inválida. Por favor, intenta de nuevo.</string>
@@ -1043,7 +1043,7 @@
     <string name="recovery_error_not_found">Ups, no se encontró ninguna Cuenta con ese ID.</string>
     <string name="recovery_error_rate_limited">Demasiados intentos. Por favor, espere e inténtelo de nuevo más tarde.</string>
     <string name="recovery_error_google_invalid">No pudimos Verificar tu Cuenta de Google. Inténtalo de nuevo.</string>
-    <string name="recovery_error_google_cancelled">El inicio de Sesión de Google fue cancelado o falló.</string>
+    <string name="recovery_error_google_cancelled">El inicio de sesión de Google fue cancelado o falló.</string>
     <string name="recovery_error_internal">Ups, tuvimos un problema al procesar tu Solicitud. Inténtalo de nuevo más tarde.</string>
 
     <!-- Miscellaneous !-->
@@ -1132,7 +1132,7 @@
     <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">Copiado al Portapapeles.</string>
     <string name="invalid_request">La solicitud tiene un formato Incorrecto o le faltan campos Obligatorios.</string>
-    <string name="invalid_token">Sesión Inválida o Caducada. Inicie Sesión de nuevo.</string>
+    <string name="invalid_token">Sesión Inválida o Caducada. Inicie sesión de nuevo.</string>
     <string name="rate_limited">Por favor, espera %d segundo(s) e intenta de nuevo.</string>
     <string name="nonexistent_user">Usuario no Encontrado</string>
     <string name="not_enough_voidstones">No hay suficientes Voidstones</string>
