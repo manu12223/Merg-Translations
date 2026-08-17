@@ -284,9 +284,9 @@
     <string name="purchase_status_refunded">Remboursé</string>
     <string name="purchase_no_ads_gift_received">Cadeau Sans Pub de la part de #%d</string>
     <string name="purchase_no_ads_gift_purchased">Cadeau Sans Pub pour #%d</string>
-    <string name="purchase_season_pass_gold_label">Pass Saison Or</string>
-    <string name="purchase_season_pass_gold_gift_received">Cadeau Pass Saison Or de la part de #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Cadeau Pass Saison Or pour #%d</string>
+    <string name="purchase_season_pass_gold_label">Pass Saison Gold</string>
+    <string name="purchase_season_pass_gold_gift_received">Cadeau Pass Saison Gold de la part de #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Cadeau Pass Saison Gold pour #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Publicité non chargée pour le moment</string>
@@ -344,15 +344,15 @@
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Déblocage supprimé</string>
-     <string name="season_pass_history_revoked_trigger_refund">Pass Saison Or remboursé</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Litige concernant le Pass Saison Or</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Rétrofacturation du Pass Saison Or</string>
+     <string name="season_pass_history_revoked_trigger_refund">Pass Saison Gold remboursé</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Litige concernant le Pass Saison Gold</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Rétrofacturation du Pass Saison Gold</string>
 
      <string name="season_pass_missed_title">RÉCOMPENSES NON RÉCUPÉRÉES</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (FGratuit)</string>
+     <string name="season_pass_missed_stage_free">Stage %1$d (Gratuit)</string>
      <string name="season_pass_missed_stage_paid">Stage %1$d (Payé)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
