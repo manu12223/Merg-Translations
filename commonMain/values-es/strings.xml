@@ -17,7 +17,7 @@
     <string name="code_contribution">Contribuciones al código:</string>
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Iconos:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">Efectos de Sonido:</string>
     <string name="translations">Traducciones:</string>
     <string name="fonts">Fuentes:</string>
 
@@ -67,8 +67,8 @@
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
     <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
-    <string name="sound_effects">Sound Effects</string>
-    <string name="sound_volume">Sound Volume</string>
+    <string name="sound_effects">Efectos de Sonido</string>
+    <string name="sound_volume">Volumen del Sonido</string>
     <string name="show_grid">Cuadrícula</string>
     <string name="show_grid_coordinates">Mostrar Coordenadas de Cuadrícula</string>
     <string name="show_coordinate_tint">Mostrar Resaltado de Coordenadas</string>
@@ -285,7 +285,7 @@
     <string name="purchase_status_refunded">Estado de Compra Reembolsada</string>
     <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
     <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
-    <string name="purchase_season_pass_gold_label">Pase de Temporada Dorado</string>
+    <string name="purchase_season_pass_gold_label">Pase de Temporada Gold</string>
     <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
     <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
 
@@ -345,9 +345,9 @@
      <string name="season_pass_history_revoked_stage_paid">Nivel %1$d (Pago) — Anulado</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones Anuladas</string>
      <string name="season_pass_history_revoked_unlock">Desbloqueo Anulado</string>
-     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Dorado Reembolsado</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Dorado en Disputa</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Dorado en Proceso</string>
+     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Gold Reembolsado</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Gold en Disputa</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Gold en Proceso</string>
 
      <string name="season_pass_missed_title">RECOMPENSAS PERDIDAS</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
@@ -390,10 +390,10 @@
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
-    <string name="not_logged_in">¡No has Iniciado Sesión!</string>
+    <string name="not_logged_in">¡No has iniciado sesión!</string>
     <string name="login">Iniciar Sesión</string>
-    <string name="login_google">Iniciar Sesión con Google</string>
-    <string name="login_apple">Iniciar Sesión con Apple</string>
+    <string name="login_google">Iniciar sesión con Google</string>
+    <string name="login_apple">Iniciar sesión con Apple</string>
     <string name="link_google">Link Google Sign-In</string>
     <string name="link_apple">Link Apple Sign-In</string>
     <string name="link_success">Sign-in method linked!</string>
@@ -714,14 +714,14 @@
     <string name="gamemode_classic">Clásico</string>
     <string name="gamemode_teams">Equipos</string>
     <string name="gamemode_survival">Supervivencia</string>
-    <string name="gamemode_team_survival">Equipo de Supervivencia</string>
-    <string name="gamemode_knockout">Knockout</string>
+    <string name="gamemode_team_survival">Supervivencia por Equipos</string>
+    <string name="gamemode_knockout">Noqueo</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_soccer">Fútbol</string>
     <string name="gamemode_coming_soon">Próximamente…</string>
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
-    <string name="gamemode_domination">Domination</string>
+    <string name="gamemode_domination">Dominio</string>
     <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
     <string name="description_classic">¡Cómete a Jugadores más pequeños y conviértete en el blob más Grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los Jugadores más Grandes te quieren comer!</string>
     <string name="description_teams">¡Une fuerzas con otros Jugadores del mismo Color! Trabajen juntos para comerse a los enemigos y convertirse en el Equipo que domine la Clasificación. Los compañeros de Equipo no pueden comerse entre sí.</string>
@@ -888,7 +888,7 @@
     <string name="room_not_found">Ups, la Sala no existe.</string>
     <string name="already_in_room">¡Ya estás en la Sala!</string>
     <string name="room_closed">Ups, la Sala ha sido cerrada.</string>
-    <string name="room_name">Escribir Nombre de la Sala</string>
+    <string name="room_name">Nombre de la Sala</string>
     <string name="reported">Sala Reportada</string>
     <string name="reason">Razón</string>
     <string name="room_crash">Ups, hay un Error con la Sala: %s</string>
@@ -1183,7 +1183,7 @@
     <string name="support_response_time">Answered within</string>
     <string name="support_mail">Mail</string>
     <string name="support_discord_channel">ticket support</string>
-    <string name="additional_settings">ADDITIONAL SETTINGS</string>
+    <string name="additional_settings">AJUSTES ADICIONALES</string>
     <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
     <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
     <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
