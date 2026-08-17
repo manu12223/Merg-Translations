@@ -63,7 +63,7 @@
     <string name="control_touch">Sentuh</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
-    <string name="button_layout">Tombol Layout</string>
+    <string name="button_layout">Tata Letak Tombol</string>
     <string name="customize">Sesuaikan</string>
     <string name="opacity">Opasitas</string>
     <string name="leaderboard_size">Ukuran Papan Peringkat</string>
@@ -173,7 +173,7 @@
     <string name="rating_label">Penilaian</string>
     <string name="unrated">Belum Dinilai</string>
     <string name="find_opponent">CARI LAWAN</string>
-    <string name="leave_matchmaking">KELUAR DARI MATCHMAKING</string>
+    <string name="leave_matchmaking">KELUAR MATCHMAKING</string>
     <string name="searching_ellipsis">Mencari…</string>
     <string name="competitive_entering">Memasuki…</string>
     <string name="x_searching_y_playing">%1$s mencari · %2$s bermain</string>
@@ -209,8 +209,8 @@
     <string name="free_voidstones">Voidstone Gratis!</string>
     <string name="free_voidstones_subtitle">Pilih satu kotak dan tonton iklan video singkat untuk mendapatkan voidstone!</string>
     <string name="free_voidstones_won">Anda mendapat %d voidstone!</string>
-    <string name="free_voidstones_status">Tersisa %1$d ⋅ Akan dimulai ulang dalam %2$s</string>
-    <string name="free_voidstones_left">Tersisa %d</string>
+    <string name="free_voidstones_status">Sisa %1$d ⋅ Akan dimulai ulang dalam %2$s</string>
+    <string name="free_voidstones_left">Sisa %d</string>
     <string name="pick">Pilih</string>
     <string name="redeem_code">Tukar Kode</string>
     <!-- Boosters -->
@@ -218,10 +218,10 @@
     <string name="booster_permanent_upgrades">Upgrade Permanen</string>
     <string name="booster_owned">dimiliki: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
+    <string name="none">Tidak ada</string>
     <string name="booster_ad_xp_title">Pengganda XP Iklan</string>
     <string name="booster_ad_xp_desc">Tonton video untuk mendapatkan XP boost sementara!</string>
-    <string name="booster_stacks_base_xp">Dapat Ditumpuk dengan XP Dasar</string>
+    <string name="booster_stacks_base_xp">Dapat ditumpuk dengan XP Dasar</string>
     <string name="booster_watch_ad">Tonton Iklan</string>
     <string name="booster_choose_boost">Pilih XP boost Anda</string>
     <string name="booster_active">aktif</string>
@@ -1120,7 +1120,7 @@
     <string name="previous_entity">Entitas Sebelumnya</string>
     <string name="next_entity">Entitas Berikutnya</string>
     <string name="level_abbreviated">Lv.%d</string>
-    <string name="left">Tersisa</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">Sisa</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Tidak diketahui</string>
     <string name="invalid_selection">Pilihan tidak valid!</string>
@@ -1136,7 +1136,7 @@
     <string name="nonexistent_user">Pengguna tidak ditemukan</string>
     <string name="not_enough_voidstones">Voidstone tidak cukup</string>
     <string name="ok">OKE</string>
-    <string name="unlock_skin">Buka Kunci</string>
+    <string name="unlock_skin">Buka</string>
     <string name="database_write_fail">Gagal menulis ke basis data</string>
     <string name="database_read_fail">Gagal membaca basis data</string>
     <string name="tos_title">Ketentuan Layanan &amp; Kebijakan Privasi</string>
@@ -1173,4 +1173,21 @@
     <string name="clan_id">ID Klan:</string>
     <string name="editing_message">Mengubah pesan</string>
     <string name="samsung_compat_warning_body">Terdeteksi konfigurasi tampilan yang tidak valid. Hal ini dapat menyebabkan masalah pada kontrol dalam permainan dan fitur multitouch. Ini adalah bug yang diketahui terjadi pada Samsung OneUI. Untuk mencoba mengatasi masalah ini, silakan ikuti langkah-langkah berikut secara berurutan:\n\n1. Buka Game Booster Plus → Game Performance → atur ke \"Performance\" atau 100%\n2. Hapus aplikasi dari pustaka Game Launcher\n3. Turunkan resolusi layar jika perangkat Anda mendukungnya (1440p → 1080p)\n4. Reboot perangkat Anda\n\nJika masalah masih berlanjut atau perangkat Anda tidak menggunakan Samsung OneUI, silakan kirim laporan bug melalui server Discord atau email dukungan kami.</string>
+    <string name="support">Dukungan</string>
+    <string name="support_intro">Berikut adalah semua cara untuk menghubungi layanan dukungan.</string>
+    <string name="copy">Salin</string>
+    <string name="open_link">Buka</string>
+    <string name="whatsapp_note">Hanya chat, tidak menerima panggilan atau SMS</string>
+    <string name="recommended">disarankan</string>
+    <string name="support_response_time">Dijawab dalam waktu</string>
+    <string name="support_mail">Email</string>
+    <string name="support_discord_channel">dukungan tiket</string>
+    <string name="additional_settings">PENGATURAN TAMBAHAN</string>
+    <string name="desc_quick_merge">Menghilangkan waktu tunggu gabungan saat melakukan split.</string>
+    <string name="desc_relax">Semua pemain (kecuali bot) tidak dapat saling membunuh sepenuhnya, sehingga menyisakan setidaknya 1 gumpalan yang tetap hidup, mirip dengan mode Petualangan.</string>
+    <string name="desc_gold_holes">Lubang biru memiliki peluang %1$s%% untuk muncul sebagai Lubang emas, yang bernilai 4 kali lipatnya.</string>
+    <string name="desc_teleport_holes">Jika dinonaktifkan, semua Lubang teleportasi digantikan oleh Lubang biru.</string>
+    <string name="desc_empty">Tidak memunculkan Makanan atau Voidstone apa pun, untuk keperluan debugging.</string>
+    <string name="desc_room_hidden">Ruang Anda tidak akan muncul dalam daftar ruang pribadi bagi orang lain, akses ke ruang tersebut hanya dapat dilakukan dengan memasukkan nama yang tepat.</string>
+    <string name="scored">dicetak!</string>
 </resources>
