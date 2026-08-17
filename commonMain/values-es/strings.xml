@@ -11,15 +11,15 @@
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copiar Email</string>
-    <string name="email_support">Email de Soporte:</string>
+    <string name="email_copy">Copiar Correo</string>
+    <string name="email_support">Correo de Soporte:</string>
     <string name="developer">Desarrolladores:</string>
-    <string name="code_contribution">Contribuciones al código:</string>
+    <string name="code_contribution">Contribuidores de código:</string>
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Iconos:</string>
     <string name="sound_effects_credit">Efectos de Sonido:</string>
     <string name="translations">Traducciones:</string>
-    <string name="fonts">Fuentes:</string>
+    <string name="fonts">Fuentes Tipográficas:</string>
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
@@ -1171,18 +1171,18 @@
     <string name="clan_already_requested_other">Ups, ya Solicitaste Unirse a este Clan.</string>
     <string name="before">Antes</string>
     <string name="after">Después</string>
-    <string name="clan_id">Clan ID:</string>
+    <string name="clan_id">ID:</string>
     <string name="editing_message">Editando Mensaje</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
-    <string name="support">Support</string>
-    <string name="support_intro">Below are all the ways to contact support.</string>
-    <string name="copy">Copy</string>
-    <string name="open_link">Open</string>
-    <string name="whatsapp_note">Chat only, no calls or SMS</string>
-    <string name="recommended">recommended</string>
-    <string name="support_response_time">Answered within</string>
-    <string name="support_mail">Mail</string>
-    <string name="support_discord_channel">ticket support</string>
+    <string name="support">Soporte</string>
+    <string name="support_intro">A continuación, todas las formas de contactar con soporte.</string>
+    <string name="copy">Copiar</string>
+    <string name="open_link">Abrir</string>
+    <string name="whatsapp_note">Solo chat (no llamadas o SMS)</string>
+    <string name="recommended">recomendado</string>
+    <string name="support_response_time">Respuesta en un plazo de</string>
+    <string name="support_mail">Correo</string>
+    <string name="support_discord_channel">ticket de soporte</string>
     <string name="additional_settings">AJUSTES ADICIONALES</string>
     <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
     <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
