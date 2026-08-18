@@ -515,7 +515,7 @@
     <string name="voidstone_gift_from_label">Voidstone Hediyesini Gönderen:</string>
     <string name="voidstone_gift_to_label">Voidstone Hediyesi Alıcısı:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">%%%d işlem ücreti dahildir</string>
+    <string name="transaction_fee">%d%% işlem ücreti dahildir</string>
     <string name="transaction_fee_amount">-%s işlem ücreti</string>
 
     <!-- Search Profile -->
