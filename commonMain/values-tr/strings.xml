@@ -123,8 +123,8 @@
     <string name="circle_map">Dairesel Harita</string>
     <string name="relax">Rahat</string>
     <string name="warning_no_holes">İstatistikler kaydedilmeyecek</string>
-    <string name="gold_holes">Altın Delikler</string>
-    <string name="teleport_holes">Işınlanma Delikleri</string>
+    <string name="gold_holes">Altın Dikenler</string>
+    <string name="teleport_holes">Işınlanma Dikenleri</string>
     <string name="starting_difficulty">Başlangıç Zorluğu</string>
 
     <!-- Multiplayer -->
