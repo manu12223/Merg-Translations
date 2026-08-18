@@ -331,7 +331,7 @@
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">Resets now</string>
      <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-         <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
+     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
      <string name="season_pass_resets_in_m">Resets in %1$dm</string>
 
      <string name="season_pass_history_title">SEZONLUK BİLET GEÇMİŞİ</string>
@@ -928,7 +928,7 @@
     <string name="both_blocked">Both users blocked each other</string>
 
     <!-- LAN Multiplayer -->
-        <string name="host_local_game">HOST LOCAL GAME</string>
+    <string name="host_local_game">HOST LOCAL GAME</string>
     <string name="local_ip">Local IP: %s</string>
     <string name="public_ip">Public IP: %s</string>
     <string name="searching_rooms">Searching for available rooms…</string>
@@ -1032,7 +1032,7 @@
     <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
     <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
     <string name="recovery_error_invalid_id">Please enter a valid account ID.</string>
-        <string name="recovery_error_invalid_email">Please enter a valid email address.</string>
+    <string name="recovery_error_invalid_email">Please enter a valid email address.</string>
     <string name="recovery_error_invalid_request">Invalid request. Please try again.</string>
     <string name="recovery_error_network">Network error. Please check your connection and try again.</string>
     <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
