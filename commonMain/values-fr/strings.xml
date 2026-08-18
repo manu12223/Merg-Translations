@@ -67,8 +67,8 @@
     <string name="customize">Personnaliser</string>
     <string name="opacity">Opacité</string>
     <string name="leaderboard_size">Taille du classement</string>
-    <string name="sound_effects">Sound Effects</string>
-    <string name="sound_volume">Sound Volume</string>
+    <string name="sound_effects">Volume des effets</string>
+    <string name="sound_volume">Volume sonore</string>
     <string name="show_grid">Afficher la grille</string>
     <string name="show_grid_coordinates">Afficher les coordonnées de la grille</string>
     <string name="show_coordinate_tint">Afficher la teinte des coordonnées</string>
@@ -77,7 +77,7 @@
     <string name="custom_background_opacity">Opacité de l'arrière-plan</string>
     <string name="show_performance_metrics">Afficher les métriques de performance</string>
     <string name="skin_outlines">Contours des skins</string>
-    <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
+    <string name="delayed_auto_fire">Délai d’autosplit/tir</string>
     <string name="direction_arrow">Flèche de direction</string>
     <string name="border_above_entities">Bordure au-dessus des entités</string>
     <string name="map_border_visible">Afficher la bordure de la carte</string>
@@ -140,7 +140,7 @@
     <string name="select_server">Sélectionner le serveur</string>
     <string name="server_europe">Europe</string>
     <string name="server_americas_nc">Americas (N/C)</string>
-    <string name="server_south_america">South America</string>
+    <string name="server_south_america">Amérique du Sud</string>
     <string name="server_asia">Asia</string>
     <string name="join">Rejoindre</string>
     <string name="create">Créer</string>
@@ -176,7 +176,7 @@
     <string name="find_opponent">TROUVER UN ADVERSAIRE</string>
     <string name="leave_matchmaking">QUITTER LE MATCHMAKING</string>
     <string name="searching_ellipsis">Recherche…</string>
-    <string name="competitive_entering">Entering…</string>
+    <string name="competitive_entering">Entrée…</string>
     <string name="x_searching_y_playing">%1$s en recherche · %2$s en jeu</string>
     <string name="x_searching">%d en recherche</string>
     <string name="x_playing">%d en jeu</string>
@@ -219,25 +219,25 @@
     <string name="booster_permanent_upgrades">Permanent Upgrades</string>
     <string name="booster_owned">owned: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
+    <string name="none">Aucun</string>
+    <string name="booster_ad_xp_title">Multiplicateur d’XP publicitaire</string>
+    <string name="booster_ad_xp_desc">Regardez une publicité pour obtenir un bonus d’XP temporaire !</string>
+    <string name="booster_stacks_base_xp">Se cumule avec l’XP de base</string>
+    <string name="booster_watch_ad">Regarder une publicité</string>
+    <string name="booster_choose_boost">Choisissez votre bonus d’XP</string>
+    <string name="booster_active">Actif</string>
     <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="booster_upgrade">Amélioration</string>
+    <string name="booster_base_xp">Multiplicateur d’XP de base</string>
+    <string name="booster_autosplit">Split automatique</string>
+    <string name="booster_autoshoot">Tir automatique</string>
+    <string name="booster_spawn_size">Taille d’apparition</string>
+    <string name="speed_none">Aucun</string>
+    <string name="speed_slow">Lent (5/sec)</string>
+    <string name="speed_medium">Moyen (10/sec)</string>
+    <string name="speed_fast">Rapide (20/sec)</string>
     <string name="speed_ultra">Ultra (30/sec)</string>
-    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="speed_crazy">Ultra-rapide (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">Code invalide</string>
     <string name="code_already_claimed">Code déjà récupéré !</string>
@@ -283,15 +283,15 @@
     <string name="purchase_remove_ads_label">Supprimer les publicités</string>
     <string name="purchase_status_permanent">Permanent</string>
     <string name="purchase_status_refunded">Remboursé</string>
-    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
-    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
-    <string name="purchase_season_pass_gold_label">Season Pass Gold</string>
-    <string name="purchase_season_pass_gold_gift_received">Season Pass Gold gift from #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
+    <string name="purchase_no_ads_gift_received">Cadeau Sans Pub de la part de #%d</string>
+    <string name="purchase_no_ads_gift_purchased">Cadeau Sans Pub pour #%d</string>
+    <string name="purchase_season_pass_gold_label">Pass Saison Gold</string>
+    <string name="purchase_season_pass_gold_gift_received">Cadeau Pass Saison Gold de la part de #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Cadeau Pass Saison Gold pour #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">Publicité non chargée pour le moment</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill">Aucune publicité disponible pour vous pour le moment. Veuillez réessayer plus tard.</string>
     <string name="ad_show_failed">Échec de l'affichage de la publicité</string>
     <string name="ad_load_failed">Échec du chargement de la publicité</string>
     <string name="ad_rate_limited">Vous avez regardé trop de publicités récemment. Veuillez réessayer dans %s.</string>
@@ -321,40 +321,40 @@
      <string name="season_bag_last">Dernière</string>
 
      <!-- Season Pass UI labels -->
-     <string name="season_pass_tab_daily">DAILY</string>
-     <string name="season_pass_tab_weekly">WEEKLY</string>
-     <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_tab_daily">QUOTIDIEN</string>
+     <string name="season_pass_tab_weekly">HEBDOMADAIRE</string>
+     <string name="season_pass_tab_season">SAISON</string>
+     <string name="season_pass_done">TERMINÉ</string>
+     <string name="season_pass_claim">RÉCUPÉRER</string>
      <string name="season_pass_admin_cd">Admin</string>
-     <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+     <string name="season_pass_level_short">Niveau %1$d</string>
+     <string name="season_pass_resets_now">Se réinitialise</string>
+     <string name="season_pass_resets_in_dh">Réinitialise dans %1$dd %2$dh</string>
+     <string name="season_pass_resets_in_hm">Réinitialise dans %1$dh %2$dm</string>
+     <string name="season_pass_resets_in_m">Réinitialise dans %1$dm</string>
 
-     <string name="season_pass_history_title">SEASON PASS HISTORY</string>
-     <string name="season_pass_history_cd">History</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
+     <string name="season_pass_history_title">HISTORIQUE DE PASS DE SAISON</string>
+     <string name="season_pass_history_cd">Historique</string>
+     <string name="season_pass_history_empty">Aucune récompense récupérée pour le moment</string>
      <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
      <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
-     <string name="season_pass_history_task_daily">Daily Task: %1$s</string>
-     <string name="season_pass_history_task_weekly">Weekly Task: %1$s</string>
-     <string name="season_pass_history_task_season">Season Task: %1$s</string>
-     <string name="season_pass_history_season_page">Season %1$d</string>
+     <string name="season_pass_history_task_daily">Quotidien Task: %1$s</string>
+     <string name="season_pass_history_task_weekly">Hebdomadaire Task: %1$s</string>
+     <string name="season_pass_history_task_season">Défi de saison: %1$s</string>
+     <string name="season_pass_history_season_page">Saison %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+     <string name="season_pass_history_revoked_unlock">Déblocage supprimé</string>
+     <string name="season_pass_history_revoked_trigger_refund">Pass Saison Gold remboursé</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Litige concernant le Pass Saison Gold</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Rétrofacturation du Pass Saison Gold</string>
 
-     <string name="season_pass_missed_title">MISSED REWARDS</string>
+     <string name="season_pass_missed_title">RÉCOMPENSES NON RÉCUPÉRÉES</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
-     <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_missed_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_missed_stage_free">Stage %1$d (Gratuit)</string>
+     <string name="season_pass_missed_stage_paid">Stage %1$d (Payé)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
