@@ -1195,4 +1195,12 @@
     <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
     <string name="reconnect_attempt_succeeded">Reconnection attempt #%1$d succeeded</string>
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
+    <string name="save_preferences">Save preferences</string>
+    <string name="load_preferences">Load preferences</string>
+    <string name="preferences_saved">Preferences saved to %1$s</string>
+    <string name="preferences_loaded">Preferences loaded!</string>
+    <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
+    <string name="invalid_file">Invalid file</string>
+    <string name="unlocked">Unlocked:</string>
+    <string name="unlocked_competitive">Unlocked Competitive</string>
 </resources>
