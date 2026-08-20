@@ -128,7 +128,7 @@
     <string name="starting_difficulty">Başlanğıc çətinliyi</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">Onlayn oyna</string>
+    <string name="play_online">ONLAYN OYNA</string>
     <string name="switch_server">Server dəyiş</string>
     <string name="x_players">%s players</string>
     <string name="x_player">%s player</string>
@@ -144,8 +144,8 @@
     <string name="server_asia">Asya</string>
     <string name="join">Qatıl</string>
     <string name="create">Yarat</string>
-    <string name="create_chat_room">Söhbət otağı yarat</string>
-    <string name="create_private_game">Özəl otaq yarat</string>
+    <string name="create_chat_room">SÖHBƏT OTAĞI YARAT</string>
+    <string name="create_private_game">ÖZƏL OTAQ YARAT</string>
     <string name="room_full">Otaq doludur</string>
     <string name="clan">Klan</string>
     <string name="friends">Dostlar</string>
@@ -174,7 +174,7 @@
     <string name="rating_label">Reyting</string>
     <string name="unrated">Reytingsiz</string>
     <string name="find_opponent">RƏQİB TAP</string>
-    <string name="leave_matchmaking">Rəqib axtarışını dayandır</string>
+    <string name="leave_matchmaking">RƏQİB AXTARIŞINI DAYANDIR</string>
     <string name="searching_ellipsis">Axtarılır…</string>
     <string name="competitive_entering">Daxil olunur…</string>
     <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
