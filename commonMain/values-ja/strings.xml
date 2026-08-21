@@ -1185,14 +1185,14 @@
     <string name="support_discord_channel">サポートチケット</string>
     <string name="additional_settings">その他の設定</string>
     <string name="desc_quick_merge">マージ時間なしゲームになります。</string>
-    <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode. アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
-    <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
-    <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
-    <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
-    <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
+    <string name="desc_relax">アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
+    <string name="desc_gold_holes">ブルーホールは10%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
+    <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
+    <string name="desc_empty">デバッグ用です。ドットとボイドストーンはスポーンしないようになります。</string>
+    <string name="desc_room_hidden">ルームはプライベートルームに表示しないようになります。他のプレイヤーがルームに参加するには、ルーム名の入力が必要です。</string>
     <string name="scored">得点！</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
-    <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
+    <string name="disconnect_reason_network">たいていはインターネット接続（Wi-FiかモバイルデータかVPN）に関する問題です。</string>
     <string name="reconnect_attempt_succeeded">再接続の試行 #%1$d：OK</string>
     <string name="reconnect_attempt_failed">再接続の試行 #%1$d：接続できませんでした（%2$s）</string>
     <string name="save_preferences">設定の保存</string>
