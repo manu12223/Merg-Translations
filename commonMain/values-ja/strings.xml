@@ -1197,9 +1197,9 @@
     <string name="reconnect_attempt_failed">再接続の試行 #%1$d：接続できませんでした（%2$s）</string>
     <string name="save_preferences">設定の保存</string>
     <string name="load_preferences">設定の読み込み</string>
-    <string name="preferences_saved">Preferences saved to %1$s</string>
-    <string name="preferences_loaded">Preferences loaded!</string>
-    <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
+    <string name="preferences_saved">設定を%1$sへ保存しました</string>
+    <string name="preferences_loaded">設定を読み込みました！</string>
+    <string name="preferences_transfer_failed">設定が読み込めませんでした：%1$s</string>
     <string name="invalid_file">無効なファイルです</string>
     <string name="unlocked">アンロック済：</string>
     <string name="unlocked_competitive">アンロック済：ランクバトル</string>
