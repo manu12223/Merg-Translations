@@ -1186,7 +1186,7 @@
     <string name="additional_settings">その他の設定</string>
     <string name="desc_quick_merge">マージ時間なしゲームになります。</string>
     <string name="desc_relax">アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
-    <string name="desc_gold_holes">ブルーホールは10%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
+    <string name="desc_gold_holes">ブルーホールは%1$s%%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
     <string name="desc_empty">デバッグ用です。ドットとボイドストーンはスポーンしないようになります。</string>
     <string name="desc_room_hidden">ルームはプライベートルームに表示しないようになります。他のプレイヤーがルームに参加するには、ルーム名の入力が必要です。</string>
