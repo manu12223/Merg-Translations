@@ -1,100 +1,102 @@
 # Merg-Translations
 
-Welcome to the official translation repository for **Merg** by Redpixels Studio! The entire purpose of this project is to translate the game and bring it to players around the entire world.
+¡Bienvenido al repositorio oficial de traducciones de **Merg**, de Redpixels Studio! El objetivo principal de este proyecto es traducir el juego y llevarlo a jugadores de todo el mundo.
 
-## About This Repository
+## Acerca de este repositorio
 
-This repository contains translation files for Merg in multiple languages. If you're fluent in a language and want to help make Merg accessible to more players, we'd love your contribution!
+Este repositorio contiene archivos de traducción para Merg en varios idiomas. Si dominas un idioma y quieres ayudar a que Merg llegue a más jugadores, ¡nos encantaría contar con tu colaboración!
 
-Contribute a translation and you *may* receive the **Translator** role on our Discord server and be credited in the game's Support menu!
+Si aportas una traducción, *podrías* recibir el rol de **Traductor** en nuestro servidor de Discord y aparecer en los créditos dentro del menú de soporte del juego.
 
 ---
 
-## Getting Started
+## Primeros pasos
 
-### How to Contribute
+#Cómo contribuir
 
-1. **Locate (or create)** the translation file for your language (reference the English file for structure and content)
-2. **Translate** the strings following the guidelines below
-3. **Submit a pull request** with your changes
-4. **Include your Discord ID** in the pull request description (and your Merg ID once available)
+1. **Localiza (o crea)** el archivo de traducción para tu idioma (consulta el archivo en inglés para ver la estructura y el contenido)
+2. **Traduce** las cadenas de texto siguiendo las directrices que aparecen a continuación
+3. **Envía una *pull request*** con tus cambios
+4. **Incluye tu ID de Discord** en la descripción de la *pull request* (y tu ID de Merg, una vez que esté disponible)
 
-### File Structure
+### Estructura de archivos
 
-```
-Merg-Translations/
+```Fusionar traducciones/
 ├── res/
-│   ├── values/
-│   │   └── strings.xml (English reference)
-│   ├── values-de/
+│   ├── valores/
+│   │   └── strings.xml (referencia en inglés)
+│   ├── valores-de/
 │   │   └── strings.xml
-│   ├── values-it/
+│   ├── valores-it/
 │   │   └── strings.xml
-│   └── values-[language-code]/
+│   └── valores-[código-de-idioma]/
 │       └── strings.xml
 ```
+Utiliza el **archivo en inglés** como referencia para el contexto, el formato y la estructura. Mantén tu archivo de idioma abierto junto al de referencia mientras traduces.
 
-Use the **English file** as your reference for context, formatting, and structure. Keep your language file open side-by-side while translating.
+### ¿Necesitas ayuda?
 
-### Need Help?
+Para cualquier **problema, error, comentario o cadena faltante:** [crea una incidencia](https://github.com/manu12223/Merg-Translations/issues) en este repositorio, o contacta con **Manu** o **Kuchen** en [nuestro servidor de Discord](https://discord.gg/g7gqd9HV6n).
 
-For any **issues, bugs, feedback or missing strings:** [Create an issue](https://github.com/manu12223/Merg-Translations/issues) on this repository; or contact **Manu** or **Kuchen** on [our Discord Server](https://discord.gg/g7gqd9HV6n)
+## Pautas de traducción
 
-## Translation Guidelines
+### Estándares de calidad
 
-### Quality Standards
+1. **Fluidez lingüística:** Debes tener suficiente fluidez en inglés para comprender el significado y el contexto de cada cadena de texto.
+2. **Prioridad para hablantes nativos:** Traduce únicamente a idiomas que hables como lengua materna o con los que te sientas totalmente cómodo.
+3. **Prohibición de IA o herramientas de traducción automática:** No utilices Google Translate, DeepL, ChatGPT, Gemini, Claude ni herramientas similares.
 
-1. **Language fluency:** You must be fluent enough in English to understand the meaning and context of each string.
-2. **Native speaker priority:** Only translate into languages you speak natively or are fully comfortable with.
-3. **No AI or automated translation tools:** Do not use Google Translate, DeepL, ChatGPT, Gemini, Claude, or similar tools.
+### Requisitos técnicos
 
-### Technical Requirements
+4. **Conservación de marcadores de posición:** No elimines, modifiques ni traduzcas las variables de marcador de posición (*placeholders*). Puedes cambiar su posición si la estructura gramatical de tu idioma requiere un orden de palabras diferente.
 
-4. **Preserve placeholders:** Do not remove, modify, or translate placeholder variables. You may reposition them if your language requires different word order.
-
-| Placeholder | Type | Example |
+|Marcador de posición | Tipo | Ejemplo |
 |-------------|------|---------|
-| `%d` | Integer | "Size: %d" |
-| `%s` | String | "Room crashed: %s" |
+| `%d` | Entero | "Size: %d" |
+| `%s` | Cadena de texto | "Room crashed: %s" |
 | `%.xf` | Decimal | "Decay: %.2f/s" |
-| `%1d` and `%2d` | Multiple numbers | "Pieces: %1d/%2d" |
+| `%1d` y `%2d` | Varios números | "Pieces: %1d/%2d" |
 
-5. **Preserve file structure:** Do not modify, delete, or alter the XML structure, comments, or strings marked as `translatable="false"`. Keep the file format identical to the English version.
+5. **Conservar la estructura del archivo:** No modifique, elimine ni altere la estructura XML, los comentarios ni las cadenas marcadas como `translatable="false"`. Mantenga el formato del archivo idéntico al de la versión en inglés.
 
-### Formatting & Consistency
+### Formato y coherencia
 
-6. **Match English formatting:** Maintain capitalization, punctuation, and spacing from the English version. If the English string is "Copy.", your translation must also end with a period and start with a capital letter (if applicable to your language).
+6. **Respeta el formato del inglés:** Mantén las mayúsculas, la puntuación y el espaciado de la versión en inglés. Si la cadena en inglés es "Copy.", tu traducción también debe terminar con un punto y comenzar con mayúscula (si corresponde en tu idioma).
 
-7. **Keep string length similar:** Try to match the length and structure of the English strings, especially for UI elements with limited space. Avoid extremely long translations that may break the game's layout.
+7. **Mantén una longitud similar:** Intenta igualar la longitud y la estructura de las cadenas en inglés, especialmente en elementos de la interfaz con espacio limitado. Evita traducciones excesivamente largas que puedan romper el diseño visual del juego.
 
-8. **Be consistent:** Use the same terms and phrasing throughout your entire translation. If you translate a word one way in one string, use the same translation elsewhere.
+8. **Sé coherente:** Utiliza los mismos términos y expresiones a lo largo de toda la traducción. Si traduces una palabra de una manera en una cadena, usa la misma traducción en otras partes.
 
-### Submission Best Practices
+### Mejores prácticas para el envío
 
-9. **One pull request per language:** Submit all strings for a single language in one pull request. Avoid:
-   - Multiple pull requests for the same language in a short time frame
-   - Empty or broken pull requests
-   - Duplicate submissions
-   - Spamming the repository in any way
+9. **Una solicitud de extracción por idioma:** Envía todas las cadenas de texto de un mismo idioma en una sola solicitud de extracción. Evita:
 
----
+- Varias solicitudes de extracción para el mismo idioma en un corto período de tiempo.
 
-## Submission Checklist
+- Solicitudes de extracción vacías o defectuosas.
 
-Before submitting your pull request, verify that:
+- Envíos duplicados.
 
-- [ ] All strings are translated (except ones marked `translatable="false"`)
-- [ ] No placeholders (`%d`, `%s`, etc.) are removed or modified
-- [ ] File structure and formatting match the English version exactly
-- [ ] Punctuation and capitalization are consistent with the English strings
-- [ ] No automated translation tools were used
-- [ ] Your Discord ID (and Merg ID when available) are included in the PR description
-- [ ] The file is valid XML (no broken tags or unexpected text)
+- Enviar spam al repositorio de cualquier forma.
 
 ---
 
-## Thank You!
+## Lista de verificación para el envío
 
-Thank you for being part of the development of Merg and helping bring it to players around the world!
+Antes de enviar tu solicitud de extracción, verifica que:
 
-🌍 Happy translating! 🌍
+- [ ] Todas las cadenas están traducidas (excepto las marcadas como `translatable="false"`)
+- [ ] No se han eliminado ni modificado marcadores de posición (`%d`, `%s`, etc.)
+- [ ] La estructura y el formato del archivo coinciden exactamente con la versión en inglés
+- [ ] La puntuación y el uso de mayúsculas son coherentes con las cadenas en inglés
+- [ ] No se han utilizado herramientas de traducción automática
+- [ ] Tu ID de Discord (y tu ID de Merg, si está disponible) se incluyen en la descripción de la solicitud de incorporación de cambios (PR)
+- [ ] El archivo es un XML válido (sin etiquetas rotas ni texto inesperado)
+
+---
+
+## ¡Gracias por todo!
+
+¡Gracias por formar parte del desarrollo de Merg y por ayudar a llevarlo a jugadores de todo el mundo!
+
+🌍 ¡Feliz traducción! 🌍
