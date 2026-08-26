@@ -564,13 +564,13 @@
     <string name="clan_accept_invite_leave_confirm">すでにクランにいます。この招待を受け入れてもよろしいですか？現在のクランから削除されます。</string>
     <string name="clan_promoted">%1$sに昇格しました</string>
     <string name="clan_demoted">%1$sに降格しました</string>
-    <string name="clan_kick_confirm_title">キック</string>
+    <string name="clan_kick_confirm_title">KICK</string>
     <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をKICKしますか？このユーザーは申請で再参加できます。</string>
-    <string name="clan_ban_confirm_title">バン</string>
+    <string name="clan_ban_confirm_title">BAN</string>
     <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をBANしますか？このユーザーは再参加できません。</string>
-    <string name="clan_unban_confirm_title">バン解除</string>
+    <string name="clan_unban_confirm_title">BAN解除</string>
     <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をBAN解除しますか？このユーザーが再参加できます。</string>
-    <string name="clan_unkick_confirm_title">キック解除</string>
+    <string name="clan_unkick_confirm_title">KICK解除</string>
     <string name="clan_unkick_confirm_message">「%1$s」さん（ID %2$d）への申請必要を解除しますか？</string>
     <string name="clan_invited">招待済み</string>
     <string name="clan_revoke_invite_confirm_title">招待をキャンセル</string>
