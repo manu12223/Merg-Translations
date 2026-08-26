@@ -121,7 +121,7 @@
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="no_holes">ホールを無効</string>
     <string name="circle_map">丸いマップ</string>
-    <string name="relax">リアルプレイヤー対ボットのみ</string>
+    <string name="relax">リラックス</string>
     <string name="warning_no_holes">統計は更新されません</string>
     <string name="gold_holes">ゴールドホールを有効</string>
     <string name="teleport_holes">テレポートホールを有効</string>
@@ -129,12 +129,12 @@
 
     <!-- Multiplayer -->
     <string name="play_online">オンラインプレイ</string>
-    <string name="switch_server">サーバーを切り替える</string>
-    <string name="x_players">%s人のプレイヤー</string>
-    <string name="x_player">%s人のプレイヤー</string>
+    <string name="switch_server">サーバーの切替</string>
+    <string name="x_players">プレイヤー%s人</string>
+    <string name="x_player">プレイヤー%s人</string>
     <string name="x_online">%s人がオンライン</string>
-    <string name="x_requests">%s件の申請</string>
-    <string name="private_room">プライベートルーム</string>
+    <string name="x_requests">申請%s件</string>
+    <string name="private_room">カスタムルーム</string>
     <string name="private_rooms">カスタムルーム</string>
     <string name="connected">接続済み</string>
     <string name="select_server">サーバーの選択</string>
@@ -189,7 +189,7 @@
     <string name="stat_winrate_label"> · 勝率: </string>
     <string name="match_starts_in">マッチの開始…</string>
     <string name="vs_label">VS</string>
-    <string name="ongoing_matches">進行中のマッチ</string>
+    <string name="ongoing_matches">進行中マッチ</string>
     <string name="match_status_starting">開始中</string>
     <string name="match_status_in_progress">進行中</string>
     <string name="match_status_finished">終了</string>
@@ -349,10 +349,10 @@
      <string name="season_pass_history_revoked_trigger_dispute">『シーズンパスGold』の異議申し立て</string>
      <string name="season_pass_history_revoked_trigger_chargeback">『シーズンパスGold』のチャージバック</string>
 
-     <string name="season_pass_missed_title">未ゲットのリワード</string>
-     <string name="season_pass_missed_subtitle">シーズン %1$d での未ゲットのリワード</string>
-     <string name="season_pass_missed_empty">前のシーズンに未ゲットのリワードはありません</string>
-     <string name="season_pass_missed_cd">未ゲットのリワード</string>
+     <string name="season_pass_missed_title">未ゲットリワード</string>
+     <string name="season_pass_missed_subtitle">シーズン %1$d での未ゲットリワード</string>
+     <string name="season_pass_missed_empty">前のシーズンに未ゲットリワードはありません</string>
+     <string name="season_pass_missed_cd">未ゲットリワード</string>
      <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
 
@@ -514,8 +514,8 @@
     <string name="voidstone_gift_from_label">ボイドストーンギフトの贈り主:</string>
     <string name="voidstone_gift_to_label">ボイドストーンギフトの受取人:</string>
     <string name="voidstone_gift_player">「%1$s」さん（ID %2$d）</string>
-    <string name="transaction_fee">%d%%の手数料を含む</string>
-    <string name="transaction_fee_amount">−%sの手数料</string>
+    <string name="transaction_fee">手数料を%d%%含む</string>
+    <string name="transaction_fee_amount">−手数料%s</string>
 
     <!-- Search Profile -->
     <string name="search_account">アカウントの検索</string>
@@ -537,7 +537,7 @@
     <string name="clan_joined">クランに参加しました！</string>
     <string name="clan_private">クランはプライベートまたは削除されました。</string>
     <string name="clan_members">メンバー数</string>
-    <string name="clan_members_count">%1$d人／%2$d人のメンバー</string>
+    <string name="clan_members_count">メンバー：%1$d／%2$d</string>
     <string name="clan_request_join">加入申請</string>
     <string name="clan_leave">クランを脱退</string>
     <string name="clan_leave_confirm">クランを脱退してもよろしいですか？</string>
@@ -564,48 +564,48 @@
     <string name="clan_accept_invite_leave_confirm">すでにクランにいます。この招待を受け入れてもよろしいですか？現在のクランから削除されます。</string>
     <string name="clan_promoted">%1$sに昇格しました</string>
     <string name="clan_demoted">%1$sに降格しました</string>
-    <string name="clan_kick_confirm_title">キック</string>
-    <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をキックしますか？このユーザーは申請で再参加できます。</string>
-    <string name="clan_ban_confirm_title">バン</string>
-    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をバンしますか？このユーザーは再参加できません。</string>
-    <string name="clan_unban_confirm_title">バン解除</string>
-    <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーが再参加できます。</string>
-    <string name="clan_unkick_confirm_title">キック解除</string>
+    <string name="clan_kick_confirm_title">KICK</string>
+    <string name="clan_kick_confirm_message">「%1$s」さん（ID %2$d）をKICKしますか？このユーザーは申請で再参加できます。</string>
+    <string name="clan_ban_confirm_title">BAN</string>
+    <string name="clan_ban_confirm_message">「%1$s」さん（ID %2$d）をBANしますか？このユーザーは再参加できません。</string>
+    <string name="clan_unban_confirm_title">BAN解除</string>
+    <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をBAN解除しますか？このユーザーが再参加できます。</string>
+    <string name="clan_unkick_confirm_title">KICK解除</string>
     <string name="clan_unkick_confirm_message">「%1$s」さん（ID %2$d）への申請必要を解除しますか？</string>
     <string name="clan_invited">招待済み</string>
     <string name="clan_revoke_invite_confirm_title">招待をキャンセル</string>
     <string name="clan_revoke_invite_confirm_message">「%1$s」さん（ID %2$d）への招待をキャンセルしますか？</string>
     <string name="clan_invite_sent">招待を送信しました！</string>
     <string name="clan_player_not_found">プレイヤーは見つかりませんでした</string>
-    <string name="clan_player_banned">このユーザーはクランからバンされています。</string>
+    <string name="clan_player_banned">このユーザーはクランからBANされています。</string>
     <string name="clan_already_invited">このユーザーはすでに招待されたか、別のクランにいます。</string>
     <string name="clan_full">クランが満員です。</string>
     <string name="clan_join_button_full">クラン満員</string>
     <string name="clan_join_request_sent">申請を送信しました</string>
     <string name="clan_invite_list_full">このクランの招待リストが満員です（最大100件）。</string>
-    <string name="clan_player_invite_list_full">このユーザーの保留中の招待はすでに上限に達しています。</string>
+    <string name="clan_player_invite_list_full">このユーザーの保留中招待はすでに上限に達しています。</string>
     <string name="clan_request_list_full">このクランの加入申請リストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーンを寄付</string>
     <string name="clan_donate_hint">100枚〜100,000枚</string>
     <string name="clan_donate_sent">寄付が完了しました！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
-    <string name="clan_already_requested">すでに別のクランとの保留中の加入申請があります。</string>
+    <string name="clan_already_requested">すでに別のクランとの保留中加入申請があります。</string>
     <string name="clan_copy_tag">タグをコピー</string>
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
     <string name="clan_history_no_entries">履歴はありません</string>
     <string name="clan_history_event_join">参加</string>
     <string name="clan_history_event_leave">脱退</string>
-    <string name="clan_history_event_kick">キック</string>
-    <string name="clan_history_event_ban">バン</string>
+    <string name="clan_history_event_kick">KICK</string>
+    <string name="clan_history_event_ban">BAN</string>
     <string name="clan_history_event_promote">昇格</string>
     <string name="clan_history_event_demote">広角</string>
     <string name="clan_history_event_donation">寄付</string>
     <string name="clan_history_id">履歴ID：%d</string>
     <string name="clan_public_profile">クランの公開説明</string>
-    <string name="clan_kicked_banned_players">招待必要／バン済みのユーザー</string>
-    <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をキック解除しますか？</string>
-    <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をバン解除しますか？</string>
+    <string name="clan_kicked_banned_players">招待必要／BAN済みユーザーリフト</string>
+    <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をKICK解除しますか？</string>
+    <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をBAN解除しますか？</string>
     <string name="clan_search_hint">名前またはIDで検索する</string>
     <string name="clan_promote_to_owner">オーナーシップを移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップの移転</string>
@@ -794,7 +794,7 @@
     <string name="skin">スキン</string>
     <string name="no_skin">スキンなし</string>
     <string name="selected_skin">現在のスキン</string>
-    <string name="select_skin_color">カラー選択</string>
+    <string name="select_skin_color">カラーの選択</string>
     <string name="skin_color_preview">プレビュー：</string>
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
@@ -817,7 +817,7 @@
     <string name="view_profile">プロフィールへ</string>
     <string name="delete_message">メッセージを削除</string>
     <string name="edit_message">メッセージを編集</string>
-    <string name="report_message">メッセージを報告</string>
+    <string name="report_message">メッセージを通報</string>
     <string name="chat_paused">チャットが停止中です</string>
     <string name="reply">リプライ</string>
     <string name="replying_to">「%s」さんにリプライ中</string>
@@ -889,7 +889,7 @@
     <string name="already_in_room">すでにルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
-    <string name="reported">報告が完了しました</string>
+    <string name="reported">通報が完了しました</string>
     <string name="reason">理由</string>
     <string name="room_crash">ルームがクラッシュしました: %s</string>
     <string name="app_crash">アプリがクラッシュしました: %s</string>
@@ -945,10 +945,10 @@
     <string name="staff_list_title">スタッフリスト</string>
     <string name="player_list_count">プレイヤー数：%d・ボット数：%d・総数：%d</string>
     <string name="player_list_count_with_spectators">プレイヤー数：%d ⋅ ボット数：%d ⋅ 観戦者数：%d ⋅ 総数：%d</string>
-    <string name="kick_confirm_title">プレイヤーをキック</string>
-    <string name="kick_confirm_message">「%s」さんをキックしますか？まだ再参加できます。</string>
-    <string name="ban_confirm_title">プレイヤーをバン</string>
-    <string name="ban_confirm_message">「%s」さんをバンしてもよろしいですか？再参加できないようになります。これは元に戻せません！</string>
+    <string name="kick_confirm_title">プレイヤーをKICK</string>
+    <string name="kick_confirm_message">「%s」さんをKICKしますか？まだ再参加できます。</string>
+    <string name="ban_confirm_title">プレイヤーをBAN</string>
+    <string name="ban_confirm_message">「%s」さんをBANしてもよろしいですか？再参加できないようになります。これは元に戻せません！</string>
 
     <!-- Custom Images -->
     <string name="custom_images">カスタム画像</string>
@@ -981,14 +981,14 @@
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした：%1$s</string>
     <string name="custom_image_no_approved_image">スロット %1$d に承認画像はありません</string>
-    <string name="report_avatar">アイコンを報告</string>
-    <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
-    <string name="report_avatar_success">アイコンを報告しました</string>
-    <string name="report_avatar_failed">アイコンが報告できませんでした</string>
-    <string name="report_banner">バナーを報告</string>
-    <string name="report_banner_message">「%1$s」さんのバナーを報告しますか？</string>
-    <string name="report_banner_success">バナーを報告しました</string>
-    <string name="report_banner_failed">バナーが報告できませんでした</string>
+    <string name="report_avatar">アイコンを通報</string>
+    <string name="report_avatar_message">「%1$s」さんのアイコンを通報しますか？</string>
+    <string name="report_avatar_success">アイコンを通報しました</string>
+    <string name="report_avatar_failed">アイコンが通報できませんでした</string>
+    <string name="report_banner">バナーを通報</string>
+    <string name="report_banner_message">「%1$s」さんのバナーを通報しますか？</string>
+    <string name="report_banner_success">バナーを通報しました</string>
+    <string name="report_banner_failed">バナーが通報できませんでした</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
     <string name="custom_banner_rules">使用禁止アイコンの種類：\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
@@ -1145,10 +1145,10 @@
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">同意</string>
     <string name="decline">拒否</string>
-    <string name="banned">バン済</string>
-    <string name="muted">ミュート済</string>
-    <string name="banned_until">%sまでバン中です</string>
-    <string name="muted_until">%sまでミュート中です</string>
+    <string name="banned">BAN済</string>
+    <string name="muted">MUTE済</string>
+    <string name="banned_until">%sまでBAN中です</string>
+    <string name="muted_until">%sまでMUTE中です</string>
     <string name="server_shutting_down">サーバーがシャットダウンしています</string>
     <string name="server_rebooting">サーバーは再起動中です。まもなく再度お試しください。</string>
     <string name="server_maintenance">サーバーはメンテナンス中です。しばらくお待ちの上、再度お試しください。</string>
@@ -1188,8 +1188,8 @@
     <string name="desc_relax">アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
     <string name="desc_gold_holes">ブルーホールは%1$s%%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
-    <string name="desc_empty">デバッグ用です。ドットとボイドストーンはスポーンしないようになります。</string>
-    <string name="desc_room_hidden">ルームはプライベートルームに表示しないようになります。他のプレイヤーがルームに参加するには、ルーム名の入力が必要です。</string>
+    <string name="desc_empty">デバッグ用です。ドットとボイドストーンはスポーンしなくなります。</string>
+    <string name="desc_room_hidden">ルームはカスタムルームリストに表示しなくなります。他のプレイヤーがルームに参加するには、ルーム名の入力が必要です。</string>
     <string name="scored">得点！</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
     <string name="disconnect_reason_network">たいていはインターネット接続（Wi-FiかモバイルデータかVPN）に関する問題です。</string>
