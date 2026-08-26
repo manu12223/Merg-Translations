@@ -537,7 +537,7 @@
     <string name="clan_joined">クランに参加しました！</string>
     <string name="clan_private">クランはプライベートまたは削除されました。</string>
     <string name="clan_members">メンバー数</string>
-    <string name="clan_members_count">メンバー：%1$d/%2$d</string>
+    <string name="clan_members_count">メンバー：%1$d／%2$d</string>
     <string name="clan_request_join">加入申請</string>
     <string name="clan_leave">クランを脱退</string>
     <string name="clan_leave_confirm">クランを脱退してもよろしいですか？</string>
