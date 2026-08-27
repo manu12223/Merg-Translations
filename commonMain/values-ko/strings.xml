@@ -118,12 +118,12 @@
     <string name="decrease_bots">Decrease Bots</string>
     <string name="increase_bots">Increase Bots</string>
     <string name="max_split_pieces">최대 분열 횟수</string>
-    <string name="quick_merge">Quick Merge</string>
+    <string name="quick_merge">무한 재결합</string>
     <string name="no_holes">홀 제거</string>
     <string name="circle_map">원형 맵</string>
     <string name="relax">킬 불가</string>
     <string name="warning_no_holes">통계에 반영되지 않음</string>
-    <string name="gold_holes">황금 홀</string>
+    <string name="gold_holes">골드 홀</string>
     <string name="teleport_holes">텔레포트 홀</string>
     <string name="starting_difficulty">시작 난이도</string>
 
@@ -860,7 +860,7 @@
     <string name="level">Level</string>
     <string name="level_number">Level %d</string>
     <string name="food">먹이</string>
-    <string name="voidstones">Voidstones</string>
+    <string name="voidstones">공허석</string>
     <string name="items">아이템</string>
     <string name="blobs_eaten">Blobs Eaten</string>
     <string name="session_stat_size_gained">Size Gained</string>
