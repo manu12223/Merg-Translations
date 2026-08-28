@@ -150,22 +150,22 @@
     <string name="clan">Clan</string>
     <string name="friends">Friends</string>
     <string name="send_friend_request">Send Friend Request</string>
-    <string name="friend_request_accepted">You are now friends!</string>
+    <string name="friend_request_accepted">이제 친구가 되었습니다!</string>
     <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
     <string name="cancel_friend_request">Cancel Friend Request</string>
     <string name="remove_friend">Remove Friend</string>
     <string name="friend_request_sent">Friend request sent</string>
     <string name="friend_requests_received">Friend Requests</string>
     <string name="friend_requests_sent">Sent Requests</string>
-    <string name="no_friends">No friends yet…</string>
-    <string name="remove_friend_title">Remove Friend</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
-    <string name="cancel_request_title">Cancel Request</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Can't send friend request to yourself</string>
-    <string name="friend_request_error_already_sent">Friend request already sent</string>
-    <string name="friend_request_error_already_friends">Already friends</string>
-    <string name="friend_request_error_list_full">Friend list full</string>
+    <string name="no_friends">친구 없음</string>
+    <string name="remove_friend_title">친구 삭제</string>
+    <string name="remove_friend_message">친구 삭제 : "%1$s" (ID: %2$d)</string>
+    <string name="cancel_request_title">확실합니까?</string>
+    <string name="cancel_request_message">친구 요청 삭제 : "%1$s" (ID: %2$d)</string>
+    <string name="friend_request_error_self">자신에게는 친구 요청을 할 수 없습니다</string>
+    <string name="friend_request_error_already_sent">중복된 친구 요청</string>
+    <string name="friend_request_error_already_friends">이미 친구 상태입니다</string>
+    <string name="friend_request_error_list_full">친구 목록 꽉참</string>
 
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Competitive</string>
@@ -205,33 +205,33 @@
     <string name="current_season">Current Season</string>
 
     <!-- Shop -->
-    <string name="shop">Shop</string>
-    <string name="ticket">Ticket</string>
-    <string name="free_voidstones">Free Voidstones!</string>
-    <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
-    <string name="free_voidstones_won">You got %d voidstones!</string>
-    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
-    <string name="free_voidstones_left">%d left</string>
-    <string name="pick">Pick</string>
-    <string name="redeem_code">Redeem Code</string>
+    <string name="shop">상점</string>
+    <string name="ticket">티켓</string>
+    <string name="free_voidstones">무료 공허석!</string>
+    <string name="free_voidstones_subtitle">광고 시청 후 공허석 받기!</string>
+    <string name="free_voidstones_won">공허석 %d 개 획득!</string>
+    <string name="free_voidstones_status">%1$d 개 남음 ⋅ 초기화까지 %2$s</string>
+    <string name="free_voidstones_left">%d 개 남음</string>
+    <string name="pick">광고 보기</string>
+    <string name="redeem_code">코드 사용</string>
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="boosters">부스터</string>
+    <string name="booster_permanent_upgrades">부스터(무기한) 업그레이드</string>
+    <string name="booster_owned">보유 중 : %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
+    <string name="none">없음</string>
+    <string name="booster_ad_xp_title">경험치 부스터</string>
+    <string name="booster_ad_xp_desc">광고 시청 후 경험치 부스터 얻기!</string>
+    <string name="booster_stacks_base_xp">기본 경험치 포함</string>
+    <string name="booster_watch_ad">광고 시청</string>
+    <string name="booster_choose_boost">경험치 부스터 선택</string>
     <string name="booster_active">active</string>
     <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_upgrade">업그레이드</string>
+    <string name="booster_base_xp">기본 경험치 부스터</string>
     <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="booster_autoshoot">자동 클릭</string>
+    <string name="booster_spawn_size">시작 부스터</string>
     <string name="speed_none">None</string>
     <string name="speed_slow">Slow (5/sec)</string>
     <string name="speed_medium">Medium (10/sec)</string>
@@ -239,8 +239,8 @@
     <string name="speed_ultra">Ultra (30/sec)</string>
     <string name="speed_crazy">Crazy (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
-    <string name="invalid_code">Invalid Code</string>
-    <string name="code_already_claimed">Code Already Claimed!</string>
+    <string name="invalid_code">잘못된 코드</string>
+    <string name="code_already_claimed">이미 사용된 코드</string>
     <string name="successfully_claimed_code">Reward Claimed</string>
     <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Unlocked: %s</string>
@@ -254,19 +254,19 @@
     <string name="reward_name_font">Name Font</string>
     <string name="reward_already_owned_compensation">Already Owned. Converted to Voidstones</string>
     <string name="purchase_id">Purchase ID: %d</string>
-    <string name="history">History</string>
-    <string name="voidstone_history">Voidstone History</string>
-    <string name="purchase_history">Purchase History</string>
-    <string name="no_transactions_yet">No transactions yet</string>
+    <string name="history">기록</string>
+    <string name="voidstone_history">공허석 내역</string>
+    <string name="purchase_history">구매 내역</string>
+    <string name="no_transactions_yet">거래 내역 없음</string>
     <string name="admin_reward">Admin Reward</string>
-    <string name="in_app_purchase">In-app purchase</string>
-    <string name="voidstone_gift_received">Voidstone Gift Received</string>
+    <string name="in_app_purchase">앱 내 구매</string>
+    <string name="voidstone_gift_received">공허석 선물 도착!</string>
     <string name="voidstone_gift_send">Voidstone Gift Sent</string>
     <string name="skin_bought">Skin</string>
-    <string name="booster_base_xp_bought">Base XP Upgrade</string>
+    <string name="booster_base_xp_bought">기본 경험치 업그레이드</string>
     <string name="booster_autosplit_bought">Autosplit Upgrade</string>
-    <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
-    <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
+    <string name="booster_autoshoot_bought">자동 클릭 업그레이드</string>
+    <string name="booster_spawn_size_bought">시작 크기 업그레이드</string>
     <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">Profile name change</string>
     <string name="profile_name_color_bought">Profile name color unlock</string>
@@ -301,8 +301,8 @@
     <string name="ad_reward">Video Ad Reward</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Season Pass</string>
-     <string name="season_pass_season_number">Season %s</string>
+     <string name="season_pass">시즌 패스</string>
+     <string name="season_pass_season_number">시즌 %s</string>
      <string name="january">1월</string>
      <string name="february">2월</string>
      <string name="march">3월</string>
@@ -324,8 +324,8 @@
      <string name="season_pass_tab_daily">DAILY</string>
      <string name="season_pass_tab_weekly">WEEKLY</string>
      <string name="season_pass_tab_season">SEASON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
+     <string name="season_pass_done">완료</string>
+     <string name="season_pass_claim">받기</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">Resets now</string>
@@ -360,16 +360,16 @@
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
-     <string name="season_task_food_eaten">Eat food</string>
-     <string name="season_task_voidstone_any_eaten">Collect voidstones</string>
-     <string name="season_task_voidstone_regular_eaten">Collect regular voidstones</string>
-     <string name="season_task_voidstone_bronze_eaten">Collect bronze voidstones</string>
-     <string name="season_task_voidstone_silver_eaten">Collect silver voidstones</string>
-     <string name="season_task_voidstone_gold_eaten">Collect gold voidstones</string>
-     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
-     <string name="season_task_food_and_voidstone_eaten">Collect food and voidstones</string>
-     <string name="season_task_bots_eaten">Eat bots</string>
-     <string name="season_task_players_eaten">Eat players</string>
+     <string name="season_task_food_eaten">먹이 먹기</string>
+     <string name="season_task_voidstone_any_eaten">공허석 수집</string>
+     <string name="season_task_voidstone_regular_eaten">일반 공허석 수집</string>
+     <string name="season_task_voidstone_bronze_eaten">브론즈 공허석 수집</string>
+     <string name="season_task_voidstone_silver_eaten">실버 공허석 수집</string>
+     <string name="season_task_voidstone_gold_eaten">골드 공허석 수집</string>
+     <string name="season_task_voidstone_rainbow_eaten">무지개 공허석 수집</string>
+     <string name="season_task_food_and_voidstone_eaten">먹이/공허석 수집</string>
+     <string name="season_task_bots_eaten">봇 먹기</string>
+     <string name="season_task_players_eaten">플레이어 먹기</string>
      <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
      <string name="season_task_hole_blue_powerup">Use blue hole powerups</string>
      <string name="season_task_hole_purple_powerup">Use purple hole powerups</string>
@@ -380,11 +380,11 @@
      <string name="season_task_hole_purple_punishment">Get hit by purple holes</string>
      <string name="season_task_hole_gold_punishment">Get hit by gold holes</string>
      <string name="season_task_win_competitive">Win competitive games</string>
-     <string name="season_task_win_survival">Win survival games</string>
-     <string name="season_task_win_team_survival">Win team survival games</string>
+     <string name="season_task_win_survival">서바이벌 게임 승리</string>
+     <string name="season_task_win_team_survival">팀 서바이벌 게임 승리</string>
      <string name="season_task_win_knockout">Win knockout games</string>
-     <string name="season_task_win_soccer">Win soccer games</string>
-     <string name="season_task_soccer_goal_scored">Score soccer goals</string>
+     <string name="season_task_win_soccer">축구 게임 승리</string>
+     <string name="season_task_soccer_goal_scored">축구 골 득점</string>
      <string name="season_task_split">Split</string>
      <string name="season_task_shoot">Shoot</string>
 
@@ -518,9 +518,9 @@
     <string name="transaction_fee_amount">-%s fee</string>
 
     <!-- Search Profile -->
-    <string name="search_account">Search Account</string>
-    <string name="search_account_by_id_or_name">Search for an account by ID or Name</string>
-    <string name="no_account_found">No account found</string>
+    <string name="search_account">프로필 검색</string>
+    <string name="search_account_by_id_or_name">ID/이름으로 프로필 검색</string>
+    <string name="no_account_found">프로필을 찾을 수 없습니다</string>
 
     <!-- Clan -->
     <string name="clan_create">Create Clan</string>
