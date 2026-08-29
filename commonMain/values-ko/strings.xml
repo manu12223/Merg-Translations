@@ -157,7 +157,7 @@
     <string name="friend_request_sent">친구 요청 보내기</string>
     <string name="friend_requests_received">친구 요청 받기</string>
     <string name="friend_requests_sent">친구 요청 보내기</string>
-    <string name="no_friends">…친구 없음</string>
+    <string name="no_friends">친구 없음…</string>
     <string name="remove_friend_title">친구 삭제</string>
     <string name="remove_friend_message">"%1$s" (ID: %2$d)님을 친구에서 삭제하시겠습니까?</string>
     <string name="cancel_request_title">확실합니까?</string>
