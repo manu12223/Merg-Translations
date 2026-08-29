@@ -139,7 +139,7 @@
     <string name="connected">연결됨</string>
     <string name="select_server">서버 선택</string>
     <string name="server_europe">유럽</string>
-    <string name="server_americas_nc">북아메리카</string>
+    <string name="server_americas_nc">아메리카 (북/중)</string>
     <string name="server_south_america">남아메리카</string>
     <string name="server_asia">아시아</string>
     <string name="join">입장</string>
