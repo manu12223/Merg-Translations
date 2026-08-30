@@ -91,7 +91,7 @@
     <string name="name_scale">Escala del Nombre</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
     <string name="cycle_progressbar">Alt. Automát. Texto de la Barra EXP</string>
-    <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
+    <string name="verbose_in_game_ui">Indicadores de Juego</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
     <string name="extrapolation">Extrapolación</string>
     <string name="no_interpolation">Sin interpolación</string>
@@ -153,13 +153,13 @@
     <string name="friend_request_accepted">¡Ahora son Amigos!</string>
     <string name="send_friend_request_by_id_or_name">Enviar con ID o Nombre</string>
     <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
-    <string name="remove_friend">Eliminar Amigo</string>
+    <string name="remove_friend">Eliminar Amigo(a)</string>
     <string name="friend_request_sent">Solicitud de Amistad Enviada</string>
     <string name="friend_requests_received">Solicitudes de Amistad</string>
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
-    <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo?</string>
+    <string name="remove_friend_title">Eliminar Amigo(a)</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo(a)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro(a) qué quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
@@ -278,7 +278,7 @@
     <string name="giveaway">Premio de Giveaway</string>
     <string name="admin_reward_sent">Bonificación (STAFF) Enviada</string>
     <string name="admin_deduction_sent">Deducción (STAFF) Retirada</string>
-    <string name="verify_reward">Recompensa de Verificación (Servidor Discord)</string>
+    <string name="verify_reward">Recompensa de Verificación (Discord)</string>
     <string name="competitive_season_reward">Recompensa de la Temporada Competitiva</string>
     <string name="purchase_remove_ads_label">Quitar Anuncios</string>
     <string name="purchase_status_permanent">Estado de Compra Permanente</string>
@@ -324,7 +324,7 @@
      <string name="season_pass_tab_daily">DIARIO</string>
      <string name="season_pass_tab_weekly">SEMANAL</string>
      <string name="season_pass_tab_season">TEMPORADA</string>
-     <string name="season_pass_done">HECHO</string>
+     <string name="season_pass_done">COMPLETADA</string>
      <string name="season_pass_claim">RECLAMAR</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Nvl %1$d</string>
@@ -506,7 +506,7 @@
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Regalar Voidstones</string>
-    <string name="send_voidstones_to">Regalar %1$s Voidstones a ID: %2$d</string>
+    <string name="send_voidstones_to">Regalar Voidstones a %1$s (ID: %2$d)</string>
     <string name="send_voidstones_confirm">¿Seguro(a) que quieres Regalar %1$s Voidstones a %2$s (ID: %3$d)?</string>
     <string name="send_voidstones_self">Ups, no puedes Enviarte Voidstones a ti mismo.</string>
     <string name="voidstone_gift_from">Recibiste %1$s Voidstones de (ID: %2$d)</string>
@@ -869,7 +869,7 @@
     <string name="spectate_ball">Bola</string>
     <string name="leaderboard">Récords</string>
     <string name="session_stats">Estadísticas de Sesión</string>
-    <string name="debug">Depuracion</string>
+    <string name="debug">Depuración</string>
     <string name="profiler">Perfil</string>
 
 
@@ -1175,7 +1175,7 @@
     <string name="editing_message">Editando Mensaje</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Soporte</string>
-    <string name="support_intro">A continuación, todas las formas de contactar con soporte.</string>
+    <string name="support_intro">A continuación, formas de contactar con soporte.</string>
     <string name="copy">Copiar</string>
     <string name="open_link">Abrir</string>
     <string name="whatsapp_note">Solo chat (no llamadas o SMS)</string>
