@@ -124,7 +124,7 @@
     <string name="relax">Relax</string>
     <string name="warning_no_holes">No se Guardarán Estadísticas</string>
     <string name="gold_holes">Agujeros Dorados</string>
-    <string name="teleport_holes">Teleport Holes</string>
+    <string name="teleport_holes">Portales</string>
     <string name="starting_difficulty">Dificultad Inicial</string>
 
     <!-- Multiplayer -->
@@ -385,8 +385,8 @@
      <string name="season_task_win_knockout">Win knockout games</string>
      <string name="season_task_win_soccer">Win soccer games</string>
      <string name="season_task_soccer_goal_scored">Score soccer goals</string>
-     <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Disparos</string>
+     <string name="season_task_split">Divídete</string>
+     <string name="season_task_shoot">Dispara masa</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
