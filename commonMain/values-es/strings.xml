@@ -213,9 +213,9 @@
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Elegir</string>
-    <string name="redeem_code">Código Canjeado</string>
+    <string name="redeem_code">Código Promocional</string>
     <!-- Boosters -->
-    <string name="boosters">Potenciadores</string>
+    <string name="boosters">Mejoras</string>
     <string name="booster_permanent_upgrades">Permanent Upgrades</string>
     <string name="booster_owned">owned: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
@@ -914,7 +914,7 @@
 
     <!-- Block Player -->
     <string name="blocked_players">Jugadores Bloqueados</string>
-    <string name="no_blocked_players">Sin Jugadores Bloqueados</string>
+    <string name="no_blocked_players">Tu lista está sospechosamente vacía…</string>
     <string name="unblock_confirm_message">¿Seguro(a) que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
     <string name="block_player">Bloquear Jugador(a)</string>
     <string name="unblock_player">Desbloquear Jugador(a)</string>
@@ -1190,17 +1190,17 @@
     <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
     <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
     <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
-    <string name="scored">scored!</string>
+    <string name="scored">anotó!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
     <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
     <string name="reconnect_attempt_succeeded">Reconnection attempt #%1$d succeeded</string>
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
-    <string name="save_preferences">Save preferences</string>
-    <string name="load_preferences">Load preferences</string>
-    <string name="preferences_saved">Preferences saved to %1$s</string>
-    <string name="preferences_loaded">Preferences loaded!</string>
+    <string name="save_preferences">Guardar preferencias</string>
+    <string name="load_preferences">Cargar preferencias</string>
+    <string name="preferences_saved">Preferencias guardadas en %1$s</string>
+    <string name="preferences_loaded">Preferencias cargadas!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
-    <string name="invalid_file">Invalid file</string>
-    <string name="unlocked">Unlocked:</string>
-    <string name="unlocked_competitive">Unlocked Competitive</string>
+    <string name="invalid_file">Archivo inválido</string>
+    <string name="unlocked">Desbloqueado:</string>
+    <string name="unlocked_competitive">Competitivo Desbloqueado</string>
 </resources>
