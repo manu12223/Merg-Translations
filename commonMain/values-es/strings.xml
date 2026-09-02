@@ -66,7 +66,7 @@
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
-    <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
+    <string name="leaderboard_size">Número de puestos en el ranking</string>
     <string name="sound_effects">Efectos de Sonido</string>
     <string name="sound_volume">Volumen del Sonido</string>
     <string name="show_grid">Cuadrícula</string>
@@ -223,15 +223,15 @@
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
+    <string name="booster_watch_ad">Mirar Anuncio</string>
     <string name="booster_choose_boost">Choose your XP boost</string>
     <string name="booster_active">active</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_base_xp">Multip. EXP Base</string>
     <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
+    <string name="booster_spawn_size">Aumentar tamaño inicial</string>
     <string name="speed_none">None</string>
     <string name="speed_slow">Slow (5/sec)</string>
     <string name="speed_medium">Medium (10/sec)</string>
@@ -867,7 +867,7 @@
     <string name="highest_rank">Rango más Alto</string>
     <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
-    <string name="leaderboard">Récords</string>
+    <string name="leaderboard">Ranking</string>
     <string name="session_stats">Estadísticas de Sesión</string>
     <string name="debug">Depuración</string>
     <string name="profiler">Perfil</string>
