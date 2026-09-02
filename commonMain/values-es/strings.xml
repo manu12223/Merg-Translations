@@ -66,7 +66,7 @@
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
-    <string name="leaderboard_size">Número de puestos en el ranking</string>
+    <string name="leaderboard_size">Número de puestos en ranking</string>
     <string name="sound_effects">Efectos de Sonido</string>
     <string name="sound_volume">Volumen del Sonido</string>
     <string name="show_grid">Cuadrícula</string>
@@ -231,7 +231,7 @@
     <string name="booster_base_xp">Multip. EXP Base</string>
     <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Aumentar tamaño inicial</string>
+    <string name="booster_spawn_size">Aumentar Tamaño Inicial</string>
     <string name="speed_none">None</string>
     <string name="speed_slow">Slow (5/sec)</string>
     <string name="speed_medium">Medium (10/sec)</string>
