@@ -66,7 +66,7 @@
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
-    <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
+    <string name="leaderboard_size">Número de puestos en Ranking</string>
     <string name="sound_effects">Efectos de Sonido</string>
     <string name="sound_volume">Volumen del Sonido</string>
     <string name="show_grid">Cuadrícula</string>
@@ -91,7 +91,7 @@
     <string name="name_scale">Escala del Nombre</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
     <string name="cycle_progressbar">Alt. Automát. Texto de la Barra EXP</string>
-    <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
+    <string name="verbose_in_game_ui">Indicadores de Juego</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
     <string name="extrapolation">Extrapolación</string>
     <string name="no_interpolation">Sin interpolación</string>
@@ -124,11 +124,11 @@
     <string name="relax">Relax</string>
     <string name="warning_no_holes">No se Guardarán Estadísticas</string>
     <string name="gold_holes">Agujeros Dorados</string>
-    <string name="teleport_holes">Teleport Holes</string>
+    <string name="teleport_holes">Portales</string>
     <string name="starting_difficulty">Dificultad Inicial</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">PARTIDA RÁPIDA</string>
+    <string name="play_online">PARTIDA PÚBLICA</string>
     <string name="switch_server">Cambiar Región</string>
     <string name="x_players">%s jugadores</string>
     <string name="x_player">%s jugador</string>
@@ -153,13 +153,13 @@
     <string name="friend_request_accepted">¡Ahora son Amigos!</string>
     <string name="send_friend_request_by_id_or_name">Enviar con ID o Nombre</string>
     <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
-    <string name="remove_friend">Eliminar Amigo</string>
+    <string name="remove_friend">Eliminar Amigo(a)</string>
     <string name="friend_request_sent">Solicitud de Amistad Enviada</string>
     <string name="friend_requests_received">Solicitudes de Amistad</string>
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
-    <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo?</string>
+    <string name="remove_friend_title">Eliminar Amigo(a)</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo(a)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro(a) qué quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
@@ -213,29 +213,29 @@
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="pick">Elegir</string>
-    <string name="redeem_code">Código Canjeado</string>
+    <string name="redeem_code">Código Promocional</string>
     <!-- Boosters -->
-    <string name="boosters">Potenciadores</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="boosters">Mejoras</string>
+    <string name="booster_permanent_upgrades">Mejoras Permanentes</string>
+    <string name="booster_owned">nivel: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
+    <string name="none">N/A</string>
+    <string name="booster_ad_xp_title">Multip. EXP por Anuncio</string>
+    <string name="booster_ad_xp_desc">Mira un anuncio para obtener un potenciador de EXP temporal!</string>
+    <string name="booster_stacks_base_xp">Acumula EXP Base</string>
+    <string name="booster_watch_ad">Mirar Anuncio</string>
+    <string name="booster_choose_boost">Elige tu potenciador de EXP</string>
+    <string name="booster_active">activo</string>
     <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
+    <string name="booster_upgrade">Mejorar</string>
+    <string name="booster_base_xp">Multip. EXP Base</string>
     <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
+    <string name="booster_spawn_size">Aumentar Tamaño Inicial</string>
+    <string name="speed_none">N/A</string>
+    <string name="speed_slow">Lento (5/sec)</string>
+    <string name="speed_medium">Medio (10/sec)</string>
+    <string name="speed_fast">Rápido (20/sec)</string>
     <string name="speed_ultra">Ultra (30/sec)</string>
     <string name="speed_crazy">Crazy (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
@@ -278,7 +278,7 @@
     <string name="giveaway">Premio de Giveaway</string>
     <string name="admin_reward_sent">Bonificación (STAFF) Enviada</string>
     <string name="admin_deduction_sent">Deducción (STAFF) Retirada</string>
-    <string name="verify_reward">Recompensa de Verificación (Servidor Discord)</string>
+    <string name="verify_reward">Recompensa de Verificación (Discord)</string>
     <string name="competitive_season_reward">Recompensa de la Temporada Competitiva</string>
     <string name="purchase_remove_ads_label">Quitar Anuncios</string>
     <string name="purchase_status_permanent">Estado de Compra Permanente</string>
@@ -324,7 +324,7 @@
      <string name="season_pass_tab_daily">DIARIO</string>
      <string name="season_pass_tab_weekly">SEMANAL</string>
      <string name="season_pass_tab_season">TEMPORADA</string>
-     <string name="season_pass_done">HECHO</string>
+     <string name="season_pass_done">COMPLETADA</string>
      <string name="season_pass_claim">RECLAMAR</string>
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Nvl %1$d</string>
@@ -385,17 +385,17 @@
      <string name="season_task_win_knockout">Win knockout games</string>
      <string name="season_task_win_soccer">Win soccer games</string>
      <string name="season_task_soccer_goal_scored">Score soccer goals</string>
-     <string name="season_task_split">Split</string>
-     <string name="season_task_shoot">Disparos</string>
+     <string name="season_task_split">Divídete</string>
+     <string name="season_task_shoot">Dispara masa</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
     <string name="not_logged_in">¡No has iniciado sesión!</string>
-    <string name="login">Iniciar Sesión</string>
+    <string name="login">Iniciar sesión</string>
     <string name="login_google">Iniciar sesión con Google</string>
     <string name="login_apple">Iniciar sesión con Apple</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
+    <string name="link_google">Vincular con Google</string>
+    <string name="link_apple">Vincular con Apple</string>
     <string name="link_success">Sign-in method linked!</string>
     <string name="link_already_linked">This sign-in method is already linked to your account.</string>
     <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
@@ -403,15 +403,15 @@
     <string name="link_stepup_failed">Verification failed. Please try again.</string>
     <string name="link_cancelled">Linking was cancelled.</string>
     <string name="link_failed">Could not link sign-in method. Please try again.</string>
-    <string name="logout">Cerrar Sesión</string>
+    <string name="logout">Cerrar sesión</string>
     <string name="logout_all_devices">Cerrar sesión en todos los dispositivos</string>
     <string name="change_name">Cambiar Nombre</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartir ID</string>
     <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
     <string name="no_youtube_link">No Enlazado</string>
-    <string name="no_tiktok_link">No Link</string>
-    <string name="created">Creada %s</string>
+    <string name="no_tiktok_link">No Enlazado</string>
+    <string name="created">Desde %s</string>
     <string name="last_seen">Últ. vez %s</string>
     <string name="save_profile_description">Guardar Descripción</string>
     <string name="profile_description_placeholder">Escribe una Descripción</string>
@@ -506,7 +506,7 @@
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Regalar Voidstones</string>
-    <string name="send_voidstones_to">Regalar %1$s Voidstones a ID: %2$d</string>
+    <string name="send_voidstones_to">Regalar Voidstones a %1$s (ID: %2$d)</string>
     <string name="send_voidstones_confirm">¿Seguro(a) que quieres Regalar %1$s Voidstones a %2$s (ID: %3$d)?</string>
     <string name="send_voidstones_self">Ups, no puedes Enviarte Voidstones a ti mismo.</string>
     <string name="voidstone_gift_from">Recibiste %1$s Voidstones de (ID: %2$d)</string>
@@ -854,7 +854,7 @@
     <string name="decay">Decadencia: %.2f/s</string>
     <string name="pieces">Blobs: %1d/%2d</string>
     <string name="merge">Unirse: %ss</string>
-    <string name="throw_item_button">Throw item</string>
+    <string name="throw_item_button">Soltar item</string>
     <string name="select_throw_item">Select throw item button</string>
     <string name="xp">EXP</string>
     <string name="level">Nivel</string>
@@ -867,9 +867,9 @@
     <string name="highest_rank">Rango más Alto</string>
     <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
-    <string name="leaderboard">Récords</string>
+    <string name="leaderboard">Ranking</string>
     <string name="session_stats">Estadísticas de Sesión</string>
-    <string name="debug">Depuracion</string>
+    <string name="debug">Depuración</string>
     <string name="profiler">Perfil</string>
 
 
@@ -914,7 +914,7 @@
 
     <!-- Block Player -->
     <string name="blocked_players">Jugadores Bloqueados</string>
-    <string name="no_blocked_players">Sin Jugadores Bloqueados</string>
+    <string name="no_blocked_players">Tu lista está sospechosamente vacía…</string>
     <string name="unblock_confirm_message">¿Seguro(a) que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
     <string name="block_player">Bloquear Jugador(a)</string>
     <string name="unblock_player">Desbloquear Jugador(a)</string>
@@ -1175,7 +1175,7 @@
     <string name="editing_message">Editando Mensaje</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Soporte</string>
-    <string name="support_intro">A continuación, todas las formas de contactar con soporte.</string>
+    <string name="support_intro">A continuación, formas de contactar con soporte.</string>
     <string name="copy">Copiar</string>
     <string name="open_link">Abrir</string>
     <string name="whatsapp_note">Solo chat (no llamadas o SMS)</string>
@@ -1190,17 +1190,17 @@
     <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
     <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
     <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
-    <string name="scored">scored!</string>
+    <string name="scored">anotó!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
     <string name="disconnect_reason_network">This is usually a problem with your internet connection (Wi-Fi, mobile data, or VPN), not the server.</string>
     <string name="reconnect_attempt_succeeded">Reconnection attempt #%1$d succeeded</string>
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
-    <string name="save_preferences">Save preferences</string>
-    <string name="load_preferences">Load preferences</string>
-    <string name="preferences_saved">Preferences saved to %1$s</string>
-    <string name="preferences_loaded">Preferences loaded!</string>
+    <string name="save_preferences">Guardar preferencias</string>
+    <string name="load_preferences">Cargar preferencias</string>
+    <string name="preferences_saved">Preferencias guardadas en %1$s</string>
+    <string name="preferences_loaded">Preferencias cargadas!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
-    <string name="invalid_file">Invalid file</string>
-    <string name="unlocked">Unlocked:</string>
-    <string name="unlocked_competitive">Unlocked Competitive</string>
+    <string name="invalid_file">Archivo inválido</string>
+    <string name="unlocked">Desbloqueado:</string>
+    <string name="unlocked_competitive">Competitivo Desbloqueado</string>
 </resources>
