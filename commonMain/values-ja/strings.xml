@@ -264,7 +264,7 @@
     <string name="voidstone_gift_send">ボイドストーンギフトの送付</string>
     <string name="skin_bought">スキンの購入</string>
     <string name="booster_base_xp_bought">基本経験値のアップグレード</string>
-    <string name="transaction_achievement_reward">Achievement Reward</string>
+    <string name="transaction_achievement_reward">達成リワード</string>
     <string name="booster_autosplit_bought">オートスプリットのアップグレード</string>
     <string name="booster_autoshoot_bought">オートイジェクトのアップグレード</string>
     <string name="booster_spawn_size_bought">スポーンサイズのアップグレード</string>
@@ -645,8 +645,8 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">リーダーボード種類</string>
     <string name="leaderboard_xp_description">経験値です。獲得してレベルアップします。経験値はドットやボイドストーンを集めて得られます。</string>
-    <string name="leaderboard_type_ap">AP</string>
-    <string name="leaderboard_ap_description">AP, short for Achievement Points. Obtain these special points by completing achievements! Higher tier achievements give more AP than others.</string>
+    <string name="leaderboard_type_ap">達成値</string>
+    <string name="leaderboard_ap_description">達成値です。達成を完了してリワードを獲得しましょう！達成が珍しい成果ほど、より多くのポイントが得られます。</string>
     <string name="leaderboard_competitive_description">1対1のランキングマッチです。ランクバトルで12試合以上完了したプレイヤーのみは表示されます。</string>
     <string name="leaderboard_rating">ランキング</string>
     <string name="leaderboard_period_daily">デイリー</string>
@@ -808,10 +808,10 @@
     <string name="flags">フラグ</string>
     <string name="skin_tab_particles">パーティクル</string>
     <string name="skin_tab_special">特別</string>
-    <string name="level_skin_locked_dialog">You must be level %1$d to unlock this skin. You are currently level %2$d.</string>
-    <string name="skin_tab_achievement">Achievement</string>
-    <string name="achievement_skin_locked_dialog">You must reach %1$d Achievement Points to unlock this skin. You currently have %2$d.</string>
-    <string name="dismiss">Dismiss</string>
+    <string name="level_skin_locked_dialog">このスキンを使用するには、レベル%1$d以上が必要です。現在のレベル：%2$d</string>
+    <string name="skin_tab_achievement">達成</string>
+    <string name="achievement_skin_locked_dialog">このスキンを使用するには、%1$d達成値以上が必要です。現在は%2$d達成値があります。</string>
+    <string name="dismiss">閉じる</string>
     <string name="level_lock">レベルロック</string>
 
 
@@ -1215,16 +1215,16 @@
     <string name="unlocked_competitive">アンロック済：ランクバトル</string>
     <!-- Achievements -->
     <string name="achievements_ap">%1$s/%2$s (%3$s%%)</string>
-    <string name="achievement_tier_bronze">Bronze</string>
-    <string name="achievement_tier_silver">Silver</string>
-    <string name="achievement_tier_gold">Gold</string>
-    <string name="achievement_tier_platinum">Platinum</string>
-    <string name="achievement_tier_diamond">Diamond</string>
-    <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
-    <string name="achievement_next">Next:</string>
-    <string name="achievement_secret_title">Secret Achievement</string>
+    <string name="achievement_tier_bronze">ブロンズ</string>
+    <string name="achievement_tier_silver">シルバー</string>
+    <string name="achievement_tier_gold">ゴールド</string>
+    <string name="achievement_tier_platinum">プラチナム</string>
+    <string name="achievement_tier_diamond">ダイアモンド</string>
+    <string name="achievement_tier_count">%1$s：%2$s／%3$s</string>
+    <string name="achievement_next">次：</string>
+    <string name="achievement_secret_title">秘密達成</string>
     <string name="achievement_secret_description">???</string>
-    <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
+    <string name="achievement_streak">現在：%1$s・最高：%2$s・次の日：%3$s</string>
     <string name="ach_title_big">Big</string>
     <string name="ach_title_huge">Huge</string>
     <string name="ach_title_massive">Massive</string>
@@ -1324,5 +1324,5 @@
     <string name="ach_title_binge_watcher">Binge Watcher</string>
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
-    <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
+    <string name="ach_desc_rewarded_ads">リワード広告を%1$s件視聴</string>
 </resources>
