@@ -47,7 +47,7 @@
     <string name="language_portuguese_portugal">Português (Portugal) | Portugués (Portugal)</string>
     <string name="language_romanian">Română | Rumano</string>
     <string name="language_russian">Русский | Ruso</string>
-    <string name="language_slovak">Slovenčina | Slovak</string>
+    <string name="language_slovak">Slovenčina | Eslovaco</string>
     <string name="language_spanish">Español</string>
     <string name="language_swedish">Svenska | Sueco</string>
     <string name="language_thai">ไทย | Tailandés</string>
@@ -62,7 +62,7 @@
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocar</string>
     <string name="control_mouse">Mouse</string>
-    <string name="control_keyboard">Keyboard</string>
+    <string name="control_keyboard">Teclado</string>
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
