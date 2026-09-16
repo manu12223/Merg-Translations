@@ -3,10 +3,10 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">لعب فردي</string>
-    <string name="lan_multiplayer">الشبكة المحلية</string>
+    <string name="lan_multiplayer">لعب جماعي عبر الشبكة المحلية</string>
     <string name="lan">الشبكة المحلية</string>
-    <string name="online_multiplayer">اللعب اونلاين</string>
-    <string name="options">الإعدادات</string>
+    <string name="online_multiplayer">اللعب عبر الإنترنيت</string>
+    <string name="options">الخيارات</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
@@ -15,7 +15,7 @@
     <string name="email_support">بريد الدعم:</string>
     <string name="developer">المطور:</string>
     <string name="code_contribution">مساهمات الكود:</string>
-    <string name="skins">الجلود:</string>
+    <string name="skins">المظاهر:</string>
     <string name="graphics_icons">الرسوم/الايقونات:</string>
     <string name="sound_effects_credit">Sound Effects:</string>
     <string name="translations">المترجمون:</string>
@@ -61,13 +61,13 @@
     <string name="control_joystick">موجه الدائرة</string>
     <string name="control_relative">تخصيص</string>
     <string name="control_touch">اللمس</string>
-    <string name="control_mouse">Mouse</string>
+    <string name="control_mouse">مؤشر الفأرة</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">تصميم الأزرار</string>
     <string name="customize">تخصيص</string>
     <string name="opacity">الشفافية</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
-    <string name="sound_effects">Sound Effects</string>
+    <string name="sound_effects">المؤثرات الصوتية</string>
     <string name="sound_volume">مستوى الصوت</string>
     <string name="show_grid">اظهار الشبكة</string>
     <string name="show_grid_coordinates">إظهار إحداثيات الشبكة</string>
@@ -371,7 +371,7 @@
      <string name="season_task_food_and_voidstone_eaten">اجمع الطعام ثم الفويدستون</string>
      <string name="season_task_bots_eaten">التهِم البوتات</string>
      <string name="season_task_players_eaten">اِلتهِم اللاعبين</string>
-     <string name="season_task_hole_any_powerup">Use blue / purple / gold hole powerups</string>
+     <string name="season_task_hole_any_powerup">استخدم معززات الثقب الأزرق / البنفسجي / الذهبي</string>
      <string name="season_task_hole_blue_powerup">استخدم معززات الثقب الأزرق</string>
      <string name="season_task_hole_purple_powerup">استخدم معززات الثقب البنفسجي</string>
      <string name="season_task_hole_gold_powerup">استخدم معززات الثقب الذهبي</string>
@@ -391,7 +391,7 @@
 
     <!-- Profile -->
     <string name="profile">الملف الشخصي</string>
-    <string name="not_logged_in">غير مسجل الدخول</string>
+    <string name="not_logged_in">  لم يتم تسجيل الدخول</string>
     <string name="login">تسجيل دخول</string>
     <string name="login_google">تسجيل الدخول باستخدام جوجل</string>
     <string name="login_apple">تسجيل الدخول باستخدام آبل</string>
