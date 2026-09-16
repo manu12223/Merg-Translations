@@ -344,11 +344,11 @@
      <string name="season_pass_history_task_season">Sezonluk Görev: %1$s</string>
      <string name="season_pass_history_season_page">Sezon %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Etap %1$d (Ödenmiş) - İptal Edildi</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+     <string name="season_pass_history_revoked_voidstones">Boşluk taşları removed</string>
+     <string name="season_pass_history_revoked_unlock">Kilit açma kaldırıldı</string>
+     <string name="season_pass_history_revoked_trigger_refund">Sezon Geçişi Altını iade edildi</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Sezon Geçişi Altın tartışmalı</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Sezon Geçişi Altın geri ödeme</string>
 
      <string name="season_pass_missed_title">KAÇIRILAN ÖDÜLLER</string>
      <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
@@ -362,8 +362,8 @@
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
      <string name="season_task_food_eaten">Yem topla</string>
-     <string name="season_task_voidstone_any_eaten">Voidstone topla</string>
-     <string name="season_task_voidstone_regular_eaten">Normal Voidstone topla</string>
+     <string name="season_task_voidstone_any_eaten">Boşluk taşı topla</string>
+     <string name="season_task_voidstone_regular_eaten">Normal Boşluk taşı topla</string>
      <string name="season_task_voidstone_bronze_eaten">Bronz Voidstone topla</string>
      <string name="season_task_voidstone_silver_eaten">Gümüş Voidstone topla</string>
      <string name="season_task_voidstone_gold_eaten">Altın Voidstone topla</string>
