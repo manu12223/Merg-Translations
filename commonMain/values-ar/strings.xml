@@ -3,11 +3,11 @@
 
     <!-- Main menu !-->
     <string name="singleplayer">لعب فردي</string>
-    <string name="lan_multiplayer">الشبكة المحلية</string>
+    <string name="lan_multiplayer">اللعب الجماعي عبر الشبكة المحلية</string>
     <string name="lan">الشبكة المحلية</string>
-    <string name="online_multiplayer">اللعب اونلاين</string>
-    <string name="options">الإعدادات</string>
-    <string name="discord" translatable="false">Discord</string>
+    <string name="online_multiplayer">اللعب عبر الانترنيت</string>
+    <string name="options">الخيارات</string>
+    <string name="discord" translatable="false">ديسكورد</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
@@ -15,9 +15,9 @@
     <string name="email_support">بريد الدعم:</string>
     <string name="developer">المطور:</string>
     <string name="code_contribution">مساهمات الكود:</string>
-    <string name="skins">الجلود:</string>
+    <string name="skins">المظاهر:</string>
     <string name="graphics_icons">الرسوم/الايقونات:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">بطاقات المؤثرات الصوتية:</string>
     <string name="translations">المترجمون:</string>
     <string name="fonts">الخطوط:</string>
 
@@ -279,7 +279,7 @@
     <string name="giveaway">جائزة السحب</string>
     <string name="admin_reward_sent">تم إرسال مكافأة الإدارة</string>
     <string name="admin_deduction_sent">تم إرسال الخصم الإداري</string>
-    <string name="verify_reward">مكافئة توثيق</string>
+    <string name="verify_reward">مكافئة التوثيق</string>
     <string name="competitive_season_reward">مكافأة الموسم التنافسي</string>
     <string name="purchase_remove_ads_label">إزالة الإعلانات</string>
     <string name="purchase_status_permanent">دائم</string>
