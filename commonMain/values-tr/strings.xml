@@ -51,7 +51,7 @@
     <string name="language_spanish">Español | İspanyolca</string>
     <string name="language_swedish">Svenska | İsveççe</string>
     <string name="language_thai">ไทย | Tayca</string>
-    <string name="language_turkish">Türkçe</string>
+    <string name="language_turkish">Türkiye | Türkçe</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamca</string>
     <string name="language_ukrainian">Українська | Ukraynaca</string>
     <string name="background">Arka Plan</string>
@@ -122,7 +122,7 @@
     <string name="no_holes">Diken Yok</string>
     <string name="circle_map">Dairesel Harita</string>
     <string name="relax">Rahat</string>
-    <string name="warning_no_holes">İstatistikler kaydedilmeyecek</string>
+    <string name="warning_no_holes">İstatistikler Kaydedilmeyecek</string>
     <string name="gold_holes">Altın Dikenler</string>
     <string name="teleport_holes">Işınlanma Dikenleri</string>
     <string name="starting_difficulty">Başlangıç Zorluğu</string>
@@ -325,14 +325,14 @@
      <string name="season_pass_tab_daily">GÜNLÜK</string>
      <string name="season_pass_tab_weekly">HAFTALIK</string>
      <string name="season_pass_tab_season">SEZON</string>
-     <string name="season_pass_done">DONE</string>
-     <string name="season_pass_claim">CLAIM</string>
-     <string name="season_pass_admin_cd">Admin</string>
-     <string name="season_pass_level_short">Lvl %1$d</string>
-     <string name="season_pass_resets_now">Resets now</string>
-     <string name="season_pass_resets_in_dh">Resets in %1$dd %2$dh</string>
-     <string name="season_pass_resets_in_hm">Resets in %1$dh %2$dm</string>
-     <string name="season_pass_resets_in_m">Resets in %1$dm</string>
+     <string name="season_pass_done">BİTTİ</string>
+     <string name="season_pass_claim">İddia</string>
+     <string name="season_pass_admin_cd">Yönetici</string>
+     <string name="season_pass_level_short">Seviye %1$d</string>
+     <string name="season_pass_resets_now">Şimdi sıfırlanıyor</string>
+     <string name="season_pass_resets_in_dh">Sıfırlar %1$dd %2$dh</string>
+     <string name="season_pass_resets_in_hm">Sıfırlar %1$dh %2$dm</string>
+     <string name="season_pass_resets_in_m">Sıfırlar %1$dm</string>
 
      <string name="season_pass_history_title">SEZONLUK BİLET GEÇMİŞİ</string>
      <string name="season_pass_history_cd">Geçmiş</string>
@@ -345,8 +345,8 @@
      <string name="season_pass_history_season_page">Sezon %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Etap %1$d (Ödenmiş) - İptal Edildi</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
-     <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
+     <string name="season_pass_history_revoked_unlock">Kaldırma işleminin kilidini aç</string>
+     <string name="season_pass_history_revoked_trigger_refund">Gold sezon bileti iade edildi</string>
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
