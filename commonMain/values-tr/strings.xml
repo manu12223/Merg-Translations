@@ -412,8 +412,8 @@
     <string name="copy_id">ID Kopyala</string>
     <string name="share_id">ID Paylaş</string>
     <string name="share_id_message">Beni Merg\'de ekle! ID\'m: %1$s</string>
-    <string name="no_youtube_link">Youtube Bağlantısı Yok</string>
-    <string name="no_tiktok_link">Tiktok Bağlantı Yok</string>
+    <string name="no_youtube_link">Bağlantı Yok</string>
+    <string name="no_tiktok_link">Bağlantı Yok</string>
     <string name="created">Oluşturulma: %s</string>
     <string name="last_seen">Son görülme: %s</string>
     <string name="save_profile_description">Profil Açıklamasını Kaydet</string>
@@ -497,7 +497,7 @@
     <string name="developer_tag">Geliştirici</string>
     <string name="code_contribution_tag">Kod Katkısı</string>
     <string name="admin">ADMIN</string>
-    <string name="mod">MODERATÖR</string>
+    <string name="mod">MOD</string>
     <string name="verified">Doğrulanmış</string>
     <string name="youtube">YouTube</string>
     <string name="tiktok">TikTok</string>
