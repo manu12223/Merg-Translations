@@ -725,11 +725,11 @@
     <string name="gamemode_survival">Hayatta Kalma</string>
     <string name="gamemode_team_survival">Takımlı Hayatta Kalma</string>
     <string name="gamemode_knockout">Eleme</string>
-    <string name="gamemode_adventure">Macera</string>
+    <string name="gamemode_adventure">Kampanya</string>
     <string name="gamemode_soccer">Futbol</string>
     <string name="gamemode_coming_soon">Çok Yakında</string>
     <string name="gamemode_competitive">Rekabetçi</string>
-    <string name="gamemode_multimerg">MultiMerg</string>
+    <string name="gamemode_multimerg">Çoklu blob</string>
     <string name="gamemode_domination">Hakimiyet</string>
     <string name="description_domination">Zamana karşı klasik oyun deneyimi; boyut sadece birinci sıradayken işe yarar! Haritadaki en büyük hücre olarak geçirdiğin her saniye puanına bir saniye ekler ve yenilmek daha önce biriktirdiğin süreyi asla eksiltmez. Süre bittiğinde birinci sırayı en uzun süre elinde tutan kazanır!</string>
     <string name="description_classic">Daha küçük oyuncuları yut ve evrendeki en büyük hücre ol! Haritaya hükmetmek için boyutunu kullan ama seni yemek isteyen daha büyük oyunculara dikkat et!</string>
@@ -744,11 +744,11 @@
     <string name="description_multimerg">İKİ hücreyle doğarsın ve yin-yang düğmesiyle kontrolleri arasında geçiş yaparsın! Yalnızca aktif hücre yön çubuğuna, bölünmeye ve fırlatmaya tepki verir. Diğeri ise son yönünde hareket etmeye devam eder. İki hücren bölünürse birbirini yiyebilir, ancak son parça daima korunur.</string>
 
     <!-- Map sizes !-->
-    <string name="mapsize_tiny">Küçüçük</string>
+    <string name="mapsize_tiny">Küçücük</string>
     <string name="mapsize_small">Küçük</string>
     <string name="mapsize_medium">Orta</string>
     <string name="mapsize_large">Büyük</string>
-    <string name="mapsize_xl">XL</string>
+    <string name="mapsize_xl">En Büyük</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Kolay</string>
@@ -821,7 +821,7 @@
     <!-- Chat !-->
     <string name="chat">Sohbet</string>
     <string name="emotes">İfadeler</string>
-    <string name="room_commands">Type !help for a list of available commands</string>
+    <string name="room_commands">Mevcut komutların listesi için !help yazın.</string>
     <string name="chat_close">Sohbeti Kapat</string>
     <string name="chat_message_hint">Mesaj yaz…</string>
     <string name="chat_send_message">Mesaj Gönder</string>
@@ -1031,9 +1031,9 @@
     <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Account Recovery</string>
+    <string name="account_recovery">Hesap Kurtarma</string>
     <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
-    <string name="recovery_continue">Continue</string>
+    <string name="recovery_continue">Devam et</string>
     <string name="recovery_enter_account_id">Enter your account ID</string>
     <string name="recovery_account_id_placeholder">Account ID</string>
     <string name="recovery_load_preview">Load account</string>
@@ -1060,8 +1060,8 @@
     <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
+    <string name="no_internet_connection">İnternet bağlantısı yok. Cihazınızın ağ ayarlarını kontrol edin.</string>
+    <string name="server_not_running">Sunucu Çalışmıyor</string>
     <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
     <string name="play">Oyna</string>
     <string name="id">ID:</string>
@@ -1076,41 +1076,41 @@
     <string name="exit">Çıkış</string>
     <string name="back">Geri</string>
     <string name="mode">Mod</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">Onayla</string>
     <string name="save">Kaydet</string>
     <string name="saved">Kaydedildi</string>
     <string name="saving">Kaydediliyor…</string>
-    <string name="sent">Sent</string>
-    <string name="send">Send</string>
-    <string name="sending">Sending…</string>
+    <string name="sent">Gönderildi</string>
+    <string name="send">Gönder</string>
+    <string name="sending">Gönderiliyor…</string>
     <string name="buy">Satın Al</string>
-    <string name="buying">Buying…</string>
+    <string name="buying">Satın Alma…</string>
     <string name="search">Ara</string>
     <string name="cancel">İptal</string>
     <string name="close">Kapat</string>
     <string name="select">Seç</string>
     <string name="reset">Sıfırla</string>
-    <string name="done">Done</string>
+    <string name="done">Başarılı</string>
     <string name="info">Bilgi</string>
-    <string name="empty">Empty</string>
+    <string name="empty">Boş</string>
     <string name="online">Çevrimici</string>
     <string name="offline">Çevrimdışı</string>
-    <string name="status_dnd">Do Not Disturb</string>
-    <string name="status_invisible">Invisible</string>
-    <string name="status_picker_label">Status</string>
+    <string name="status_dnd">Rahatsız etmeyin...</string>
+    <string name="status_invisible">Gizli</string>
+    <string name="status_picker_label">Durum</string>
     <string name="name">İsim</string>
     <string name="owner">Owner</string>
-    <string name="kick">Kick</string>
+    <string name="kick">Tekmele</string>
     <string name="ban">Ban</string>
     <string name="signal">Sinyal</string>
     <string name="home">Ev</string>
     <string name="settings">Ayarlar</string>
     <string name="team">Takım</string>
     <string name="game_menu">OYUN MENÜSÜ</string>
-    <string name="color_picker">COLOR PICKER</string>
-    <string name="color_wheel">Color Wheel</string>
-    <string name="brightness">Brightness</string>
-    <string name="no_one">No One</string>
+    <string name="color_picker">RENK SEÇ</string>
+    <string name="color_wheel">Renk Çarkı</string>
+    <string name="brightness">Parlaklık</string>
+    <string name="no_one">Hiç Kimse</string>
     <string name="multiplayer">Çok Oyunculu</string>
     <string name="loading">Yükleniyor…</string>
     <string name="room_type_local">Local: %s</string>
@@ -1131,9 +1131,9 @@
     <string name="uptime">Uptime: %s</string>
     <string name="players_count">Players</string>
     <string name="show_ui">Show UI</string>
-    <string name="open_menu">Open Menu</string>
-    <string name="stop_spectating">Stop Spectating</string>
-    <string name="spectate">Spectate</string>
+    <string name="open_menu">Menüyü Aç</string>
+    <string name="stop_spectating">İzlemeyi Bırak</string>
+    <string name="spectate">İzleyici</string>
     <string name="previous_entity">Previous Entity</string>
     <string name="next_entity">Next Entity</string>
     <string name="level_abbreviated">Lv.%d</string>
@@ -1223,20 +1223,20 @@
     <!-- Achievements -->
     <string name="achievements_ap">%1$s/%2$s (%3$s%%)</string>
     <string name="achievement_tier_bronze">Bronze</string>
-    <string name="achievement_tier_silver">Silver</string>
-    <string name="achievement_tier_gold">Gold</string>
-    <string name="achievement_tier_platinum">Platinum</string>
-    <string name="achievement_tier_diamond">Diamond</string>
+    <string name="achievement_tier_silver">Gümüş</string>
+    <string name="achievement_tier_gold">Altın</string>
+    <string name="achievement_tier_platinum">Platinyum</string>
+    <string name="achievement_tier_diamond">Elmas</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
     <string name="achievement_next">Next:</string>
-    <string name="achievement_secret_title">Secret Achievement</string>
+    <string name="achievement_secret_title">Gizli Başarım</string>
     <string name="achievement_secret_description">???</string>
     <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
-    <string name="ach_title_big">Big</string>
-    <string name="ach_title_huge">Huge</string>
-    <string name="ach_title_massive">Massive</string>
-    <string name="ach_title_gigantic">Gigantic</string>
-    <string name="ach_title_enormous">Enormous</string>
+    <string name="ach_title_big">Büyük</string>
+    <string name="ach_title_huge">Daha Büyük</string>
+    <string name="ach_title_massive">Cüsseli</string>
+    <string name="ach_title_gigantic">Devasa</string>
+    <string name="ach_title_enormous">Kocaman</string>
     <string name="ach_desc_highest_size">Reach a total size of %1$s.</string>
     <string name="ach_title_food_nibbler">Food Nibbler</string>
     <string name="ach_title_food_taster">Food Taster</string>
@@ -1259,9 +1259,9 @@
     <string name="ach_desc_time_played">Play for %1$s hours.</string>
     <string name="ach_title_acquainted">Acquainted</string>
     <string name="ach_title_well_known">Well-known</string>
-    <string name="ach_title_popular">Popular</string>
-    <string name="ach_title_famous">Famous</string>
-    <string name="ach_title_celebrity">Celebrity</string>
+    <string name="ach_title_popular">Popüler</string>
+    <string name="ach_title_famous">Tanınmış</string>
+    <string name="ach_title_celebrity">Ünlü</string>
     <string name="ach_desc_friends">Have %1$s Friends.</string>
     <string name="ach_title_wanderer">Wanderer</string>
     <string name="ach_title_explorer">Explorer</string>
