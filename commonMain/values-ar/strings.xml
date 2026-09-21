@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">لعب فردي</string>
     <string name="lan_multiplayer">الشبكة المحلية</string>
-    <string name="lan">الشبكة المحلية</string>
+    <string name="lan">test</string>
     <string name="online_multiplayer">اللعب اونلاين</string>
     <string name="options">الإعدادات</string>
     <string name="discord" translatable="false">Discord</string>
