@@ -412,8 +412,8 @@
     <string name="copy_id">ID Kopyala</string>
     <string name="share_id">ID Paylaş</string>
     <string name="share_id_message">Beni Merg\'de ekle! ID\'m: %1$s</string>
-    <string name="no_youtube_link">Bağlantı Yok</string>
-    <string name="no_tiktok_link">Bağlantı Yok</string>
+    <string name="no_youtube_link">Youtube Bağlantısı Yok</string>
+    <string name="no_tiktok_link">Tiktok Bağlantı Yok</string>
     <string name="created">Oluşturulma: %s</string>
     <string name="last_seen">Son görülme: %s</string>
     <string name="save_profile_description">Profil Açıklamasını Kaydet</string>
@@ -497,7 +497,7 @@
     <string name="developer_tag">Geliştirici</string>
     <string name="code_contribution_tag">Kod Katkısı</string>
     <string name="admin">ADMIN</string>
-    <string name="mod">MOD</string>
+    <string name="mod">MODERATÖR</string>
     <string name="verified">Doğrulanmış</string>
     <string name="youtube">YouTube</string>
     <string name="tiktok">TikTok</string>
@@ -650,7 +650,7 @@
     <string name="leaderboard_type_ap">AP</string>
     <string name="leaderboard_ap_description">AP, Başarım Puanı\'nın kısaltmasıdır. Bu özel puanları başarımları tamamlayarak elde et! Yüksek aşamalı başarımlar diğerlerinden daha fazla AP verir.</string>
     <string name="leaderboard_competitive_description">Dereceli 1v1 sıralaması. Yalnızca en az 12 rekabetçi maç tamamlamış olan oyuncular listelenir.</string>
-    <string name="leaderboard_rating">Reyting</string>
+    <string name="leaderboard_rating">Derecelendirme</string>
     <string name="leaderboard_period_daily">Günlük</string>
     <string name="leaderboard_period_weekly">Haftalık</string>
     <string name="leaderboard_period_monthly">Aylık</string>
@@ -820,7 +820,7 @@
 
     <!-- Chat !-->
     <string name="chat">Sohbet</string>
-    <string name="emotes">İfadeler</string>
+    <string name="emotes">Emojiler</string>
     <string name="room_commands">Mevcut komutların listesi için !help yazın.</string>
     <string name="chat_close">Sohbeti Kapat</string>
     <string name="chat_message_hint">Mesaj yaz…</string>
@@ -1062,7 +1062,7 @@
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">İnternet bağlantısı yok. Cihazınızın ağ ayarlarını kontrol edin.</string>
     <string name="server_not_running">Sunucu Çalışmıyor</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="name_change_reconnect_notice">İsim değişikliğinin geçerli olması için sunucuya yeniden bağlanmanız gerekecektir.</string>
     <string name="play">Oyna</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -1084,7 +1084,7 @@
     <string name="send">Gönder</string>
     <string name="sending">Gönderiliyor…</string>
     <string name="buy">Satın Al</string>
-    <string name="buying">Satın Alma…</string>
+    <string name="buying">Satın Alınıyor…</string>
     <string name="search">Ara</string>
     <string name="cancel">İptal</string>
     <string name="close">Kapat</string>
@@ -1128,7 +1128,7 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
-    <string name="uptime">Uptime: %s</string>
+    <string name="uptime">Çalışma Süresi: %s</string>
     <string name="players_count">Players</string>
     <string name="show_ui">Show UI</string>
     <string name="open_menu">Menüyü Aç</string>
@@ -1139,12 +1139,12 @@
     <string name="level_abbreviated">Lv.%d</string>
     <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
-    <string name="unknown">Unknown</string>
-    <string name="invalid_selection">Invalid selection!</string>
-    <string name="invalid_name">Invalid Name!</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="invalid_selection">Geçersiz Seçim!</string>
+    <string name="invalid_name">Geçersiz İsim!</string>
     <string name="content_blocked">String contains blocked content</string>
-    <string name="connecting">Connecting%s</string>
-    <string name="error">Error</string>
+    <string name="connecting">Bağlanıyor%s</string>
+    <string name="error">Hata</string>
     <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">Copied to clipboard.</string>
     <string name="invalid_request">Request malformed or missing required fields</string>
@@ -1159,8 +1159,8 @@
     <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
     <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">Kabul etmek</string>
+    <string name="decline">Reddetmek</string>
     <string name="banned">Banlandı</string>
     <string name="muted">Susturuldu</string>
     <string name="banned_until">Banned until %s</string>
@@ -1168,12 +1168,12 @@
     <string name="server_shutting_down">Server is shutting down</string>
     <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
     <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
-    <string name="forbidden">Forbidden</string>
+    <string name="forbidden">Yasaklı</string>
     <string name="internal_server_error">Internal Server Error</string>
     <string name="unknown_error_code">Unknown error Code %d</string>
     <string name="page_x_of_y">Page %s of %s</string>
     <string name="timeout">Timed out after %dms</string>
-    <string name="success">Success</string>
+    <string name="success">Başarılı</string>
     <string name="duplicate_action">Duplicate Action</string>
     <string name="invalid_action">Invalid Action</string>
     <string name="invalid_value">Invalid Value</string>
@@ -1190,9 +1190,9 @@
     <string name="clan_id">Klan ID:</string>
     <string name="editing_message">Mesaj Düzenleniyor</string>
     <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
-    <string name="support">Support</string>
+    <string name="support">Destek</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
-    <string name="copy">Copy</string>
+    <string name="copy">Kopyala</string>
     <string name="open_link">Open</string>
     <string name="whatsapp_note">Chat only, no calls or SMS</string>
     <string name="recommended">recommended</string>
@@ -1237,7 +1237,7 @@
     <string name="ach_title_massive">Cüsseli</string>
     <string name="ach_title_gigantic">Devasa</string>
     <string name="ach_title_enormous">Kocaman</string>
-    <string name="ach_desc_highest_size">Reach a total size of %1$s.</string>
+    <string name="ach_desc_highest_size">Toplam boyuta ulaşın %1$s.</string>
     <string name="ach_title_food_nibbler">Food Nibbler</string>
     <string name="ach_title_food_taster">Food Taster</string>
     <string name="ach_title_food_eater">Food Eater</string>
