@@ -729,7 +729,7 @@
     <string name="gamemode_soccer">Futbol</string>
     <string name="gamemode_coming_soon">Çok Yakında</string>
     <string name="gamemode_competitive">Rekabetçi</string>
-    <string name="gamemode_multimerg">Çoklu blob</string>
+   <string name="gamemode_multimerge">Çoklu Birleşme</string>
     <string name="gamemode_domination">Hakimiyet</string>
     <string name="description_domination">Zamana karşı klasik oyun deneyimi; boyut sadece birinci sıradayken işe yarar! Haritadaki en büyük hücre olarak geçirdiğin her saniye puanına bir saniye ekler ve yenilmek daha önce biriktirdiğin süreyi asla eksiltmez. Süre bittiğinde birinci sırayı en uzun süre elinde tutan kazanır!</string>
     <string name="description_classic">Daha küçük oyuncuları yut ve evrendeki en büyük hücre ol! Haritaya hükmetmek için boyutunu kullan ama seni yemek isteyen daha büyük oyunculara dikkat et!</string>
