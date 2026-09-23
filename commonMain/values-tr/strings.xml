@@ -748,7 +748,7 @@
     <string name="mapsize_small">Küçük</string>
     <string name="mapsize_medium">Orta</string>
     <string name="mapsize_large">Büyük</string>
-    <string name="mapsize_xl">En Büyük</string>
+    <string name="mapsize_xl">Devasa</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Kolay</string>
