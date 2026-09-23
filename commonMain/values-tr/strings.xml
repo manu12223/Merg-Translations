@@ -650,7 +650,7 @@
     <string name="leaderboard_type_ap">AP</string>
     <string name="leaderboard_ap_description">AP, Başarım Puanı\'nın kısaltmasıdır. Bu özel puanları başarımları tamamlayarak elde et! Yüksek aşamalı başarımlar diğerlerinden daha fazla AP verir.</string>
     <string name="leaderboard_competitive_description">Dereceli 1v1 sıralaması. Yalnızca en az 12 rekabetçi maç tamamlamış olan oyuncular listelenir.</string>
-    <string name="leaderboard_rating">Derecelendirme</string>
+    <string name="leaderboard_rating">Derece</string>
     <string name="leaderboard_period_daily">Günlük</string>
     <string name="leaderboard_period_weekly">Haftalık</string>
     <string name="leaderboard_period_monthly">Aylık</string>
