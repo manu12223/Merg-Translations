@@ -1234,7 +1234,7 @@
     <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
     <string name="ach_title_big">Büyük</string>
     <string name="ach_title_huge">Daha Büyük</string>
-    <string name="ach_title_massive">Cüsseli</string>
+    <string name="ach_title_massive">Heybetli</string>
     <string name="ach_title_gigantic">Devasa</string>
     <string name="ach_title_enormous">Kocaman</string>
     <string name="ach_desc_highest_size">Toplam boyuta ulaşın %1$s.</string>
