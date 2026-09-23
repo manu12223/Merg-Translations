@@ -1261,7 +1261,7 @@
     <string name="ach_title_well_known">Well-known</string>
     <string name="ach_title_popular">Popüler</string>
    <string name="ach_title_famous">Ünlü</string>
-    <string name="ach_title_celebrity">Ünlü</string>
+    <string name="ach_title_celebrity">Şöhret</string>
     <string name="ach_desc_friends">Have %1$s Friends.</string>
     <string name="ach_title_wanderer">Wanderer</string>
     <string name="ach_title_explorer">Explorer</string>
