@@ -725,7 +725,7 @@
     <string name="gamemode_survival">Hayatta Kalma</string>
     <string name="gamemode_team_survival">Takımlı Hayatta Kalma</string>
     <string name="gamemode_knockout">Eleme</string>
-    <string name="gamemode_adventure">Kampanya</string>
+    <string name="gamemode_adventure">Macera</string>
     <string name="gamemode_soccer">Futbol</string>
     <string name="gamemode_coming_soon">Çok Yakında</string>
     <string name="gamemode_competitive">Rekabetçi</string>
