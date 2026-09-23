@@ -1133,7 +1133,7 @@
     <string name="show_ui">Show UI</string>
     <string name="open_menu">Menüyü Aç</string>
     <string name="stop_spectating">İzlemeyi Bırak</string>
-    <string name="spectate">İzleyici</string>
+    <string name="spectate">İzle</string>
     <string name="previous_entity">Previous Entity</string>
     <string name="next_entity">Next Entity</string>
     <string name="level_abbreviated">Lv.%d</string>
