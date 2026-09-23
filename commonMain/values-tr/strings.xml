@@ -1095,7 +1095,7 @@
     <string name="empty">Boş</string>
     <string name="online">Çevrimici</string>
     <string name="offline">Çevrimdışı</string>
-    <string name="status_dnd">Rahatsız etmeyin...</string>
+    <string name="status_dnd">Rahatsız Etmeyin</string>
     <string name="status_invisible">Gizli</string>
     <string name="status_picker_label">Durum</string>
     <string name="name">İsim</string>
