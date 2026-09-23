@@ -821,7 +821,7 @@
     <!-- Chat !-->
     <string name="chat">Sohbet</string>
     <string name="emotes">Emojiler</string>
-    <string name="room_commands">Mevcut komutların listesi için !help yazın.</string>
+    <string name="room_commands">Kullanılabilir komutların listesi için !help yazın.</string>
     <string name="chat_close">Sohbeti Kapat</string>
     <string name="chat_message_hint">Mesaj yaz…</string>
     <string name="chat_send_message">Mesaj Gönder</string>
