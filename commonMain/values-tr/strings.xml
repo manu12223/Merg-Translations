@@ -1062,7 +1062,7 @@
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">İnternet bağlantısı yok. Cihazınızın ağ ayarlarını kontrol edin.</string>
     <string name="server_not_running">Sunucu Çalışmıyor</string>
-    <string name="name_change_reconnect_notice">İsim değişikliğinin geçerli olması için sunucuya yeniden bağlanmanız gerekecektir.</string>
+    <string name="name_change_reconnect_notice">İsim değişikliğinin geçerli olması için sunucuya yeniden bağlanmalısınız.</string>
     <string name="play">Oyna</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
