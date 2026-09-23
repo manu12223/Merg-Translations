@@ -1225,7 +1225,7 @@
     <string name="achievement_tier_bronze">Bronze</string>
     <string name="achievement_tier_silver">Gümüş</string>
     <string name="achievement_tier_gold">Altın</string>
-    <string name="achievement_tier_platinum">Platinyum</string>
+    <string name="achievement_tier_platinum">Platin</string>
     <string name="achievement_tier_diamond">Elmas</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
     <string name="achievement_next">Next:</string>
