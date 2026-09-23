@@ -1237,7 +1237,7 @@
     <string name="ach_title_massive">Heybetli</string>
     <string name="ach_title_gigantic">Devasa</string>
     <string name="ach_title_enormous">Kocaman</string>
-    <string name="ach_desc_highest_size">Toplam boyuta ulaşın %1$s.</string>
+    <string name="ach_desc_highest_size">Toplam %1$s boyuta ulaş.</string>
     <string name="ach_title_food_nibbler">Food Nibbler</string>
     <string name="ach_title_food_taster">Food Taster</string>
     <string name="ach_title_food_eater">Food Eater</string>
