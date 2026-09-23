@@ -1100,7 +1100,7 @@
     <string name="status_picker_label">Durum</string>
     <string name="name">İsim</string>
     <string name="owner">Owner</string>
-    <string name="kick">Tekmele</string>
+    <string name="kick">At</string>
     <string name="ban">Ban</string>
     <string name="signal">Sinyal</string>
     <string name="home">Ev</string>
