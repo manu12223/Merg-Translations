@@ -132,10 +132,10 @@
     <!-- Multiplayer -->
     <string name="play_online">ÇEVRİM İÇİ OYNA</string>
     <string name="switch_server">Sunucu Değiştir</string>
-    <string name="x_players">%s oyuncu</string>
+    <string name="x_players">%s oyuncular</string>
     <string name="x_player">%s oyuncu</string>
     <string name="x_online">%s çevrim içi</string>
-    <string name="x_requests">%s istek</string>
+    <string name="x_requests">%s İstek(ler)</string>
     <string name="private_room">Özel Oda</string>
     <string name="private_rooms">Özel Odalar</string>
     <string name="connected">Bağlandı</string>
@@ -187,7 +187,7 @@
     <string name="wins_draws_losses_winrate">Galibiyetler: %1$s - Beraberlikler: %2$s - Yenilgiler: %3$s - Kazanma Oranı: %4$s%%</string>
     <string name="stat_wins_label">Galibiyetler: </string>
     <string name="stat_draws_label"> · Beraberlikler: </string>
-    <string name="stat_losses_label"> · Yenilgiler: </string>
+    <string name="stat_losses_label"> · Kaybetmeler: </string>
     <string name="stat_winrate_label"> · Kazanma Oranı: </string>
     <string name="match_starts_in">Maçın başlamasına…</string>
     <string name="vs_label">VS</string>
@@ -226,8 +226,8 @@
     <string name="booster_ad_xp_desc">Geçici bir XP artışı için video izle!</string>
     <string name="booster_stacks_base_xp">Temel XP ile Birikir</string>
     <string name="booster_watch_ad">Reklam İzle</string>
-    <string name="booster_choose_boost">XP katlayıcını seç</string>
-    <string name="booster_active">aktif</string>
+    <string name="booster_choose_boost">XP Katlayıcını Seç</string>
+    <string name="booster_active">Aktif</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Yükselt</string>
     <string name="booster_base_xp">Temel XP Çarpanı</string>
@@ -338,7 +338,7 @@
 
      <string name="season_pass_history_title">SEZONLUK BİLET GEÇMİŞİ</string>
      <string name="season_pass_history_cd">Geçmiş</string>
-     <string name="season_pass_history_empty">Henüz talep edilen ödül yok</string>
+     <string name="season_pass_history_empty">Henüz Ödüller Alınamadı</string>
      <string name="season_pass_history_stage_free">Aşama %1$d (Ücretsiz)</string>
      <string name="season_pass_history_stage_paid">Aşama %1$d (Ücretli)</string>
      <string name="season_pass_history_task_daily">Günlük Görev: %1$s</string>
@@ -432,8 +432,8 @@
     <string name="change_profile_name">Profil İsmini Değiştir</string>
     <string name="enter_profile_name">Profil İsmi Gir</string>
     <string name="profile_color">PROFİL RENGİ</string>
-    <string name="profile_text_color_white">Beyaz metin</string>
-    <string name="profile_text_color_black">Siyah metin</string>
+    <string name="profile_text_color_white">Beyaz Metin</string>
+    <string name="profile_text_color_black">Siyah Metin</string>
     <string name="profile_gradient_color">Renk geçişi</string>
     <string name="profile_3_gradient_color">Renk geçişi 2</string>
     <string name="profile_animated_gradient">Hareketli Renk Geçişi</string>
@@ -537,7 +537,7 @@
     <string name="clan_request_clans">Yalnızca İstekle Katılınan Klanlar</string>
     <string name="clan_my_invites">Davetlerim</string>
     <string name="clan_invite_declined">Davet reddedildi.</string>
-    <string name="clan_joined">Klana katıldın!</string>
+    <string name="clan_joined">Klana Katıldı!</string>
     <string name="clan_private">Bu klan özel veya artık aktif değil.</string>
     <string name="clan_members">Üyeler</string>
     <string name="clan_members_count">%1$d / %2$d üye</string>
@@ -748,7 +748,7 @@
     <string name="mapsize_small">Küçük</string>
     <string name="mapsize_medium">Orta</string>
     <string name="mapsize_large">Büyük</string>
-    <string name="mapsize_xl">XL</string>
+    <string name="mapsize_xl">Devasa</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Kolay</string>
