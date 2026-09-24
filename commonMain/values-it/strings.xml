@@ -119,6 +119,8 @@
     <string name="increase_bots">Aumenta il Numero di Bot</string>
     <string name="max_split_pieces">Limite Pezzi Divisi</string>
     <string name="quick_merge">Unione Rapida</string>
+    <string name="force_split_on_blob_size">Force split on blob size</string>
+    <string name="merge_button">Merge Button</string>
     <string name="no_holes">Nessun Buco</string>
     <string name="circle_map">Mappa Circolare</string>
     <string name="relax">Relax</string>
@@ -675,6 +677,7 @@
     <string name="stat_bronze_value">Bronzo (Valore):</string>
     <string name="stat_bronze_count">Bronzo (Numero):</string>
     <string name="stat_bonus">Bonus:</string>
+    <string name="season_currency">Season Currency</string>
     <string name="stat_food_eaten">Cibo Mangiato:</string>
     <string name="stat_players_eaten">Giocatori Mangiati:</string>
     <string name="stat_bots_eaten">Bot Mangiati:</string>
@@ -818,7 +821,7 @@
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="emotes">Emotes</string>
-    <string name="room_commands" tools:ignore="TypographyDashes">Comandi:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: attiva; 0: permanente; 1-3600 secondi]\n!hidden\n!minplayers [quantità]\n!reset\n!close</string>
+    <string name="room_commands">Type !help for a list of available commands</string>
     <string name="chat_close">Chiudi Chat</string>
     <string name="chat_message_hint">Scrivi messaggio…</string>
     <string name="chat_send_message">Invia Messaggio</string>
@@ -1092,6 +1095,9 @@
     <string name="empty">Vuoto</string>
     <string name="online">Online</string>
     <string name="offline">Offline</string>
+    <string name="status_dnd">Do Not Disturb</string>
+    <string name="status_invisible">Invisible</string>
+    <string name="status_picker_label">Status</string>
     <string name="name">Nome</string>
     <string name="owner">Proprietario</string>
     <string name="kick">Espelli</string>
@@ -1195,6 +1201,7 @@
     <string name="support_discord_channel">ticket support</string>
     <string name="additional_settings">ADDITIONAL SETTINGS</string>
     <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
+    <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
     <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
     <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
     <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
@@ -1325,4 +1332,8 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_experimental">Experimental</string>
+    <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>
