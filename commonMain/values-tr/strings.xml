@@ -119,8 +119,8 @@
     <string name="increase_bots">Botları Artır</string>
     <string name="max_split_pieces">Maksimum Parça Sayısı</string>
     <string name="quick_merge">Hızlı Birleşme</string>
-    <string name="force_split_on_blob_size">Force split on blob size</string>
-    <string name="merge_button">Merge Button</string>
+    <string name="force_split_on_blob_size">Hücre boyutuna göre zorunlu bölünme</string>
+    <string name="merge_button">Birleşme Butonu</string>
     <string name="no_holes">Diken Yok</string>
     <string name="circle_map">Dairesel Harita</string>
     <string name="relax">Rahat</string>
@@ -677,7 +677,7 @@
     <string name="stat_bronze_value">Bronz (Değer):</string>
     <string name="stat_bronze_count">Bronz (Sayı):</string>
     <string name="stat_bonus">Bonus:</string>
-    <string name="season_currency">Season Currency</string>
+    <string name="season_currency">Sezon Parası</string>
     <string name="stat_food_eaten">Yutulan Yem:</string>
     <string name="stat_players_eaten">Yutulan Oyuncular:</string>
     <string name="stat_bots_eaten">Yenilen Botlar:</string>
@@ -821,7 +821,7 @@
     <!-- Chat !-->
     <string name="chat">Sohbet</string>
     <string name="emotes">İfadeler</string>
-    <string name="room_commands">Type !help for a list of available commands</string>
+    <string name="room_commands">Kullanılabilir komutların listesi için !help yazın</string>
     <string name="chat_close">Sohbeti Kapat</string>
     <string name="chat_message_hint">Mesaj yaz…</string>
     <string name="chat_send_message">Mesaj Gönder</string>
@@ -992,43 +992,43 @@
     <string name="custom_image_slot">Görsel %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
-    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
-    <string name="report_avatar">Report Avatar</string>
-    <string name="report_avatar_message">Report the avatar of %1$s?</string>
-    <string name="report_avatar_success">Avatar reported</string>
-    <string name="report_avatar_failed">Failed to report avatar</string>
-    <string name="report_banner">Report Banner</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
-    <string name="report_banner_success">Banner reported</string>
-    <string name="report_banner_failed">Failed to report banner</string>
+    <string name="custom_image_skin_load_failed">Özel görünümün yüklenemedi: %1$s</string>
+    <string name="custom_image_no_approved_image">%1$d. yuvada onaylanmış görsel yok</string>
+    <string name="report_avatar">Avatarı Şikayet Et</string>
+    <string name="report_avatar_message">%1$s adlı oyuncunun avatarı şikayet edilsin mi?</string>
+    <string name="report_avatar_success">Avatar şikayet edildi</string>
+    <string name="report_avatar_failed">Avatar şikayet edilemedi</string>
+    <string name="report_banner">Afişi Şikayet Et</string>
+    <string name="report_banner_message">%1$s adlı oyuncunun afişi şikayet edilsin mi?</string>
+    <string name="report_banner_success">Afiş şikayet edildi</string>
+    <string name="report_banner_failed">Afiş şikayet edilemedi</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
-    <string name="custom_banner_confirm_title">Upload Banner</string>
-    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
-    <string name="custom_banner_upload_success">Banner sent for review</string>
-    <string name="custom_banner_selected">Banner selected</string>
-    <string name="custom_banner_deselected">Banner deselected</string>
-    <string name="custom_banner_upload_failed">Failed to upload banner</string>
-    <string name="custom_banner_read_error">Failed to read banner</string>
-    <string name="custom_banner_invalid_format">File must be an image</string>
-    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
-    <string name="custom_banner_compress_accept">Use Compressed</string>
-    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
-    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
-    <string name="custom_banner_crop_apply">Crop &amp; use</string>
-    <string name="custom_banner_processing">Processing…</string>
-    <string name="custom_banner_bought">Custom Banner Upload</string>
-    <string name="custom_banner_refund">Custom Banner Refund</string>
-    <string name="custom_banner_slot">Banner %1$d</string>
-    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
+    <string name="custom_banner_rules">Kesinlikle Yasaklanan İçerikler:\n\n- NSFW / Cinsel içerik\n- Aşırı şiddet / Vahşet\n- Silahlar\n- Nefret sembolleri\n- Nefret söylemi / Ayrımcılık\n- Uyuşturucu maddeler\n- Şok edici / İğrenç içerikler\n- Telif hakkıyla korunan karakterler/logolar\n- Alkol/tütün referansları\n- Korkutucu/ürpertici görseller</string>
+    <string name="custom_banner_upload">Yükle</string>
+    <string name="custom_banner_replace">Değiştir</string>
+    <string name="custom_banner_deselect">Seçimi Kaldır</string>
+    <string name="custom_banner_confirm_title">Afiş Yükle</string>
+    <string name="custom_banner_confirm_body">Bu afiş %1$s voidstone karşılığında yüklensin mi?</string>
+    <string name="custom_banner_upload_success">Afiş incelemeye gönderildi</string>
+    <string name="custom_banner_selected">Afiş seçildi</string>
+    <string name="custom_banner_deselected">Afiş seçimi kaldırıldı</string>
+    <string name="custom_banner_upload_failed">Afiş yüklenemedi</string>
+    <string name="custom_banner_read_error">Afiş okunamadı</string>
+    <string name="custom_banner_invalid_format">Dosya bir görsel olmalıdır</string>
+    <string name="custom_banner_error_size">%1$d KB boyutundaki afiş çok büyük (maksimum %2$d KB)</string>
+    <string name="custom_banner_error_dimensions">%1$dx%2$d boyutundaki afiş çok büyük (maksimum %3$dx%4$d piksel)</string>
+    <string name="custom_banner_error_both">%1$d KB / %3$dx%4$d boyutundaki afiş çok büyük (maksimum %2$d KB / %5$dx%6$d piksel)</string>
+    <string name="custom_banner_compress_title">Afiş Çok Büyük - Sıkıştırılsın mı?</string>
+    <string name="custom_banner_compress_accept">Sıkıştırılmışı Kullan</string>
+    <string name="custom_banner_compress_failed">Afiş boyut sınırına uyacak şekilde sıkıştırılamadı</string>
+    <string name="custom_banner_crop_title">16:9 afiş olarak kırp</string>
+    <string name="custom_banner_crop_apply">Kırp &amp; kullan</string>
+    <string name="custom_banner_processing">İşleniyor…</string>
+    <string name="custom_banner_bought">Özel Afiş Yükleme</string>
+    <string name="custom_banner_refund">Özel Afiş İadesi</string>
+    <string name="custom_banner_slot">Afiş %1$d</string>
+    <string name="custom_banner_no_approved_image">%1$d. yuvada onaylanmış afiş yok</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Account Recovery</string>
