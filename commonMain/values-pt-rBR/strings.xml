@@ -1200,7 +1200,7 @@
     <string name="support_intro">Todos os meios possíveis de contato serão exibidos abaixo.</string>
     <string name="copy">Copiar</string>
     <string name="open_link">Abrir</string>
-    <string name="whatsapp_note">Apenas por chat, não faça chamadas ou envie SMS</string>
+    <string name="whatsapp_note">apenas por mensagens, não faça chamadas ou envie SMS</string>
     <string name="recommended">recomendado</string>
     <string name="support_response_time">Atendimento em até</string>
     <string name="support_mail">E-mail</string>
