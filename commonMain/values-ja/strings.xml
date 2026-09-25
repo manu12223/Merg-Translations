@@ -1342,9 +1342,9 @@
     <string name="ach_desc_rewarded_ads">リワード広告を%1$s件視聴する。</string>
     <string name="net_switched_to_websocket">!! UDPはブロックされ、WebSocketに切り替えました。LATが大きくなる可能性があります。UDP ポート 9807 がブロックされていないことを確認するには、ネットワークのファイアウォールルールをチェックしてください。ウェブ版でプレイしている場合は、このメッセージを無視して構いません。</string>
     <string name="net_switched_back_to_udp">UDPに戻りました。</string>
-    <string name="options_main">Main</string>
-    <string name="options_graphics">Graphics</string>
-    <string name="options_gameplay">Gameplay</string>
+    <string name="options_main">メイン</string>
+    <string name="options_graphics">グラフィック</string>
+    <string name="options_gameplay">パフォーマンス</string>
     <string name="options_experimental">実験的</string>
     <string name="options_force_websocket">WebSocket経由で強制プレイ</string>
 </resources>
