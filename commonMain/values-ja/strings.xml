@@ -61,8 +61,8 @@
     <string name="control_joystick">スティック</string>
     <string name="control_relative">相対</string>
     <string name="control_touch">タッチ</string>
-    <string name="control_drag">Drag</string>
-    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
+    <string name="control_drag">ドラッグ</string>
+    <string name="ignore_multitouch_movement">移動時のマルチタッチを無視</string>
     <string name="control_mouse">マウス</string>
     <string name="control_keyboard">キーボード</string>
     <string name="button_layout">ボタンのレイアウト</string>
@@ -79,7 +79,7 @@
     <string name="custom_background_opacity">背景の不透明度</string>
     <string name="show_performance_metrics">パフォーマンス統計を表示</string>
     <string name="skin_outlines">スキンボーダー</string>
-    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
+    <string name="multimerg_blob2_opposite_color">マルチマーグで第2ブロブのカラーを反転</string>
     <string name="delayed_auto_fire">オートスプリットとオートイジェクトのディレイ</string>
     <string name="direction_arrow">方向矢印を表示</string>
     <string name="border_above_entities">太いボーダーのマップ</string>
@@ -1067,7 +1067,7 @@
     <string name="server_not_running">サーバーが稼働していません</string>
     <string name="name_change_reconnect_notice">ゲーム内新しい名前が他のプレイヤーに表示されるためには、サーバーに再接続する必要があります。</string>
     <string name="play">プレイ</string>
-    <string name="play_one_blob">Play (1 blob)</string>
+    <string name="play_one_blob">プレイ（1つブロブ）</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1123,8 +1123,8 @@
     <string name="room_public">パブリック</string>
     <string name="room_private">プライベート</string>
     <string name="room_hidden">非表示</string>
-    <string name="hidden_rooms_one">1 hidden room</string>
-    <string name="hidden_rooms">%1$d hidden rooms</string>
+    <string name="hidden_rooms_one">非表示ルーム 1件</string>
+    <string name="hidden_rooms">非表示ルーム %1$d件</string>
     <string name="map">マップ</string>
     <string name="size">サイズ</string>
     <string name="shots">イジェクト回数</string>
@@ -1220,8 +1220,8 @@
     <string name="reconnect_attempt_failed">再接続の試行 #%1$d：接続できませんでした（%2$s）</string>
     <string name="save_preferences">設定の保存</string>
     <string name="load_preferences">設定の読み込み</string>
-    <string name="reset_to_defaults">Reset to defaults</string>
-    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
+    <string name="reset_to_defaults">デフォルト設定にリセット</string>
+    <string name="reset_to_defaults_confirm">設定をデフォルトにリセットしてもよろしいですか？アプリが再起動します。</string>
     <string name="preferences_saved">設定を%1$sへ保存しました</string>
     <string name="preferences_loaded">設定を読み込みました！</string>
     <string name="preferences_transfer_failed">設定が読み込めませんでした：%1$s</string>
