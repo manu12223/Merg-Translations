@@ -61,6 +61,8 @@
     <string name="control_joystick">Джойстик</string>
     <string name="control_relative">Относительное</string>
     <string name="control_touch">Касание</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Расположение кнопок</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Прозрачность фона</string>
     <string name="show_performance_metrics">Показывать показатели производительности</string>
     <string name="skin_outlines">Контуры скинов</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">Стрелка направления</string>
     <string name="border_above_entities">Граница над объектами</string>
@@ -353,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Повышен до: %1$s.</string>
     <string name="clan_demoted">Понижен до: %1$s.</string>
     <string name="clan_kick_confirm_title">Исключить игрока</string>
-    <string name="clan_kick_confirm_message">Исключить \"%1$s\" (ID: %2$d) из клана? Они смогут снова подать заявку.</string>
+    <string name="clan_kick_confirm_message">Исключить "%1$s" (ID: %2$d) из клана? Они смогут снова подать заявку.</string>
     <string name="clan_ban_confirm_title">Забанить игрока</string>
-    <string name="clan_ban_confirm_message">Забанить \"%1$s\" (ID: %2$d) в клане? Они никогда не смогут вернуться.</string>
+    <string name="clan_ban_confirm_message">Забанить "%1$s" (ID: %2$d) в клане? Они никогда не смогут вернуться.</string>
     <string name="clan_unban_confirm_title">Разбанить игрока</string>
-    <string name="clan_unban_confirm_message">Разбанить \"%1$s\" (ID: %2$d)? Они смогут снова вступить.</string>
+    <string name="clan_unban_confirm_message">Разбанить "%1$s" (ID: %2$d)? Они смогут снова вступить.</string>
     <string name="clan_unkick_confirm_title">Снять ограничение исключения</string>
-    <string name="clan_unkick_confirm_message">Убрать запрет на вход для \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">Убрать запрет на вход для "%1$s" (ID: %2$d)?</string>
     <string name="clan_invited">Приглашен</string>
     <string name="clan_revoke_invite_confirm_title">Отозвать приглашение</string>
-    <string name="clan_revoke_invite_confirm_message">Отозвать приглашение для \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Отозвать приглашение для "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Приглашение отправлено!</string>
     <string name="clan_player_not_found">Игрок не найден.</string>
     <string name="clan_player_banned">Этот игрок забанен в вашем клане.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">ID истории: %d</string>
     <string name="clan_public_profile">Публичный профиль клана</string>
     <string name="clan_kicked_banned_players">Исключенные и забаненные игроки</string>
-    <string name="clan_unkick_confirm">Вы уверены, что хотите снять исключение с \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Вы уверены, что хотите разбанить \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Вы уверены, что хотите снять исключение с "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Вы уверены, что хотите разбанить "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Поиск по ID или имени</string>
     <string name="clan_promote_to_owner">Повысить до владельца</string>
     <string name="clan_transfer_ownership_title">Передача права владения</string>
-    <string name="clan_transfer_ownership_message">Вы собираетесь повысить \"%1$s\" (ID: %2$d) до Владельца. Вы будете понижены до Совладельца. Это действие невозможно отменить.\n\nВведите ID игрока для подтверждения:</string>
+    <string name="clan_transfer_ownership_message">Вы собираетесь повысить "%1$s" (ID: %2$d) до Владельца. Вы будете понижены до Совладельца. Это действие невозможно отменить.\n\nВведите ID игрока для подтверждения:</string>
     <string name="clan_transfer_ownership_id_mismatch">Неверный ID</string>
     <string name="clan_customize_name_color">Цвет названия клана</string>
     <string name="clan_customize_tag_color">Цвет тега клана</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Заблокированные игроки</string>
     <string name="no_blocked_players">Нет заблокированных игроков</string>
-    <string name="unblock_confirm_message">Разблокировать \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">Разблокировать "%1$s" (ID: %2$d)?</string>
     <string name="block_player">Заблокировать игрока</string>
     <string name="unblock_player">Разблокировать игрока</string>
     <string name="block_confirm_title">Заблокировать игрока?</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Сервер не запущен</string>
     <string name="name_change_reconnect_notice">Чтобы изменение имени вступило в силу, вы будете переподключены к серверу.</string>
     <string name="play">Играть</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Публичная</string>
     <string name="room_private">Приватная</string>
     <string name="room_hidden">Скрытая</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Карта</string>
     <string name="size">Размер</string>
     <string name="shots">Выстрелы</string>
@@ -1189,7 +1195,7 @@
     <string name="after">После</string>
     <string name="clan_id">ID клана:</string>
     <string name="editing_message">Редактирование сообщения</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to "Performance" or 100%\n2. Remove the app from Game Launcher's library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Support</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Copy</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

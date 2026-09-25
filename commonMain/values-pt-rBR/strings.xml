@@ -61,6 +61,8 @@
     <string name="control_joystick">Controlador</string>
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Toque</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Teclado</string>
     <string name="button_layout">Layout dos botões</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Opacidade do fundo</string>
     <string name="show_performance_metrics">Exibir estatísticas de desempenho</string>
     <string name="skin_outlines">Bordas nas skins</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Atraso no auto-split/auto-eject</string>
     <string name="direction_arrow">Seta de direção</string>
     <string name="border_above_entities">Borda acima das entidades</string>
@@ -271,12 +274,12 @@
     <string name="booster_autoshoot_bought">Aprimorou Auto-eject</string>
     <string name="booster_spawn_size_bought">Aprimorou Incremento de Tamanho</string>
     <string name="booster_level_short">Nv. %1$d</string>
-    <string name="profile_name_change_bought">Item \"Alteração de nome\" adquirido</string>
-    <string name="profile_name_color_bought">Item \"Alteração de cores do nome\" adquirido</string>
-    <string name="profile_color_bought">Item \"Alteração de cores do perfil\" adquirido</string>
-    <string name="profile_color_gradient_bought">Item \"Gradiente para perfil\" adquirido</string>
-    <string name="profile_color_gradient_2_bought">Item \"Gradiente 2 para perfil\" adquirido</string>
-    <string name="profile_name_font_bought">Item \"Fonte para o nome\" adquirido</string>
+    <string name="profile_name_change_bought">Item "Alteração de nome" adquirido</string>
+    <string name="profile_name_color_bought">Item "Alteração de cores do nome" adquirido</string>
+    <string name="profile_color_bought">Item "Alteração de cores do perfil" adquirido</string>
+    <string name="profile_color_gradient_bought">Item "Gradiente para perfil" adquirido</string>
+    <string name="profile_color_gradient_2_bought">Item "Gradiente 2 para perfil" adquirido</string>
+    <string name="profile_name_font_bought">Item "Fonte para o nome" adquirido</string>
     <string name="admin_deduction">Decisão Administrativa</string>
     <string name="giveaway">Prêmio do Sorteio</string>
     <string name="admin_reward_sent">Recompensa para Administrador Enviada</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Promovido(a) a %1$s.</string>
     <string name="clan_demoted">Rebaixado(a) a %1$s.</string>
     <string name="clan_kick_confirm_title">Expulsar Membro</string>
-    <string name="clan_kick_confirm_message">Expulsar \"%1$s\" (ID: %2$d) do clã? Ele(a) poderá entrar novamente por meio de convite.</string>
+    <string name="clan_kick_confirm_message">Expulsar "%1$s" (ID: %2$d) do clã? Ele(a) poderá entrar novamente por meio de convite.</string>
     <string name="clan_ban_confirm_title">Banir Membro</string>
-    <string name="clan_ban_confirm_message">Banir \"%1$s\" (ID: %2$d) do clã? Ele(a) não poderá mais entrar novamente.</string>
+    <string name="clan_ban_confirm_message">Banir "%1$s" (ID: %2$d) do clã? Ele(a) não poderá mais entrar novamente.</string>
     <string name="clan_unban_confirm_title">Desbanir Membro</string>
-    <string name="clan_unban_confirm_message">Desbanir \"%1$s\" (ID: %2$d)? Ele(a) poderá entrar novamente.</string>
+    <string name="clan_unban_confirm_message">Desbanir "%1$s" (ID: %2$d)? Ele(a) poderá entrar novamente.</string>
     <string name="clan_unkick_confirm_title">Desfazer Expulsão</string>
-    <string name="clan_unkick_confirm_message">Cancelar o requisito de solicitação de \"%1$s\" (ID: %2$d) para entrar no clã?</string>
+    <string name="clan_unkick_confirm_message">Cancelar o requisito de solicitação de "%1$s" (ID: %2$d) para entrar no clã?</string>
     <string name="clan_invited">Convidado(a)</string>
     <string name="clan_revoke_invite_confirm_title">Revogar Convite</string>
-    <string name="clan_revoke_invite_confirm_message">Revogar convite para \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Revogar convite para "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Convite enviado!</string>
     <string name="clan_player_not_found">Usuário não encontrado.</string>
     <string name="clan_player_banned">Este(a) jogador(a) está banido(a) do clã.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">ID do Histórico: %d</string>
     <string name="clan_public_profile">Perfil Público do Clã</string>
     <string name="clan_kicked_banned_players">Jogadores Expulsos/Banidos</string>
-    <string name="clan_unkick_confirm">Tem certeza de que deseja desfazer a expulsão para \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Tem certeza de que deseja desbanir \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Tem certeza de que deseja desfazer a expulsão para "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Tem certeza de que deseja desbanir "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Procurar por ID ou nome</string>
     <string name="clan_promote_to_owner">Promover a Dono(a)</string>
     <string name="clan_transfer_ownership_title">Transferir Liderança</string>
-    <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança para \"%1$s\" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
+    <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança para "%1$s" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
     <string name="clan_transfer_ownership_id_mismatch">O ID não corresponde.</string>
     <string name="clan_customize_name_color">Cor do Nome do Clã</string>
     <string name="clan_customize_tag_color">Cor da Tag do Clã</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Jogadores Bloqueados</string>
     <string name="no_blocked_players">Os jogadores bloqueados aparecerão aqui</string>
-    <string name="unblock_confirm_message">Desbloquear \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">Desbloquear "%1$s" (ID: %2$d)?</string>
     <string name="block_player">Bloquear Jogador(a)</string>
     <string name="unblock_player">Desbloquear Jogador(a)</string>
     <string name="block_confirm_title">Bloquear Jogador(a)?</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">O servidor não está em execução</string>
     <string name="name_change_reconnect_notice">Para que o seu novo nome seja exibido aos jogadores no jogo, será necessário reconectar-se ao servidor.</string>
     <string name="play">Jogar</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Pública</string>
     <string name="room_private">Privada</string>
     <string name="room_hidden">Escondida</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Mapa</string>
     <string name="size">Tamanho</string>
     <string name="shots">Ejeções</string>
@@ -1189,7 +1195,7 @@
     <string name="after">Agora</string>
     <string name="clan_id">ID do Clã:</string>
     <string name="editing_message">Editando mensagem</string>
-    <string name="samsung_compat_warning_body">Foram detectadas configurações inválidas de exibição. Isso poderá causar problemas com os controles do jogo e o multi-toque. Este problema é conhecido em dispositivos com One UI (Samsung). Para tentar solucionar este problema, reproduza estes passos com cautela:\n\n1. Abra o Game Booster Plus → Desempenho do Jogo → defina para \"Desempenho\" ou 100%\n2. Remova o app da biblioteca da Game Launcher\n3. Diminua a resolução da tela se o seu dispositivo suportar este recurso (1440p → 1080p)\n4. Reinicie o dispositivo\n\nSe o problema persistir ou se você não estiver usando um dispositivo com One UI (Samsung), relate o bug para o nosso Servidor do Discord ou e-mail de contato.</string>
+    <string name="samsung_compat_warning_body">Foram detectadas configurações inválidas de exibição. Isso poderá causar problemas com os controles do jogo e o multi-toque. Este problema é conhecido em dispositivos com One UI (Samsung). Para tentar solucionar este problema, reproduza estes passos com cautela:\n\n1. Abra o Game Booster Plus → Desempenho do Jogo → defina para "Desempenho" ou 100%\n2. Remova o app da biblioteca da Game Launcher\n3. Diminua a resolução da tela se o seu dispositivo suportar este recurso (1440p → 1080p)\n4. Reinicie o dispositivo\n\nSe o problema persistir ou se você não estiver usando um dispositivo com One UI (Samsung), relate o bug para o nosso Servidor do Discord ou e-mail de contato.</string>
     <string name="support">Suporte</string>
     <string name="support_intro">Todos os meios possíveis de contato serão exibidos abaixo.</string>
     <string name="copy">Copiar</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Falha na tentativa #%1$d de reconexão: %2$s</string>
     <string name="save_preferences">Salvar preferências</string>
     <string name="load_preferences">Carregar preferências</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferências salvas para %1$s</string>
     <string name="preferences_loaded">Preferências carregar!</string>
     <string name="preferences_transfer_failed">Não foi possível transferir as preferências: %1$s</string>
@@ -1334,6 +1342,9 @@
     <string name="ach_desc_rewarded_ads">Assista a %1$s anúncios de recompensa.</string>
     <string name="net_switched_to_websocket">!! UDP bloqueado, alterado para WebSocket. Espera-se maior latência. Verifique as regras de firewall da sua rede e certifique-se de que a porta 9807 do UDP não está bloqueada. Se estiver jogando no navegador, ignore esta mensagem.</string>
     <string name="net_switched_back_to_udp">Alterado de volta para UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Forçar jogo via WebSocket</string>
 </resources>
