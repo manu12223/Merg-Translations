@@ -79,7 +79,7 @@
     <string name="custom_background_opacity">Opacidade do fundo</string>
     <string name="show_performance_metrics">Exibir estatísticas de desempenho</string>
     <string name="skin_outlines">Bordas nas skins</string>
-    <string name="multimerg_blob2_opposite_color">O 2º blob no MultiMerg terá a sua cor invertida</string>
+    <string name="multimerg_blob2_opposite_color">Inverter a cor do 2º blob (MultiMerg)</string>
     <string name="delayed_auto_fire">Atraso no auto-split/auto-eject</string>
     <string name="direction_arrow">Seta de direção</string>
     <string name="border_above_entities">Borda acima das entidades</string>
