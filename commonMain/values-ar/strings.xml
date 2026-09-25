@@ -61,7 +61,7 @@
     <string name="control_joystick">موجه الدائرة</string>
     <string name="control_relative">تخصيص</string>
     <string name="control_touch">اللمس</string>
-    <string name="control_drag">سحب</string>
+    <string name="control_drag">السحب</string>
     <string name="ignore_multitouch_movement">تجاهل اللمس المتعدد للحركة</string>
     <string name="control_mouse">الماوس</string>
     <string name="control_keyboard">لوحة المفاتيح</string>
@@ -697,8 +697,8 @@
     <string name="stat_teleports">الإنتقالات:</string>
     <string name="stat_rewarded_ads_watched">مكافئات الإعلانات:</string>
     <string name="stat_items_used">العناصر المستخدمة:</string>
-    <string name="stat_voidstones_gifted">المُهداة:</string>
-    <string name="stat_opponents_exploded">الخصوم المُفجَّرون:</string>
+    <string name="stat_voidstones_gifted">تم الإهداء:</string>
+    <string name="stat_opponents_exploded">الخصوم الذين تم تفجيرهم:</string>
 
     <!-- Mail !-->
     <string name="mail">بريد</string>
@@ -1100,7 +1100,7 @@
     <string name="online">مُتصل</string>
     <string name="offline">غير مُتصل</string>
     <string name="status_dnd">عدم الإزعاج</string>
-    <string name="status_invisible">غير مرئي</string>
+    <string name="status_invisible">مخفي</string>
     <string name="status_picker_label">الحالة</string>
     <string name="name">اسم</string>
     <string name="owner">المالك</string>
@@ -1142,7 +1142,7 @@
     <string name="spectate">شاهد</string>
     <string name="previous_entity">الكيان السابق</string>
     <string name="next_entity">الكيان التالي</string>
-    <string name="level_abbreviated">م.%d</string>
+    <string name="level_abbreviated">المستوى.%d</string>
     <string name="left">متبقي</string> <!-- left as in remaining, not the left direction -->
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
