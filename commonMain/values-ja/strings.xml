@@ -227,7 +227,7 @@
     <string name="none">なし</string>
     <string name="booster_ad_xp_title">広告経験値倍率</string>
     <string name="booster_ad_xp_desc">広告を視聴して一時的なブーストをゲットしよう！</string>
-    <string name="booster_stacks_base_xp">基本経験値を含むスタック</string>
+    <string name="booster_stacks_base_xp">基本経験値と重複</string>
     <string name="booster_watch_ad">広告視聴</string>
     <string name="booster_choose_boost">経験値ブーストの選択</string>
     <string name="booster_active">有効</string>
@@ -247,7 +247,7 @@
     <string name="invalid_code">無効なコードです</string>
     <string name="code_already_claimed">コードはすでに利用されました！</string>
     <string name="successfully_claimed_code">リワードを利用しました</string>
-    <string name="reward_voidstones">＋%s枚のボイドストーン</string>
+    <string name="reward_voidstones">ボイドストーン ＋%s枚</string>
     <string name="reward_unlock">アンロック：%s</string>
     <string name="reward_name_color">ネームカラー</string>
     <string name="reward_name_color_gradient">ネームグラデーション</string>
@@ -297,7 +297,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
-    <string name="ad_no_fill">表示なし：現在は広告がありません。しばらくお待ちの上、再度お試しください。</string>
+    <string name="ad_no_fill">表示なし：広告は現在ありません。しばらくお待ちの上、再度お試しください。</string>
     <string name="ad_show_failed">広告が表示できませんでした</string>
     <string name="ad_load_failed">広告が読み込めませんでした</string>
     <string name="ad_rate_limited">多くの広告を一度に視聴しました。%s後に再度お試しください。</string>
@@ -357,7 +357,7 @@
 
      <string name="season_pass_missed_title">未ゲットリワード</string>
      <string name="season_pass_missed_subtitle">シーズン %1$d での未ゲットリワード</string>
-     <string name="season_pass_missed_empty">前のシーズンに未ゲットリワードはありません</string>
+     <string name="season_pass_missed_empty">前のシーズンに未ゲットのリワードはありません</string>
      <string name="season_pass_missed_cd">未ゲットリワード</string>
      <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
@@ -1200,7 +1200,7 @@
     <string name="support_intro">以下はサポート方法です。</string>
     <string name="copy">コピー</string>
     <string name="open_link">アクセス</string>
-    <string name="whatsapp_note">チャットのみ番号です。番号へ電話したり、テキストメッセージを送信したりしないでください。</string>
+    <string name="whatsapp_note">チャットのみの番号です。番号へ電話したり、テキストメッセージを送信したりしないでください。</string>
     <string name="recommended">おすすめ</string>
     <string name="support_response_time">回答までにかかる時間</string>
     <string name="support_mail">メール</string>
