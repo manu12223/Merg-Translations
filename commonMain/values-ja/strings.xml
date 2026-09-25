@@ -79,7 +79,7 @@
     <string name="custom_background_opacity">背景の不透明度</string>
     <string name="show_performance_metrics">パフォーマンス統計を表示</string>
     <string name="skin_outlines">スキンボーダー</string>
-    <string name="multimerg_blob2_opposite_color">マルチマーグで第2ブロブのカラーを反転</string>
+    <string name="multimerg_blob2_opposite_color">マルチマーグで第2ブロブの色を反転</string>
     <string name="delayed_auto_fire">オートスプリットとオートイジェクトのディレイ</string>
     <string name="direction_arrow">方向矢印を表示</string>
     <string name="border_above_entities">太いボーダーのマップ</string>
