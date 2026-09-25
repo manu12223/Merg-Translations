@@ -17,14 +17,14 @@
     <string name="code_contribution">مساهمات الكود:</string>
     <string name="skins">الجلود:</string>
     <string name="graphics_icons">الرسوم/الايقونات:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="sound_effects_credit">المؤثرات الصوتية:</string>
     <string name="translations">المترجمون:</string>
     <string name="fonts">الخطوط:</string>
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
     <string name="language_arabic">العربية</string>
-    <string name="language_azerbaijani">Azərbaycanca | Azerbaijani</string>
+    <string name="language_azerbaijani">Azərbaycanca | الأذربيجانية</string>
     <string name="language_bengali">বাংলা | البنغالية</string>
     <string name="language_chinese">简体中文 | الصينية (المبسطة)</string>
     <string name="language_chinese_traditional">繁體中文 | الصينية (التقليدية)</string>
@@ -47,7 +47,7 @@
     <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتغال)</string>
     <string name="language_romanian">Română | الرومانية</string>
     <string name="language_russian">Русский | الروسية</string>
-    <string name="language_slovak">Slovenčina | Slovak</string>
+    <string name="language_slovak">Slovenčina | السلوفاكية</string>
     <string name="language_spanish">Español | الإسبانية</string>
     <string name="language_swedish">Svenska | السويدية</string>
     <string name="language_thai">ไทย | التايلاندية</string>
@@ -61,15 +61,15 @@
     <string name="control_joystick">موجه الدائرة</string>
     <string name="control_relative">تخصيص</string>
     <string name="control_touch">اللمس</string>
-    <string name="control_drag">Drag</string>
-    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
-    <string name="control_mouse">Mouse</string>
-    <string name="control_keyboard">Keyboard</string>
+    <string name="control_drag">سحب</string>
+    <string name="ignore_multitouch_movement">تجاهل اللمس المتعدد للحركة</string>
+    <string name="control_mouse">الماوس</string>
+    <string name="control_keyboard">لوحة المفاتيح</string>
     <string name="button_layout">تصميم الأزرار</string>
     <string name="customize">تخصيص</string>
     <string name="opacity">الشفافية</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
-    <string name="sound_effects">Sound Effects</string>
+    <string name="sound_effects">المؤثرات الصوتية</string>
     <string name="sound_volume">مستوى الصوت</string>
     <string name="show_grid">اظهار الشبكة</string>
     <string name="show_grid_coordinates">إظهار إحداثيات الشبكة</string>
@@ -79,7 +79,7 @@
     <string name="custom_background_opacity">شفافية الخلفية</string>
     <string name="show_performance_metrics">عرض مقاييس الأداء</string>
     <string name="skin_outlines">حواف الدائرة</string>
-    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
+    <string name="multimerg_blob2_opposite_color">الكتلة الثانية في MultiMerg بلون معاكس</string>
     <string name="delayed_auto_fire">تأخير الانقسام التلقائي/الإطلاق</string>
     <string name="direction_arrow">اتجاه السهم</string>
     <string name="border_above_entities">حافة الخريطة</string>
@@ -122,8 +122,8 @@
     <string name="increase_bots">زيادة الروبوتات</string>
     <string name="max_split_pieces">الحد الأقصى للانقسامات</string>
     <string name="quick_merge">تجمع سريع</string>
-    <string name="force_split_on_blob_size">Force split on blob size</string>
-    <string name="merge_button">Merge Button</string>
+    <string name="force_split_on_blob_size">انقسام إجباري عند حجم معين</string>
+    <string name="merge_button">زر التجمع</string>
     <string name="no_holes">بدون ثقوب</string>
     <string name="circle_map">خريطة الدائرة</string>
     <string name="relax">استرخاء</string>
@@ -146,7 +146,7 @@
     <string name="server_europe">أوروبا</string>
     <string name="server_americas_nc">أمريكا الشمالية والوسطى</string>
     <string name="server_south_america">أمريكا الجنوبية</string>
-    <string name="server_asia">Asia</string>
+    <string name="server_asia">آسيا</string>
     <string name="join">دخول</string>
     <string name="create">إنشاء</string>
     <string name="create_chat_room">إنشاء غرفة دردشة</string>
@@ -222,9 +222,9 @@
     <!-- Boosters -->
     <string name="boosters">التعزيزات</string>
     <string name="booster_permanent_upgrades">ترقيات دائمة</string>
-    <string name="booster_owned">owned: %1$s</string>
+    <string name="booster_owned">المملوك: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
+    <string name="none">لا يوجد</string>
     <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
     <string name="booster_ad_xp_desc">شاهد فيديو للحصول على تعزيز مؤقت لنقاط الخبره!</string>
     <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
@@ -243,7 +243,7 @@
     <string name="speed_fast">سريع (20/ث)</string>
     <string name="speed_ultra">فائق (30/ث)</string>
     <string name="speed_crazy">جنوني (60/ث)</string>
-    <string name="minutes_short">%1$d min</string>
+    <string name="minutes_short">%1$d د</string>
     <string name="invalid_code">رمز غير صالح</string>
     <string name="code_already_claimed">تم استرداد الرمز مسبقاً!</string>
     <string name="successfully_claimed_code">تم استلام المكافأة</string>
@@ -269,11 +269,11 @@
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
     <string name="booster_base_xp_bought">ترقية الخبرة الأساسية</string>
-    <string name="transaction_achievement_reward">Achievement Reward</string>
+    <string name="transaction_achievement_reward">مكافأة إنجاز</string>
     <string name="booster_autosplit_bought">ترقية الانقسام التلقائي</string>
     <string name="booster_autoshoot_bought">ترقية الإطلاق التلقائي</string>
     <string name="booster_spawn_size_bought">ترقية حجم الظهور</string>
-    <string name="booster_level_short">Lv %1$d</string>
+    <string name="booster_level_short">مستوى %1$d</string>
     <string name="profile_name_change_bought">تم شراء تغيير اسم الملف الشخصي</string>
     <string name="profile_name_color_bought">تم شراء لون اسم الملف الشخصي</string>
     <string name="profile_color_bought">تم شراء لون الملف الشخصي</string>
@@ -297,7 +297,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill">لا توجد إعلانات متاحة لك في الوقت الحالي. يرجى المحاولة مرة أخرى لاحقاً.</string>
     <string name="ad_show_failed">فشل عرض الإعلان</string>
     <string name="ad_load_failed">فشل تحميل الإعلان</string>
     <string name="ad_rate_limited">لقد شاهدت الكثير من الإعلانات مؤخرا. يرجى المحاولة مرة اخرى خلال %s.</string>
@@ -333,7 +333,7 @@
      <string name="season_pass_done">تم</string>
      <string name="season_pass_claim">استلام</string>
      <string name="season_pass_admin_cd">المشرف</string>
-     <string name="season_pass_level_short">Lvl %1$d</string>
+     <string name="season_pass_level_short">مستوى %1$d</string>
      <string name="season_pass_resets_now">إعادة تعيين الان</string>
      <string name="season_pass_resets_in_dh">إعادة التعيين خلال %1$dd %2$dh</string>
      <string name="season_pass_resets_in_hm">إعادة التعيين خلال %1$dh %2$dm</string>
@@ -348,15 +348,15 @@
      <string name="season_pass_history_task_weekly">المهمة الأسبوعية: %1$s</string>
      <string name="season_pass_history_task_season">مهمة الموسم: %1$s</string>
      <string name="season_pass_history_season_page">الموسم %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
+     <string name="season_pass_history_revoked_stage_paid">المرحلة %1$d (مدفوعة) — تم الإلغاء</string>
+     <string name="season_pass_history_revoked_voidstones">تمت إزالة الفويدستون</string>
+     <string name="season_pass_history_revoked_unlock">تمت إزالة الفتح</string>
      <string name="season_pass_history_revoked_trigger_refund">تم استرداد مبلغ التذكرة الذهبية</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
+     <string name="season_pass_history_revoked_trigger_dispute">تم الاعتراض على تذكرة الموسم الذهبية</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">استرداد إجباري لتذكرة الموسم الذهبية</string>
 
      <string name="season_pass_missed_title">المكافآت الفائتة</string>
-     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">المراحل التي لم تستلمها في الموسم %1$d</string>
      <string name="season_pass_missed_empty">لا توجد مكافئات فائتة من الموسم الماضي</string>
      <string name="season_pass_missed_cd">المكافآت الفائتة</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (مجانية)</string>
@@ -372,7 +372,7 @@
      <string name="season_task_voidstone_bronze_eaten">اجمع الفويدستون البرونزي</string>
      <string name="season_task_voidstone_silver_eaten">اجمع الفويدستون الفضي</string>
      <string name="season_task_voidstone_gold_eaten">اجمع الفويدستون الذهبي</string>
-     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
+     <string name="season_task_voidstone_rainbow_eaten">اجمع الفويدستون قوس المطر</string>
      <string name="season_task_food_and_voidstone_eaten">اجمع الطعام ثم الفويدستون</string>
      <string name="season_task_bots_eaten">التهِم البوتات</string>
      <string name="season_task_players_eaten">اِلتهِم اللاعبين</string>
@@ -400,21 +400,21 @@
     <string name="login">تسجيل دخول</string>
     <string name="login_google">تسجيل الدخول باستخدام جوجل</string>
     <string name="login_apple">تسجيل الدخول باستخدام آبل</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
-    <string name="link_success">Sign-in method linked!</string>
-    <string name="link_already_linked">This sign-in method is already linked to your account.</string>
-    <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
-    <string name="link_email_taken">The email on this sign-in belongs to another Merg account.</string>
-    <string name="link_stepup_failed">Verification failed. Please try again.</string>
-    <string name="link_cancelled">Linking was cancelled.</string>
-    <string name="link_failed">Could not link sign-in method. Please try again.</string>
+    <string name="link_google">ربط تسجيل الدخول بجوجل</string>
+    <string name="link_apple">ربط تسجيل الدخول بآبل</string>
+    <string name="link_success">تم ربط طريقة تسجيل الدخول!</string>
+    <string name="link_already_linked">طريقة تسجيل الدخول هذه مرتبطة بحسابك بالفعل.</string>
+    <string name="link_identity_taken">هذا الحساب مرتبط بالفعل بحساب Merg آخر. سجّل الدخول بذلك الحساب بدلاً من ذلك.</string>
+    <string name="link_email_taken">البريد الإلكتروني الخاص بطريقة تسجيل الدخول هذه يخص حساب Merg آخر.</string>
+    <string name="link_stepup_failed">فشل التحقق. يرجى المحاولة مرة أخرى.</string>
+    <string name="link_cancelled">تم إلغاء الربط.</string>
+    <string name="link_failed">تعذر ربط طريقة تسجيل الدخول. يرجى المحاولة مرة أخرى.</string>
     <string name="logout">تسجيل خروج</string>
     <string name="logout_all_devices">تسجيل خروج من جميع الأجهزة</string>
     <string name="change_name">تغيير الاسم</string>
     <string name="copy_id">نسخ الهوية</string>
     <string name="share_id">مشاركة المعرف</string>
-    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
+    <string name="share_id_message">أضفني على Merg! معرّفي هو %1$s</string>
     <string name="no_youtube_link">لا يوجد رابط</string>
     <string name="no_tiktok_link">لا يوجد رابط</string>
     <string name="created">أنشئ %s</string>
@@ -424,7 +424,7 @@
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
     <string name="profile_description_save_failed">فشل حفظ وصف الملف الشخصي</string>
     <string name="profile_description_too_long">الوصف طويل جدا! (الحد الأقصى %d حرفا)</string>
-    <string name="profile_description_too_large">Profile description is larger than %s</string>
+    <string name="profile_description_too_large">وصف الملف الشخصي أكبر من %s</string>
     <string name="unlock_description_color">فتح قفل لون نص الوصف</string>
     <string name="description_text_color">لون نص الوصف</string>
     <string name="unlock_description_color_success">تم فتح لون نص الوصف!</string>
@@ -563,7 +563,7 @@
     <string name="clan_role_owner">المالك</string>
     <string name="clan_role_co_owner">مساعد القائد</string>
     <string name="clan_role_admin">المسؤول</string>
-    <string name="clan_role_elder">Elder</string>
+    <string name="clan_role_elder">كبير الأعضاء</string>
     <string name="clan_role_member">عضو</string>
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
@@ -580,7 +580,7 @@
     <string name="clan_unkick_confirm_message">إزالة شرط طلب الانضمام عن. "%1$s" (رقم الهوية: %2$d)?</string>
     <string name="clan_invited">تمت دعوته</string>
     <string name="clan_revoke_invite_confirm_title">إلغاء الدعوة</string>
-    <string name="clan_revoke_invite_confirm_message">Revoke invite for "%1$s" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">إلغاء الدعوة لـ"%1$s" (الهوية: %2$d)؟</string>
     <string name="clan_invite_sent">تم إرسال الدعوة</string>
     <string name="clan_player_not_found">اللاعب غير موجود.</string>
     <string name="clan_player_banned">هذا اللاعب محظور من عشيرتك.</string>
@@ -607,7 +607,7 @@
     <string name="clan_history_event_promote">تم ترفيعه</string>
     <string name="clan_history_event_demote">تم تنزيل الرتبة</string>
     <string name="clan_history_event_donation">تبرع</string>
-    <string name="clan_history_id">History ID: %d</string>
+    <string name="clan_history_id">رقم السجل: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
@@ -615,7 +615,7 @@
     <string name="clan_search_hint">البحث بالهوية أو الاسم</string>
     <string name="clan_promote_to_owner">ترقية إلى مالك</string>
     <string name="clan_transfer_ownership_title">نقل الملكية</string>
-    <string name="clan_transfer_ownership_message">You are about to promote "%1$s" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
+    <string name="clan_transfer_ownership_message">أنت على وشك ترقية "%1$s" (الهوية: %2$d) إلى مالك. سيتم تخفيض رتبتك إلى مساعد القائد. لا يمكن التراجع عن هذا.\n\nاكتب هوية اللاعب للتأكيد:</string>
     <string name="clan_transfer_ownership_id_mismatch">رقم الهوية غير مطابق</string>
     <string name="clan_customize_name_color">لون اسم العشيرة</string>
     <string name="clan_customize_tag_color">لون وسم العشيرة</string>
@@ -650,8 +650,8 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">نوع لوحة الصدارة</string>
     <string name="leaderboard_xp_description">نقاط الخبرة مطلوبة للترقية إلى مستوى أعلى. يمكن الحصول عليها من خلال أي نشاط مهم داخل اللعبة.</string>
-    <string name="leaderboard_type_ap">AP</string>
-    <string name="leaderboard_ap_description">AP, short for Achievement Points. Obtain these special points by completing achievements! Higher tier achievements give more AP than others.</string>
+    <string name="leaderboard_type_ap">نقاط الإنجاز</string>
+    <string name="leaderboard_ap_description">نقاط الإنجاز (AP) هي نقاط خاصة تحصل عليها عند إكمال الإنجازات! الإنجازات ذات المستوى الأعلى تمنح نقاطاً أكثر من غيرها.</string>
     <string name="leaderboard_competitive_description">في تصنيف مواجهات 1 ضد 1 لا يظهر في القائمة إلا اللاعبون الذين أكملوا 12 مباراة تنافسية على الأقل</string>
     <string name="leaderboard_rating">التقييم</string>
     <string name="leaderboard_period_daily">اليومي</string>
@@ -680,7 +680,7 @@
     <string name="stat_bronze_value">برونز (قيمة):</string>
     <string name="stat_bronze_count">برونز (عدد):</string>
     <string name="stat_bonus">علاوة:</string>
-    <string name="season_currency">Season Currency</string>
+    <string name="season_currency">عملة الموسم</string>
     <string name="stat_food_eaten">الطعام المأكول:</string>
     <string name="stat_players_eaten">اللاعبين المأكولين:</string>
     <string name="stat_bots_eaten">الروبوتات المأكولة:</string>
@@ -696,9 +696,9 @@
     <string name="stat_boosts">التعزيزات:</string>
     <string name="stat_teleports">الإنتقالات:</string>
     <string name="stat_rewarded_ads_watched">مكافئات الإعلانات:</string>
-    <string name="stat_items_used">Items Used:</string>
-    <string name="stat_voidstones_gifted">Gifted:</string>
-    <string name="stat_opponents_exploded">Opponents Exploded:</string>
+    <string name="stat_items_used">العناصر المستخدمة:</string>
+    <string name="stat_voidstones_gifted">المُهداة:</string>
+    <string name="stat_opponents_exploded">الخصوم المُفجَّرون:</string>
 
     <!-- Mail !-->
     <string name="mail">بريد</string>
@@ -771,8 +771,8 @@
     <string name="adventure_obj_reach_size">الوصول %d الحجم</string>
     <string name="adventure_obj_finish_first">المركز الأول</string>
     <string name="adventure_obj_collect_voidstones">اجمع %d من الفويدستون</string>
-    <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
-    <string name="adventure_obj_boss_fight">Boss Fight</string>
+    <string name="adventure_obj_eat_count_bots">التهم %d من الروبوتات</string>
+    <string name="adventure_obj_boss_fight">معركة الزعيم</string>
 
     <!-- Timer text !-->
     <string name="timer_time">الوقت</string>
@@ -814,9 +814,9 @@
     <string name="flags">الأعلام</string>
     <string name="skin_tab_particles">الجسيمات</string>
     <string name="skin_tab_special">مُميز</string>
-    <string name="level_skin_locked_dialog">You must be level %1$d to unlock this skin. You are currently level %2$d.</string>
+    <string name="level_skin_locked_dialog">يجب أن تكون في المستوى %1$d لفتح هذا الجلد. أنت حالياً في المستوى %2$d.</string>
     <string name="skin_tab_achievement">إنجاز</string>
-    <string name="achievement_skin_locked_dialog">You must reach %1$d Achievement Points to unlock this skin. You currently have %2$d.</string>
+    <string name="achievement_skin_locked_dialog">يجب أن تصل إلى %1$d نقطة إنجاز لفتح هذا الجلد. لديك حالياً %2$d.</string>
     <string name="dismiss">اغلاق</string>
     <string name="level_lock">قفل المستوى</string>
 
@@ -824,7 +824,7 @@
     <!-- Chat !-->
     <string name="chat">الدردشة</string>
     <string name="emotes">التعبيرات</string>
-    <string name="room_commands">Type !help for a list of available commands</string>
+    <string name="room_commands">اكتب !help للحصول على قائمة بالأوامر المتاحة</string>
     <string name="chat_close">إغلاق الدردشة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
     <string name="chat_send_message">ارسل الرسالة</string>
@@ -864,9 +864,9 @@
 
     <!-- In Game UI !-->
     <string name="player_size">الحجم: %d</string>
-    <string name="player_size_decimal">Size: %s</string>
+    <string name="player_size_decimal">الحجم: %s</string>
     <string name="effective_size">الحجم الفعال: %d</string>
-    <string name="effective_size_decimal">Effective Size: %s</string>
+    <string name="effective_size_decimal">الحجم الفعال: %s</string>
     <string name="decay">ديكا: %.2f/s</string>
     <string name="pieces">القطع: %1d/%2d</string>
     <string name="merge">التجمع: %ss</string>
@@ -874,7 +874,7 @@
     <string name="select_throw_item">زر اختيار عنصر الرمي</string>
     <string name="xp">نقاط الخبرة</string>
     <string name="level">المستوى</string>
-    <string name="level_number">Level %d</string>
+    <string name="level_number">المستوى %d</string>
     <string name="food">الطعام</string>
     <string name="voidstones">فويدستون</string>
     <string name="items">العناصر</string>
@@ -882,7 +882,7 @@
     <string name="session_stat_size_gained">الحجم الذي تم أكله</string>
     <string name="highest_rank">أعلى رتبة</string>
     <string name="session_stat_highest_size">أعلى حجم</string>
-    <string name="spectate_ball">Ball</string>
+    <string name="spectate_ball">الكرة</string>
     <string name="leaderboard">لوحة الصدارة</string>
     <string name="session_stats">إحصائيات الجلسة</string>
     <string name="debug">تصحيح الأخطاء</string>
@@ -926,7 +926,7 @@
     <string name="permission_denied">تم رفض الاذن</string>
     <string name="dialog_locked">مقفول</string>
     <string name="duplicate_connection">الحساب مرتبط بالفعل</string>
-    <string name="outdated_client">Outdated Client!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
+    <string name="outdated_client">إصدار قديم!\nالعميل: %1$s (%2$d)\nالسيرفر: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">اللاعبون المحظورون</string>
@@ -960,7 +960,7 @@
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">قائمة المدراء</string>
     <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">اللاعبون: %d ⋅ الروبوتات: %d ⋅ المشاهدون: %d ⋅ الإجمالي: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
     <string name="ban_confirm_title">حظر اللاعب من الغرفة</string>
@@ -974,21 +974,21 @@
     <string name="custom_image_replace">استبدال</string>
     <string name="custom_image_deselect">إلغاء التحديد</string>
     <string name="custom_image_confirm_title">رفع صورة</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
+    <string name="custom_image_confirm_body">رفع هذه الصورة مقابل %1$s فويدستون؟</string>
     <string name="custom_image_upload_success">تم إرسال الصورة للمراجعة</string>
     <string name="custom_image_selected">تم اختيار الصورة الشخصية</string>
     <string name="custom_image_deselected">تم إلغاء اختيار الصورة الشخصية</string>
     <string name="custom_image_upload_failed">فشل تحميل الصورة</string>
     <string name="custom_image_read_error">فشل قراءة الصورة</string>
     <string name="custom_image_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
+    <string name="custom_image_error_size">صورتك %1$d كيلوبايت كبيرة جداً (الحد الأقصى %2$d كيلوبايت)</string>
     <string name="custom_image_error_dimensions">صورتك %1$dx%2$d كبير جدًا (الحد الأقصى %3$dx%4$d بكسل)</string>
     <string name="custom_image_error_both">صورتك %1$dKB / %3$dx%4$d كبير جدًا (الحد الأقصى %2$dKB / %5$dx%6$d بكسل)</string>
     <string name="custom_image_compress_title">الصورة كبيرة جدًا - هل تريد ضغطها؟</string>
     <string name="custom_image_compress_accept">استخدام الصورة المضغوطة</string>
     <string name="custom_image_compress_failed">تعذر ضغط الصورة لتناسب الحد المسموح به</string>
     <string name="custom_image_crop_title">قص الصورة لتصبح مربعة</string>
-    <string name="custom_image_crop_apply">Crop &amp; use</string>
+    <string name="custom_image_crop_apply">قص واستخدام</string>
     <string name="custom_image_processing">جارٍ المعالجة…</string>
     <string name="custom_image_bought">رفع صورة مخصصة</string>
     <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
@@ -1002,7 +1002,7 @@
     <string name="report_avatar_success">تم الإبلاغ عن الصورة الشخصية</string>
     <string name="report_avatar_failed">فشل الإبلاغ عن الصورة الشخصية</string>
     <string name="report_banner">الإبلاغ عن الغلاف</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
+    <string name="report_banner_message">الإبلاغ عن غلاف %1$s؟</string>
     <string name="report_banner_success">تم الإبلاغ عن الغلاف</string>
     <string name="report_banner_failed">فشل الإبلاغ عن الغلاف</string>
 
@@ -1012,26 +1012,26 @@
     <string name="custom_banner_replace">استبدال</string>
     <string name="custom_banner_deselect">إلغاء التحديد</string>
     <string name="custom_banner_confirm_title">تحميل الغلاف</string>
-    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
+    <string name="custom_banner_confirm_body">رفع هذا الغلاف مقابل %1$s فويدستون؟</string>
     <string name="custom_banner_upload_success">تم إرسال الغلاف للمراجعة</string>
     <string name="custom_banner_selected">تم اختيار الغلاف</string>
     <string name="custom_banner_deselected">تم إلغاء اختيار الغلاف</string>
     <string name="custom_banner_upload_failed">فشل تحميل الغلاف</string>
     <string name="custom_banner_read_error">فشل في قراءة الغلاف</string>
     <string name="custom_banner_invalid_format">يجب أن يكون الملف صورة</string>
-    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_error_size">غلافك %1$d كيلوبايت كبير جداً (الحد الأقصى %2$d كيلوبايت)</string>
+    <string name="custom_banner_error_dimensions">غلافك %1$dx%2$d كبير جداً (الحد الأقصى %3$dx%4$d بكسل)</string>
+    <string name="custom_banner_error_both">غلافك %1$d كيلوبايت / %3$dx%4$d كبير جداً (الحد الأقصى %2$d كيلوبايت / %5$dx%6$d بكسل)</string>
     <string name="custom_banner_compress_title">الغلاف كبير جدًا - هل تريد ضغطه؟</string>
     <string name="custom_banner_compress_accept">استخدام النسخة المضغوطة</string>
     <string name="custom_banner_compress_failed">تعذر ضغط الغلاف ليتناسب مع حد الحجم</string>
-    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
-    <string name="custom_banner_crop_apply">Crop &amp; use</string>
+    <string name="custom_banner_crop_title">قص إلى غلاف بنسبة 16:9</string>
+    <string name="custom_banner_crop_apply">قص واستخدام</string>
     <string name="custom_banner_processing">جارٍ المعالجة…</string>
     <string name="custom_banner_bought">تحميل غلاف مخصص</string>
     <string name="custom_banner_refund">استرداد الغلاف المخصص</string>
-    <string name="custom_banner_slot">Banner %1$d</string>
-    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
+    <string name="custom_banner_slot">غلاف %1$d</string>
+    <string name="custom_banner_no_approved_image">لا يوجد غلاف معتمد في الخانة %1$d</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">استعادة الحساب</string>
@@ -1044,8 +1044,8 @@
     <string name="recovery_new_email_placeholder">new@example.com</string>
     <string name="recovery_change_mail">تغيير البريد الإلكتروني</string>
     <string name="recovery_confirm_title">تغيير بريد الحساب الإلكتروني؟</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
+    <string name="recovery_confirm_body">أنت على وشك تغيير البريد الإلكتروني لهذا الحساب إلى %1$s. سيتعين عليك تسجيل الدخول بحساب Google المطابق بعد ذلك. لا يمكن التراجع عن هذا.</string>
+    <string name="recovery_success_body">تم تغيير البريد الإلكتروني للحساب إلى %1$s. يرجى تسجيل الدخول الآن بحساب Google الجديد.</string>
     <string name="recovery_error_invalid_id">يرجى إدخال رقم هوية حساب صحيح.</string>
     <string name="recovery_error_invalid_email">يرجى إدخال بريد إلكتروني صالح.</string>
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
@@ -1067,12 +1067,12 @@
     <string name="server_not_running">السيرفر لا يعمل</string>
     <string name="name_change_reconnect_notice">لكي يتم تفعيل تغيير الاسم، ستتم إعادة اتصالك بالسيرفر.</string>
     <string name="play">العب</string>
-    <string name="play_one_blob">Play (1 blob)</string>
-    <string name="id">ID:</string>
-    <string name="sort_id_desc">ID ↓</string>
-    <string name="sort_id_asc">ID ↑</string>
-    <string name="sort_xp_desc">XP ↓</string>
-    <string name="sort_xp_asc">XP ↑</string>
+    <string name="play_one_blob">العب (كتلة واحدة)</string>
+    <string name="id">الهوية:</string>
+    <string name="sort_id_desc">الهوية ↓</string>
+    <string name="sort_id_asc">الهوية ↑</string>
+    <string name="sort_xp_desc">نقاط الخبرة ↓</string>
+    <string name="sort_xp_asc">نقاط الخبرة ↑</string>
     <string name="arrow_expanded">▼</string>
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">إعادة اللعب</string>
@@ -1099,9 +1099,9 @@
     <string name="empty">فارغ</string>
     <string name="online">مُتصل</string>
     <string name="offline">غير مُتصل</string>
-    <string name="status_dnd">Do Not Disturb</string>
-    <string name="status_invisible">Invisible</string>
-    <string name="status_picker_label">Status</string>
+    <string name="status_dnd">عدم الإزعاج</string>
+    <string name="status_invisible">غير مرئي</string>
+    <string name="status_picker_label">الحالة</string>
     <string name="name">اسم</string>
     <string name="owner">المالك</string>
     <string name="kick">طرد</string>
@@ -1123,8 +1123,8 @@
     <string name="room_public">عام</string>
     <string name="room_private">خاص</string>
     <string name="room_hidden">مخفي</string>
-    <string name="hidden_rooms_one">1 hidden room</string>
-    <string name="hidden_rooms">%1$d hidden rooms</string>
+    <string name="hidden_rooms_one">غرفة واحدة مخفية</string>
+    <string name="hidden_rooms">%1$d غرفة مخفية</string>
     <string name="map">الخريطة</string>
     <string name="size">الحجم</string>
     <string name="shots">الإطلاقات</string>
@@ -1134,7 +1134,7 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
-    <string name="uptime">Uptime: %s</string>
+    <string name="uptime">مدة التشغيل: %s</string>
     <string name="players_count">اللاعبين</string>
     <string name="show_ui">إظهار UI</string>
     <string name="open_menu">افتح القائمة</string>
@@ -1142,7 +1142,7 @@
     <string name="spectate">شاهد</string>
     <string name="previous_entity">الكيان السابق</string>
     <string name="next_entity">الكيان التالي</string>
-    <string name="level_abbreviated">Lv.%d</string>
+    <string name="level_abbreviated">م.%d</string>
     <string name="left">متبقي</string> <!-- left as in remaining, not the left direction -->
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
