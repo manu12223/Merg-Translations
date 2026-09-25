@@ -61,6 +61,8 @@
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativ</string>
     <string name="control_touch">Berührung</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Tasten-Layout</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Hintergrund Kapazität</string>
     <string name="show_performance_metrics">Leistungsstärke anzeigen</string>
     <string name="skin_outlines">Skin Außenlinien</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">Richtungspfeil</string>
     <string name="border_above_entities">Rand über Objekten</string>
@@ -161,9 +164,9 @@
     <string name="friend_requests_sent">Gesendete Anfragen</string>
     <string name="no_friends">Noch keine Freunde…</string>
     <string name="remove_friend_title">Freund entfernen</string>
-    <string name="remove_friend_message">Bist du sicher, dass du \"%1$s\" (ID: %2$d) als Freund entfernen möchtest?</string>
+    <string name="remove_friend_message">Bist du sicher, dass du "%1$s" (ID: %2$d) als Freund entfernen möchtest?</string>
     <string name="cancel_request_title">Anfrage abbrechen</string>
-    <string name="cancel_request_message">Bist du sicher, dass du die Freundschaftsanfrage an \"%1$s\" (ID: %2$d) abbrechen möchtest?</string>
+    <string name="cancel_request_message">Bist du sicher, dass du die Freundschaftsanfrage an "%1$s" (ID: %2$d) abbrechen möchtest?</string>
     <string name="friend_request_error_self">Du kannst dir selbst keine Freundschaftsanfrage senden</string>
     <string name="friend_request_error_already_sent">Freundschaftsanfrage bereits gesendet</string>
     <string name="friend_request_error_already_friends">Ihr seid bereits befreundet</string>
@@ -353,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Befördert zu %1$s.</string>
     <string name="clan_demoted">Degradiert zu %1$s.</string>
     <string name="clan_kick_confirm_title">Mitglied rauswerfen</string>
-    <string name="clan_kick_confirm_message">\"%1$s\" (ID: %2$d) aus dem Clan werfen? Ein erneuter Beitritt ist auf Anfrage möglich.</string>
+    <string name="clan_kick_confirm_message">"%1$s" (ID: %2$d) aus dem Clan werfen? Ein erneuter Beitritt ist auf Anfrage möglich.</string>
     <string name="clan_ban_confirm_title">Mitglied bannen</string>
-    <string name="clan_ban_confirm_message">\"%1$s\" (ID: %2$d) aus dem Clan bannen? Ein erneuter Beitritt wird permanent verhindert.</string>
+    <string name="clan_ban_confirm_message">"%1$s" (ID: %2$d) aus dem Clan bannen? Ein erneuter Beitritt wird permanent verhindert.</string>
     <string name="clan_unban_confirm_title">Bann aufheben</string>
-    <string name="clan_unban_confirm_message">Bann für \"%1$s\" (ID: %2$d) aufheben? Ein erneuter Beitritt wird wieder möglich sein.</string>
+    <string name="clan_unban_confirm_message">Bann für "%1$s" (ID: %2$d) aufheben? Ein erneuter Beitritt wird wieder möglich sein.</string>
     <string name="clan_unkick_confirm_title">Rauswurf aufheben</string>
-    <string name="clan_unkick_confirm_message">Die Voraussetzung für eine Beitrittsanfrage für \"%1$s\" (ID: %2$d) entfernen?</string>
+    <string name="clan_unkick_confirm_message">Die Voraussetzung für eine Beitrittsanfrage für "%1$s" (ID: %2$d) entfernen?</string>
     <string name="clan_invited">Eingeladen</string>
     <string name="clan_revoke_invite_confirm_title">Einladung widerrufen</string>
-    <string name="clan_revoke_invite_confirm_message">Einladung für \"%1$s\" (ID: %2$d) widerrufen?</string>
+    <string name="clan_revoke_invite_confirm_message">Einladung für "%1$s" (ID: %2$d) widerrufen?</string>
     <string name="clan_invite_sent">Einladung gesendet!</string>
     <string name="clan_player_not_found">Spieler nicht gefunden.</string>
     <string name="clan_player_banned">Dieser Spieler ist aus deinem Clan gebannt.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">Verlaufs-ID: %d</string>
     <string name="clan_public_profile">Öffentliches Clan-Profil</string>
     <string name="clan_kicked_banned_players">Rausgeworfene/Gebannte Spieler</string>
-    <string name="clan_unkick_confirm">Bist du sicher, dass du den Rauswurf von \"%1$s\" (ID: %2$d) aufheben möchtest?</string>
-    <string name="clan_unban_confirm">Bist du sicher, dass du den Bann von \"%1$s\" (ID: %2$d) aufheben möchtest?</string>
+    <string name="clan_unkick_confirm">Bist du sicher, dass du den Rauswurf von "%1$s" (ID: %2$d) aufheben möchtest?</string>
+    <string name="clan_unban_confirm">Bist du sicher, dass du den Bann von "%1$s" (ID: %2$d) aufheben möchtest?</string>
     <string name="clan_search_hint">Über ID oder Name suchen</string>
     <string name="clan_promote_to_owner">Zum Eigentümer befördern</string>
     <string name="clan_transfer_ownership_title">Eigentümerschaft übertragen</string>
-    <string name="clan_transfer_ownership_message">Du bist im Begriff, \"%1$s\" (ID: %2$d) zum Eigentümer zu befördern. Du wirst zum Miteigentümer degradiert. Dies kann nicht rückgängig gemacht werden.\n\nGib die ID des Spielers ein, um den Vorgang zu bestätigen:</string>
+    <string name="clan_transfer_ownership_message">Du bist im Begriff, "%1$s" (ID: %2$d) zum Eigentümer zu befördern. Du wirst zum Miteigentümer degradiert. Dies kann nicht rückgängig gemacht werden.\n\nGib die ID des Spielers ein, um den Vorgang zu bestätigen:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID stimmt nicht überein</string>
     <string name="clan_customize_name_color">Clan-Namensfarbe</string>
     <string name="clan_customize_tag_color">Clan-Tag-Farbe</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Blockierte Spieler</string>
     <string name="no_blocked_players">Keine blockierten Spieler</string>
-    <string name="unblock_confirm_message">\"%1$s\" (ID: %2$d) entblocken?</string>
+    <string name="unblock_confirm_message">"%1$s" (ID: %2$d) entblocken?</string>
     <string name="block_player">Spieler blockieren</string>
     <string name="unblock_player">Spieler entblocken</string>
     <string name="block_confirm_title">Spieler blockieren?</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Server läuft nicht</string>
     <string name="name_change_reconnect_notice">Damit die Namensänderung wirksam wird, wirst du neu mit dem Server verbunden.</string>
     <string name="play">Spielen</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Öffentlich</string>
     <string name="room_private">Privat</string>
     <string name="room_hidden">Versteckt</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Karte</string>
     <string name="size">Größe</string>
     <string name="shots">Schüsse</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

@@ -61,6 +61,8 @@
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativní</string>
     <string name="control_touch">Dotyk</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Rozložení tlačítek</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Průhlednost pozadí</string>
     <string name="show_performance_metrics">Zobrazit metriky výkonu</string>
     <string name="skin_outlines">Obrysy skinů</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">Šipka směru</string>
     <string name="border_above_entities">Okraj nad entitami</string>
@@ -353,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Povýšen na %1$s.</string>
     <string name="clan_demoted">Degradován na %1$s.</string>
     <string name="clan_kick_confirm_title">Vyhodit člena</string>
-    <string name="clan_kick_confirm_message">Vyhodit \"%1$s\" (ID: %2$d) z klanu? Mohou se znovu připojit na žádost.</string>
+    <string name="clan_kick_confirm_message">Vyhodit "%1$s" (ID: %2$d) z klanu? Mohou se znovu připojit na žádost.</string>
     <string name="clan_ban_confirm_title">Zakázat přístup členu</string>
-    <string name="clan_ban_confirm_message">Zakázat přístup \"%1$s\" (ID: %2$d) do klanu? Už se nikdy nebudou moci připojit.</string>
+    <string name="clan_ban_confirm_message">Zakázat přístup "%1$s" (ID: %2$d) do klanu? Už se nikdy nebudou moci připojit.</string>
     <string name="clan_unban_confirm_title">Povolit přístup členu</string>
-    <string name="clan_unban_confirm_message">Povolit přístup \"%1$s\" (ID: %2$d)? Budou se moci znovu připojit.</string>
+    <string name="clan_unban_confirm_message">Povolit přístup "%1$s" (ID: %2$d)? Budou se moci znovu připojit.</string>
     <string name="clan_unkick_confirm_title">Zrušit vyhození člena</string>
-    <string name="clan_unkick_confirm_message">Odstranit požadavek na žádost o připojení pro \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">Odstranit požadavek na žádost o připojení pro "%1$s" (ID: %2$d)?</string>
     <string name="clan_invited">Pozván</string>
     <string name="clan_revoke_invite_confirm_title">Zrušit pozvánku</string>
-    <string name="clan_revoke_invite_confirm_message">Zrušit pozvánku pro \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Zrušit pozvánku pro "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Pozvánka odeslána!</string>
     <string name="clan_player_not_found">Hráč nenalezen.</string>
     <string name="clan_player_banned">Tento hráč má zakázaný přístup do tvého klanu.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">ID historie: %d</string>
     <string name="clan_public_profile">Veřejný profil klanu</string>
     <string name="clan_kicked_banned_players">Vyhození/Zakázaní hráči</string>
-    <string name="clan_unkick_confirm">Opravdu chceš zrušit vyhození \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Opravdu chceš povolit přístup \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Opravdu chceš zrušit vyhození "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Opravdu chceš povolit přístup "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Hledat podle ID nebo jména</string>
     <string name="clan_promote_to_owner">Povýšit na vlastníka</string>
     <string name="clan_transfer_ownership_title">Převést vlastnictví</string>
-    <string name="clan_transfer_ownership_message">Chystáš se povýšit \"%1$s\" (ID: %2$d) na vlastníka. Budeš degradován na spoluvlastníka. Toto nelze vrátit.\n\nNapiš ID hráče pro potvrzení:</string>
+    <string name="clan_transfer_ownership_message">Chystáš se povýšit "%1$s" (ID: %2$d) na vlastníka. Budeš degradován na spoluvlastníka. Toto nelze vrátit.\n\nNapiš ID hráče pro potvrzení:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID se neshoduje</string>
     <string name="clan_customize_name_color">Barva jména klanu</string>
     <string name="clan_customize_tag_color">Barva tagu klanu</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Zablokovaní hráči</string>
     <string name="no_blocked_players">Žádní zablokovaní hráči</string>
-    <string name="unblock_confirm_message">Odblokovat \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">Odblokovat "%1$s" (ID: %2$d)?</string>
     <string name="block_player">Zablokovat hráče</string>
     <string name="unblock_player">Odblokovat hráče</string>
     <string name="block_confirm_title">Zablokovat hráče?</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Server neběží</string>
     <string name="name_change_reconnect_notice">Aby se změna jména projevila, budeš znovu připojen k serveru.</string>
     <string name="play">Hrát</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Veřejná</string>
     <string name="room_private">Soukromá</string>
     <string name="room_hidden">Skrytá</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Mapa</string>
     <string name="size">Velikost</string>
     <string name="shots">Výstřely</string>
@@ -1189,7 +1195,7 @@
     <string name="after">Po</string>
     <string name="clan_id">ID klanu:</string>
     <string name="editing_message">Úprava zprávy</string>
-    <string name="samsung_compat_warning_body">Byla zjištěna neplatná konfigurace displeje. To může způsobovat problémy s ovládáním ve hře a více dotyky. Jedná se o známou chybu Samsung OneUI. Pro pokus o vyřešení problému postupujte v tomto pořadí:\n\n1. Otevřete Game Booster Plus → Game Performance → nastavte na \"Performance\" nebo 100%\n2. Odeberte aplikaci z knihovny Game Launcheru\n3. Snižte rozlišení obrazovky, pokud to vaše zařízení podporuje (1440p → 1080p)\n4. Restartujte zařízení\n\nPokud problém přetrvává nebo nepoužíváte Samsung OneUI, nahlaste prosím chybu na našem Discord serveru nebo e-mailem na podporu.</string>
+    <string name="samsung_compat_warning_body">Byla zjištěna neplatná konfigurace displeje. To může způsobovat problémy s ovládáním ve hře a více dotyky. Jedná se o známou chybu Samsung OneUI. Pro pokus o vyřešení problému postupujte v tomto pořadí:\n\n1. Otevřete Game Booster Plus → Game Performance → nastavte na "Performance" nebo 100%\n2. Odeberte aplikaci z knihovny Game Launcheru\n3. Snižte rozlišení obrazovky, pokud to vaše zařízení podporuje (1440p → 1080p)\n4. Restartujte zařízení\n\nPokud problém přetrvává nebo nepoužíváte Samsung OneUI, nahlaste prosím chybu na našem Discord serveru nebo e-mailem na podporu.</string>
     <string name="support">Support</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Copy</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

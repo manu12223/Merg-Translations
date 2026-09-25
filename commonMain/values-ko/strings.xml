@@ -61,6 +61,8 @@
     <string name="control_joystick">조이스틱</string>
     <string name="control_relative">렐러티브</string>
     <string name="control_touch">터치</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">버튼 레이아웃</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">배경 불투명도</string>
     <string name="show_performance_metrics">게임 성능 표시</string>
     <string name="skin_outlines">스킨 테두리</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">방향 화살표</string>
     <string name="border_above_entities">경계선 위에 표시</string>
@@ -353,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Promoted to %1$s.</string>
     <string name="clan_demoted">Demoted to %1$s.</string>
     <string name="clan_kick_confirm_title">Kick Member</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) from the clan? They may rejoin by request.</string>
+    <string name="clan_kick_confirm_message">Kick "%1$s" (ID: %2$d) from the clan? They may rejoin by request.</string>
     <string name="clan_ban_confirm_title">Ban Member</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
+    <string name="clan_ban_confirm_message">Ban "%1$s" (ID: %2$d) from the clan? They will never be able to rejoin.</string>
     <string name="clan_unban_confirm_title">Unban Member</string>
-    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? They will be able to rejoin.</string>
+    <string name="clan_unban_confirm_message">Unban "%1$s" (ID: %2$d)? They will be able to rejoin.</string>
     <string name="clan_unkick_confirm_title">Unkick Member</string>
-    <string name="clan_unkick_confirm_message">Remove the join-request requirement for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">Remove the join-request requirement for "%1$s" (ID: %2$d)?</string>
     <string name="clan_invited">Invited</string>
     <string name="clan_revoke_invite_confirm_title">Revoke Invite</string>
-    <string name="clan_revoke_invite_confirm_message">Revoke invite for \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Revoke invite for "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Invite sent!</string>
     <string name="clan_player_not_found">Player not found.</string>
     <string name="clan_player_banned">This player is banned from your clan.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">History ID: %d</string>
     <string name="clan_public_profile">Public Clan Profile</string>
     <string name="clan_kicked_banned_players">Kicked/Banned Players</string>
-    <string name="clan_unkick_confirm">Are you sure you want to unkick \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Are you sure you want to unban \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Are you sure you want to unkick "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Are you sure you want to unban "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Search by ID or Name</string>
     <string name="clan_promote_to_owner">Promote to Owner</string>
     <string name="clan_transfer_ownership_title">Transfer Ownership</string>
-    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
+    <string name="clan_transfer_ownership_message">You are about to promote "%1$s" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID does not match</string>
     <string name="clan_customize_name_color">Clan Name Color</string>
     <string name="clan_customize_tag_color">Clan Tag Color</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Blocked Players</string>
     <string name="no_blocked_players">No blocked players</string>
-    <string name="unblock_confirm_message">Unblock \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">Unblock "%1$s" (ID: %2$d)?</string>
     <string name="block_player">Block Player</string>
     <string name="unblock_player">Unblock Player</string>
     <string name="block_confirm_title">Block Player?</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Server is not running</string>
     <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
     <string name="play">Play</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Public</string>
     <string name="room_private">Private</string>
     <string name="room_hidden">Hidden</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Map</string>
     <string name="size">Size</string>
     <string name="shots">Shots</string>
@@ -1189,7 +1195,7 @@
     <string name="after">After</string>
     <string name="clan_id">Clan ID:</string>
     <string name="editing_message">Editing message</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to "Performance" or 100%\n2. Remove the app from Game Launcher's library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Support</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Copy</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

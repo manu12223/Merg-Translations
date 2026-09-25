@@ -61,6 +61,8 @@
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Göreceli Kontrol</string>
     <string name="control_touch">Dokunmatik</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Fare</string>
     <string name="control_keyboard">Klavye</string>
     <string name="button_layout">Buton Düzeni</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Arka Plan Saydamlığı</string>
     <string name="show_performance_metrics">Performans Değerlerini Göster</string>
     <string name="skin_outlines">Görünüm Dış Çizgileri</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Gecikmeli Otomatik Bölünme/Fırlatma</string>
     <string name="direction_arrow">Yön Oku</string>
     <string name="border_above_entities">Sınır Çizgisini Nesnelerin Üzerinde Göster</string>
@@ -254,7 +257,7 @@
     <string name="reward_profile_triple_gradient">Profil Üçlü Renk Geçişi</string>
     <string name="reward_profile_description_color">Profil Açıklaması Rengi</string>
     <string name="reward_name_font">İsim Yazı Tipi</string>
-    <string name="reward_already_owned_compensation">Zaten Sahipsin. Voidstone\'a Dönüştürüldü</string>
+    <string name="reward_already_owned_compensation">Zaten Sahipsin. Voidstone'a Dönüştürüldü</string>
     <string name="purchase_id">Satın Alma ID: %d</string>
     <string name="history">Geçmiş</string>
     <string name="voidstone_history">Voidstone Geçmişi</string>
@@ -346,7 +349,7 @@
      <string name="season_pass_history_task_season">Sezonluk Görev: %1$s</string>
      <string name="season_pass_history_season_page">Sezon %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Aşama %1$d (Ücretli) - Geri Alındı</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstone\'lar geri alındı</string>
+     <string name="season_pass_history_revoked_voidstones">Voidstone'lar geri alındı</string>
      <string name="season_pass_history_revoked_unlock">Açılan kilit geri alındı</string>
      <string name="season_pass_history_revoked_trigger_refund">Sezonluk Bilet Altını iade edildi</string>
      <string name="season_pass_history_revoked_trigger_dispute">Sezonluk Bilet Altını için harcama itirazı yapıldı</string>
@@ -411,7 +414,7 @@
     <string name="change_name">İsim Değiştir</string>
     <string name="copy_id">ID Kopyala</string>
     <string name="share_id">ID Paylaş</string>
-    <string name="share_id_message">Beni Merg\'de ekle! ID\'m: %1$s</string>
+    <string name="share_id_message">Beni Merg'de ekle! ID'm: %1$s</string>
     <string name="no_youtube_link">Bağlantı Yok</string>
     <string name="no_tiktok_link">Bağlantı Yok</string>
     <string name="created">Oluşturulma: %s</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">%1$s rütbesine yükseltildin.</string>
     <string name="clan_demoted">%1$s rütbesine düşürüldün.</string>
     <string name="clan_kick_confirm_title">Üyeyi At</string>
-    <string name="clan_kick_confirm_message">\"%1$s\" (ID: %2$d) klandan atılsın mı? Tekrar istekle katılabilir.</string>
+    <string name="clan_kick_confirm_message">"%1$s" (ID: %2$d) klandan atılsın mı? Tekrar istekle katılabilir.</string>
     <string name="clan_ban_confirm_title">Üyeyi Yasakla</string>
-    <string name="clan_ban_confirm_message">\"%1$s\" (ID: %2$d) klandan yasaklansın mı? Bir daha asla katılamayacak.</string>
+    <string name="clan_ban_confirm_message">"%1$s" (ID: %2$d) klandan yasaklansın mı? Bir daha asla katılamayacak.</string>
     <string name="clan_unban_confirm_title">Üyenin Yasağını Kaldır</string>
-    <string name="clan_unban_confirm_message">\"%1$s\" (ID: %2$d) adlı üyenin yasağı kaldırılsın mı? Tekrar katılabilecek.</string>
+    <string name="clan_unban_confirm_message">"%1$s" (ID: %2$d) adlı üyenin yasağı kaldırılsın mı? Tekrar katılabilecek.</string>
     <string name="clan_unkick_confirm_title">Atılma Durumunu Kaldır</string>
-    <string name="clan_unkick_confirm_message">\"%1$s\" (ID: %2$d) için katılma isteği zorunluluğu kaldırılsın mı?</string>
+    <string name="clan_unkick_confirm_message">"%1$s" (ID: %2$d) için katılma isteği zorunluluğu kaldırılsın mı?</string>
     <string name="clan_invited">Davet Edildi</string>
     <string name="clan_revoke_invite_confirm_title">Daveti Geri Çek</string>
-    <string name="clan_revoke_invite_confirm_message">\"%1$s\" (ID: %2$d) için davet geri çekilsin mi?</string>
+    <string name="clan_revoke_invite_confirm_message">"%1$s" (ID: %2$d) için davet geri çekilsin mi?</string>
     <string name="clan_invite_sent">Davet gönderildi!</string>
     <string name="clan_player_not_found">Oyuncu bulunamadı.</string>
     <string name="clan_player_banned">Bu oyuncu klanından yasaklanmış.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">ID Geçmişi: %d</string>
     <string name="clan_public_profile">Herkese Açık Klan Profili</string>
     <string name="clan_kicked_banned_players">Atılan/Yasaklanan Oyuncular</string>
-    <string name="clan_unkick_confirm">\"%1$s\" (ID: %2$d) adlı üyenin atılma durumunu kaldırmak istediğine emin misin?</string>
-    <string name="clan_unban_confirm">\"%1$s\" (ID: %2$d) adlı üyenin yasağını kaldırmak istediğine emin misin?</string>
+    <string name="clan_unkick_confirm">"%1$s" (ID: %2$d) adlı üyenin atılma durumunu kaldırmak istediğine emin misin?</string>
+    <string name="clan_unban_confirm">"%1$s" (ID: %2$d) adlı üyenin yasağını kaldırmak istediğine emin misin?</string>
     <string name="clan_search_hint">ID veya İsim ile Ara</string>
     <string name="clan_promote_to_owner">Kurucu Yap</string>
     <string name="clan_transfer_ownership_title">Sahipliği Devret</string>
-    <string name="clan_transfer_ownership_message">\"%1$s\" (ID: %2$d) adlı üyeyi Kurucu yapmak üzeresin. Senin rütben Yardımcı Liderliğe düşürülecek. Bu işlem geri alınamaz.\n\nOnaylamak için oyuncunun ID\'sini yaz:</string>
+    <string name="clan_transfer_ownership_message">"%1$s" (ID: %2$d) adlı üyeyi Kurucu yapmak üzeresin. Senin rütben Yardımcı Liderliğe düşürülecek. Bu işlem geri alınamaz.\n\nOnaylamak için oyuncunun ID'sini yaz:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID eşleşmiyor</string>
     <string name="clan_customize_name_color">Klan İsim Rengi</string>
     <string name="clan_customize_tag_color">Klan Etiket Rengi</string>
@@ -648,7 +651,7 @@
     <string name="leaderboard_type">Liderlik Tablosu Türü</string>
     <string name="leaderboard_xp_description">Deneyim puanı. Seviye atlamak için gereklidir. Oyun içinde anlamlı herhangi bir eylem yapılarak elde edilebilir.</string>
     <string name="leaderboard_type_ap">AP</string>
-    <string name="leaderboard_ap_description">AP, Başarım Puanı\'nın kısaltmasıdır. Bu özel puanları başarımları tamamlayarak elde et! Yüksek aşamalı başarımlar diğerlerinden daha fazla AP verir.</string>
+    <string name="leaderboard_ap_description">AP, Başarım Puanı'nın kısaltmasıdır. Bu özel puanları başarımları tamamlayarak elde et! Yüksek aşamalı başarımlar diğerlerinden daha fazla AP verir.</string>
     <string name="leaderboard_competitive_description">Dereceli 1v1 sıralaması. Yalnızca en az 12 rekabetçi maç tamamlamış olan oyuncular listelenir.</string>
     <string name="leaderboard_rating">Reyting</string>
     <string name="leaderboard_period_daily">Günlük</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Engellenen Oyuncular</string>
     <string name="no_blocked_players">Engellenen oyuncu yok</string>
-    <string name="unblock_confirm_message">\"%1$s\" (ID: %2$d) adlı oyuncunun engeli kaldırılsın mı?</string>
+    <string name="unblock_confirm_message">"%1$s" (ID: %2$d) adlı oyuncunun engeli kaldırılsın mı?</string>
     <string name="block_player">Oyuncuyu Engelle</string>
     <string name="unblock_player">Oyuncunun Engelini Kaldır</string>
     <string name="block_confirm_title">Oyuncuyu Engelle?</string>
@@ -948,7 +951,7 @@
     <string name="enter_ip">IP Gir</string>
     <string name="join_ip_title">IP Adresine Katıl</string>
     <string name="tap_to_reveal">Görmek için dokun</string>
-    <string name="remote_lan_connections">Diğer istemcilerin genel IP üzerinden uzaktan katılabilmesi için yönlendirici ayarlarından UDP %d portunu yönlendirmen veya cihazın için DMZ\'yi etkinleştirmen gerekir. Ağının Simetrik NAT/CGNAT arkasında olması durumunda bağlantıların yine de başarısız olabileceğini lütfen unutma. Daha fazla bilgi edinmek ve mevcut NAT türünü kontrol etmek için %s adresini ziyaret et.</string>
+    <string name="remote_lan_connections">Diğer istemcilerin genel IP üzerinden uzaktan katılabilmesi için yönlendirici ayarlarından UDP %d portunu yönlendirmen veya cihazın için DMZ'yi etkinleştirmen gerekir. Ağının Simetrik NAT/CGNAT arkasında olması durumunda bağlantıların yine de başarısız olabileceğini lütfen unutma. Daha fazla bilgi edinmek ve mevcut NAT türünü kontrol etmek için %s adresini ziyaret et.</string>
 
     <!-- Player List -->
     <string name="players">Oyuncular</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Server is not running</string>
     <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
     <string name="play">Oyna</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Herkese Açık</string>
     <string name="room_private">Özel</string>
     <string name="room_hidden">Gizli</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Harita</string>
     <string name="size">Boyut</string>
     <string name="shots">Shots</string>
@@ -1189,7 +1195,7 @@
     <string name="after">Sonra</string>
     <string name="clan_id">Klan ID:</string>
     <string name="editing_message">Mesaj Düzenleniyor</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to "Performance" or 100%\n2. Remove the app from Game Launcher's library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Support</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Copy</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

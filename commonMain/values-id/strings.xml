@@ -61,6 +61,8 @@
     <string name="control_joystick">Joystik</string>
     <string name="control_relative">Relatif</string>
     <string name="control_touch">Sentuh</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Tata Letak Tombol</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Opasitas Latar Belakang</string>
     <string name="show_performance_metrics">Tampilkan Metrik Kinerja</string>
     <string name="skin_outlines">Garis Luar Skin</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Autosplit/shoot Tertunda</string>
     <string name="direction_arrow">Panah Arah</string>
     <string name="border_above_entities">Perbatasan di Atas Entitas</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Dipromosikan menjadi %1$s.</string>
     <string name="clan_demoted">Didemosikan menjadi %1$s.</string>
     <string name="clan_kick_confirm_title">Kick Anggota</string>
-    <string name="clan_kick_confirm_message">Kick \"%1$s\" (ID: %2$d) dari klan? Mereka bisa bergabung kembali melalui permintaan.</string>
+    <string name="clan_kick_confirm_message">Kick "%1$s" (ID: %2$d) dari klan? Mereka bisa bergabung kembali melalui permintaan.</string>
     <string name="clan_ban_confirm_title">Ban Anggota</string>
-    <string name="clan_ban_confirm_message">Ban \"%1$s\" (ID: %2$d) dari klan? Mereka tidak akan pernah bisa bergabung kembali.</string>
+    <string name="clan_ban_confirm_message">Ban "%1$s" (ID: %2$d) dari klan? Mereka tidak akan pernah bisa bergabung kembali.</string>
     <string name="clan_unban_confirm_title">Unban Anggota</string>
-    <string name="clan_unban_confirm_message">Unban \"%1$s\" (ID: %2$d)? Mereka akan bisa bergabung kembali.</string>
+    <string name="clan_unban_confirm_message">Unban "%1$s" (ID: %2$d)? Mereka akan bisa bergabung kembali.</string>
     <string name="clan_unkick_confirm_title">Unkick Anggota</string>
-    <string name="clan_unkick_confirm_message">Hapus persyaratan permintaan bergabung untuk \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">Hapus persyaratan permintaan bergabung untuk "%1$s" (ID: %2$d)?</string>
     <string name="clan_invited">Diundang</string>
     <string name="clan_revoke_invite_confirm_title">Batal Undangan</string>
-    <string name="clan_revoke_invite_confirm_message">Batalkan undangan untuk \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Batalkan undangan untuk "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Undangan telah dikirim!</string>
     <string name="clan_player_not_found">Pemain tidak ditemukan.</string>
     <string name="clan_player_banned">Pemain ini dilarang bergabung dari klan Anda.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">ID Riwayat: %d</string>
     <string name="clan_public_profile">Profil Klan Publik</string>
     <string name="clan_kicked_banned_players">Pemain yang Dikeluarkan/Dilarang</string>
-    <string name="clan_unkick_confirm">Apakah Anda yakin ingin unkick \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Apakah Anda yakin ingin unban \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Apakah Anda yakin ingin unkick "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Apakah Anda yakin ingin unban "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Cari berdasarkan ID atau Nama</string>
     <string name="clan_promote_to_owner">Promosikan menjadi Pemilik</string>
     <string name="clan_transfer_ownership_title">Alihkan Kepemilikan</string>
-    <string name="clan_transfer_ownership_message">Anda akan mempromosikan \"%1$s\" (ID: %2$d) menjadi Pemilik. Status Anda akan didemosikan menjadi Rekan Pemilik. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk konfirmasi:</string>
+    <string name="clan_transfer_ownership_message">Anda akan mempromosikan "%1$s" (ID: %2$d) menjadi Pemilik. Status Anda akan didemosikan menjadi Rekan Pemilik. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk konfirmasi:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID tidak cocok</string>
     <string name="clan_customize_name_color">Warna Nama Klan</string>
     <string name="clan_customize_tag_color">Warna Tag Klan</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Pemain yang Diblokir</string>
     <string name="no_blocked_players">Tidak ada pemain yang diblokir</string>
-    <string name="unblock_confirm_message">Unblok \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">Unblok "%1$s" (ID: %2$d)?</string>
     <string name="block_player">Blokir Pemain</string>
     <string name="unblock_player">Unblok Pemain</string>
     <string name="block_confirm_title">Blokir Pemain?</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Server tidak berjalan</string>
     <string name="name_change_reconnect_notice">Agar perubahan nama mulai berlaku, Anda akan dikoneksikan kembali ke server.</string>
     <string name="play">Main</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Publik</string>
     <string name="room_private">Pribadi</string>
     <string name="room_hidden">Tersembunyi</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Peta</string>
     <string name="size">Ukuran</string>
     <string name="shots">Tembakan</string>
@@ -1189,7 +1195,7 @@
     <string name="after">Sesudah</string>
     <string name="clan_id">ID Klan:</string>
     <string name="editing_message">Mengubah pesan</string>
-    <string name="samsung_compat_warning_body">Terdeteksi konfigurasi tampilan yang tidak valid. Hal ini dapat menyebabkan masalah pada kontrol dalam permainan dan fitur multitouch. Ini adalah bug yang diketahui terjadi pada Samsung OneUI. Untuk mencoba mengatasi masalah ini, silakan ikuti langkah-langkah berikut secara berurutan:\n\n1. Buka Game Booster Plus → Game Performance → atur ke \"Performance\" atau 100%\n2. Hapus aplikasi dari pustaka Game Launcher\n3. Turunkan resolusi layar jika perangkat Anda mendukungnya (1440p → 1080p)\n4. Reboot perangkat Anda\n\nJika masalah masih berlanjut atau perangkat Anda tidak menggunakan Samsung OneUI, silakan kirim laporan bug melalui server Discord atau email dukungan kami.</string>
+    <string name="samsung_compat_warning_body">Terdeteksi konfigurasi tampilan yang tidak valid. Hal ini dapat menyebabkan masalah pada kontrol dalam permainan dan fitur multitouch. Ini adalah bug yang diketahui terjadi pada Samsung OneUI. Untuk mencoba mengatasi masalah ini, silakan ikuti langkah-langkah berikut secara berurutan:\n\n1. Buka Game Booster Plus → Game Performance → atur ke "Performance" atau 100%\n2. Hapus aplikasi dari pustaka Game Launcher\n3. Turunkan resolusi layar jika perangkat Anda mendukungnya (1440p → 1080p)\n4. Reboot perangkat Anda\n\nJika masalah masih berlanjut atau perangkat Anda tidak menggunakan Samsung OneUI, silakan kirim laporan bug melalui server Discord atau email dukungan kami.</string>
     <string name="support">Dukungan</string>
     <string name="support_intro">Berikut adalah semua cara untuk menghubungi layanan dukungan.</string>
     <string name="copy">Salin</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Upaya pengoneksian kembali #%1$d gagal: %2$s</string>
     <string name="save_preferences">Simpan preferensi</string>
     <string name="load_preferences">Muat preferensi</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferensi disimpan ke %1$s</string>
     <string name="preferences_loaded">Preferensi dimuat!</string>
     <string name="preferences_transfer_failed">Transfer preferensi gagal: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Bintang Film</string>
     <string name="ach_title_cinephile">Sinefil</string>
     <string name="ach_desc_rewarded_ads">Tonton %1$s iklan berhadiah.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

@@ -61,6 +61,8 @@
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Kamag-anak</string>
     <string name="control_touch">Pindutin</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Layout ng Butones</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Kadiliman ng Background</string>
     <string name="show_performance_metrics">Ipakita ang Mga Sukatan ng Pagganap</string>
     <string name="skin_outlines">Mga Balangkas ng Skin</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">Palaso ng Direksyon</string>
     <string name="border_above_entities">Mga Entity sa Itaas ng Hangganan</string>
@@ -161,9 +164,9 @@
     <string name="friend_requests_sent">Mga Naipadalang Kahilingan</string>
     <string name="no_friends">Wala pang mga kaibigan…</string>
     <string name="remove_friend_title">Alisin ang Kaibigan</string>
-    <string name="remove_friend_message">Sigurado ka bang gusto mong alisin si \"%1$s\" (ID: %2$d) bilang kaibigan?</string>
+    <string name="remove_friend_message">Sigurado ka bang gusto mong alisin si "%1$s" (ID: %2$d) bilang kaibigan?</string>
     <string name="cancel_request_title">Kanselahin ang Kahilingan</string>
-    <string name="cancel_request_message">Sigurado ka bang gusto mong kanselahin ang kahilingan sa kaibigan para kay \"%1$s\" (ID: %2$d)?</string>
+    <string name="cancel_request_message">Sigurado ka bang gusto mong kanselahin ang kahilingan sa kaibigan para kay "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Hindi mo pwedeng padalhan ng kahilingan sa kaibigan ang iyong sarili</string>
     <string name="friend_request_error_already_sent">Naipadala na ang kahilingan sa kaibigan</string>
     <string name="friend_request_error_already_friends">Magkaibigan na kayo</string>
@@ -247,7 +250,7 @@
     <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Na-unlock: %s</string>
     <string name="reward_name_color">Kulay ng Pangalan</string>
-    <string name="reward_name_color_gradient">Kulay ng Pangalan na \"Gradient\"</string>
+    <string name="reward_name_color_gradient">Kulay ng Pangalan na "Gradient"</string>
     <string name="reward_name_triple_gradient">Triple Gradient ng Pangalan</string>
     <string name="reward_profile_color">Kulay ng Propayl</string>
     <string name="reward_profile_gradient">Gradient ng Kulay ng Propayl</string>
@@ -353,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Na-promote sa %1$s.</string>
     <string name="clan_demoted">Ibinaba sa %1$s.</string>
     <string name="clan_kick_confirm_title">Sipain ang Miyembro</string>
-    <string name="clan_kick_confirm_message">Sipain si \"%1$s\" (ID: %2$d) mula sa angkan? Maaari silang sumali muli sa pamamagitan ng kahilingan.</string>
+    <string name="clan_kick_confirm_message">Sipain si "%1$s" (ID: %2$d) mula sa angkan? Maaari silang sumali muli sa pamamagitan ng kahilingan.</string>
     <string name="clan_ban_confirm_title">I-ban ang Miyembro</string>
-    <string name="clan_ban_confirm_message">I-ban si \"%1$s\" (ID: %2$d) mula sa angkan? Hindi na sila makakasama muli kailanman.</string>
+    <string name="clan_ban_confirm_message">I-ban si "%1$s" (ID: %2$d) mula sa angkan? Hindi na sila makakasama muli kailanman.</string>
     <string name="clan_unban_confirm_title">I-unban ang Miyembro</string>
-    <string name="clan_unban_confirm_message">Alisin ang ban para kay \"%1$s\" (ID: %2$d)? Makakasama na silang muli.</string>
+    <string name="clan_unban_confirm_message">Alisin ang ban para kay "%1$s" (ID: %2$d)? Makakasama na silang muli.</string>
     <string name="clan_unkick_confirm_title">I-unkick ang Miyembro</string>
-    <string name="clan_unkick_confirm_message">Alisin ang kinakailangang kahilingan sa pagsali para kay \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">Alisin ang kinakailangang kahilingan sa pagsali para kay "%1$s" (ID: %2$d)?</string>
     <string name="clan_invited">Inimbitahan</string>
     <string name="clan_revoke_invite_confirm_title">Bawiin ang Imbitasyon</string>
-    <string name="clan_revoke_invite_confirm_message">Bawiin ang imbitasyon para kay \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Bawiin ang imbitasyon para kay "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Naipadala na ang imbitasyon!</string>
     <string name="clan_player_not_found">Hindi natagpuan ang manlalaro.</string>
     <string name="clan_player_banned">Banned na ang manlalarong ito sa iyong angkan.</string>
@@ -607,12 +610,12 @@
     <string name="clan_history_id">ID ng Kasaysayan: %d</string>
     <string name="clan_public_profile">Pampublikong Propayl ng Angkan</string>
     <string name="clan_kicked_banned_players">Mga Sinipa/Banned na Manlalaro</string>
-    <string name="clan_unkick_confirm">Sigurado ka bang gusto mong i-unkick si \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Sigurado ka bang gusto mong i-unban si \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Sigurado ka bang gusto mong i-unkick si "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Sigurado ka bang gusto mong i-unban si "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Maghanap gamit ang ID o Pangalan</string>
     <string name="clan_promote_to_owner">I-promote bilang May-ari</string>
     <string name="clan_transfer_ownership_title">Ilipat ang Pagmamay-ari</string>
-    <string name="clan_transfer_ownership_message">Ipi-promote mo si \"%1$s\" (ID: %2$d) bilang May-ari. Ikaw ay ibababa bilang Kasamang May-ari. Hindi na ito mababawi.\n\nI-type ang ID ng manlalaro upang kumpirmahin:</string>
+    <string name="clan_transfer_ownership_message">Ipi-promote mo si "%1$s" (ID: %2$d) bilang May-ari. Ikaw ay ibababa bilang Kasamang May-ari. Hindi na ito mababawi.\n\nI-type ang ID ng manlalaro upang kumpirmahin:</string>
     <string name="clan_transfer_ownership_id_mismatch">Hindi tumutugma ang ID</string>
     <string name="clan_customize_name_color">Kulay ng Pangalan ng Angkan</string>
     <string name="clan_customize_tag_color">Kulay ng Tag ng Angkan</string>
@@ -733,15 +736,15 @@
     <string name="gamemode_domination">Domination</string>
     <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
     <string name="description_classic">Kumain ng mas maliliit na manlalaro at maging pinakamalaking blob sa uniberso! Gamitin ang iyong laki para dominarin ang mapa, pero mag-ingat sa mas malalaking manlalaro na gustong kumain sa iyo!</string>
-    <string name="description_teams">Magsama-sama ng pwersa sa iba pang mga manlalaro na kapareho mo ng kulay! Magtulungan upang ma-trap ang mga kaaway at maging nangingibabaw na koponan sa leaderboard. Hindi maaaring kainin ng magkakagrupo ang isa\'t isa.</string>
-    <string name="description_survival">Isang buhay, isang round! Mangolekta ng marami hangga\'t maaari bago matapos ang grace period. Pagkatapos niyan, permanente na ang kamatayan! Maging huling nakatayo o ang pinakamalaki kapag naubos ang oras para manalo!</string>
+    <string name="description_teams">Magsama-sama ng pwersa sa iba pang mga manlalaro na kapareho mo ng kulay! Magtulungan upang ma-trap ang mga kaaway at maging nangingibabaw na koponan sa leaderboard. Hindi maaaring kainin ng magkakagrupo ang isa't isa.</string>
+    <string name="description_survival">Isang buhay, isang round! Mangolekta ng marami hangga't maaari bago matapos ang grace period. Pagkatapos niyan, permanente na ang kamatayan! Maging huling nakatayo o ang pinakamalaki kapag naubos ang oras para manalo!</string>
     <string name="description_team_survival">Survival mode na may mga koponan! Makipagtulungan sa iyong mga kagrupo para i-eliminate ang ibang koponan. Ang huling koponang nakatayo o may pinakamalaking pinagsamang laki kapag tapos na ang oras ang mananalo!</string>
     <string name="description_knockout">Makipagkumpetensya sa mga elimination round! Malayang makakapag-respawn ang mga manlalaro hanggang sa ma-eliminate sa mga regular na agwat. Ang pinakamaliliit na manlalaro sa bawat agwat ay permanenteng aalisin. Maging huling nakatayo para manalo!</string>
     <string name="description_adventure">Kumpletuhin ang mga mapanghamong stage na may natatanging mga layunin! Umunlad sa pamamagitan ng pagtaas ng kahirapan, kumita ng mga gantimpala, at tingnan kung gaano kalayo ang iyong mararating. Ang bawat stage ay nagdadala ng mga bagong hamon!</string>
     <string name="description_soccer">Agawin ang bola at i-shoot ito sa goal ng kaaway para maka-score. Ang koponan na may pinakamaraming goal kapag naubos ang oras ang mananalo!</string>
     <string name="description_coming_soon">Ang mode na ito ay malapit na, manatiling nakatutok!</string>
     <string name="description_competitive">Ranked 1v1 survival! Kumita ng rating sa pamamagitan ng paggapi sa mga kalaban na may katulad na kasanayan. Isang 3-minutong laban na may 2-minutong overtime kung walang manlalaro ang mamamatay. Manalo para umakyat sa pandaigdigdang leaderboard, matalo at bababa, ngunit ang pagbabago sa rating ay nakadepende sa agwat sa pagitan mo at ng iyong kalaban.</string>
-    <string name="description_multimerg">Magre-spawn ka ng DALAWANG blob at magpapalit ng kontrol sa pagitan nila gamit ang yin-yang button! Ang aktibong blob lamang ang tumutugon sa iyong joystick, split, at shoot. Ang isa naman ay patuloy na gagalaw sa huling direksyon nito. Ang iyong dalawang blob ay maaaring kainin ang isa\'t isa kung maghihiwalay, ngunit ang huling piraso ay protektado.</string>
+    <string name="description_multimerg">Magre-spawn ka ng DALAWANG blob at magpapalit ng kontrol sa pagitan nila gamit ang yin-yang button! Ang aktibong blob lamang ang tumutugon sa iyong joystick, split, at shoot. Ang isa naman ay patuloy na gagalaw sa huling direksyon nito. Ang iyong dalawang blob ay maaaring kainin ang isa't isa kung maghihiwalay, ngunit ang huling piraso ay protektado.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Napakaliit</string>
@@ -928,16 +931,16 @@
     <!-- Block Player -->
     <string name="blocked_players">Mga Na-block na Manlalaro</string>
     <string name="no_blocked_players">Walang na-block na manlalaro</string>
-    <string name="unblock_confirm_message">I-unblock si \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">I-unblock si "%1$s" (ID: %2$d)?</string>
     <string name="block_player">I-block ang Manlalaro</string>
     <string name="unblock_player">I-unblock ang Manlalaro</string>
     <string name="block_confirm_title">I-block ang Manlalaro?</string>
-    <string name="block_confirm_message">Sigurado ka bang gusto mong i-block si %s? Pareho kayong hindi makakapagpadala ng mail o hiling ng kaibigan sa isa\'t isa, at maaalis kayo sa listahan ng mga kaibigan ng bawat isa.</string>
+    <string name="block_confirm_message">Sigurado ka bang gusto mong i-block si %s? Pareho kayong hindi makakapagpadala ng mail o hiling ng kaibigan sa isa't isa, at maaalis kayo sa listahan ng mga kaibigan ng bawat isa.</string>
     <string name="player_unblocked">Na-unblock na ang manlalaro</string>
     <string name="player_blocked">Na-block na ang manlalaro</string>
     <string name="you_blocked_user">Ikinandado mo ang user na ito</string>
     <string name="user_blocked_you">Naka-block</string>
-    <string name="both_blocked">Parehong nag-block sa isa\'t isa ang mga user</string>
+    <string name="both_blocked">Parehong nag-block sa isa't isa ang mga user</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">MAG-HOST NG LOCAL GAME</string>
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Hindi tumatakbo ang server</string>
     <string name="name_change_reconnect_notice">Para magkabisa ang pagbabago ng pangalan, muli kang ikokonekta sa server.</string>
     <string name="play">Laro</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Pampubliko</string>
     <string name="room_private">Pribado</string>
     <string name="room_hidden">Nakatago</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Mapa</string>
     <string name="size">Laki</string>
     <string name="shots">Mga Tira</string>
@@ -1189,7 +1195,7 @@
     <string name="after">Pagkatapos</string>
     <string name="clan_id">ID ng Clan:</string>
     <string name="editing_message">Inie-edit ang mensahe</string>
-    <string name="samsung_compat_warning_body">May natukoy na di-wastong pagsasaayos ng display. Maaari itong magdulot ng mga isyu sa mga in-game control at multitouch. Ito ay isang kilalang bug sa Samsung OneUI. Upang subukang lutasin ang problema, subukan ang mga hakbang na ito ayon sa pagkakasunod-sunod:\n\n1. Buksan ang Game Booster Plus → Game Performance → itakda sa \"Performance\" o 100%\n2. Alisin ang app mula sa library ng Game Launcher\n3. Babaan ang resolution ng screen kung sinusuportahan ito ng iyong aparato (1440p → 1080p)\n4. I-reboot ang iyong aparato\n\nKung magpapatuloy ang problema o wala ka sa Samsung OneUI, mangyaring maghain ng ulat ng bug sa aming Discord Server o sa support mail.</string>
+    <string name="samsung_compat_warning_body">May natukoy na di-wastong pagsasaayos ng display. Maaari itong magdulot ng mga isyu sa mga in-game control at multitouch. Ito ay isang kilalang bug sa Samsung OneUI. Upang subukang lutasin ang problema, subukan ang mga hakbang na ito ayon sa pagkakasunod-sunod:\n\n1. Buksan ang Game Booster Plus → Game Performance → itakda sa "Performance" o 100%\n2. Alisin ang app mula sa library ng Game Launcher\n3. Babaan ang resolution ng screen kung sinusuportahan ito ng iyong aparato (1440p → 1080p)\n4. I-reboot ang iyong aparato\n\nKung magpapatuloy ang problema o wala ka sa Samsung OneUI, mangyaring maghain ng ulat ng bug sa aming Discord Server o sa support mail.</string>
     <string name="support">Support</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Copy</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>

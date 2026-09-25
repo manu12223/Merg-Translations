@@ -61,6 +61,8 @@
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocco</string>
+    <string name="control_drag">Drag</string>
+    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Layout pulsanti</string>
@@ -77,6 +79,7 @@
     <string name="custom_background_opacity">Opacità Sfondo</string>
     <string name="show_performance_metrics">Mostra Prestazioni</string>
     <string name="skin_outlines">Bordi delle Skin</string>
+    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
     <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
     <string name="direction_arrow">Freccia Direzionale</string>
     <string name="border_above_entities">Bordo Sopra le Entità</string>
@@ -110,8 +113,8 @@
     <string name="decrease_elimination_count">Diminuisci il Numero di Eliminazioni</string>
     <string name="increase_elimination_count">Aumenta il Numero di Eliminazioni</string>
     <string name="elimination_interval">Intervallo di Eliminazione</string>
-    <string name="decrease_elimination_interval">Diminuisci l\'Intervallo di Eliminazione</string>
-    <string name="increase_elimination_interval">Aumenta l\'Intervallo di Eliminazione</string>
+    <string name="decrease_elimination_interval">Diminuisci l'Intervallo di Eliminazione</string>
+    <string name="increase_elimination_interval">Aumenta l'Intervallo di Eliminazione</string>
     <string name="map_size">Dimensione Mappa</string>
     <string name="bot_count">Numero di Bot</string>
     <string name="bot_difficulty">Difficoltà dei Bot</string>
@@ -125,7 +128,7 @@
     <string name="circle_map">Mappa Circolare</string>
     <string name="relax">Relax</string>
     <string name="warning_no_holes">Le statistiche non saranno salvate</string>
-    <string name="gold_holes">Buchi d\'Oro</string>
+    <string name="gold_holes">Buchi d'Oro</string>
     <string name="teleport_holes">Teleport Holes</string>
     <string name="starting_difficulty">Difficoltà iniziale</string>
 
@@ -200,7 +203,7 @@
     <string name="draw">PAREGGIO</string>
     <string name="play_again">Gioca Ancora</string>
     <string name="play_x_more_matches_to_rated">Gioca altre %d partite per essere classificato!</string>
-    <string name="play_one_more_match_to_rated">Gioca un\'altra partita per essere classificato!</string>
+    <string name="play_one_more_match_to_rated">Gioca un'altra partita per essere classificato!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
     <string name="prizes">Premi</string>
     <string name="prizes_dialog_intro">Prima del reset di ogni stagione, i migliori giocatori riceveranno una ricompensa in Voidstone in base alle loro prestazioni!</string>
@@ -295,8 +298,8 @@
     <!-- Ads -->
     <string name="ad_not_loaded">Annuncio non ancora caricato</string>
     <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
-    <string name="ad_show_failed">Impossibile mostrare l\'annuncio</string>
-    <string name="ad_load_failed">Impossibile caricare l\'annuncio</string>
+    <string name="ad_show_failed">Impossibile mostrare l'annuncio</string>
+    <string name="ad_load_failed">Impossibile caricare l'annuncio</string>
     <string name="ad_rate_limited">Hai guardato troppi annunci di recente. Riprova tra %s.</string>
     <string name="time_hrs">ore</string>
     <string name="time_min">min</string>
@@ -353,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
 
      <string name="season_pass_missed_title">MISSED REWARDS</string>
-     <string name="season_pass_missed_subtitle">Stages you didn\'t claim in season %1$d</string>
+     <string name="season_pass_missed_subtitle">Stages you didn't claim in season %1$d</string>
      <string name="season_pass_missed_empty">No missed rewards from the previous season</string>
      <string name="season_pass_missed_cd">Missed rewards</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (Free)</string>
@@ -450,11 +453,11 @@
     <string name="profile_logged_in">Accesso effettuato</string>
     <string name="profile_logout_confirm">Vuoi disconnetterti da %s?</string>
     <string name="profile_logout_confirm_no_name">Vuoi disconnetterti?</string>
-    <string name="profile_logout_all_confirm">Vuoi disconnettere tutti i dispositivi da %s? Potrebbe richiedere fino a un\'ora.</string>
-    <string name="profile_logout_all_confirm_no_name">Vuoi disconnettere tutti i dispositivi? Potrebbe richiedere fino a un\'ora.</string>
+    <string name="profile_logout_all_confirm">Vuoi disconnettere tutti i dispositivi da %s? Potrebbe richiedere fino a un'ora.</string>
+    <string name="profile_logout_all_confirm_no_name">Vuoi disconnettere tutti i dispositivi? Potrebbe richiedere fino a un'ora.</string>
     <string name="profile_logout_failed">Disconnessione fallita</string>
-    <string name="profile_delete_warning">Sei sicuro di voler eliminare il tuo account Merg e tutti i dati associati? L\'AZIONE È IRREVERSIBILE!</string>
-    <string name="profile_delete_type_prompt">Digita %s per confermare l\'eliminazione dell\'account:</string>
+    <string name="profile_delete_warning">Sei sicuro di voler eliminare il tuo account Merg e tutti i dati associati? L'AZIONE È IRREVERSIBILE!</string>
+    <string name="profile_delete_type_prompt">Digita %s per confermare l'eliminazione dell'account:</string>
     <string name="profile_delete_confirm_text">ELIMINA</string>
     <string name="profile_delete_failed">Eliminazione fallita</string>
     <string name="name_color">Colore Nome</string>
@@ -547,7 +550,7 @@
     <string name="clan_owner_must_transfer">Devi trasferire la proprietà a un altro membro prima di lasciare il clan.</string>
     <string name="clan_request_sent">Richiesta di iscrizione inviata.</string>
     <string name="clan_disband">Sciogli Clan</string>
-    <string name="clan_disband_confirm">Sei sicuro di voler sciogliere questo clan? L\'azione è irreversibile!</string>
+    <string name="clan_disband_confirm">Sei sicuro di voler sciogliere questo clan? L'azione è irreversibile!</string>
     <string name="clan_invite">Invita Giocatore</string>
     <string name="clan_invite_hint">Invita tramite ID o Nome</string>
     <string name="clan_settings">Impostazioni Clan</string>
@@ -568,16 +571,16 @@
     <string name="clan_promoted">Promosso a %1$s.</string>
     <string name="clan_demoted">Retrocesso a %1$s.</string>
     <string name="clan_kick_confirm_title">Espelli Membro</string>
-    <string name="clan_kick_confirm_message">Espellere \"%1$s\" (ID: %2$d) dal clan? Potrà richiedere nuovamente l\'ingresso.</string>
+    <string name="clan_kick_confirm_message">Espellere "%1$s" (ID: %2$d) dal clan? Potrà richiedere nuovamente l'ingresso.</string>
     <string name="clan_ban_confirm_title">Banna Membro</string>
-    <string name="clan_ban_confirm_message">Bannare \"%1$s\" (ID: %2$d) dal clan? Non potrà mai più rientrare.</string>
+    <string name="clan_ban_confirm_message">Bannare "%1$s" (ID: %2$d) dal clan? Non potrà mai più rientrare.</string>
     <string name="clan_unban_confirm_title">Sblocca Membro</string>
-    <string name="clan_unban_confirm_message">Sbloccare \"%1$s\" (ID: %2$d)? Potrà rientrare nel clan.</string>
+    <string name="clan_unban_confirm_message">Sbloccare "%1$s" (ID: %2$d)? Potrà rientrare nel clan.</string>
     <string name="clan_unkick_confirm_title">Annulla Espulsione Membro</string>
-    <string name="clan_unkick_confirm_message">Rimuovere l\'obbligo di richiesta d\'ingresso per \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm_message">Rimuovere l'obbligo di richiesta d'ingresso per "%1$s" (ID: %2$d)?</string>
     <string name="clan_invited">Invitato</string>
     <string name="clan_revoke_invite_confirm_title">Revoca Invito</string>
-    <string name="clan_revoke_invite_confirm_message">Revocare l\'invito per \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_revoke_invite_confirm_message">Revocare l'invito per "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Invito inviato!</string>
     <string name="clan_player_not_found">Giocatore non trovato.</string>
     <string name="clan_player_banned">Questo giocatore è bannato dal tuo clan.</string>
@@ -607,13 +610,13 @@
     <string name="clan_history_id">ID Cronologia: %d</string>
     <string name="clan_public_profile">Profilo Pubblico Clan</string>
     <string name="clan_kicked_banned_players">Giocatori Espulsi/Bannati</string>
-    <string name="clan_unkick_confirm">Sei sicuro di voler annullare l\'espulsione di \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Sei sicuro di voler sbannare \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">Sei sicuro di voler annullare l'espulsione di "%1$s" (ID: %2$d)?</string>
+    <string name="clan_unban_confirm">Sei sicuro di voler sbannare "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Cerca per ID o Nome</string>
     <string name="clan_promote_to_owner">Promuovi a Capo</string>
     <string name="clan_transfer_ownership_title">Trasferisci Proprietà</string>
-    <string name="clan_transfer_ownership_message">Stai per promuovere \"%1$s\" (ID: %2$d) a Capo. Verrai retrocesso a Co-Capo. L\'azione è irreversibile.\n\nDigita l\'ID del giocatore per confermare:</string>
-    <string name="clan_transfer_ownership_id_mismatch">L\'ID non corrisponde</string>
+    <string name="clan_transfer_ownership_message">Stai per promuovere "%1$s" (ID: %2$d) a Capo. Verrai retrocesso a Co-Capo. L'azione è irreversibile.\n\nDigita l'ID del giocatore per confermare:</string>
+    <string name="clan_transfer_ownership_id_mismatch">L'ID non corrisponde</string>
     <string name="clan_customize_name_color">Colore Nome Clan</string>
     <string name="clan_customize_tag_color">Colore Tag Clan</string>
     <string name="clan_customize_color">Colore Clan</string>
@@ -699,7 +702,7 @@
 
     <!-- Mail !-->
     <string name="mail">Posta</string>
-    <string name="sent_mail_to_id">Posta inviata all\'ID %d</string>
+    <string name="sent_mail_to_id">Posta inviata all'ID %d</string>
     <string name="mail_id">ID Posta: %d</string>
     <string name="no_mail_yet">Ancora nessuna posta</string>
     <string name="mail_from">Da:</string>
@@ -732,16 +735,16 @@
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Domination</string>
     <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
-    <string name="description_classic">Mangia giocatori più piccoli e diventa la palla più grande dell\'universo! Avvalorati della tua dimensione per dominare la mappa, ma fai attenzione a giocatori più grandi che vogliono mangiarti!</string>
+    <string name="description_classic">Mangia giocatori più piccoli e diventa la palla più grande dell'universo! Avvalorati della tua dimensione per dominare la mappa, ma fai attenzione a giocatori più grandi che vogliono mangiarti!</string>
     <string name="description_teams">Unisci le forze con altri giocatori dello stesso colore! Lavorate insieme per intrappolare nemici e diventa la squadra più forte sulla classifica. I compagni di squadra non possono mangiarsi a vicenda.</string>
-    <string name="description_survival">Una vita, un round! Raccogli il più che puoi durante il periodo di grazia. Dopodichè, la morte sarà permanente! Sii l\'ultimo sopravvissuto o il più grande quando scade il tempo per vincere!</string>
-    <string name="description_team_survival">Modalità sopravvivenza con le squadre! Lavora con i tuoi compagni di squadra per eliminare altre squadre. L\'ultima squadra rimasta o quella con dimensione totale maggiore fra tutte quando scade il tempo vince!</string>
-    <string name="description_knockout">Competi in round a eliminazione! È possibile rinascere finché non venite eliminati. I giocatori più piccoli alla fine di ogni intervallo saranno eliminati permanentemente. Sii l\'ultimo rimasto per vincere!</string>
+    <string name="description_survival">Una vita, un round! Raccogli il più che puoi durante il periodo di grazia. Dopodichè, la morte sarà permanente! Sii l'ultimo sopravvissuto o il più grande quando scade il tempo per vincere!</string>
+    <string name="description_team_survival">Modalità sopravvivenza con le squadre! Lavora con i tuoi compagni di squadra per eliminare altre squadre. L'ultima squadra rimasta o quella con dimensione totale maggiore fra tutte quando scade il tempo vince!</string>
+    <string name="description_knockout">Competi in round a eliminazione! È possibile rinascere finché non venite eliminati. I giocatori più piccoli alla fine di ogni intervallo saranno eliminati permanentemente. Sii l'ultimo rimasto per vincere!</string>
     <string name="description_adventure">Completa fases interessanti con obiettivi unici! Progredisci attraverso difficoltà sempre in aumento, ottieni premi, e vedi fino a che punto riesci ad arrivare. Ogni fase porta nuove sfide!</string>
     <string name="description_soccer">Cattura la palla e tirala nella porta nemica per segnare. La squadra con più gol allo scadere del tempo vince!</string>
     <string name="description_coming_soon">Questa modalità è in fase di sviluppo, rimani sintonizzato!</string>
     <string name="description_competitive">Sopravvivenza competitiva 1v1! Guadagna valutazione sconfiggendo avversari con abilità simili. Una partita di 3 minuti con 2 minuti di tempi supplementari se nessuno dei due giocatori muore. Vinci per scalare la classifica globale, perdi e scendi di posizione, ma la variazione del punteggio dipende dal divario tra te e il tuo avversario.</string>
-    <string name="description_multimerg">Generi DUE palle e cambi il controllo tra di esse con il pulsante yin-yang! Solo la palla attiva risponde al tuo joystick, alla divisione e allo sparo. L\'altra continua a muoversi nella sua ultima direzione. Le tue due palle possono mangiarsi a vicenda se divise, ma l\'ultimo pezzo è protetto.</string>
+    <string name="description_multimerg">Generi DUE palle e cambi il controllo tra di esse con il pulsante yin-yang! Solo la palla attiva risponde al tuo joystick, alla divisione e allo sparo. L'altra continua a muoversi nella sua ultima direzione. Le tue due palle possono mangiarsi a vicenda se divise, ma l'ultimo pezzo è protetto.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Minuscola</string>
@@ -840,7 +843,7 @@
     <string name="game_over">Game Over!</string>
     <string name="stage_clear">Fase %s Completata!</string>
     <string name="stage_failed">Fase %s Fallita!</string>
-    <string name="restarting_adventure">Ricominciando l\'Avventura…</string>
+    <string name="restarting_adventure">Ricominciando l'Avventura…</string>
     <string name="server_in_maintenance">Manutenzione del Server</string>
     <string name="server_reboot">Riavvio del Server</string>
     <string name="server_shutdown">Arresto del Server</string>
@@ -891,7 +894,7 @@
     <string name="dialog_confirm_account_deletion">ELIMINA ACCOUNT</string>
     <string name="dialog_leave_game">Abbandonare il Gioco?</string>
     <string name="dialog_respawn_warning">Vuoi rinascere? Perderai tutta la tua Dimensione.</string>
-    <string name="dialog_change_language">Cambiare la lingua in %s? L\'applicazione verrà ricaricata.</string>
+    <string name="dialog_change_language">Cambiare la lingua in %s? L'applicazione verrà ricaricata.</string>
     <string name="dialog_connection_error">Errore di Connessione</string>
     <string name="dialog_disconnected">Disconnesso</string>
     <string name="dialog_disconnected_message">Connessione al server perduta.</string>
@@ -928,7 +931,7 @@
     <!-- Block Player -->
     <string name="blocked_players">Giocatori Bloccati</string>
     <string name="no_blocked_players">Nessun giocatore bloccato</string>
-    <string name="unblock_confirm_message">Sbloccare \"%1$s\" (ID: %2$d)?</string>
+    <string name="unblock_confirm_message">Sbloccare "%1$s" (ID: %2$d)?</string>
     <string name="block_player">Blocca Giocatore</string>
     <string name="unblock_player">Sblocca Giocatore</string>
     <string name="block_confirm_title">Bloccare Giocatore?</string>
@@ -961,12 +964,12 @@
     <string name="kick_confirm_title">Espelli Giocatore</string>
     <string name="kick_confirm_message">Espellere %s da questa stanza? Potrà rientrare.</string>
     <string name="ban_confirm_title">Bandire Giocatore</string>
-    <string name="ban_confirm_message">Sei sicuro di voler bandire %s da questa stanza? Non potrà mai più rientrare e l\'azione è irreversibile!</string>
+    <string name="ban_confirm_message">Sei sicuro di voler bandire %s da questa stanza? Non potrà mai più rientrare e l'azione è irreversibile!</string>
 
     <!-- Custom Images -->
     <string name="custom_images">Immagini Personalizzate</string>
     <string name="profile_avatar">Avatar del Profilo</string>
-    <string name="custom_image_rules">Contenuto Esplicitamente Vietato:\n\n- Contenuti NSFW / Sessuali\n- Violenza esplicita / Gore\n- Armi\n- Simboli d\'odio\n- Incitamento all\'odio / Discriminazione\n- Droghe\n- Contenuti scioccanti/disgustosi\n- Personaggi/Loghi protetti da copyright\n- Riferimenti ad alcol/tabacco\n- Immagini horror/inquietanti</string>
+    <string name="custom_image_rules">Contenuto Esplicitamente Vietato:\n\n- Contenuti NSFW / Sessuali\n- Violenza esplicita / Gore\n- Armi\n- Simboli d'odio\n- Incitamento all'odio / Discriminazione\n- Droghe\n- Contenuti scioccanti/disgustosi\n- Personaggi/Loghi protetti da copyright\n- Riferimenti ad alcol/tabacco\n- Immagini horror/inquietanti</string>
     <string name="custom_image_upload">Carica</string>
     <string name="custom_image_replace">Sostituisci</string>
     <string name="custom_image_deselect">Deseleziona</string>
@@ -975,15 +978,15 @@
     <string name="custom_image_upload_success">Immagine inviata per la revisione</string>
     <string name="custom_image_selected">Avatar selezionato</string>
     <string name="custom_image_deselected">Avatar deselezionato</string>
-    <string name="custom_image_upload_failed">Impossibile caricare l\'immagine</string>
-    <string name="custom_image_read_error">Impossibile leggere l\'immagine</string>
-    <string name="custom_image_invalid_format">Il file deve essere un\'immagine</string>
+    <string name="custom_image_upload_failed">Impossibile caricare l'immagine</string>
+    <string name="custom_image_read_error">Impossibile leggere l'immagine</string>
+    <string name="custom_image_invalid_format">Il file deve essere un'immagine</string>
     <string name="custom_image_error_size">La tua immagine di %1$dKB è troppo grande (max %2$dKB)</string>
     <string name="custom_image_error_dimensions">La tua immagine di %1$dx%2$d è troppo grande (max %3$dx%4$d pixel)</string>
     <string name="custom_image_error_both">La tua immagine di %1$dKB / %3$dx%4$d è troppo grande (max %2$dKB / %5$dx%6$d pixel)</string>
     <string name="custom_image_compress_title">Immagine Troppo Grande - Comprimere?</string>
     <string name="custom_image_compress_accept">Usa Compressa</string>
-    <string name="custom_image_compress_failed">Non è stato possibile comprimere l\'immagine entro il limite di dimensione</string>
+    <string name="custom_image_compress_failed">Non è stato possibile comprimere l'immagine entro il limite di dimensione</string>
     <string name="custom_image_crop_title">Crop to a square</string>
     <string name="custom_image_crop_apply">Crop &amp; use</string>
     <string name="custom_image_processing">Processing…</string>
@@ -995,9 +998,9 @@
     <string name="custom_image_skin_load_failed">Impossibile caricare la tua skin personalizzata: %1$s</string>
     <string name="custom_image_no_approved_image">Nessuna immagine approvata nello slot %1$d</string>
     <string name="report_avatar">Segnala Avatar</string>
-    <string name="report_avatar_message">Segnalare l\'avatar di %1$s?</string>
+    <string name="report_avatar_message">Segnalare l'avatar di %1$s?</string>
     <string name="report_avatar_success">Avatar segnalato</string>
-    <string name="report_avatar_failed">Impossibile segnalare l\'avatar</string>
+    <string name="report_avatar_failed">Impossibile segnalare l'avatar</string>
     <string name="report_banner">Report Banner</string>
     <string name="report_banner_message">Report the banner of %1$s?</string>
     <string name="report_banner_success">Banner reported</string>
@@ -1031,32 +1034,32 @@
     <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Recupero dell\'Account</string>
+    <string name="account_recovery">Recupero dell'Account</string>
     <string name="recovery_info">Sono richiesti lo stesso Wi-Fi e dispositivo, altrimenti il recupero potrebbe fallire.</string>
     <string name="recovery_continue">Continua</string>
-    <string name="recovery_enter_account_id">Inserisci l\'ID del tuo account</string>
+    <string name="recovery_enter_account_id">Inserisci l'ID del tuo account</string>
     <string name="recovery_account_id_placeholder">ID Account</string>
     <string name="recovery_load_preview">Carica account</string>
     <string name="recovery_new_email_label">Nuovo indirizzo email</string>
     <string name="recovery_new_email_placeholder">nuovo@esempio.com</string>
     <string name="recovery_change_mail">Cambia email</string>
-    <string name="recovery_confirm_title">Cambiare l\'email dell\'account?</string>
-    <string name="recovery_confirm_body">Stai per cambiare l\'email di questo account in %1$s. Successivamente effettuerai l\'accesso con l\'account Google corrispondente. Questa azione è irreversibile.</string>
-    <string name="recovery_success_body">L\'email dell\'account è stata cambiata in %1$s. Accedi ora con il tuo nuovo account Google.</string>
+    <string name="recovery_confirm_title">Cambiare l'email dell'account?</string>
+    <string name="recovery_confirm_body">Stai per cambiare l'email di questo account in %1$s. Successivamente effettuerai l'accesso con l'account Google corrispondente. Questa azione è irreversibile.</string>
+    <string name="recovery_success_body">L'email dell'account è stata cambiata in %1$s. Accedi ora con il tuo nuovo account Google.</string>
     <string name="recovery_error_invalid_id">Inserisci un ID account valido.</string>
     <string name="recovery_error_invalid_email">Inserisci un indirizzo email valido.</string>
     <string name="recovery_error_invalid_request">Richiesta non valida. Riprova.</string>
     <string name="recovery_error_network">Errore di rete. Controlla la tua connessione e riprova.</string>
     <string name="recovery_error_fingerprint_mismatch">Questo dispositivo e questa rete non corrispondono a questo account. Il recupero richiede lo stesso telefono e un Wi-Fi che hai già utilizzato con questo account in precedenza.</string>
-    <string name="recovery_error_email_taken">Questa email è già utilizzata da un altro account. Elimina quell\'account o usa un\'email diversa.</string>
+    <string name="recovery_error_email_taken">Questa email è già utilizzata da un altro account. Elimina quell'account o usa un'email diversa.</string>
     <string name="recovery_error_google_taken">Questo account Google è già collegato a un altro account.</string>
-    <string name="recovery_error_email_mismatch">L\'email inserita non corrisponde all\'account Google con cui hai effettuato l\'accesso.</string>
+    <string name="recovery_error_email_mismatch">L'email inserita non corrisponde all'account Google con cui hai effettuato l'accesso.</string>
     <string name="recovery_error_cooldown">Questo account è stato recuperato di recente. Attendi 24 ore prima di riprovare.</string>
     <string name="recovery_error_banned">Questo account è bandito e non può essere recuperato.</string>
     <string name="recovery_error_not_found">Nessun account trovato con questo ID.</string>
     <string name="recovery_error_rate_limited">Troppi tentativi. Attendi e riprova più tardi.</string>
     <string name="recovery_error_google_invalid">Impossibile verificare il tuo account Google. Riprova.</string>
-    <string name="recovery_error_google_cancelled">L\'accesso a Google è stato annullato o è fallito.</string>
+    <string name="recovery_error_google_cancelled">L'accesso a Google è stato annullato o è fallito.</string>
     <string name="recovery_error_internal">Qualcosa è andato storto da parte nostra. Riprova più tardi.</string>
 
     <!-- Miscellaneous !-->
@@ -1064,6 +1067,7 @@
     <string name="server_not_running">Il server non è avviato</string>
     <string name="name_change_reconnect_notice">Affinché il cambio di nome abbia effetto, verrai riconnesso al server.</string>
     <string name="play">Gioca</string>
+    <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1119,6 +1123,8 @@
     <string name="room_public">Pubblico</string>
     <string name="room_private">Privato</string>
     <string name="room_hidden">Nascosto</string>
+    <string name="hidden_rooms_one">1 hidden room</string>
+    <string name="hidden_rooms">%1$d hidden rooms</string>
     <string name="map">Mappa</string>
     <string name="size">Dimensione</string>
     <string name="shots">Spari</string>
@@ -1148,7 +1154,7 @@
     <string name="error_with_string">Errore: %s</string>
     <string name="copied_to_clipboard">Copiato negli appunti.</string>
     <string name="invalid_request">Richiesta malformata o campi obbligatori mancanti</string>
-    <string name="invalid_token">Sessione non valida o scaduta. Effettua nuovamente l\'accesso.</string>
+    <string name="invalid_token">Sessione non valida o scaduta. Effettua nuovamente l'accesso.</string>
     <string name="rate_limited">Attendi %d secondo/i e riprova.</string>
     <string name="nonexistent_user">Utente non trovato</string>
     <string name="not_enough_voidstones">Voidstone insufficienti</string>
@@ -1157,7 +1163,7 @@
     <string name="database_write_fail">Scrittura nel database fallita</string>
     <string name="database_read_fail">Lettura dal database fallita</string>
     <string name="tos_title">Termini di Servizio e Informativa sulla Privacy</string>
-    <string name="tos_message">Continuando, accetti i nostri Termini di Servizio e l\'Informativa sulla Privacy.</string>
+    <string name="tos_message">Continuando, accetti i nostri Termini di Servizio e l'Informativa sulla Privacy.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">Accetta</string>
     <string name="decline">Rifiuta</string>
@@ -1189,7 +1195,7 @@
     <string name="after">Dopo</string>
     <string name="clan_id">ID Clan:</string>
     <string name="editing_message">Modifica del messaggio</string>
-    <string name="samsung_compat_warning_body">Rilevata configurazione del display non valida. Ciò potrebbe causare problemi con i comandi di gioco e il multitouch. Questo è un bug noto di Samsung OneUI. Per tentare di risolvere il problema, prova questi passaggi nell\'ordine:\n\n1. Apri Game Booster Plus → Prestazioni di gioco → imposta su \"Prestazioni\" o 100%\n2. Rimuovi l\'app dalla libreria di Game Launcher\n3. Riduci la risoluzione dello schermo se il tuo dispositivo lo supporta (1440p → 1080p)\n4. Riavvia il dispositivo\n\nSe il problema persiste o non utilizzi Samsung OneUI, invia una segnalazione di bug sul nostro server Discord o alla mail di supporto.</string>
+    <string name="samsung_compat_warning_body">Rilevata configurazione del display non valida. Ciò potrebbe causare problemi con i comandi di gioco e il multitouch. Questo è un bug noto di Samsung OneUI. Per tentare di risolvere il problema, prova questi passaggi nell'ordine:\n\n1. Apri Game Booster Plus → Prestazioni di gioco → imposta su "Prestazioni" o 100%\n2. Rimuovi l'app dalla libreria di Game Launcher\n3. Riduci la risoluzione dello schermo se il tuo dispositivo lo supporta (1440p → 1080p)\n4. Riavvia il dispositivo\n\nSe il problema persiste o non utilizzi Samsung OneUI, invia una segnalazione di bug sul nostro server Discord o alla mail di supporto.</string>
     <string name="support">Support</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Copy</string>
@@ -1214,6 +1220,8 @@
     <string name="reconnect_attempt_failed">Reconnection attempt #%1$d failed: %2$s</string>
     <string name="save_preferences">Save preferences</string>
     <string name="load_preferences">Load preferences</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
@@ -1332,8 +1340,11 @@
     <string name="ach_title_movie_star">Movie Star</string>
     <string name="ach_title_cinephile">Cinephile</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
+    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
+    <string name="options_main">Main</string>
+    <string name="options_graphics">Graphics</string>
+    <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
 </resources>
