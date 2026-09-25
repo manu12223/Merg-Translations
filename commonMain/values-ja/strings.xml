@@ -135,10 +135,10 @@
     <!-- Multiplayer -->
     <string name="play_online">オンラインプレイ</string>
     <string name="switch_server">サーバーの切替</string>
-    <string name="x_players">プレイヤー%s人</string>
-    <string name="x_player">プレイヤー%s人</string>
+    <string name="x_players">プレイヤー %s人</string>
+    <string name="x_player">プレイヤー %s人</string>
     <string name="x_online">%s人がオンライン</string>
-    <string name="x_requests">申請%s件</string>
+    <string name="x_requests">申請 %s件</string>
     <string name="private_room">カスタムルーム</string>
     <string name="private_rooms">カスタムルーム</string>
     <string name="connected">接続済み</string>
