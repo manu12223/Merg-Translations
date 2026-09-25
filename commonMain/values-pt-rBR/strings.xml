@@ -61,8 +61,8 @@
     <string name="control_joystick">Controlador</string>
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Toque</string>
-    <string name="control_drag">Drag</string>
-    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
+    <string name="control_drag">Arrastar</string>
+    <string name="ignore_multitouch_movement">Ignorar multitoque ao se movimentar</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Teclado</string>
     <string name="button_layout">Layout dos botões</string>
@@ -79,7 +79,7 @@
     <string name="custom_background_opacity">Opacidade do fundo</string>
     <string name="show_performance_metrics">Exibir estatísticas de desempenho</string>
     <string name="skin_outlines">Bordas nas skins</string>
-    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
+    <string name="multimerg_blob2_opposite_color">O 2º blob no MultiMerg terá a sua cor invertida</string>
     <string name="delayed_auto_fire">Atraso no auto-split/auto-eject</string>
     <string name="direction_arrow">Seta de direção</string>
     <string name="border_above_entities">Borda acima das entidades</string>
@@ -356,7 +356,7 @@
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold estornada</string>
 
      <string name="season_pass_missed_title">RECOMPENSAS NÃO-RESGATADAS</string>
-     <string name="season_pass_missed_subtitle">Fases não concluídas na temporada %1$d</string>
+     <string name="season_pass_missed_subtitle">Missões não concluídas na temporada %1$d</string>
      <string name="season_pass_missed_empty">Nenhuma recompensa não-resgatada da temporada passada</string>
      <string name="season_pass_missed_cd">Recompensas Não-resgatadas</string>
      <string name="season_pass_missed_stage_free">Fase %1$d (Grátis)</string>
@@ -1067,7 +1067,7 @@
     <string name="server_not_running">O servidor não está em execução</string>
     <string name="name_change_reconnect_notice">Para que o seu novo nome seja exibido aos jogadores no jogo, será necessário reconectar-se ao servidor.</string>
     <string name="play">Jogar</string>
-    <string name="play_one_blob">Play (1 blob)</string>
+    <string name="play_one_blob">Jogar (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1123,8 +1123,8 @@
     <string name="room_public">Pública</string>
     <string name="room_private">Privada</string>
     <string name="room_hidden">Escondida</string>
-    <string name="hidden_rooms_one">1 hidden room</string>
-    <string name="hidden_rooms">%1$d hidden rooms</string>
+    <string name="hidden_rooms_one">1 sala escondida</string>
+    <string name="hidden_rooms">%1$d salas escondidas</string>
     <string name="map">Mapa</string>
     <string name="size">Tamanho</string>
     <string name="shots">Ejeções</string>
@@ -1220,8 +1220,8 @@
     <string name="reconnect_attempt_failed">Falha na tentativa #%1$d de reconexão: %2$s</string>
     <string name="save_preferences">Salvar preferências</string>
     <string name="load_preferences">Carregar preferências</string>
-    <string name="reset_to_defaults">Reset to defaults</string>
-    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
+    <string name="reset_to_defaults">Redefinir para os padrões</string>
+    <string name="reset_to_defaults_confirm">Tem certeza? O app será recarregado.</string>
     <string name="preferences_saved">Preferências salvas para %1$s</string>
     <string name="preferences_loaded">Preferências carregar!</string>
     <string name="preferences_transfer_failed">Não foi possível transferir as preferências: %1$s</string>
@@ -1342,9 +1342,9 @@
     <string name="ach_desc_rewarded_ads">Assista a %1$s anúncios de recompensa.</string>
     <string name="net_switched_to_websocket">!! UDP bloqueado, alterado para WebSocket. Espera-se maior latência. Verifique as regras de firewall da sua rede e certifique-se de que a porta 9807 do UDP não está bloqueada. Se estiver jogando no navegador, ignore esta mensagem.</string>
     <string name="net_switched_back_to_udp">Alterado de volta para UDP.</string>
-    <string name="options_main">Main</string>
-    <string name="options_graphics">Graphics</string>
-    <string name="options_gameplay">Gameplay</string>
+    <string name="options_main">Principal</string>
+    <string name="options_graphics">Gráficos</string>
+    <string name="options_gameplay">Desempenho</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Forçar jogo via WebSocket</string>
 </resources>
