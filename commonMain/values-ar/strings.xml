@@ -1,31 +1,31 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">Merg</string>
+    <string name="app_name" translatable="false">ميرج</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">لعب فردي</string>
-    <string name="lan_multiplayer">الشبكة المحلية</string>
-    <string name="lan">الشبكة المحلية</string>
-    <string name="online_multiplayer">اللعب اونلاين</string>
-    <string name="options">الإعدادات</string>
-    <string name="discord" translatable="false">Discord</string>
+    <string name="singleplayer">لاعب فردي</string>
+    <string name="lan_multiplayer"> متعدد الاعبين </string>
+    <string name="lan">متعدد </string>
+    <string name="online_multiplayer"> متعدد الاعبين اونلاين </string>
+    <string name="options">الأعدادات</string>
+    <string name="discord" translatable="false"> ديسكورد </string>
 
     <!-- Support menu !-->
-    <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">نسخ البريد</string>
-    <string name="email_support">بريد الدعم:</string>
-    <string name="developer">المطور:</string>
-    <string name="code_contribution">مساهمات الكود:</string>
-    <string name="skins">الجلود:</string>
-    <string name="graphics_icons">الرسوم/الايقونات:</string>
+    <string name="email" translatable="false">البريد الاكتروني</string> 
+    <string name="email_copy"> نسخ البريدالاكتروني </string>
+    <string name="email_support"> عنوان البريد مخصص للدعم الفني</string>
+    <string name="developer"> فريق التطوير </string>
+    <string name="code_contribution">صفحة المساهمات</string>
+    <string name="skins"> بشرة الدائرة </string>
+    <string name="graphics_icons"> عناصر رسومية وايقونات </string>
     <string name="sound_effects_credit">المؤثرات الصوتية:</string>
-    <string name="translations">المترجمون:</string>
-    <string name="fonts">الخطوط:</string>
+    <string name="translations"> ترجمة </string>
+    <string name="fonts"> خطوط </string>
 
     <!-- Options menu !-->
-    <string name="language">اللغة</string>
-    <string name="language_arabic">العربية</string>
+    <string name="language">اللغه</string>
+    <string name="language_arabic">اللغه العربية</string>
     <string name="language_azerbaijani">Azərbaycanca | الأذربيجانية</string>
-    <string name="language_bengali">বাংলা | البنغالية</string>
+    <string name="language_bengali">বাংলা | اللغه البنغالية</string>
     <string name="language_chinese">简体中文 | الصينية (المبسطة)</string>
     <string name="language_chinese_traditional">繁體中文 | الصينية (التقليدية)</string>
     <string name="language_czech">Čeština | التشيكية</string>
@@ -63,15 +63,15 @@
     <string name="control_touch">اللمس</string>
     <string name="control_drag">السحب</string>
     <string name="ignore_multitouch_movement">تجاهل اللمس المتعدد للحركة</string>
-    <string name="control_mouse">الماوس</string>
-    <string name="control_keyboard">لوحة المفاتيح</string>
+    <string name="control_mouse">فأرة التحكم</string>
+    <string name="control_keyboard">لوحة تحكم بمفاتيح</string>
     <string name="button_layout">تصميم الأزرار</string>
     <string name="customize">تخصيص</string>
-    <string name="opacity">الشفافية</string>
+    <string name="opacity"> درجة العتامة</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
     <string name="sound_effects">المؤثرات الصوتية</string>
-    <string name="sound_volume">مستوى الصوت</string>
-    <string name="show_grid">اظهار الشبكة</string>
+    <string name="sound_volume">درجة ارتفاع او انخفاض الصوت </string>
+    <string name="show_grid"> اضهار خطوط شبكة</string>
     <string name="show_grid_coordinates">إظهار إحداثيات الشبكة</string>
     <string name="show_coordinate_tint">تلوين الإحداثيات</string>
     <string name="custom_background_image">خلفية مخصصة</string>
@@ -91,7 +91,7 @@
     <string name="name_position_above">فوق</string>
     <string name="name_position_center">وسط</string>
     <string name="name_position_below">أسفل</string>
-    <string name="name_scale">حجم الاسم</string>
+    <string name="name_scale"> مقياس حجم </string>
     <string name="auto_spectate_killer">اظهار القاتل تلقائيا</string>
     <string name="cycle_progressbar">نص شريط تقدم المستوى XP</string>
     <string name="verbose_in_game_ui">تفاصيل واجهة اللعبة</string>
@@ -100,10 +100,9 @@
     <string name="no_interpolation">عدم استيفاء</string>
 
     <!-- Game/room creation menu-->
-    <string name="game_mode">نوع اللعبة</string>
-    <string name="select_mode">اختر الطور</string>
-    <string name="minimum_players">الحد الادنى من اللاعبين</string>
-    <string name="maximum_players">الحد الاقصى من اللاعبين</string>
+    <string name="game_mode"> وضع العاب </string>
+    <string name="select_mode">نمط الاختيار</string>
+    <string name="minimum_players"> اقل عدد من لاعبين / الحدالادنى للاعبين </string></string>
     <string name="decrease_time">تقليل الوقت</string>
     <string name="increase_time">زيادة الوقت</string>
     <string name="grace_period">فترة سماح</string>
@@ -133,44 +132,45 @@
     <string name="starting_difficulty">مستوى الصعوبة الابتدائي</string>
 
     <!-- Multiplayer -->
-    <string name="play_online">اللعب أونلاين</string>
-    <string name="switch_server">تغيير السيرفر</string>
-    <string name="x_players">%s لاعبين</string>
-    <string name="x_player">%s لاعب</string>
-    <string name="x_online">%s متصل</string>
-    <string name="x_requests">%s طلب</string>
-    <string name="private_room">غرفة خاصة</string>
+    <string name="play_online">لعب أونلاين</string>
+    <string name="switch_server"> تغيير الخادم / تبديل السيرفر</string>
+    <string name="x_players">لاعبين</string>
+    <string name="x_player">لاعب</string>
+    <string name="x_online">متصل بشبكة</string>
+    <string name="x_requests">طلبات</string>
+    <string name="private_room">غرفةخاصة</string>
     <string name="private_rooms">غرف خاصة</string>
-    <string name="connected">متصل</string>
-    <string name="select_server">اختيار السيرفر</string>
-    <string name="server_europe">أوروبا</string>
+    <string name="connected">نشط</string>
+    <string name="select_server">تحديد سيرفر </string>
+    <string name="server_europe">سيرفر اوربا </string>
     <string name="server_americas_nc">أمريكا الشمالية والوسطى</string>
     <string name="server_south_america">أمريكا الجنوبية</string>
-    <string name="server_asia">آسيا</string>
-    <string name="join">دخول</string>
-    <string name="create">إنشاء</string>
+    <string name="server_asia">سيرفر أسيا</string>
+    <string name="join">انضمام</string>
+    <string name="create">انشاء</string>
     <string name="create_chat_room">إنشاء غرفة دردشة</string>
     <string name="create_private_game">إنشاء لعبة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
-    <string name="clan">العشيرة</string>
-    <string name="friends">الأصدقاء</string>
+    <string name="clan">عشيرة</string>
+    <string name="friends">الاصدقاء</string>
     <string name="send_friend_request">إرسال طلب صداقة</string>
-    <string name="friend_request_accepted">أنتم الآن أصدقاء!</string>
+    <string name="friend_request_accepted">تم موافقة على طلب صداقة </string>
     <string name="send_friend_request_by_id_or_name">أرسل طلب صداقة باستخدام معرف أو الاسم</string>
     <string name="cancel_friend_request">إلغاء طلب الصداقة</string>
     <string name="remove_friend">إزالة صديق</string>
     <string name="friend_request_sent">تم إرسال طلب الصداقة</string>
     <string name="friend_requests_received">طلبات الصداقة المستلمة</string>
     <string name="friend_requests_sent">طلبات الصداقة المرسلة</string>
-    <string name="no_friends">ليس لديك أصدقاء بعد…</string>
-    <string name="remove_friend_title">إزالة صديق</string>
+    <string name="no_friends">ليس لديك اصدقاء</string>
+    <string name="remove_friend_title">حذف صديق </string>
     <string name="remove_friend_message">هل أنت متأكد أنك تريد إزالة "%1$s" (الهوية: %2$d) من قائمة أصدقائك؟</string>
     <string name="cancel_request_title">الغاء الطلب</string>
-    <string name="cancel_request_message">هل أنت متأكد أنك تريد إلغاء طلب الصداقة المرسل إلى "%1$s" (الهوية: %2$d)؟</string>
-    <string name="friend_request_error_self">لا يمكنك إرسال طلب صداقة الى نفسك</string>
-    <string name="friend_request_error_already_sent">تم ارسال طلب الصداقة بالفعل</string>
-    <string name="friend_request_error_already_friends">اصدقاء بالفعل</string>
-    <string name="friend_request_error_list_full">قائمة الاصدقاء ممتلئة</string>
+    <string name="cancel_request_message">هل أنت متأكد أنك تريد إلغاء طلب الصداقة المرسل إلى "%1$s" (الهوية: %2$d)؟</string
+                                                                                                                
+    <string name="friend_request_error_self">لا يمكنك مصادقة نفسك</string>
+    <string name="friend_request_error_already_sent">تم ارسال طلب صداقة</string>
+    <string name="friend_request_error_already_friends">انتم اصدقاء بالفعل</string>
+    <string name="friend_request_error_list_full">بلغت قائمة الاصدقاء الحد الاقصى ولا تقبل اصدقاء جدد </string>
 
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">تنافسي</string>
@@ -1120,13 +1120,13 @@
     <string name="room_type_local">محلي: %s</string>
     <string name="room_type_public">عام: %s</string>
     <string name="room_type_private">خاص: %s</string>
-    <string name="room_public">عام</string>
-    <string name="room_private">خاص</string>
-    <string name="room_hidden">مخفي</string>
+    <string name="room_public">غرفة عامة</string>
+    <string name="room_private">غرفة خاصة</string>
+    <string name="room_hidden">غرفة مخفي</string>
     <string name="hidden_rooms_one">غرفة واحدة مخفية</string>
-    <string name="hidden_rooms">%1$d غرفة مخفية</string>
-    <string name="map">الخريطة</string>
-    <string name="size">الحجم</string>
+    <string name="hidden_rooms">غرف مخفية</string>
+    <string name="map">خريطة العبة</string>
+    <string name="size">مقاس او حجم </string>
     <string name="shots">الإطلاقات</string>
     <string name="bot">روبوت</string>
     <string name="bots">روبوتات</string>
@@ -1150,7 +1150,7 @@
     <string name="invalid_name">اسم غير صالح!</string>
     <string name="content_blocked">النص يحتوي على محتوى محظور</string>
     <string name="connecting">الاتصال%s</string>
-    <string name="error">خطأ</string>
+    <string name="error">حدث خطأ ما </string>
     <string name="error_with_string">خطأ: %s</string>
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
     <string name="invalid_request">الطلب غير صالح أو يفتقد إلى الحقول المطلوبة</string>
@@ -1158,7 +1158,7 @@
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
     <string name="not_enough_voidstones">لا توجد ما يكفي من الفويدستون</string>
-    <string name="ok">حسناً</string>
+    <string name="ok">حسنا</string>
     <string name="unlock_skin">فتح</string>
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
@@ -1166,15 +1166,15 @@
     <string name="tos_message">بمتابعتك، فإنك توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">قبول</string>
-    <string name="decline">رفض</string>
-    <string name="banned">محظور</string>
-    <string name="muted">حظر من الدردشة</string>
-    <string name="banned_until">محظور حتى %s</string>
-    <string name="muted_until">حظر الدردشة حتى %s</string>
+    <string name="decline">مرفوض</string>
+    <string name="banned">حضر</string>
+    <string name="muted">كتم من الدردشة</string>
+    <string name="banned_until">محظور حتى</string>
+    <string name="muted_until">حظر الدردشة حتى </string>
     <string name="server_shutting_down">السيرفر قيد الإيقاف</string>
     <string name="server_rebooting">السيرفر يعيد التشغيل. يرجى المحاولة بعد قليل.</string>
     <string name="server_maintenance">السيرفر يخضع للصيانة. يرجى المحاولة لاحقاً.</string>
-    <string name="forbidden">ممنوع من الحلبة</string>
+    <string name="forbidden">حضر من الحلبة </string>
     <string name="internal_server_error">خطأ في الخادم الداخلي</string>
     <string name="unknown_error_code">رمز خطأ غير معروف %d</string>
     <string name="page_x_of_y">الصفحة %s من %s</string>
