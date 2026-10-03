@@ -144,7 +144,7 @@
     <string name="connected">接続済み</string>
     <string name="select_server">サーバーの選択</string>
     <string name="server_europe">ヨーロッパ</string>
-    <string name="server_north_america">North America</string>
+    <string name="server_north_america">北米</string>
     <string name="server_south_america">南米</string>
     <string name="server_asia">アジア</string>
     <string name="join">参加</string>
@@ -613,7 +613,7 @@
     <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をKICK解除しますか？</string>
     <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をBAN解除しますか？</string>
     <string name="clan_search_hint">名前またはIDで検索する</string>
-    <string name="clan_discover">Discover Clans</string>
+    <string name="clan_discover">クランを探す</string>
     <string name="clan_promote_to_owner">オーナーシップを移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップの移転</string>
     <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは元に戻せません。\n\nユーザーIDを入力して確認してください：</string>
@@ -1175,7 +1175,7 @@
     <string name="server_shutting_down">サーバーがシャットダウンしています</string>
     <string name="server_rebooting">サーバーは再起動中です。まもなく再度お試しください。</string>
     <string name="server_maintenance">サーバーはメンテナンス中です。しばらくお待ちの上、再度お試しください。</string>
-    <string name="server_overloaded">Server overloaded</string>
+    <string name="server_overloaded">サーバー過負荷</string>
     <string name="forbidden">禁止</string>
     <string name="internal_server_error">内部サーバーエラー</string>
     <string name="unknown_error_code">不明なエラーです。Code %d</string>
