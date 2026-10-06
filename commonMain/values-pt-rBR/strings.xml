@@ -144,7 +144,7 @@
     <string name="connected">Conectado</string>
     <string name="select_server">Selecionar Servidor</string>
     <string name="server_europe">Europa</string>
-    <string name="server_north_america">North America</string>
+    <string name="server_north_america">América do Norte</string>
     <string name="server_south_america">América do Sul</string>
     <string name="server_asia">Ásia</string>
     <string name="join">Entrar</string>
@@ -613,7 +613,7 @@
     <string name="clan_unkick_confirm">Tem certeza de que deseja desfazer a expulsão para "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Tem certeza de que deseja desbanir "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Procurar por ID ou nome</string>
-    <string name="clan_discover">Discover Clans</string>
+    <string name="clan_discover">Explorar Clãs</string>
     <string name="clan_promote_to_owner">Promover a Dono(a)</string>
     <string name="clan_transfer_ownership_title">Transferir Liderança</string>
     <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança para "%1$s" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
@@ -1175,7 +1175,7 @@
     <string name="server_shutting_down">O servidor está sendo encerrado</string>
     <string name="server_rebooting">O servidor está sendo reiniciado. Tente novamente em breve.</string>
     <string name="server_maintenance">O servidor está em manutenção. Tente novamente mais tarde.</string>
-    <string name="server_overloaded">Server overloaded</string>
+    <string name="server_overloaded">Servidor sobrecarregado</string>
     <string name="forbidden">Proibido(a)</string>
     <string name="internal_server_error">Erro Interno do Servidor</string>
     <string name="unknown_error_code">Erro desconhecido. Código %d</string>
