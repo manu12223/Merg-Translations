@@ -14,7 +14,7 @@
     <string name="email_copy">Salin Email</string>
     <string name="email_support">Email Dukungan:</string>
     <string name="developer">Pengembang:</string>
-    <string name="code_contribution">Kontribusi Kode:</string>
+    <string name="code_contribution">Kontributor Kode:</string>
     <string name="skins">Skin:</string>
     <string name="graphics_icons">Grafik/Ikon:</string>
     <string name="sound_effects_credit">Efek Suara:</string>
@@ -61,8 +61,8 @@
     <string name="control_joystick">Joystik</string>
     <string name="control_relative">Relatif</string>
     <string name="control_touch">Sentuh</string>
-    <string name="control_drag">Drag</string>
-    <string name="ignore_multitouch_movement">Ignore multitouch for movement</string>
+    <string name="control_drag">Seret</string>
+    <string name="ignore_multitouch_movement">Abaikan Multitouch untuk Pergerakan</string>
     <string name="control_mouse">Mouse</string>
     <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Tata Letak Tombol</string>
@@ -79,9 +79,9 @@
     <string name="custom_background_opacity">Opasitas Latar Belakang</string>
     <string name="show_performance_metrics">Tampilkan Metrik Kinerja</string>
     <string name="skin_outlines">Garis Luar Skin</string>
-    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
-    <string name="delayed_auto_fire">Autosplit/shoot Tertunda</string>
-    <string name="direction_arrow">Panah Arah</string>
+    <string name="multimerg_blob2_opposite_color">Balikkan Warna Gumpalan 2 (MultiMerg)</string>
+    <string name="delayed_auto_fire">Autosplit/Autoshoot yang Tertunda</string>
+    <string name="direction_arrow">Tanda Panah Arah</string>
     <string name="border_above_entities">Perbatasan di Atas Entitas</string>
     <string name="map_border_visible">Tampilkan Perbatasan Peta</string>
     <string name="star_background_enabled">Bintang-Bintang</string>
@@ -104,26 +104,26 @@
     <string name="select_mode">Pilih Mode</string>
     <string name="minimum_players">Pemain Minimum</string>
     <string name="maximum_players">Pemain Maksimum</string>
-    <string name="decrease_time">Memperpendek Waktu</string>
-    <string name="increase_time">Memperpanjang Waktu</string>
+    <string name="decrease_time">Perpendek Waktu</string>
+    <string name="increase_time">Perpanjang Waktu</string>
     <string name="grace_period">Masa Tenggang</string>
-    <string name="decrease_grace">Memperpendek Masa Tenggang</string>
-    <string name="increase_grace">Memperpanjang Masa Tenggang</string>
+    <string name="decrease_grace">Perpendek Masa Tenggang</string>
+    <string name="increase_grace">Perpanjang Masa Tenggang</string>
     <string name="elimination_count">Jumlah Eliminasi</string>
-    <string name="decrease_elimination_count">Mengurangi Jumlah Eliminasi</string>
-    <string name="increase_elimination_count">Menambahkan Jumlah Eliminasi</string>
+    <string name="decrease_elimination_count">Kurangi Jumlah Eliminasi</string>
+    <string name="increase_elimination_count">Tambahkan Jumlah Eliminasi</string>
     <string name="elimination_interval">Jarak Waktu Eliminasi</string>
-    <string name="decrease_elimination_interval">Memperpendek Jarak Waktu Eliminasi</string>
-    <string name="increase_elimination_interval">Memperpanjang Jarak Waktu Eliminasi</string>
+    <string name="decrease_elimination_interval">Perpendek Jarak Waktu Eliminasi</string>
+    <string name="increase_elimination_interval">Perpanjang Jarak Waktu Eliminasi</string>
     <string name="map_size">Ukuran Peta</string>
     <string name="bot_count">Jumlah Bot</string>
     <string name="bot_difficulty">Kesulitan Bot</string>
-    <string name="decrease_bots">Mengurangi Bot</string>
-    <string name="increase_bots">Menambahkan Bot</string>
-    <string name="max_split_pieces">Maks Potongan Belahan</string>
+    <string name="decrease_bots">Kurangi Bot</string>
+    <string name="increase_bots">Tambahkan Bot</string>
+    <string name="max_split_pieces">Maks Potongan Split</string>
     <string name="quick_merge">Gabungan Cepat</string>
-    <string name="force_split_on_blob_size">Force split on blob size</string>
-    <string name="merge_button">Merge Button</string>
+    <string name="force_split_on_blob_size">Paksa Split pada Ukuran Gumpalan</string>
+    <string name="merge_button">Tombol Gabungan</string>
     <string name="no_holes">Tanpa Lubang</string>
     <string name="circle_map">Peta Lingkaran</string>
     <string name="relax">Santai</string>
@@ -139,19 +139,19 @@
     <string name="x_player">%s pemain</string>
     <string name="x_online">%s online</string>
     <string name="x_requests">%s permintaan</string>
-    <string name="private_room">Ruang Pribadi</string>
-    <string name="private_rooms">Ruang Pribadi</string>
+    <string name="private_room">Ruangan Pribadi</string>
+    <string name="private_rooms">Ruangan Pribadi</string>
     <string name="connected">Terkoneksi</string>
     <string name="select_server">Pilih Server</string>
     <string name="server_europe">Eropa</string>
-    <string name="server_north_america">North America</string>
+    <string name="server_north_america">Amerika Utara</string>
     <string name="server_south_america">Amerika Selatan</string>
     <string name="server_asia">Asia</string>
-    <string name="join">Gabung</string>
+    <string name="join">Bergabung</string>
     <string name="create">Buat</string>
-    <string name="create_chat_room">BUAT RUANG CHAT</string>
+    <string name="create_chat_room">BUAT RUANGAN CHAT</string>
     <string name="create_private_game">BUAT PERMAINAN PRIBADI</string>
-    <string name="room_full">Ruang Penuh</string>
+    <string name="room_full">Ruangan Penuh</string>
     <string name="clan">Klan</string>
     <string name="friends">Teman</string>
     <string name="send_friend_request">Kirim Permintaan Teman</string>
@@ -225,7 +225,7 @@
     <string name="booster_owned">dimiliki: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">Tidak ada</string>
-    <string name="booster_ad_xp_title">Pengganda XP Iklan</string>
+    <string name="booster_ad_xp_title">Pengali XP Iklan</string>
     <string name="booster_ad_xp_desc">Tonton video untuk mendapatkan XP boost sementara!</string>
     <string name="booster_stacks_base_xp">Dapat ditumpuk dengan XP Dasar</string>
     <string name="booster_watch_ad">Tonton Iklan</string>
@@ -233,7 +233,7 @@
     <string name="booster_active">aktif</string>
     <string name="booster_max">MAKS</string>
     <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Pengganda XP Dasar</string>
+    <string name="booster_base_xp">Pengali XP Dasar</string>
     <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autoshoot</string>
     <string name="booster_spawn_size">Ukuran Spawn</string>
@@ -343,24 +343,24 @@
      <string name="season_pass_history_cd">Riwayat</string>
      <string name="season_pass_history_empty">Belum ada hadiah yang dikumpulkan</string>
      <string name="season_pass_history_stage_free">Tahap %1$d (Gratis)</string>
-     <string name="season_pass_history_stage_paid">Tahap %1$d (Berbayar)</string>
+     <string name="season_pass_history_stage_paid">Tahap %1$d (Dibayar)</string>
      <string name="season_pass_history_task_daily">Tugas Harian: %1$s</string>
      <string name="season_pass_history_task_weekly">Tugas Mingguan: %1$s</string>
      <string name="season_pass_history_task_season">Tugas Musiman: %1$s</string>
      <string name="season_pass_history_season_page">Musim %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Tahap %1$d (Berbayar) — dicabut</string>
+     <string name="season_pass_history_revoked_stage_paid">Tahap %1$d (Dibayar) — dicabut</string>
      <string name="season_pass_history_revoked_voidstones">Voidstone telah dihapus</string>
      <string name="season_pass_history_revoked_unlock">Pembukaan kunci telah dihapus</string>
      <string name="season_pass_history_revoked_trigger_refund">Tiket Musiman Emas telah dikembalikan dananya</string>
      <string name="season_pass_history_revoked_trigger_dispute">Tiket Musiman Emas telah disengketakan</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Tiket Musiman Emas telah chargeback</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Chargeback atas Tiket Musiman Emas</string>
 
      <string name="season_pass_missed_title">HADIAH YANG TERLEWAT</string>
      <string name="season_pass_missed_subtitle">Tahapan yang belum Anda klaim di musim %1$d</string>
      <string name="season_pass_missed_empty">Tidak ada hadiah yang terlewatkan dari musim sebelumnya</string>
      <string name="season_pass_missed_cd">Hadiah yang terlewat</string>
      <string name="season_pass_missed_stage_free">Tahap %1$d (Gratis)</string>
-     <string name="season_pass_missed_stage_paid">Tahap %1$d (Berbayar)</string>
+     <string name="season_pass_missed_stage_paid">Tahap %1$d (Dibayar)</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -390,7 +390,7 @@
      <string name="season_task_win_team_survival">Menangkan permainan tim bertahan hidup</string>
      <string name="season_task_win_knockout">Menangkan permainan knockout</string>
      <string name="season_task_win_soccer">Menangkan permainan sepak bola</string>
-     <string name="season_task_soccer_goal_scored">Cetak gol sepak bola</string>
+     <string name="season_task_soccer_goal_scored">Cetak gol di sepak bola</string>
      <string name="season_task_split">Split</string>
      <string name="season_task_shoot">Shoot</string>
 
@@ -498,12 +498,12 @@
 
     <!-- Profile Tags -->
     <string name="developer_tag">Pengembang</string>
-    <string name="code_contribution_tag">Kontribusi Kode</string>
+    <string name="code_contribution_tag">Kontributor Kode</string>
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
     <string name="verified">Terverifikasi</string>
-    <string name="youtube">YouTube</string>
-    <string name="tiktok">TikTok</string>
+    <string name="youtube">YouTuber</string>
+    <string name="tiktok">TikToker</string>
     <string name="translator">Penerjemah</string>
     <string name="internal_tester">Penguji Internal</string>
     <string name="alpha_tester">Penguji Alfa</string>
@@ -544,21 +544,21 @@
     <string name="clan_private">Klan ini bersifat pribadi atau sudah tidak aktif lagi.</string>
     <string name="clan_members">Anggota</string>
     <string name="clan_members_count">%1$d / %2$d anggota</string>
-    <string name="clan_request_join">Permintaan untuk Bergabung</string>
+    <string name="clan_request_join">Minta untuk Bergabung</string>
     <string name="clan_leave">Keluar dari Klan</string>
-    <string name="clan_leave_confirm">Apakah Anda yakin ingin mengeluar dari klan ini?</string>
+    <string name="clan_leave_confirm">Apakah Anda yakin ingin mengeluarkan dari klan ini?</string>
     <string name="clan_owner_must_transfer">Anda harus mengalihkan kepemilikan kepada anggota lain sebelum keluar.</string>
     <string name="clan_request_sent">Permintaan bergabung telah dikirim.</string>
-    <string name="clan_disband">Bubar Klan</string>
+    <string name="clan_disband">Bubarkan Klan</string>
     <string name="clan_disband_confirm">Apakah Anda yakin ingin membubarkan klan? Tindakan ini tidak dapat dibatalkan!</string>
     <string name="clan_invite">Undang Pemain</string>
-    <string name="clan_invite_hint">Undang berdasarkan ID atau Nama</string>
+    <string name="clan_invite_hint">Undangkan berdasarkan ID atau Nama</string>
     <string name="clan_settings">Pengaturan Klan</string>
     <string name="clan_join_mode">Mode Bergabung</string>
     <string name="clan_join_mode_open">Buka</string>
     <string name="clan_join_mode_request">Khusus Permintaan</string>
     <string name="clan_join_mode_private">Pribadi</string>
-    <string name="clan_join_mode_abandoned">Ditinggalkan</string>
+    <string name="clan_join_mode_abandoned">Terbengkalai</string>
     <string name="clan_pending_requests">Permintaan Bergabung</string>
     <string name="clan_role_owner">Pemilik</string>
     <string name="clan_role_co_owner">Rekan Pemilik</string>
@@ -572,13 +572,13 @@
     <string name="clan_demoted">Didemosikan menjadi %1$s.</string>
     <string name="clan_kick_confirm_title">Kick Anggota</string>
     <string name="clan_kick_confirm_message">Kick "%1$s" (ID: %2$d) dari klan? Mereka bisa bergabung kembali melalui permintaan.</string>
-    <string name="clan_ban_confirm_title">Ban Anggota</string>
-    <string name="clan_ban_confirm_message">Ban "%1$s" (ID: %2$d) dari klan? Mereka tidak akan pernah bisa bergabung kembali.</string>
+    <string name="clan_ban_confirm_title">Larang Anggota</string>
+    <string name="clan_ban_confirm_message">Larang "%1$s" (ID: %2$d) dari klan? Mereka tidak akan pernah bisa bergabung kembali.</string>
     <string name="clan_unban_confirm_title">Unban Anggota</string>
     <string name="clan_unban_confirm_message">Unban "%1$s" (ID: %2$d)? Mereka akan bisa bergabung kembali.</string>
     <string name="clan_unkick_confirm_title">Unkick Anggota</string>
     <string name="clan_unkick_confirm_message">Hapus persyaratan permintaan bergabung untuk "%1$s" (ID: %2$d)?</string>
-    <string name="clan_invited">Diundang</string>
+    <string name="clan_invited">Diundangkan</string>
     <string name="clan_revoke_invite_confirm_title">Batal Undangan</string>
     <string name="clan_revoke_invite_confirm_message">Batalkan undangan untuk "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Undangan telah dikirim!</string>
@@ -600,23 +600,23 @@
     <string name="clan_creator">Kreator</string>
     <string name="clan_history">Riwayat Klan</string>
     <string name="clan_history_no_entries">Belum ada riwayat</string>
-    <string name="clan_history_event_join">Bergabung</string>
-    <string name="clan_history_event_leave">Keluar</string>
-    <string name="clan_history_event_kick">Dikeluarkan</string>
+    <string name="clan_history_event_join">Digabungkan</string>
+    <string name="clan_history_event_leave">Ditinggalkan</string>
+    <string name="clan_history_event_kick">Di-kick</string>
     <string name="clan_history_event_ban">Dilarang</string>
     <string name="clan_history_event_promote">Dipromosikan</string>
     <string name="clan_history_event_demote">Didemosikan</string>
     <string name="clan_history_event_donation">Didonasikan</string>
     <string name="clan_history_id">ID Riwayat: %d</string>
     <string name="clan_public_profile">Profil Klan Publik</string>
-    <string name="clan_kicked_banned_players">Pemain yang Dikeluarkan/Dilarang</string>
+    <string name="clan_kicked_banned_players">Pemain yang Di-kick/Dilarang</string>
     <string name="clan_unkick_confirm">Apakah Anda yakin ingin unkick "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Apakah Anda yakin ingin unban "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Cari berdasarkan ID atau Nama</string>
-    <string name="clan_discover">Discover Clans</string>
+    <string name="clan_discover">Temukan Klan</string>
     <string name="clan_promote_to_owner">Promosikan menjadi Pemilik</string>
     <string name="clan_transfer_ownership_title">Alihkan Kepemilikan</string>
-    <string name="clan_transfer_ownership_message">Anda akan mempromosikan "%1$s" (ID: %2$d) menjadi Pemilik. Status Anda akan didemosikan menjadi Rekan Pemilik. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk konfirmasi:</string>
+    <string name="clan_transfer_ownership_message">Anda akan mempromosikan "%1$s" (ID: %2$d) menjadi Pemilik. Status Anda akan didemosikan menjadi Rekan Pemilik. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk mengonfirmasikan:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID tidak cocok</string>
     <string name="clan_customize_name_color">Warna Nama Klan</string>
     <string name="clan_customize_tag_color">Warna Tag Klan</string>
@@ -667,8 +667,8 @@
     <!-- Statistics !-->
     <string name="all">Semua</string>
     <string name="stat_highest_size">Ukuran Terbesar:</string>
-    <string name="stat_size_gained">Penambahan Ukuran:</string>
-    <string name="stat_size_lost">Kehilangan Ukuran:</string>
+    <string name="stat_size_gained">Ukuran Diperoleh:</string>
+    <string name="stat_size_lost">Ukuran Dihilangkan:</string>
     <string name="stat_total">Total:</string>
     <string name="stat_regular_value">Biasa (Nilai):</string>
     <string name="stat_regular_count">Biasa (Jumlah):</string>
@@ -681,7 +681,7 @@
     <string name="stat_bronze_value">Perunggu (Nilai):</string>
     <string name="stat_bronze_count">Perunggu (Jumlah):</string>
     <string name="stat_bonus">Bonus:</string>
-    <string name="season_currency">Season Currency</string>
+    <string name="season_currency">Mata Uang Musim</string>
     <string name="stat_food_eaten">Makanan Dimakan:</string>
     <string name="stat_players_eaten">Pemain Dimakan:</string>
     <string name="stat_bots_eaten">Bot Dimakan:</string>
@@ -768,7 +768,7 @@
     <string name="adventure_obj_more_holes">Lebih Banyak Lubang!</string>
     <string name="adventure_obj_collect_food">Kumpulkan %d Makanan</string>
     <string name="adventure_obj_invisible_bots">Bot Tak Terlihat!</string>
-    <string name="adventure_obj_growing_bots">Bot Menumbuh!</string>
+    <string name="adventure_obj_growing_bots">Bot Penumbuhan!</string>
     <string name="adventure_obj_reach_size">Capai Ukuran %d</string>
     <string name="adventure_obj_finish_first">Finis di Posisi ke-1</string>
     <string name="adventure_obj_collect_voidstones">Kumpulkan %d Voidstone</string>
@@ -825,7 +825,7 @@
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="emotes">Emot</string>
-    <string name="room_commands">Type !help for a list of available commands</string>
+    <string name="room_commands">Ketik !help untuk daftar perintah yang tersedia</string>
     <string name="chat_close">Tutup Chat</string>
     <string name="chat_message_hint">Ketik pesan…</string>
     <string name="chat_send_message">Kirim Pesan</string>
@@ -880,7 +880,7 @@
     <string name="voidstones">Voidstone</string>
     <string name="items">Item</string>
     <string name="blobs_eaten">Gumpalan Dimakan</string>
-    <string name="session_stat_size_gained">Penambahan Ukuran</string>
+    <string name="session_stat_size_gained">Ukuran Diperoleh</string>
     <string name="highest_rank">Peringkat Tertinggi</string>
     <string name="session_stat_highest_size">Ukuran Terbesar</string>
     <string name="spectate_ball">Bola</string>
@@ -899,23 +899,23 @@
     <string name="dialog_connection_error">Error atas Koneksi</string>
     <string name="dialog_disconnected">Koneksi Terputus</string>
     <string name="dialog_disconnected_message">Koneksi ke server terputus.</string>
-    <string name="kicked_from_room">Dikeluarkan dari Ruang!</string>
-    <string name="banned_from_room">Dilarang dari Ruang!</string>
-    <string name="enter_room_name">Masukkan Nama Ruang</string>
-    <string name="room_not_found">Ruang tidak ditemukan</string>
+    <string name="kicked_from_room">Di-kick dari Ruangan!</string>
+    <string name="banned_from_room">Dilarang dari Ruangan!</string>
+    <string name="enter_room_name">Masukkan Nama Ruangan</string>
+    <string name="room_not_found">Ruangan tidak ditemukan</string>
     <string name="already_in_room">Anda sudah berada di dalam ruang!</string>
-    <string name="room_closed">Ruang Ditutup</string>
-    <string name="room_name">Nama Ruang</string>
+    <string name="room_closed">Ruangan Ditutup</string>
+    <string name="room_name">Nama Ruangan</string>
     <string name="reported">Dilaporkan</string>
     <string name="reason">Alasan</string>
-    <string name="room_crash">Ruang mengalami crash: %s</string>
+    <string name="room_crash">Ruangan mengalami crash: %s</string>
     <string name="app_crash">Aplikasi mengalami crash: %s</string>
     <string name="dialog_reload">MUAT ULANG</string>
     <string name="dialog_yes">YA</string>
     <string name="dialog_no">TIDAK</string>
     <string name="dialog_ok">OKE</string>
     <string name="dialog_copy">SALIN</string>
-    <string name="dialog_notice">Perhatian</string>
+    <string name="dialog_notice">Pemberitahuan</string>
     <string name="dialog_warning">Peringatan</string>
     <string name="dialog_alert">Waspada</string>
     <string name="dialog_dont_show_again">Jangan tampilkan lagi</string>
@@ -926,7 +926,7 @@
     <string name="toast_please_wait">Harap tunggu</string>
     <string name="permission_denied">Izin ditolak</string>
     <string name="dialog_locked">Dikunci</string>
-    <string name="duplicate_connection">Akun sudah terkoneksi!</string>
+    <string name="duplicate_connection">Akun sudah dikoneksikan!</string>
     <string name="outdated_client">Klien Usang!\nKlien: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
 
     <!-- Block Player -->
@@ -947,25 +947,25 @@
     <string name="host_local_game">HOST PERMAINAN LOKAL</string>
     <string name="local_ip">IP Lokal: %s</string>
     <string name="public_ip">IP Publik: %s</string>
-    <string name="searching_rooms">Mencari ruang yang tersedia…</string>
+    <string name="searching_rooms">Mencari ruangan yang tersedia…</string>
     <string name="host">Host</string>
     <string name="enter_ip">Masukkan IP</string>
-    <string name="join_ip_title">Gabung dengan Alamat IP</string>
+    <string name="join_ip_title">Bergabung dengan Alamat IP</string>
     <string name="tap_to_reveal">Ketuk untuk menampilkan</string>
     <string name="remote_lan_connections">Agar klien lain dapat bergabung dari jarak jauh melalui IP publik, Anda harus melakukan port forwarding untuk UDP %d atau mengaktifkan DMZ bagi perangkat Anda pada pengaturan router. Harap diperhatikan bahwa koneksi mungkin tetap gagal jika jaringan Anda menggunakan Symmetric NAT/CGNAT. Untuk informasi lebih lanjut dan untuk memeriksa jenis NAT Anda saat ini, kunjungi %s.</string>
 
     <!-- Player List -->
     <string name="players">Pemain</string>
     <string name="spectators">Penonton</string>
-    <string name="joined_room">Bergabung dengan ruang %s</string>
+    <string name="joined_room">Bergabung dengan ruangan %s</string>
     <string name="player_list_title">DAFTAR PEMAIN</string>
     <string name="staff_list_title">DAFTAR STAF</string>
     <string name="player_list_count">Pemain: %d ⋅ Bot: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Pemain: %d ⋅ Bot: %d ⋅ Penonton: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Kick Pemain</string>
-    <string name="kick_confirm_message">Kick %s dari ruang ini? Mereka dapat bergabung kembali.</string>
-    <string name="ban_confirm_title">Ban Pemain</string>
-    <string name="ban_confirm_message">Apakah Anda yakin ingin melarang %s dari ruang ini? Mereka tidak akan bisa bergabung kembali dan tindakan ini tidak dapat dibatalkan!</string>
+    <string name="kick_confirm_message">Kick %s dari ruangan ini? Mereka dapat bergabung kembali.</string>
+    <string name="ban_confirm_title">Larang Pemain</string>
+    <string name="ban_confirm_message">Apakah Anda yakin ingin melarang %s dari ruangan ini? Mereka tidak akan bisa bergabung kembali dan tindakan ini tidak dapat dibatalkan!</string>
 
     <!-- Custom Images -->
     <string name="custom_images">Gambar Kustom</string>
@@ -976,7 +976,7 @@
     <string name="custom_image_deselect">Batal Pilih</string>
     <string name="custom_image_confirm_title">Unggah Gambar</string>
     <string name="custom_image_confirm_body">Unggah gambar ini seharga %1$s voidstone?</string>
-    <string name="custom_image_upload_success">Gambar dikirim untuk ditinjau</string>
+    <string name="custom_image_upload_success">Gambar dikirim untuk meninjau</string>
     <string name="custom_image_selected">Avatar dipilih</string>
     <string name="custom_image_deselected">Avatar batal dipilih</string>
     <string name="custom_image_upload_failed">Gagal mengunggah gambar</string>
@@ -988,9 +988,9 @@
     <string name="custom_image_compress_title">Gambar Terlalu Besar - Kompres?</string>
     <string name="custom_image_compress_accept">Gambar telah Dikompresi</string>
     <string name="custom_image_compress_failed">Gambar tidak dapat dikompresi agar sesuai dengan batas ukuran</string>
-    <string name="custom_image_crop_title">Pangkas menjadi gambar persegi</string>
+    <string name="custom_image_crop_title">Pangkas menjadi gambar 1:1</string>
     <string name="custom_image_crop_apply">Pangkas &amp; Pakai</string>
-    <string name="custom_image_processing">Sedang diproses…</string>
+    <string name="custom_image_processing">Memproses…</string>
     <string name="custom_image_bought">Unggahan Gambar Kustom</string>
     <string name="custom_image_refund">Pengembalian Gambar Kustom</string>
     <string name="custom_image_slot">Gambar %1$d</string>
@@ -1014,7 +1014,7 @@
     <string name="custom_banner_deselect">Batal Pilih</string>
     <string name="custom_banner_confirm_title">Unggah Banner</string>
     <string name="custom_banner_confirm_body">Unggah banner ini seharga %1$s voidstone?</string>
-    <string name="custom_banner_upload_success">Banner dikirim untuk ditinjau</string>
+    <string name="custom_banner_upload_success">Banner dikirim untuk meninjau</string>
     <string name="custom_banner_selected">Banner dipilih</string>
     <string name="custom_banner_deselected">Banner batal dipilih</string>
     <string name="custom_banner_upload_failed">Gagal mengunggah banner</string>
@@ -1028,7 +1028,7 @@
     <string name="custom_banner_compress_failed">Banner tidak dapat dikompresi agar sesuai dengan batas ukuran</string>
     <string name="custom_banner_crop_title">Pangkas menjadi banner 16:9</string>
     <string name="custom_banner_crop_apply">Pangkas &amp; Pakai</string>
-    <string name="custom_banner_processing">Sedang diproses…</string>
+    <string name="custom_banner_processing">Memproses…</string>
     <string name="custom_banner_bought">Unggahan Banner Kustom</string>
     <string name="custom_banner_refund">Pengembalian Banner Kustom</string>
     <string name="custom_banner_slot">Banner %1$d</string>
@@ -1068,7 +1068,7 @@
     <string name="server_not_running">Server tidak berjalan</string>
     <string name="name_change_reconnect_notice">Agar perubahan nama mulai berlaku, Anda akan dikoneksikan kembali ke server.</string>
     <string name="play">Main</string>
-    <string name="play_one_blob">Play (1 blob)</string>
+    <string name="play_one_blob">Main (1 gumpalan)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1100,13 +1100,13 @@
     <string name="empty">Kosong</string>
     <string name="online">Online</string>
     <string name="offline">Offline</string>
-    <string name="status_dnd">Do Not Disturb</string>
-    <string name="status_invisible">Invisible</string>
+    <string name="status_dnd">Jangan Ganggu</string>
+    <string name="status_invisible">Tak Terlihat</string>
     <string name="status_picker_label">Status</string>
     <string name="name">Nama</string>
     <string name="owner">Pemilik</string>
     <string name="kick">Kick</string>
-    <string name="ban">Ban</string>
+    <string name="ban">Larang</string>
     <string name="signal">Sinyal</string>
     <string name="home">Beranda</string>
     <string name="settings">Pengaturan</string>
@@ -1124,8 +1124,8 @@
     <string name="room_public">Publik</string>
     <string name="room_private">Pribadi</string>
     <string name="room_hidden">Tersembunyi</string>
-    <string name="hidden_rooms_one">1 hidden room</string>
-    <string name="hidden_rooms">%1$d hidden rooms</string>
+    <string name="hidden_rooms_one">1 ruangan tersembunyi</string>
+    <string name="hidden_rooms">%1$d ruangan tersembunyi</string>
     <string name="map">Peta</string>
     <string name="size">Ukuran</string>
     <string name="shots">Tembakan</string>
@@ -1169,13 +1169,13 @@
     <string name="accept">Terima</string>
     <string name="decline">Tolak</string>
     <string name="banned">Dilarang</string>
-    <string name="muted">Dibisukan</string>
+    <string name="muted">Dibisu</string>
     <string name="banned_until">Dilarang hingga %s</string>
-    <string name="muted_until">Dibisukan hingga %s</string>
+    <string name="muted_until">Dibisu hingga %s</string>
     <string name="server_shutting_down">Server sedang dimatikan</string>
     <string name="server_rebooting">Server sedang reboot. Silakan coba lagi sebentar lagi.</string>
     <string name="server_maintenance">Server sedang dalam pemeliharaan. Silakan coba lagi nanti.</string>
-    <string name="server_overloaded">Server overloaded</string>
+    <string name="server_overloaded">Server kelebihan beban</string>
     <string name="forbidden">Terlarang</string>
     <string name="internal_server_error">Error atas Server Internal</string>
     <string name="unknown_error_code">Error tidak diketahui Kode %d</string>
@@ -1209,12 +1209,12 @@
     <string name="support_discord_channel">dukungan tiket</string>
     <string name="additional_settings">PENGATURAN TAMBAHAN</string>
     <string name="desc_quick_merge">Menghilangkan waktu tunggu gabungan saat melakukan split.</string>
-    <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
+    <string name="desc_force_split_on_blob_size">Setiap gumpalan yang mencapai ukuran yang telah ditentukan akan split secara otomatis tepat di bagian tengahnya, tanpa momentum lontaran. Setelah gumpalan sudah di-split hingga mencapai jumlah potongan maksimum, ukuran setiap potongan akan dibatasi pada ukuran tersebut. Tidak tersedia dalam mode Petualangan.</string>
     <string name="desc_relax">Semua pemain (kecuali bot) tidak dapat saling membunuh sepenuhnya, sehingga menyisakan setidaknya 1 gumpalan yang tetap hidup, mirip dengan mode Petualangan.</string>
     <string name="desc_gold_holes">Lubang biru memiliki peluang %1$s%% untuk muncul sebagai Lubang emas, yang bernilai 4 kali lipatnya.</string>
     <string name="desc_teleport_holes">Jika dinonaktifkan, semua Lubang teleportasi digantikan oleh Lubang biru.</string>
     <string name="desc_empty">Tidak memunculkan Makanan atau Voidstone apa pun, untuk keperluan debugging.</string>
-    <string name="desc_room_hidden">Ruang Anda tidak akan muncul dalam daftar ruang pribadi bagi orang lain, akses ke ruang tersebut hanya dapat dilakukan dengan memasukkan nama yang tepat.</string>
+    <string name="desc_room_hidden">Ruangan Anda tidak akan muncul dalam daftar ruangan pribadi bagi orang lain, akses ke ruangan tersebut hanya dapat dilakukan dengan memasukkan nama yang tepat.</string>
     <string name="scored">dicetak!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
     <string name="disconnect_reason_network">Ini biasanya merupakan masalah pada koneksi internet Anda (Wi-Fi, data seluler, atau VPN), bukan pada server.</string>
@@ -1222,8 +1222,8 @@
     <string name="reconnect_attempt_failed">Upaya pengoneksian kembali #%1$d gagal: %2$s</string>
     <string name="save_preferences">Simpan preferensi</string>
     <string name="load_preferences">Muat preferensi</string>
-    <string name="reset_to_defaults">Reset to defaults</string>
-    <string name="reset_to_defaults_confirm">Are you sure? The app will be reloaded.</string>
+    <string name="reset_to_defaults">Kembalikan ke pilihan default</string>
+    <string name="reset_to_defaults_confirm">Apakah Anda yakin? Aplikasi akan dimuat ulang.</string>
     <string name="preferences_saved">Preferensi disimpan ke %1$s</string>
     <string name="preferences_loaded">Preferensi dimuat!</string>
     <string name="preferences_transfer_failed">Transfer preferensi gagal: %1$s</string>
@@ -1272,7 +1272,7 @@
     <string name="ach_title_popular">Populer</string>
     <string name="ach_title_famous">Terkenal</string>
     <string name="ach_title_celebrity">Selebritas</string>
-    <string name="ach_desc_friends">Memiliki %1$s Teman.</string>
+    <string name="ach_desc_friends">Miliki %1$s Teman.</string>
     <string name="ach_title_wanderer">Pengembara</string>
     <string name="ach_title_explorer">Penjelajah</string>
     <string name="ach_title_adventurer">Petualang</string>
@@ -1287,7 +1287,7 @@
     <string name="ach_title_size_multimillionaire">Multijutawan Ukuran</string>
     <string name="ach_title_size_ultramillionaire">Ultrajutawan Ukuran</string>
     <string name="ach_title_size_billionaire">Miliarder Ukuran</string>
-    <string name="ach_desc_size_gained">Dapatkan total Ukuran %1$s.</string>
+    <string name="ach_desc_size_gained">Peroleh total Ukuran %1$s.</string>
     <string name="ach_title_lucky_find">Temuan Yang Beruntung</string>
     <string name="ach_title_fortune_catcher">Penangkap Keberuntungan</string>
     <string name="ach_title_rainbow_master">Master Pelangi</string>
@@ -1342,11 +1342,11 @@
     <string name="ach_title_movie_star">Bintang Film</string>
     <string name="ach_title_cinephile">Sinefil</string>
     <string name="ach_desc_rewarded_ads">Tonton %1$s iklan berhadiah.</string>
-    <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
-    <string name="net_switched_back_to_udp">Switched back to UDP.</string>
-    <string name="options_main">Main</string>
-    <string name="options_graphics">Graphics</string>
+    <string name="net_switched_to_websocket">!! UDP diblokir, beralih ke Websocket. Harap perkirakan latensi yang lebih tinggi. Periksa aturan firewall jaringan Anda dan pastikan port UDP 9807 tidak diblokir. Jika Anda bermain melalui web, Anda dapat mengabaikan pesan ini.</string>
+    <string name="net_switched_back_to_udp">Beralih kembali ke UDP.</string>
+    <string name="options_main">Utama</string>
+    <string name="options_graphics">Grafik</string>
     <string name="options_gameplay">Gameplay</string>
-    <string name="options_experimental">Experimental</string>
-    <string name="options_force_websocket">Force gameplay over Websocket</string>
+    <string name="options_experimental">Eksperimental</string>
+    <string name="options_force_websocket">Paksa Gameplay melalui Websocket</string>
 </resources>
