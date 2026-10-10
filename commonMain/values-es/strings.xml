@@ -79,7 +79,7 @@
     <string name="custom_background_opacity">Opacidad del Fondo</string>
     <string name="show_performance_metrics">Mostrar Estadísticas de Rendimiento</string>
     <string name="skin_outlines">Contorno de Skin</string>
-    <string name="multimerg_blob2_opposite_color">Multimerg Blob 2 has opposite color</string>
+    <string name="multimerg_blob2_opposite_color">Color opuesto en Blob 2 (Multimerg)</string>
     <string name="delayed_auto_fire">Autosplit/shoot Retrasado</string>
     <string name="direction_arrow">Flecha de Dirección</string>
     <string name="border_above_entities">Borde por Encima de las Entidades</string>
@@ -92,8 +92,8 @@
     <string name="name_position_center">Centrado</string>
     <string name="name_position_below">Abajo</string>
     <string name="name_scale">Escala del Nombre</string>
-    <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
-    <string name="cycle_progressbar">Alt. Automát. Texto de la Barra EXP</string>
+    <string name="auto_spectate_killer">Espectar a Quien te Comió</string>
+    <string name="cycle_progressbar">Alternar Texto de Barra de EXP</string>
     <string name="verbose_in_game_ui">Indicadores de Juego</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
     <string name="extrapolation">Extrapolación</string>
@@ -106,9 +106,9 @@
     <string name="maximum_players">Jugadores Máximos</string>
     <string name="decrease_time">Reducir Tiempo</string>
     <string name="increase_time">Aumentar Tiempo</string>
-    <string name="grace_period">Período de Tiempo Extra</string>
-    <string name="decrease_grace">Reducir Período de Tiempo Extra</string>
-    <string name="increase_grace">Aumentar Período de Tiempo Extra</string>
+    <string name="grace_period">Periodo de Tiempo Extra</string>
+    <string name="decrease_grace">Reducir Periodo de Tiempo Extra</string>
+    <string name="increase_grace">Aumentar Periodo de Tiempo Extra</string>
     <string name="elimination_count">Cuenta Regresiva de Eliminación</string>
     <string name="decrease_elimination_count">Reducir Cuenta Regresiva de Eliminación</string>
     <string name="increase_elimination_count">Aumentar Cuenta Regresiva de Eliminación</string>
@@ -126,7 +126,7 @@
     <string name="merge_button">Botón de fusión</string>
     <string name="no_holes">Sin Agujeros</string>
     <string name="circle_map">Mapa Circular</string>
-    <string name="relax">Relax</string>
+    <string name="relax">Relajado</string>
     <string name="warning_no_holes">No se Guardarán Estadísticas</string>
     <string name="gold_holes">Agujeros Dorados</string>
     <string name="teleport_holes">Portales</string>
@@ -144,12 +144,12 @@
     <string name="connected">Conectado</string>
     <string name="select_server">Seleccionar Región</string>
     <string name="server_europe">Europa</string>
-    <string name="server_north_america">North America</string>
+    <string name="server_north_america">Norteamérica</string>
     <string name="server_south_america">Sudamérica</string>
     <string name="server_asia">Asia</string>
     <string name="join">Unirse</string>
     <string name="create">Crear</string>
-    <string name="create_chat_room">CREAR CHAT DE SALA</string>
+    <string name="create_chat_room">CREAR SALA DE CHAT</string>
     <string name="create_private_game">CREAR PARTIDA PRIVADA</string>
     <string name="room_full">Sala Llena</string>
     <string name="clan">Clan</string>
@@ -164,9 +164,9 @@
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo(a)</string>
-    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo(a)?</string>
+    <string name="remove_friend_message">¿Seguro(a) que quieres Eliminar a "%1$s" (ID: %2$d) como Amigo(a)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
-    <string name="cancel_request_message">¿Seguro(a) qué quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">¿Seguro(a) que quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
     <string name="friend_request_error_already_sent">Ya has enviado una Solicitud de Amistad</string>
     <string name="friend_request_error_already_friends">Ya son Amigos</string>
@@ -223,7 +223,7 @@
     <string name="boosters">Mejoras</string>
     <string name="booster_permanent_upgrades">Mejoras Permanentes</string>
     <string name="booster_owned">nivel: %1$s</string>
-    <!-- Value shown for a booster the player has not bought any level of. -->
+    <!-- Value shown for a booster the player has not bought any level of. -->  
     <string name="none">N/A</string>
     <string name="booster_ad_xp_title">Multip. EXP por Anuncio</string>
     <string name="booster_ad_xp_desc">Mira un anuncio para obtener un potenciador de EXP temporal!</string>
@@ -388,7 +388,7 @@
      <string name="season_task_win_competitive">Gana batallas competitivas</string>
      <string name="season_task_win_survival">Gana partidas de supervivencia</string>
      <string name="season_task_win_team_survival">Gana partidas de supervivencia por equipos</string>
-     <string name="season_task_win_knockout">Gana partidas de eliminación</string>
+     <string name="season_task_win_knockout">Gana partidas de noqueo</string>
      <string name="season_task_win_soccer">Gana partidos de fútbol</string>
      <string name="season_task_soccer_goal_scored">Marca goles en fútbol</string>
      <string name="season_task_split">Divídete</string>
@@ -532,12 +532,12 @@
     <string name="clan_create">Crear Clan</string>
     <string name="clan_name">Nombre de Clan</string>
     <string name="clan_name_hint">Escribe el Nombre de Clan (max. 14 caracteres)</string>
-    <string name="clan_tag">Clan</string>
+    <string name="clan_tag">Tag de Clan</string>
     <string name="clan_tag_hint">Siglas (1-4 letras)</string>
     <string name="clan_list">Clanes Públicos</string>
     <string name="clan_no_clans">No se Encontraron Clanes</string>
     <string name="no_clan">sin clan</string>
-    <string name="clan_request_clans">Solicitar Solo Clanes</string>
+    <string name="clan_request_clans">Clanes por Solicitud</string>
     <string name="clan_my_invites">Mis Invitaciones de Clan</string>
     <string name="clan_invite_declined">Invitación Rechazada.</string>
     <string name="clan_joined">¡Te uniste al Clan!</string>
@@ -591,20 +591,20 @@
     <string name="clan_invite_list_full">La Lista de Invitaciones está Llena (100/100).</string>
     <string name="clan_player_invite_list_full">Ups, este(a) Jugador(a) ya tiene el número máximo de Invitaciones de Clan pendientes.</string>
     <string name="clan_request_list_full">La Lista de Solicitudes de Ingreso está Llena (100/100).</string>
-    <string name="clan_donate_voidstones">Regalar Voidstones</string>
+    <string name="clan_donate_voidstones">Donar Voidstones</string>
     <string name="clan_donate_hint">100 – 100,000</string>
     <string name="clan_donate_sent">¡Donación Enviada!</string>
     <string name="clan_not_a_member">Ups, ya no eres Miembro de este Clan.</string>
     <string name="clan_already_requested">Ups, ya tienes una Solicitud de Ingreso pendiente con otro Clan.</string>
-    <string name="clan_copy_tag">Copiar Siglas</string>
-    <string name="clan_creator">Creador</string>
+    <string name="clan_copy_tag">Copiar Tag</string>
+    <string name="clan_creator">Creador(a)</string>
     <string name="clan_history">Historial</string>
     <string name="clan_history_no_entries">Sin Historial</string>
     <string name="clan_history_event_join">Se Unió</string>
-    <string name="clan_history_event_leave">Se Salió</string>
+    <string name="clan_history_event_leave">Abandonó</string>
     <string name="clan_history_event_kick">Expulsado(a)</string>
     <string name="clan_history_event_ban">Baneado(a)</string>
-    <string name="clan_history_event_promote">Ascendió</string>
+    <string name="clan_history_event_promote">Ascendido</string>
     <string name="clan_history_event_demote">Descendido</string>
     <string name="clan_history_event_donation">Regaló</string>
     <string name="clan_history_id">Historial de ID: %d</string>
@@ -613,10 +613,10 @@
     <string name="clan_unkick_confirm">¿Seguro(a) que quieres Readmitir a "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">¿Seguro(a) que quieres Desbanear a "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Buscar por ID o por Nombre</string>
-    <string name="clan_discover">Discover Clans</string>
+    <string name="clan_discover">Explorar Clanes</string>
     <string name="clan_promote_to_owner">Ascender a Líder</string>
-    <string name="clan_transfer_ownership_title">Transfeir Propiedad</string>
-    <string name="clan_transfer_ownership_message">¿Seguro(a) que quieres Ascender a "%1$s" (ID: %2$d) como Líder. Serás Degradado a Colíder. Esta acción es irreversible.\n\nType el jugador's ID confirmar:</string>
+    <string name="clan_transfer_ownership_title">Transferir Propiedad</string>
+    <string name="clan_transfer_ownership_message">¿Seguro(a) que quieres Ascender a "%1$s" (ID: %2$d) como Líder. Serás Degradado a Colíder. Esta acción es irreversible.\n\nIntroduce la ID del jugador para confirmar:</string>
     <string name="clan_transfer_ownership_id_mismatch">La ID no coincide</string>
     <string name="clan_customize_name_color">Color de Nombre del Clan</string>
     <string name="clan_customize_tag_color">Color de Siglas del Clan</string>
@@ -735,17 +735,17 @@
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominio</string>
-    <string name="description_domination">¡Juego clásico contrarreloj, donde el tamaño solo cuenta mientras mantengas el primer puesto! Cada segundo que pasas siendo el blob más grande del mapa suma tiempo a tu puntuación y si eres devorado no te quitará el tiempo que hayas acumulado!</string>
-    <string name="description_classic">¡Cómete a Jugadores más pequeños y conviértete en el blob más Grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los Jugadores más Grandes te quieren comer!</string>
-    <string name="description_teams">¡Une fuerzas con otros Jugadores del mismo Color! Trabajen juntos para comerse a los enemigos y convertirse en el Equipo que domine la Clasificación. Los compañeros de Equipo no pueden comerse entre sí.</string>
-    <string name="description_survival">¡Una vida, una ronda! Recoge todo lo que puedas antes de que se acabe el Tiempo Extra. Después de eso, ¡la muerte es definitiva! ¡Sé el último en pie o el más Grande cuando se acabe el Tiempo para ganar!</string>
-    <string name="description_team_survival">¡Modo supervivencia por Equipos! Trabaja con tus compañeros para eliminar a otros Equipos. ¡El último Equipo en pie o el que tenga el mayor número de Jugadores en su Equipo al agotarse el Tiempo gana!</string>
-    <string name="description_knockout">¡Compite en rondas eliminatorias! Los Jugadores pueden reaparecer libremente hasta ser Eliminados en Intervalos Regulares. Los Jugadores más Pequeños en cada intervalo son Eliminados permanentemente. ¡Sé el último en pie para ganar!</string>
+    <string name="description_domination">¡Juego clásico contrarreloj, donde el tamaño solo cuenta mientras mantengas el primer puesto! Cada segundo que pasas siendo el blob más grande del mapa suma tiempo a tu puntuación, y ser devorado no te quitará el tiempo que hayas acumulado. ¡Gana quien haya aguantado más tiempo en primer lugar al agotarse el tiempo!</string>
+    <string name="description_classic">¡Cómete a jugadores más pequeños y conviértete en el blob más grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los jugadores más grandes te quieren comer!</string>
+    <string name="description_teams">¡Une fuerzas con otros jugadores del mismo color! Trabajen juntos para comerse a los enemigos y convertirse en el equipo que domine la clasificación. Los compañeros de equipo no pueden comerse entre sí.</string>
+    <string name="description_survival">¡Una vida, una ronda! Recoge todo lo que puedas antes de que se acabe el periodo de gracia. Después de eso, ¡la muerte es definitiva! ¡Sé el último en pie o el más grande cuando se acabe el tiempo para ganar!</string>
+    <string name="description_team_survival">¡Modo Supervivencia por equipos! Trabaja con tus compañeros para eliminar a otros equipos. ¡El último equipo en pie o con la mayor puntuación total al agotarse el tiempo gana!</string>
+    <string name="description_knockout">¡Compite en rondas eliminatorias! Los jugadores pueden reaparecer libremente hasta ser eliminados en Intervalos Regulares. Los jugadores más pequeños en cada intervalo son eliminados permanentemente. ¡Sé el último en pie para ganar!</string>
     <string name="description_adventure">¡Completa etapas desafiantes con objetivos únicos! Avanza por niveles de dificultad creciente, gana recompensas y descubre hasta dónde puedes llegar. ¡Cada etapa trae nuevos desafíos!</string>
-    <string name="description_soccer">Captura el balón y anótalo a la portería contraria para anotar Gol. ¡El Equipo con más Goles al finalizar el Tiempo gana!</string>
+    <string name="description_soccer">Captura el balón y lánzalo a la portería contraria para anotar. ¡El equipo con más goles al finalizar el tiempo gana!</string>
     <string name="description_coming_soon">¡Este Modo estará Disponible Próximamente, no te lo pierdas!</string>
     <string name="description_competitive">¡Supervivencia Clasificatoria 1vs1! Gana Puntos de Clasificación al vencer a oponentes de habilidad similar. Partida de 3 minutos con 2 minutos de prórroga si ninguno de los Jugadores muere. Si ganas, subirás en la Clasificación Mundial; si pierdes, bajarás. La diferencia en la Clasificación depende de la diferencia de Nivel entre tú y tu oponente.</string>
-    <string name="description_multimerg">Apareces con dos Blobs y puedes alternar el control entre ellas utilizando el botón Ying-Yang! Solo el Blob activo responde al Joystick, Splits, y al disparar Masa. La otra se seguirá moviendo en su última dirección. Tus dos Blobs pueden comerse entre sí tras divirse, pero el ultimo Blob estará protegido.</string>
+    <string name="description_multimerg">Apareces con DOS blobs y puedes alternar el control entre ellas utilizando el botón del Yin-Yang! Solo el blob activo responde cuando mueves el joystick, te divides o disparas masa. El otro seguirá moviéndose en su última dirección. Tus dos blobs pueden comerse entre sí tras divirse, pero el último blob estará protegido.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Enano</string>
@@ -767,8 +767,8 @@
     <string name="adventure_obj_high_speed">¡Alta velocidad!</string>
     <string name="adventure_obj_more_holes">¡Más Agujeros!</string>
     <string name="adventure_obj_collect_food">Recolecta %d de Comida</string>
-    <string name="adventure_obj_invisible_bots">Invisible para Bots!</string>
-    <string name="adventure_obj_growing_bots">Farmea Bots!</string>
+    <string name="adventure_obj_invisible_bots">¡Bots Invisibles!</string>
+    <string name="adventure_obj_growing_bots">¡Bots que crecen!</string>
     <string name="adventure_obj_reach_size">Alcanza los %d Puntos</string>
     <string name="adventure_obj_finish_first">Termina en 1er Lugar</string>
     <string name="adventure_obj_collect_voidstones">Recolecta %d Voidstones</string>
@@ -779,7 +779,7 @@
     <string name="timer_time">Tiempo</string>
     <string name="timer_overtime">Tiempo Extra</string>
     <string name="timer_overtime_count">Tiempo Extra %d</string>
-    <string name="timer_grace">Tiempo Fuera</string>
+    <string name="timer_grace">Tiempo de Gracia</string>
     <string name="timer_tiebreaker">Desempate</string>
     <string name="timer_winner">Ganador</string>
 
@@ -796,8 +796,8 @@
     <string name="buttons_split">Botón de Dividirse</string>
     <string name="select_split">Seleccionar Dividirse</string>
     <string name="split">Dividir</string>
-    <string name="buttons_yinyang">Botón Ying-Yang</string>
-    <string name="select_yinyang">Seleccionar Ying-Yang</string>
+    <string name="buttons_yinyang">Botón Yin-Yang</string>
+    <string name="select_yinyang">Seleccionar Yin-Yang</string>
     <string name="yinyang">Cambiar</string>
     <string name="buttons_customize">Personalizar Controles</string>
     <string name="buttons_orientation_message">Las configuraciones personalizadas para modo vertical y horizontal se guardan por separado</string>
@@ -813,19 +813,19 @@
     <string name="skin_tab_level">Nivel</string>
     <string name="skin_tab_voidstones">Voidstones</string>
     <string name="flags">Banderas</string>
-    <string name="skin_tab_particles">Particles</string>
+    <string name="skin_tab_particles">Partículas</string>
     <string name="skin_tab_special">Especial</string>
     <string name="level_skin_locked_dialog">Debes ser nivel %1$d para desbloquear esta skin. Actualmente eres nivel %2$d.</string>
     <string name="skin_tab_achievement">Logro</string>
     <string name="achievement_skin_locked_dialog">Debes alcanzar %1$d Puntos de Logros para desbloquear esta skin. Actualmente tienes %2$d.</string>
-    <string name="dismiss">Descartar</string>
+    <string name="dismiss">Cerrar</string>
     <string name="level_lock">Nivel Bloqueado</string>
 
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="emotes">Emotes</string>
-    <string name="room_commands">Escribe !help para ver una lista de los comandos disponibles</string>
+    <string name="room_commands">Escribe !help para ver la lista de comandos disponibles</string>
     <string name="chat_close">Cerrar Chat</string>
     <string name="chat_message_hint">Escribe un Mensaje…</string>
     <string name="chat_send_message">Enviar Mensaje</string>
@@ -840,10 +840,10 @@
     <string name="replying_to">Responder a %s</string>
 
     <!-- Notification box !-->
-    <string name="level_up">Subes de Nivel! %d</string>
+    <string name="level_up">¡Subes de Nivel! %d</string>
     <string name="game_over">Fin del Juego</string>
-    <string name="stage_clear">Etapa %s Superada!</string>
-    <string name="stage_failed">Etapa %s Fallida!</string>
+    <string name="stage_clear">¡Etapa %s Superada!</string>
+    <string name="stage_failed">¡Etapa %s Fallida!</string>
     <string name="restarting_adventure">Reiniciando Aventura…</string>
     <string name="server_in_maintenance">SERVIDOR EN MANTENIMIENTO.</string>
     <string name="server_reboot">REINICIANDO SERVIDOR</string>
@@ -936,7 +936,7 @@
     <string name="block_player">Bloquear Jugador(a)</string>
     <string name="unblock_player">Desbloquear Jugador(a)</string>
     <string name="block_confirm_title">Bloquear Jugador(a)</string>
-    <string name="block_confirm_message">¿Seguro(a) qué quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán eliminados de su Lista de Amigos.</string>
+    <string name="block_confirm_message">¿Seguro(a) que quieres bloquear a %s? No podrán enviarse Correos ni Solicitudes de Amistad, y ambos serán eliminados de su Lista de Amigos.</string>
     <string name="player_unblocked">Jugador(a) Desbloqueado(a)</string>
     <string name="player_blocked">Jugador(a) Bloqueado(a)</string>
     <string name="you_blocked_user">Has Bloqueado a este(a) Jugador(a)</string>
@@ -970,7 +970,7 @@
     <!-- Custom Images -->
     <string name="custom_images">Skin Personalizada</string>
     <string name="profile_avatar">Avatar de Perfil</string>
-    <string name="custom_image_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
+    <string name="custom_image_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos de odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
     <string name="custom_image_upload">Subir</string>
     <string name="custom_image_replace">Reemplazar</string>
     <string name="custom_image_deselect">Deseleccionar</string>
@@ -982,9 +982,9 @@
     <string name="custom_image_upload_failed">Ups, ocurrió un Error al Subir tu Imagen.</string>
     <string name="custom_image_read_error">Ups, no pudimos Cargar tu Imagen.</string>
     <string name="custom_image_invalid_format">Ups, el archivo debe ser una Imagen.</string>
-    <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
-    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d no cumple con las especificaciones (max. %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (máx. %2$dKB)</string>
+    <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (máx. %3$dx%4$d píxeles)</string>
+    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d no cumple con las especificaciones (máx. %2$dKB / %5$dx%6$d píxeles)</string>
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
@@ -1008,7 +1008,7 @@
     <string name="report_banner_failed">Ups, no se pudo Reportar el Banner.</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
+    <string name="custom_banner_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Símbolos de odio\n- Discursos de odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
     <string name="custom_banner_upload">Subir</string>
     <string name="custom_banner_replace">Reemplazar</string>
     <string name="custom_banner_deselect">Deseleccionar</string>
@@ -1020,9 +1020,9 @@
     <string name="custom_banner_upload_failed">Ups, ocurrió un Error al Subir tu Banner.</string>
     <string name="custom_banner_read_error">Ups, no pudimos Cargar tu Banner.</string>
     <string name="custom_banner_invalid_format">Ups, el archivo debe ser una Imagen.</string>
-    <string name="custom_banner_error_size">El Banner %1$dKB es demasiado Pesado (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">El Banner %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
-    <string name="custom_banner_error_both">El Banner %1$dKB / %3$dx%4$d no cumple con las especificaciones (max. %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_banner_error_size">El Banner %1$dKB es demasiado Pesado (máx. %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">El Banner %1$dx%2$d es demasiado Grande (máx. %3$dx%4$d píxeles)</string>
+    <string name="custom_banner_error_both">El Banner %1$dKB / %3$dx%4$d no cumple con las especificaciones (máx. %2$dKB / %5$dx%6$d píxeles)</string>
     <string name="custom_banner_compress_title">El Banner es demasiado Pesado - ¿Quieres Comprimirlo?</string>
     <string name="custom_banner_compress_accept">Comprimir Banner</string>
     <string name="custom_banner_compress_failed">El Banner no se pudo Comprimir para ajustarse al límite de KB.</string>
@@ -1049,7 +1049,7 @@
     <string name="recovery_success_body">El Correo Electrónico de la Cuenta se ha cambiado a %1$s. Inicie sesión ahora con la nueva Cuenta de Google.</string>
     <string name="recovery_error_invalid_id">Por favor, escribe el ID Correcto de la Cuenta.</string>
     <string name="recovery_error_invalid_email">Por favor, escribe un Correo Electrónico Válido.</string>
-    <string name="recovery_error_invalid_request">Solicitud Inválida. Por favor, intenta de nuevo.</string>
+    <string name="recovery_error_invalid_request">Solicitud Inválida. Por favor, inténtelo de nuevo.</string>
     <string name="recovery_error_network">Error de Red. Por favor, revise su Conexión e inténtelo de nuevo.</string>
     <string name="recovery_error_fingerprint_mismatch">Este Dispositivo y esta Red Wi-Fi no coinciden con la Cuenta. Para Recuperarla, necesitas el mismo Dispositivo Conectado a una Red Wi-Fi que hayas usado anteriormente con esa Cuenta.</string>
     <string name="recovery_error_email_taken">Ups, este Correo Electrónico ya está siendo utilizado en otra Cuenta. Elimine esa Cuenta o utilice otro Correo Electrónico.</string>
@@ -1064,11 +1064,11 @@
     <string name="recovery_error_internal">Ups, tuvimos un problema al procesar tu Solicitud. Inténtalo de nuevo más tarde.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No tienes conexión a Internet. Revisa tu conexión en los ajustes de tú dispositivo</string>
+    <string name="no_internet_connection">No tienes conexión a Internet. Revisa tu conexión en los ajustes de tu dispositivo</string>
     <string name="server_not_running">El Servidor no responde.</string>
     <string name="name_change_reconnect_notice">Para cambiar de nombre correctamente, deberás conectarte nuevamente al Servidor.</string>
     <string name="play">Jugar</string>
-    <string name="play_one_blob">Play (1 blob)</string>
+    <string name="play_one_blob">Jugar (1 blob)</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
@@ -1102,7 +1102,7 @@
     <string name="offline">Desconectado(a)</string>
     <string name="status_dnd">No molestar</string>
     <string name="status_invisible">Invisible</string>
-    <string name="status_picker_label">Status</string>
+    <string name="status_picker_label">Estado</string>
     <string name="name">Nombre</string>
     <string name="owner">Creador(a)</string>
     <string name="kick">Expulsar</string>
@@ -1124,8 +1124,8 @@
     <string name="room_public">Público</string>
     <string name="room_private">Privado</string>
     <string name="room_hidden">Oculto</string>
-    <string name="hidden_rooms_one">1 hidden room</string>
-    <string name="hidden_rooms">%1$d hidden rooms</string>
+    <string name="hidden_rooms_one">1 sala oculta</string>
+    <string name="hidden_rooms">%1$d salas ocultas</string>
     <string name="map">Mapa</string>
     <string name="size">Tamaño</string>
     <string name="shots">Disparos</string>
@@ -1169,13 +1169,13 @@
     <string name="accept">Aceptar</string>
     <string name="decline">Rechazar</string>
     <string name="banned">Baneado(a)</string>
-    <string name="muted">Muteado(a)</string>
+    <string name="muted">Silenciado(a)</string>
     <string name="banned_until">Baneado(a) hasta %s</string>
-    <string name="muted_until">Muteado(a) hasta %s</string>
+    <string name="muted_until">Silenciado(a) hasta %s</string>
     <string name="server_shutting_down">El Servidor se está Cerrando…</string>
     <string name="server_rebooting">El Servidor se está Reiniciando. Por favor, intenta de nuevo en breve.</string>
     <string name="server_maintenance">Ups, el Servidor está en Mantenimiento. Por favor, intenta de nuevo más tarde.</string>
-    <string name="server_overloaded">Server overloaded</string>
+    <string name="server_overloaded">Servidor saturado</string>
     <string name="forbidden">Prohibido</string>
     <string name="internal_server_error">Error Interno del Servidor</string>
     <string name="unknown_error_code">Error Desconocido. Código %d</string>
@@ -1189,10 +1189,10 @@
     <string name="admin_cannot_act_on_staff">Ups, no se puede Realizar esta Acción con los Miembros del Staff.</string>
     <string name="code_not_found">Códido Inválido</string>
     <string name="code_expired">Código Expirado</string>
-    <string name="code_already_redeemed">Ups, el Código ya ha sido Canjeado!</string>
+    <string name="code_already_redeemed">Ups, el Código ya ha sido Canjeado</string>
     <string name="clan_owner_must_transfer_error">Ups, debes Transferir la Propiedad a otro Miembro antes de Abandonar el Clan.</string>
     <string name="mail_cannot_send_self">Ups, no puedes Enviarte Correo a ti mismo.</string>
-    <string name="clan_already_requested_other">Ups, ya Solicitaste Unirse a este Clan.</string>
+    <string name="clan_already_requested_other">Ups, ya Solicitaste Unirte a este Clan.</string>
     <string name="before">Antes</string>
     <string name="after">Después</string>
     <string name="clan_id">ID:</string>
@@ -1203,7 +1203,7 @@
     <string name="copy">Copiar</string>
     <string name="open_link">Abrir</string>
     <string name="whatsapp_note">Solo chat (no llamadas o SMS)</string>
-    <string name="recommended">recomendado</string>
+    <string name="recommended">Recomendado</string>
     <string name="support_response_time">Respuesta en un plazo de</string>
     <string name="support_mail">Correo</string>
     <string name="support_discord_channel">ticket de soporte</string>
@@ -1239,19 +1239,19 @@
     <string name="achievement_tier_diamond">Diamante</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
     <string name="achievement_next">Siguiente:</string>
-    <string name="achievement_secret_title">Secret Achievement</string>
+    <string name="achievement_secret_title">Logro Oculto</string>
     <string name="achievement_secret_description">???</string>
-    <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
+    <string name="achievement_streak">Actual: %1$s ⋅ Récord: %2$s ⋅ Siguiente día en %3$s</string>
     <string name="ach_title_big">Grande</string>
     <string name="ach_title_huge">Enorme</string>
     <string name="ach_title_massive">Masivo</string>
-    <string name="ach_title_gigantic">Gigantesco</string>
-    <string name="ach_title_enormous">Enorme</string>
+    <string name="ach_title_gigantic">Gigante</string>
+    <string name="ach_title_enormous">Colosal</string>
     <string name="ach_desc_highest_size">Alcanza un tamaño total de %1$s.</string>
     <string name="ach_title_food_nibbler">Picoteador</string>
-    <string name="ach_title_food_taster">Catador de comida</string>
-    <string name="ach_title_food_eater">Comedor</string>
-    <string name="ach_title_food_gobbler">Devorador de comida</string>
+    <string name="ach_title_food_taster">Catador</string>
+    <string name="ach_title_food_eater">Comilón</string>
+    <string name="ach_title_food_gobbler">Tragón</string>
     <string name="ach_title_food_devourer">Devorador</string>
     <string name="ach_desc_food_eaten">Come %1$s de comida.</string>
     <string name="ach_title_first_steps">Primeros Pasos</string>
@@ -1268,7 +1268,7 @@
     <string name="ach_desc_time_played_one">Juega durante 1 hora.</string>
     <string name="ach_desc_time_played">Juega durante %1$s hrs.</string>
     <string name="ach_title_acquainted">Conocido</string>
-    <string name="ach_title_well_known">Bien conocido</string>
+    <string name="ach_title_well_known">Renombrado</string>
     <string name="ach_title_popular">Popular</string>
     <string name="ach_title_famous">Famoso</string>
     <string name="ach_title_celebrity">Celebridad</string>
