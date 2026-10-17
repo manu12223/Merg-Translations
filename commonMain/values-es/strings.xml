@@ -69,7 +69,7 @@
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
-    <string name="top_button_position">Top Button Position</string>
+    <string name="top_button_position">Posición del botón superior</string>
     <string name="top_button_position_left">Izquierda</string>
     <string name="top_button_position_right">Derecha</string>
     <string name="leaderboard_size">Número de puestos en Ranking</string>
@@ -98,7 +98,7 @@
     <string name="name_position_below">Abajo</string>
     <string name="text_scale">Escala de texto</string>
     <string name="blob_text_header">Texto de Blob</string>
-    <string name="blob_text_ap">Achievement Points (AP)</string>
+    <string name="blob_text_ap">Puntos de Logros (AP / PL)</string>
     <string name="blob_text_connection">Calidad de la Conexión</string>
     <string name="blob_text_multimerg_number">Numero del MultiMerg Blob</string>
     <string name="blob_text_size_all">Mostrar en todos los blobs</string>
@@ -138,7 +138,7 @@
     <string name="quick_merge">Fusión Rápida</string>
     <string name="force_split_on_blob_size">Split forzado según el tamaño del blob</string>
     <string name="custom_shot_size_multiplier">Multiplicador del Tamaño de Tiro Custom</string>
-    <string name="shot_size_self_feed_hint">>1 para autoalimentación</string>
+    <string name="shot_size_self_feed_hint">>1 para Autoalimentación</string>
     <string name="merge_button">Botón de fusión</string>
     <string name="no_holes">Sin Agujeros</string>
     <string name="circle_map">Mapa Circular</string>
@@ -193,7 +193,7 @@
     <string name="competitive_menu">Menú Competitivo</string>
     <string name="competitive_history">Historial Competitivo</string>
     <string name="rating_label">Clasificación</string>
-    <string name="unrated">sin clasificar</string>
+    <string name="unrated">Sin Clasificar</string>
     <string name="find_opponent">ENCONTRAR OPONENTE</string>
     <string name="leave_matchmaking">CANCELAR BÚSQUEDA</string>
     <string name="searching_ellipsis">Buscando…</string>
@@ -238,7 +238,7 @@
     <!-- Boosters -->
     <string name="boosters">Mejoras</string>
     <string name="booster_permanent_upgrades">Mejoras Permanentes</string>
-    <string name="booster_owned">Owned: %1$s</string>
+    <string name="booster_owned">En Propiedad: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">N/A</string>
     <string name="booster_ad_xp_title">Multip. EXP por Anuncio</string>
@@ -246,7 +246,7 @@
     <string name="booster_stacks_base_xp">Acumula EXP Base</string>
     <string name="booster_watch_ad">Mirar Anuncio</string>
     <string name="booster_choose_boost">Elige tu potenciador de EXP</string>
-    <string name="booster_active">activo</string>
+    <string name="booster_active">Activo</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Mejorar</string>
     <string name="booster_base_xp">Multip. EXP Base</string>
@@ -258,7 +258,7 @@
     <string name="speed_medium">Medio (10/sec)</string>
     <string name="speed_fast">Rápido (20/sec)</string>
     <string name="speed_ultra">Ultra (30/sec)</string>
-    <string name="speed_crazy">Crazy (60/sec)</string>
+    <string name="speed_crazy">Loco (60/sec)</string>
     <string name="minutes_short">%1$d min</string>
     <string name="invalid_code">Código Inválido</string>
     <string name="code_already_claimed">Ups, el Código ya fue Canjeado…</string>
@@ -307,9 +307,9 @@
     <string name="purchase_status_refunded">Estado de Compra Reembolsada</string>
     <string name="purchase_no_ads_gift_received">Sin anuncios de #%d</string>
     <string name="purchase_no_ads_gift_purchased">Sin anuncios para #%d</string>
-    <string name="purchase_season_pass_gold_label">Pase de Temporada Gold</string>
-    <string name="purchase_season_pass_gold_gift_received">Pase de Temporada Gold de #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Pase de Temporada Gold para #%d</string>
+    <string name="purchase_season_pass_gold_label">Pase de Temporada Dorado</string>
+    <string name="purchase_season_pass_gold_gift_received">Pase de Temporada Dorado de #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Pase de Temporada Dorado para #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">El Anuncio aún no ha cargado</string>
@@ -367,9 +367,9 @@
      <string name="season_pass_history_revoked_stage_paid">Nivel %1$d (Pago) — Anulado</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones Anuladas</string>
      <string name="season_pass_history_revoked_unlock">Desbloqueo Anulado</string>
-     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Gold Reembolsado</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Gold en Disputa</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Gold en Proceso</string>
+     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Dorado Reembolsado</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Dorado en Disputa</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Dorado en Proceso</string>
 
      <string name="season_pass_missed_title">RECOMPENSAS PERDIDAS</string>
      <string name="season_pass_missed_subtitle">Niveles no reclamados en la temporada %1$d</string>
@@ -430,7 +430,7 @@
     <string name="change_name">Cambiar Nombre</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartir ID</string>
-    <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
+    <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s :D</string>
     <string name="no_youtube_link">No Enlazado</string>
     <string name="no_tiktok_link">No Enlazado</string>
     <string name="created">Desde %s</string>
@@ -554,7 +554,7 @@
     <string name="clan_tag_hint">Siglas (1-4 letras)</string>
     <string name="clan_list">Clanes Públicos</string>
     <string name="clan_no_clans">No se Encontraron Clanes</string>
-    <string name="no_clan">sin clan</string>
+    <string name="no_clan">Sin Clan</string>
     <string name="clan_request_clans">Solo Clanes por Solicitud</string>
     <string name="clan_my_invites">Mis Invitaciones de Clan</string>
     <string name="clan_invite_declined">Invitación Rechazada.</string>
@@ -670,7 +670,7 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">Tipo de Tabla</string>
     <string name="leaderboard_xp_description">Puntos de Experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el Juego.</string>
-    <string name="leaderboard_type_ap">AP</string>
+    <string name="leaderboard_type_ap">AP / PL</string>
     <string name="leaderboard_ap_description">PL, abreviatura de "Puntos de Logros". ¡Obtén estos puntos especiales al completar logros! Los logros de mayor nivel otorgan más PL que los demás.</string>
     <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los Jugadores que hayan completado al menos 12 Partidas Competitivas.</string>
     <string name="leaderboard_rating">Clasificación</string>
@@ -766,7 +766,7 @@
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominio</string>
     <string name="description_domination">¡Juego clásico contrarreloj, donde el tamaño solo cuenta mientras mantengas el primer puesto! Cada segundo que pasas siendo el blob más grande del mapa suma tiempo a tu puntuación, y ser devorado no te quitará el tiempo que hayas acumulado. ¡Gana quien haya aguantado más tiempo en primer lugar al agotarse el tiempo!</string>
-    <string name="gamemode_trick_god">Trick God</string>
+    <string name="gamemode_trick_god">Trick GOD</string>
     <string name="description_trick_god">Jugabilidad clásica contrarreloj, ¡donde el estilo se convierte en puntos! Usa Tricks(Trucos) sobre otros blobs para ganar puntos y encadénalos rápidamente para aumentar tu multiplicador de combo. Trick Split: divídete para lanzarte contra un blob que eres demasiado pequeño para comerte y crece por el camino devorando las piezas que encuentres. Pop Split: lanza tu pieza dividida contra un blob situado junto a un agujero para hacerlo explotar y después cómete una de sus piezas. Ice Split: congela tu pieza dividida mientras vuela para hacer explotar al blob que intente comérsela. ¡Conservas tus puntos incluso si te comen! Cuando se agote el tiempo, gana quien haya conseguido la mayor puntuación.</string>
     <string name="description_classic">¡Cómete a jugadores más pequeños y conviértete en el blob más grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los jugadores más grandes te quieren comer!</string>
     <string name="description_teams">¡Une fuerzas con otros jugadores del mismo color! Trabajen juntos para comerse a los enemigos y convertirse en el equipo que domine la clasificación. Los compañeros de equipo no pueden comerse entre sí.</string>
@@ -864,7 +864,7 @@
     <string name="emotes">Emotes</string>
     <string name="room_commands">Escribe !help para ver la lista de comandos disponibles</string>
     <string name="chat_close">Cerrar Chat</string>
-    <string name="chat_channel_public">PUBLIC</string>
+    <string name="chat_channel_public">PUBLICO</string>
     <string name="clan_sys_joined">%1$s se ha unido al Clan!</string>
     <string name="clan_sys_left">%1$s ha abandonado el Clan.</string>
     <string name="clan_sys_kicked">%1$s fue Hechado del Clan por %2$s</string>
