@@ -11,7 +11,7 @@
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Скопировать Email</string>
+    <string name="email_copy">Скопировать адрес эл. почты</string>
     <string name="email_support">Техподдержка:</string>
     <string name="developer">Разработчик:</string>
     <string name="code_contribution">Вклад в код:</string>
@@ -440,7 +440,7 @@
     <string name="profile_description_save_success">Описание сохранено</string>
     <string name="profile_description_save_failed">Не удалось сохранить описание</string>
     <string name="profile_description_too_long">Слишком длинное описание! (макс. %d символов)</string>
-    <string name="profile_description_too_large">Описание профиля больше, чем %s</string>
+    <string name="profile_description_too_large">Описание профиля превышает допустимый размер: %s</string>
     <string name="unlock_description_color">Разблокировать цвет текста описания</string>
     <string name="description_text_color">Цвет текста описания</string>
     <string name="unlock_description_color_success">Цвет текста описания разблокирован!</string>
@@ -452,7 +452,7 @@
     <string name="enter_profile_name">Введите имя профиля</string>
     <string name="profile_color">ЦВЕТ ПРОФИЛЯ</string>
     <string name="profile_text_color_white">Белый текст</string>
-    <string name="profile_text_color_black">Чёрный text</string>
+    <string name="profile_text_color_black">Чёрный текст</string>
     <string name="profile_gradient_color">Градиент</string>
     <string name="profile_3_gradient_color">Второй градиент</string>
     <string name="profile_animated_gradient">Анимация градиента</string>
@@ -873,7 +873,7 @@
     <string name="clan_sys_demoted">%1$s понижен(-а) до роли %2$s игроком %3$s!</string>
     <string name="clan_sys_achievement">%1$s получил(-а) достижение «%2$s»</string>
     <string name="clan_sys_donated">%1$s пожертвовал(-а) клану %2$s пустотных камней!</string>
-    <string name="clan_sys_tier">Клан достиг уровня %2$s!</string>
+    <string name="clan_sys_tier">%1$s достиг уровня %2$s!</string>
     <string name="chat_message_hint">Введите сообщение…</string>
     <string name="chat_send_message">Отправить сообщение</string>
     <string name="copy_name">Копировать имя</string>
