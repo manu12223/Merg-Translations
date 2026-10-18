@@ -670,7 +670,7 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">Tipo de Tabla</string>
     <string name="leaderboard_xp_description">Puntos de Experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el Juego.</string>
-    <string name="leaderboard_type_ap">AP / PL</string>
+    <string name="leaderboard_type_ap">PL</string>
     <string name="leaderboard_ap_description">PL, abreviatura de "Puntos de Logros". ¡Obtén estos puntos especiales al completar logros! Los logros de mayor nivel otorgan más PL que los demás.</string>
     <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los Jugadores que hayan completado al menos 12 Partidas Competitivas.</string>
     <string name="leaderboard_rating">Clasificación</string>
