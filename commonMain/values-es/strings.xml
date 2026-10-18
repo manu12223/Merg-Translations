@@ -726,10 +726,10 @@
     <string name="stat_pop_split_points">Puntos Pop Split:</string>
     <string name="stat_ice_splits">Ice Splits hechos:</string>
     <string name="stat_ice_split_points">Puntos Ice Split:</string>
-    <string name="stat_tricks_total">Total Tricks hechos:</string>
-    <string name="stat_trick_points_total">Puntos Total Trick:</string>
-    <string name="stat_trick_god_high_score">Trick God High Score:</string>
-    <string name="stat_best_trick_combo">Best Trick Combo:</string>
+    <string name="stat_tricks_total">Trucos Totales hechos:</string>
+    <string name="stat_trick_points_total">Puntos Totales de Trucos:</string>
+    <string name="stat_trick_god_high_score">Puntuación mas alta en Trick GOD:</string>
+    <string name="stat_best_trick_combo">Mejor combo de Trucos:</string>
 
     <!-- Mail !-->
     <string name="mail">CORREOS</string>
@@ -958,7 +958,7 @@
     <string name="highest_rank">Rango más Alto</string>
     <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
-    <string name="leaderboard">Ranking</string>
+    <string name="leaderboard">Clasificación</string>
     <string name="session_stats">Estadísticas de Sesión</string>
     <string name="debug">Depuración</string>
     <string name="profiler">Perfil</string>
@@ -1001,7 +1001,7 @@
     <string name="permission_denied">Permiso Denegado</string>
     <string name="dialog_locked">Bloqueado</string>
     <string name="duplicate_connection">Ups, alguien más está usando tu Cuenta Merg.</string>
-    <string name="outdated_client">Cliente Desactualizado!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
+    <string name="outdated_client">Cliente Desactualizado!\nCliente: %1$s (%2$d)\nServidor: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">Jugadores Bloqueados</string>
