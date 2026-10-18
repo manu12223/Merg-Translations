@@ -249,9 +249,9 @@
     <string name="booster_active">Activo</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Mejorar</string>
-    <string name="booster_base_xp">Multip. EXP Base</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
+    <string name="booster_base_xp">Multip. de EXP Base</string>
+    <string name="booster_autosplit">Autodividir</string>
+    <string name="booster_autoshoot">Autodisparo</string>
     <string name="booster_spawn_size">Aumentar Tamaño Inicial</string>
     <string name="speed_none">N/A</string>
     <string name="speed_slow">Lento (5/sec)</string>
@@ -286,8 +286,8 @@
     <string name="skin_bought">Skin Comprada</string>
     <string name="booster_base_xp_bought">Base XP Mejorado</string>
     <string name="transaction_achievement_reward">Recompensa por logro</string>
-    <string name="booster_autosplit_bought">Autosplit Mejorado</string>
-    <string name="booster_autoshoot_bought">Autoshoot Mejorado</string>
+    <string name="booster_autosplit_bought">Autodividido Mejorado</string>
+    <string name="booster_autoshoot_bought">Autodisparo Mejorado</string>
     <string name="booster_spawn_size_bought">Tamaño de reaparición Mejorado</string>
     <string name="booster_level_short">Nvl %1$d</string>
     <string name="profile_name_change_bought">Cambio de Nombre Comprado</string>
@@ -579,7 +579,7 @@
     <string name="clan_join_mode_abandoned">Abandonado</string>
     <string name="clan_pending_requests">Solicitudes de Clan</string>
     <string name="clan_role_owner">Líder</string>
-    <string name="clan_role_co_owner">Colíder</string>
+    <string name="clan_role_co_owner">Co-líder</string>
     <string name="clan_role_admin">Administrador</string>
     <string name="clan_role_elder">Veterano</string>
     <string name="clan_role_member">Miembro</string>
@@ -1493,7 +1493,7 @@
     <string name="daily_reminder_push_title">¡Tu racha de %1$d días está a punto de terminar!</string>
     <string name="daily_reminder_push_body">Todavía no has reclamado la recompensa diaria de hoy. ¡Juega al menos una vez antes de que termine el día para no perder tu racha ni sus recompensas!</string>
     <string name="clan_promote">Ascender</string>
-    <string name="clan_demote">Degradar</string>
+    <string name="clan_demote">Descender</string>
     <string name="clan_stats">Estadísticas del Clan</string>
     <string name="clan_stats_rank">Rango del Clan</string>
     <string name="clan_stats_days_today">(hoy)</string>
@@ -1506,7 +1506,7 @@
     <string name="clan_tier_upgrade">Mejorar a Tier %1$s</string>
     <string name="clan_tier_upgrade_confirm">¿Gastar %1$s Clan Voidstones para mejorar el Clan a Tier %2$s?</string>
     <string name="clan_tier_max">¡Se ha alcanzado el Tier más alto!</string>
-    <string name="clan_tier_roles_only">Solo el Owner, los Co-Owners y los Admins pueden mejorar el Clan Tier.</string>
+    <string name="clan_tier_roles_only">Solo el Líder, los Co-Líderes y los Admins pueden mejorar el Clan Tier.</string>
     <string name="clan_tier_clan_xp">Clan XP</string>
     <string name="clan_tier_clan_voidstones">Clan Voidstones</string>
     <string name="clan_tier_perks">Ventajas</string>
