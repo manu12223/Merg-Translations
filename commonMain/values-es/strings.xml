@@ -98,7 +98,7 @@
     <string name="name_position_below">Abajo</string>
     <string name="text_scale">Escala de texto</string>
     <string name="blob_text_header">Texto de Blob</string>
-    <string name="blob_text_ap">Puntos de Logros (AP / PL)</string>
+    <string name="blob_text_ap">Puntos de Logros (PL)</string>
     <string name="blob_text_connection">Calidad de la Conexión</string>
     <string name="blob_text_multimerg_number">Numero del MultiMerg Blob</string>
     <string name="blob_text_size_all">Mostrar en todos los blobs</string>
