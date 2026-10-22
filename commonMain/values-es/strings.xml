@@ -912,7 +912,7 @@
     <string name="chat_expanded_desc">Aumenta el tamaño de la ventana del chat para mostrar más mensajes. También puedes expandirlo con la flecha que aparece debajo.</string>
     <string name="chat_no_hud">Ocultar HUD detrás del chat</string>
     <string name="chat_no_hud_desc">Mientras el chat está abierto, se oculta el resto de la interfaz del juego: el menú, los botones de la parte superior e inferior, tu información de jugador y el ranking/minimapa. Solo permanecen los botones del juego (dividirse, disparar, …) mientras estás jugando.</string>
-    
+
     <!-- Notification box !-->
     <string name="level_up">¡Subes de Nivel! %d</string>
     <string name="game_over">Fin del Juego</string>
