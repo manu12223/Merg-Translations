@@ -85,7 +85,7 @@
     <string name="skin_outlines">Contorno de Skin</string>
     <string name="multimerg_blob2_opposite_color">El 2do Blob en Multimerg tiene el color opuesto</string>
     <string name="delayed_auto_fire">Autosplit/shoot Retrasado</string>
-    <string name="zoom_lens_size">Tamaño del Zoom Lens</string>
+    <string name="zoom_lens_size">Tamaño del Visor de Zoom</string>
     <string name="direction_arrow">Flecha de Dirección</string>
     <string name="border_above_entities">Borde por Encima de las Entidades</string>
     <string name="map_border_visible">Borde del Mapa</string>
@@ -96,14 +96,14 @@
     <string name="name_position_above">Arriba</string>
     <string name="name_position_center">Centrado</string>
     <string name="name_position_below">Abajo</string>
-    <string name="text_scale">Escala de texto</string>
+    <string name="text_scale">Escala de Texto</string>
     <string name="blob_text_header">Texto de Blob</string>
     <string name="blob_text_ap">Puntos de Logros (PL)</string>
-    <string name="blob_text_connection">Calidad de la Conexión</string>
+    <string name="blob_text_connection">Calidad de Conexión</string>
     <string name="blob_text_multimerg_number">Numero del MultiMerg Blob</string>
     <string name="blob_text_size_all">Mostrar en todos los blobs</string>
-    <string name="blob_text_size_all_warning">Puede afectar negativamente al rendimiento de la aplicación.</string>
-    <string name="blob_text_spacing">Espaciado vertical</string>
+    <string name="blob_text_size_all_warning">Puede afectar negativamente al rendimiento de la aplicación</string>
+    <string name="blob_text_spacing">Espaciado Vertical</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quien te Comió</string>
     <string name="cycle_progressbar">Alt. Automát. Texto de la Barra EXP</string>
     <string name="verbose_in_game_ui">Indicadores de Juego</string>
@@ -133,12 +133,12 @@
     <string name="decrease_bots">Reducir Bots</string>
     <string name="increase_bots">Aumentar Bots</string>
     <string name="max_split_pieces">Divisiones Máximas</string>
-    <string name="max_split_128_gold">128: Pase de Temporada Dorado</string>
-    <string name="max_split_128_needs_gold">128 Las piezas divididas necesitan Pase de Temporada Dorado</string>
+    <string name="max_split_128_gold">128: Pase de Temporada Gold</string>
+    <string name="max_split_128_needs_gold">Exclusivo del Pase de Temporada Gold</string>
     <string name="quick_merge">Fusión Rápida</string>
     <string name="force_split_on_blob_size">Split forzado según el tamaño del blob</string>
-    <string name="custom_shot_size_multiplier">Multiplicador del Tamaño de Tiro Custom</string>
-    <string name="shot_size_self_feed_hint">>1 para Autoalimentación</string>
+    <string name="custom_shot_size_multiplier">Multiplicador del tamaño de disparo</string>
+    <string name="shot_size_self_feed_hint">>1 para autoalimentación</string>
     <string name="merge_button">Botón de fusión</string>
     <string name="no_holes">Sin Agujeros</string>
     <string name="circle_map">Mapa Circular</string>
@@ -193,7 +193,7 @@
     <string name="competitive_menu">Menú Competitivo</string>
     <string name="competitive_history">Historial Competitivo</string>
     <string name="rating_label">Clasificación</string>
-    <string name="unrated">Sin Clasificar</string>
+    <string name="unrated">sin clasificar</string>
     <string name="find_opponent">ENCONTRAR OPONENTE</string>
     <string name="leave_matchmaking">CANCELAR BÚSQUEDA</string>
     <string name="searching_ellipsis">Buscando…</string>
@@ -238,7 +238,7 @@
     <!-- Boosters -->
     <string name="boosters">Mejoras</string>
     <string name="booster_permanent_upgrades">Mejoras Permanentes</string>
-    <string name="booster_owned">En Propiedad: %1$s</string>
+    <string name="booster_owned">Adquirido: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">N/A</string>
     <string name="booster_ad_xp_title">Multip. EXP por Anuncio</string>
@@ -246,11 +246,11 @@
     <string name="booster_stacks_base_xp">Acumula EXP Base</string>
     <string name="booster_watch_ad">Mirar Anuncio</string>
     <string name="booster_choose_boost">Elige tu potenciador de EXP</string>
-    <string name="booster_active">Activo</string>
+    <string name="booster_active">activo</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Mejorar</string>
-    <string name="booster_base_xp">Multip. de EXP Base</string>
-    <string name="booster_autosplit">Autodividir</string>
+    <string name="booster_base_xp">Multip. EXP Base</string>
+    <string name="booster_autosplit">Autosplit</string>
     <string name="booster_autoshoot">Autodisparo</string>
     <string name="booster_spawn_size">Aumentar Tamaño Inicial</string>
     <string name="speed_none">N/A</string>
@@ -286,7 +286,7 @@
     <string name="skin_bought">Skin Comprada</string>
     <string name="booster_base_xp_bought">Base XP Mejorado</string>
     <string name="transaction_achievement_reward">Recompensa por logro</string>
-    <string name="booster_autosplit_bought">Autodividido Mejorado</string>
+    <string name="booster_autosplit_bought">Autosplit Mejorado</string>
     <string name="booster_autoshoot_bought">Autodisparo Mejorado</string>
     <string name="booster_spawn_size_bought">Tamaño de reaparición Mejorado</string>
     <string name="booster_level_short">Nvl %1$d</string>
@@ -307,9 +307,9 @@
     <string name="purchase_status_refunded">Estado de Compra Reembolsada</string>
     <string name="purchase_no_ads_gift_received">Sin anuncios de #%d</string>
     <string name="purchase_no_ads_gift_purchased">Sin anuncios para #%d</string>
-    <string name="purchase_season_pass_gold_label">Pase de Temporada Dorado</string>
-    <string name="purchase_season_pass_gold_gift_received">Pase de Temporada Dorado de #%d</string>
-    <string name="purchase_season_pass_gold_gift_purchased">Pase de Temporada Dorado para #%d</string>
+    <string name="purchase_season_pass_gold_label">Pase de Temporada Gold</string>
+    <string name="purchase_season_pass_gold_gift_received">Pase de Temporada Gold de #%d</string>
+    <string name="purchase_season_pass_gold_gift_purchased">Pase de Temporada Gold para #%d</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">El Anuncio aún no ha cargado</string>
@@ -367,9 +367,9 @@
      <string name="season_pass_history_revoked_stage_paid">Nivel %1$d (Pago) — Anulado</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones Anuladas</string>
      <string name="season_pass_history_revoked_unlock">Desbloqueo Anulado</string>
-     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Dorado Reembolsado</string>
-     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Dorado en Disputa</string>
-     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Dorado en Proceso</string>
+     <string name="season_pass_history_revoked_trigger_refund">Pase de Temporada Gold Reembolsado</string>
+     <string name="season_pass_history_revoked_trigger_dispute">Pase de Temporada Gold en Disputa</string>
+     <string name="season_pass_history_revoked_trigger_chargeback">Reembolso del Pase de Temporada Gold en Proceso</string>
 
      <string name="season_pass_missed_title">RECOMPENSAS PERDIDAS</string>
      <string name="season_pass_missed_subtitle">Niveles no reclamados en la temporada %1$d</string>
@@ -430,7 +430,7 @@
     <string name="change_name">Cambiar Nombre</string>
     <string name="copy_id">Copiar ID</string>
     <string name="share_id">Compartir ID</string>
-    <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s :D</string>
+    <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
     <string name="no_youtube_link">No Enlazado</string>
     <string name="no_tiktok_link">No Enlazado</string>
     <string name="created">Desde %s</string>
@@ -458,7 +458,7 @@
     <string name="profile_animated_gradient">Degradado Animado</string>
     <string name="profile_animated_circle_gradient">Círculo de Perfil con Degradado Animado</string>
     <string name="prerequisite_not_met">Debes Desbloquear %s Primero</string>
-    <string name="profile_not_viewed">Debes ver este perfil antes de poder darle "Me gusta".</string>
+    <string name="profile_not_viewed">Debes ver este perfil antes de poder darle me gusta</string>
     <string name="prerequisite_feature">Característica Requerida</string>
     <string name="profile_name_color">COLOR DE NOMBRE</string>
     <string name="profile_not_logged_in_error">No has iniciado sesión. Por favor, inicia sesión primero.</string>
@@ -554,7 +554,7 @@
     <string name="clan_tag_hint">Siglas (1-4 letras)</string>
     <string name="clan_list">Clanes Públicos</string>
     <string name="clan_no_clans">No se Encontraron Clanes</string>
-    <string name="no_clan">Sin Clan</string>
+    <string name="no_clan">sin clan</string>
     <string name="clan_request_clans">Solo Clanes por Solicitud</string>
     <string name="clan_my_invites">Mis Invitaciones de Clan</string>
     <string name="clan_invite_declined">Invitación Rechazada.</string>
@@ -579,7 +579,7 @@
     <string name="clan_join_mode_abandoned">Abandonado</string>
     <string name="clan_pending_requests">Solicitudes de Clan</string>
     <string name="clan_role_owner">Líder</string>
-    <string name="clan_role_co_owner">Co-líder</string>
+    <string name="clan_role_co_owner">Colíder</string>
     <string name="clan_role_admin">Administrador</string>
     <string name="clan_role_elder">Veterano</string>
     <string name="clan_role_member">Miembro</string>
@@ -720,16 +720,16 @@
     <string name="stat_items_used">Items utilizados:</string>
     <string name="stat_voidstones_gifted">Regaladas:</string>
     <string name="stat_opponents_exploded">Enemigos Explotados:</string>
-    <string name="stat_trick_splits">Trick Splits hechos:</string>
+    <string name="stat_trick_splits">Trick Splits Realizados:</string>
     <string name="stat_trick_split_points">Puntos Trick Split:</string>
-    <string name="stat_pop_splits">Pop Splits hechos:</string>
+    <string name="stat_pop_splits">Pop Splits Realizados:</string>
     <string name="stat_pop_split_points">Puntos Pop Split:</string>
-    <string name="stat_ice_splits">Ice Splits hechos:</string>
+    <string name="stat_ice_splits">Ice Splits Realizados:</string>
     <string name="stat_ice_split_points">Puntos Ice Split:</string>
-    <string name="stat_tricks_total">Trucos Totales hechos:</string>
-    <string name="stat_trick_points_total">Puntos Totales de Trucos:</string>
-    <string name="stat_trick_god_high_score">Puntuación mas alta en Trick GOD:</string>
-    <string name="stat_best_trick_combo">Mejor combo de Trucos:</string>
+    <string name="stat_tricks_total">Tricks Totales Realizados:</string>
+    <string name="stat_trick_points_total">Puntos Trick Totales:</string>
+    <string name="stat_trick_god_high_score">Puntuación Trick God más Alta:</string>
+    <string name="stat_best_trick_combo">Combo Trick más Alto:</string>
 
     <!-- Mail !-->
     <string name="mail">CORREOS</string>
@@ -766,7 +766,7 @@
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominio</string>
     <string name="description_domination">¡Juego clásico contrarreloj, donde el tamaño solo cuenta mientras mantengas el primer puesto! Cada segundo que pasas siendo el blob más grande del mapa suma tiempo a tu puntuación, y ser devorado no te quitará el tiempo que hayas acumulado. ¡Gana quien haya aguantado más tiempo en primer lugar al agotarse el tiempo!</string>
-    <string name="gamemode_trick_god">Trick GOD</string>
+    <string name="gamemode_trick_god">Trick God</string>
     <string name="description_trick_god">Jugabilidad clásica contrarreloj, ¡donde el estilo se convierte en puntos! Usa Tricks(Trucos) sobre otros blobs para ganar puntos y encadénalos rápidamente para aumentar tu multiplicador de combo. Trick Split: divídete para lanzarte contra un blob que eres demasiado pequeño para comerte y crece por el camino devorando las piezas que encuentres. Pop Split: lanza tu pieza dividida contra un blob situado junto a un agujero para hacerlo explotar y después cómete una de sus piezas. Ice Split: congela tu pieza dividida mientras vuela para hacer explotar al blob que intente comérsela. ¡Conservas tus puntos incluso si te comen! Cuando se agote el tiempo, gana quien haya conseguido la mayor puntuación.</string>
     <string name="description_classic">¡Cómete a jugadores más pequeños y conviértete en el blob más grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los jugadores más grandes te quieren comer!</string>
     <string name="description_teams">¡Une fuerzas con otros jugadores del mismo color! Trabajen juntos para comerse a los enemigos y convertirse en el equipo que domine la clasificación. Los compañeros de equipo no pueden comerse entre sí.</string>
@@ -864,16 +864,16 @@
     <string name="emotes">Emotes</string>
     <string name="room_commands">Escribe !help para ver la lista de comandos disponibles</string>
     <string name="chat_close">Cerrar Chat</string>
-    <string name="chat_channel_public">PUBLICO</string>
+    <string name="chat_channel_public">PÚBLICO</string>
     <string name="clan_sys_joined">%1$s se ha unido al Clan!</string>
     <string name="clan_sys_left">%1$s ha abandonado el Clan.</string>
-    <string name="clan_sys_kicked">%1$s fue Hechado del Clan por %2$s</string>
-    <string name="clan_sys_banned">%1$s fue Baneado del Clan por %2$s</string>
-    <string name="clan_sys_promoted">%1$s ha sido Ascendido a %2$s por %3$s!</string>
-    <string name="clan_sys_demoted">%1$s ha sido Descendido %2$s por %3$s!</string>
+    <string name="clan_sys_kicked">%1$s fue expulsado del Clan por %2$s</string>
+    <string name="clan_sys_banned">%1$s fue baneado del Clan por %2$s</string>
+    <string name="clan_sys_promoted">%1$s ha sido ascendido a %2$s por %3$s!</string>
+    <string name="clan_sys_demoted">%1$s ha sido descendido a %2$s por %3$s!</string>
     <string name="clan_sys_achievement">%1$s desbloqueo el logro %2$s</string>
-    <string name="clan_sys_donated">%1$s dono %2$s Voidstones al Clan!</string>
-    <string name="clan_sys_tier">%1$s ha avanzado al Tier %2$s!</string>
+    <string name="clan_sys_donated">%1$s regaló %2$s Voidstones al Clan!</string>
+    <string name="clan_sys_tier">%1$s ha alcanzado el Nivel %2$s!</string>
     <string name="chat_message_hint">Escribe un Mensaje…</string>
     <string name="chat_send_message">Enviar Mensaje</string>
     <string name="copy_name">Copiar Nombre</string>
@@ -887,32 +887,31 @@
     <string name="replying_to">Responder a %s</string>
     <string name="chat_reply_hint">Escribe una respuesta…</string>
     <string name="chat_clear_input">Limpiar</string>
-    <string name="chat_settings_title">Configuración del Chat</string>
+    <string name="chat_settings_title">Ajustes de Chat</string>
     <string name="chat_settings_colors">Colores</string>
     <string name="chat_settings_texts">Textos</string>
-    <string name="chat_settings_layout">Disposición</string>
-    <string name="chat_bg_opacity">Opacidad del fondo del chat</string>
-    <string name="chat_bg_opacity_desc">Qué tan opaca es la ventana del chat. Los valores más bajos permiten ver más del juego detrás.</string>
-    <string name="chat_contrast">Contraste</string>
-    <string name="chat_contrast_desc">Qué tan opaca es el área de los mensajes, lo que determina cuánto destaca del resto de la ventana del chat.</string>
-    <string name="chat_highlight">Resaltar respuestas y menciones</string>
+    <string name="chat_settings_layout">Apariencia</string>
+    <string name="chat_bg_opacity">Opacidad de Fondo del Chat</string>
+    <string name="chat_bg_opacity_desc">Qué tan transparente es la ventana del chat. Los valores más bajos permiten ver más del juego detrás.</string>
+    <string name="chat_contrast">Contrastes</string>
+    <string name="chat_contrast_desc">Qué tan transparente es el área de los mensajes, lo que determina cuánto destaca del resto de la ventana del chat.</string>
+    <string name="chat_highlight">Resaltar Respuestas y Menciones</string>
     <string name="chat_highlight_desc">Resalta los mensajes que te mencionan (@ seguido de tu ID o nombre) y las respuestas a tus mensajes.</string>
-    <string name="chat_highlight_opacity">Opacidad del resaltado</string>
-    <string name="chat_show_ids_only">Mostrar solo los ID</string>
-    <string name="chat_show_ids_only_desc">Muestra únicamente el ID del jugador delante de cada mensaje.</string>
-    <string name="chat_show_names_only">Mostrar solo los apodos</string>
-    <string name="chat_show_names_only_desc">Muestra únicamente el nombre del jugador delante de cada mensaje.</string>
-    <string name="chat_show_names_ids">Mostrar apodos e ID</string>
-    <string name="chat_show_names_ids_desc">Muestra el nombre del jugador seguido de su ID delante de cada mensaje.</string>
-    <string name="chat_styled_names">Apodos personalizados</string>
-    <string name="chat_styled_names_desc">Muestra los nombres con el color y la fuente elegidos por cada jugador. Si está desactivado, los nombres aparecen en blanco.</string>
-    <string name="chat_text_size">Tamaño del texto</string>
+    <string name="chat_highlight_opacity">Opacidad del Resaltado</string>
+    <string name="chat_show_ids_only">Mostrar Solo IDs</string>
+    <string name="chat_show_ids_only_desc">Muestra solamente el ID del jugador antes de cada mensaje.</string>
+    <string name="chat_show_names_only">Mostrar Solo Apodos</string>
+    <string name="chat_show_names_only_desc">Muestra solamente el apodo del jugador antes de cada mensaje.</string>
+    <string name="chat_show_names_ids">Mostrar Apodos e IDs</string>
+    <string name="chat_show_names_ids_desc">Muestra el apodo del jugador y su ID antes de cada mensaje.</string>
+    <string name="chat_styled_names">Apodos Estilizados</string>
+    <string name="chat_styled_names_desc">Muestra los apodos con el color y fuente elegidos por cada jugador. Si está desactivado, los apodos aparecen en blanco y sin fuente.</string>
+    <string name="chat_text_size">Tamaño del Texto</string>
     <string name="chat_text_size_desc">El tamaño del texto de los mensajes del chat.</string>
-    <string name="chat_expanded">Chat expandido</string>
-    <string name="chat_expanded_desc">Aumenta la altura de la ventana del chat para mostrar más mensajes. El botón de flecha situado debajo del chat también permite cambiar esta opción.</string>
-    <string name="chat_no_hud">Ocultar interfaz detrás del chat</string>
-    <string name="chat_no_hud_desc">Mientras el chat está abierto, oculta el resto de la interfaz del juego: el menú, los botones superiores e inferiores, la información de tu jugador y la tabla de clasificación y el minimapa. Durante la partida, solo permanecen visibles los botones de juego, como dividirse y disparar.</string>
-    
+    <string name="chat_expanded">Chat Expandido</string>
+    <string name="chat_expanded_desc">Aumenta el tamaño de la ventana del chat para mostrar más mensajes. También puedes expandirlo con la flecha que aparece debajo.</string>
+    <string name="chat_no_hud">Ocultar HUD detrás del chat</string>
+    <string name="chat_no_hud_desc">Mientras el chat está abierto, se oculta el resto de la interfaz del juego: el menú, los botones de la parte superior e inferior, tu información de jugador y el ranking/minimapa. Solo permanecen los botones del juego (dividirse, disparar, …) mientras estás jugando.</string>
     <!-- Notification box !-->
     <string name="level_up">¡Subes de Nivel! %d</string>
     <string name="game_over">Fin del Juego</string>
@@ -958,7 +957,7 @@
     <string name="highest_rank">Rango más Alto</string>
     <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
-    <string name="leaderboard">Clasificación</string>
+    <string name="leaderboard">Ranking</string>
     <string name="session_stats">Estadísticas de Sesión</string>
     <string name="debug">Depuración</string>
     <string name="profiler">Perfil</string>
@@ -1118,11 +1117,11 @@
     <string name="custom_media_in_use">En Uso</string>
     <string name="custom_media_use">Usar</string>
     <string name="custom_media_stop_using">Dejar de Usar</string>
-    <string name="custom_media_delete">Borrar</string>
-    <string name="custom_image_delete_confirm">Borrar esta imagen? Esto no se puede deshacer.</string>
-    <string name="custom_banner_delete_confirm">Borrar este banner? Esto no se puede deshacer.</string>
-    <string name="custom_image_deleted">Imagen Borrada</string>
-    <string name="custom_banner_deleted">Banner Borrado</string>
+    <string name="custom_media_delete">Eliminar</string>
+    <string name="custom_image_delete_confirm">¿Quieres eliminar esta imagen? Esto no se puede deshacer.</string>
+    <string name="custom_banner_delete_confirm">¿Quieres eliminar este banner? Esto no se puede deshacer.</string>
+    <string name="custom_image_deleted">Imagen Eliminado</string>
+    <string name="custom_banner_deleted">Banner Eliminado</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Recuperar Cuenta</string>
