@@ -873,9 +873,9 @@
     <string name="clan_sys_banned">「%1$s」さんがクランから「%2$s」さんによってBANされました</string>
     <string name="clan_sys_promoted">「%1$s」さんが%2$sに「%3$s」さんによって昇格されました！</string>
     <string name="clan_sys_demoted">「%1$s」さんが%2$sに「%3$s」さんによって降格されました！</string>
-    <string name="clan_sys_achievement">「%1$s」さんが達成『%2$s』をアンロックしました</string>
+    <string name="clan_sys_achievement">「%1$s」さんが実績『%2$s』を解除しました</string>
     <string name="clan_sys_donated">「%1$s」さんがクランへボイドストーンを%2$s枚寄付しました！</string>
-    <string name="clan_sys_tier">「%1$s」さんがティア %2$s に上げました！</string>
+    <string name="clan_sys_tier">「%1$s」さんがティア %2$s に到達しました！</string>
     <string name="chat_message_hint">メッセージを書く…</string>
     <string name="chat_send_message">メッセージを送る</string>
     <string name="copy_name">名前をコピー</string>
@@ -901,7 +901,7 @@
     <string name="chat_highlight_desc">メンション（@の後にIDか名前）や、自分のメッセージへのリプライがハイライト表示されます。</string>
     <string name="chat_highlight_opacity">不透明度のハイライト</string>
     <string name="chat_show_system_messages">システムメッセージ</string>
-    <string name="chat_show_system_messages_desc">システムメッセージ（チャットとクランとゲーム）を表示します。この設定がオフにしている場合は、システムメッセージが非表示し、チャットボタンに数えられません。</string>
+    <string name="chat_show_system_messages_desc">システムメッセージ（ルームやクランやゲーム）を表示します。この設定がオフにしている場合は、システムメッセージが非表示し、チャットボタンに数えられません。</string>
     <string name="chat_show_ids_only">IDのみ</string>
     <string name="chat_show_ids_only_desc">メッセージの前でプレイヤーIDを表示します。</string>
     <string name="chat_show_names_only">ニックネームのみ</string>
