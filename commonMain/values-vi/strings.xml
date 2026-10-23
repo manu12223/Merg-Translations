@@ -107,6 +107,7 @@
     <string name="auto_spectate_killer">Tự động theo dõi kẻ hạ gục</string>
     <string name="cycle_progressbar">Chuyển đổi văn bản thanh tiến trình XP</string>
     <string name="verbose_in_game_ui">Giao diện trong trò chơi chi tiết</string>
+    <string name="announce_tricks">Announce Tricks</string>
     <string name="jitter_buffer">Bộ đệm Jitter</string>
     <string name="extrapolation">Extrapolation</string>
     <string name="no_interpolation">No Interpolation</string>
@@ -577,6 +578,7 @@
     <string name="clan_join_mode_request">Yêu cầu tham gia</string>
     <string name="clan_join_mode_private">Riêng tư</string>
     <string name="clan_join_mode_abandoned">Bị bỏ hoang</string>
+    <string name="clan_status_full">Full</string>
     <string name="clan_pending_requests">Yêu cầu tham gia</string>
     <string name="clan_role_owner">Chủ sở hữu</string>
     <string name="clan_role_co_owner">Đồng sở hữu</string>
@@ -767,7 +769,7 @@
     <string name="gamemode_domination">Domination</string>
     <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Classic gameplay on a clock, scored by style! Land tricks on other blobs to earn points, and chain them quickly to grow your combo multiplier. Trick Split: split into a blob you are too small to eat, and grow on the way by eating pieces in your path. Pop Split: feed your split piece to a blob next to a hole so it bursts, then eat one of its pieces. Ice Split: freeze your split piece while it flies, so the blob that tries to eat it pops. Your points stay when you get eaten, and the most points when the timer runs out wins!</string>
+    <string name="description_trick_god">Classic gameplay on a clock, scored by style! Land tricks on other blobs to earn points, and chain them quickly to grow your combo multiplier. Trick Split: split, eat a piece of a blob that is split into 6 or more pieces, then within 0.7 seconds a piece of a different blob, all within a second of your split. You and the blob you ate first both get the points. Pop Split: feed your split piece to a blob next to a hole so it bursts, then eat one of its pieces. Ice Split: freeze your split piece while it flies, so the blob that tries to eat it pops. Tricks on bots are worth a fifth. Your points stay when you get eaten, and the most points when the timer runs out wins!</string>
     <string name="description_classic">Ăn những người chơi nhỏ hơn và trở thành blob lớn nhất vũ trụ! Sử dụng kích thước của bạn để thống trị bản đồ, nhưng hãy cẩn thận với những người chơi lớn hơn muốn ăn bạn!</string>
     <string name="description_teams">Hợp lực với những người chơi khác cùng màu! Làm việc cùng nhau để bẫy kẻ thù và trở thành đội thống trị trên bảng xếp hạng. Đồng đội không thể ăn thịt lẫn nhau.</string>
     <string name="description_survival">Một mạng, một vòng! Thu thập càng nhiều càng tốt trước khi thời gian ân hạn kết thúc. Sau đó, cái chết là vĩnh viễn! Hãy là người cuối cùng còn sống hoặc là người lớn nhất khi hết thời gian để chiến thắng!</string>
@@ -873,7 +875,7 @@
     <string name="clan_sys_demoted">%1$s was demoted to %2$s by %3$s!</string>
     <string name="clan_sys_achievement">%1$s unlocked the achievement %2$s</string>
     <string name="clan_sys_donated">%1$s donated %2$s Voidstones to the Clan!</string>
-    <string name="clan_sys_tier">%1$s has advanced to Tier %2$s!</string>
+    <string name="clan_sys_tier">%1$s has advanced to Tier %2$s</string>
     <string name="chat_message_hint">Nhập tin nhắn…</string>
     <string name="chat_send_message">Gửi tin nhắn</string>
     <string name="copy_name">Sao chép tên</string>
@@ -898,6 +900,8 @@
     <string name="chat_highlight">Highlighted Reply &amp; Mention</string>
     <string name="chat_highlight_desc">Highlights messages that mention you (@ followed by your ID or your name) and replies to your messages.</string>
     <string name="chat_highlight_opacity">Highlighted Opacity</string>
+    <string name="chat_show_system_messages">Show System Messages</string>
+    <string name="chat_show_system_messages_desc">Shows SYSTEM messages in the chat: the room's, your clan's and the game's own. When off they are hidden, and the chat button no longer counts them.</string>
     <string name="chat_show_ids_only">Show IDs Only</string>
     <string name="chat_show_ids_only_desc">Shows only the player ID in front of each message.</string>
     <string name="chat_show_names_only">Show Nicknames Only</string>
@@ -919,6 +923,8 @@
     <string name="stage_clear">Màn %s Hoàn thành!</string>
     <string name="stage_failed">Màn %s Thất bại!</string>
     <string name="restarting_adventure">Đang khởi động lại cuộc phiêu lưu…</string>
+    <string name="adventure_lives_left">%s lives left</string>
+    <string name="adventure_one_life_left">1 life left</string>
     <string name="server_in_maintenance">Máy chủ đang bảo trì</string>
     <string name="server_reboot">Máy chủ đang khởi động lại</string>
     <string name="server_shutdown">Máy chủ đang tắt</string>
@@ -977,6 +983,7 @@
     <string name="banned_from_room">Bị cấm khỏi phòng!</string>
     <string name="enter_room_name">Nhập tên phòng</string>
     <string name="room_not_found">Không tìm thấy phòng</string>
+    <string name="room_outdated_client">Outdated Client!</string>
     <string name="already_in_room">Bạn đã ở trong một phòng!</string>
     <string name="room_closed">Phòng đã đóng</string>
     <string name="room_name">Tên phòng</string>
@@ -1474,6 +1481,13 @@
     <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
+    <string name="data_saver_mode">Data Saver Mode</string>
+    <string name="data_saver_off">OFF</string>
+    <string name="data_saver_moderate">Moderate</string>
+    <string name="data_saver_high">High</string>
+    <string name="data_saver_ultra">Ultra</string>
+    <string name="data_saver_latency_warning">Increases latency</string>
+    <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">Daily Reward</string>
     <string name="transaction_clan_tier_daily">Clan Tier %1$s Daily Reward</string>
     <string name="daily_reward_streak_title">%1$d Day Streak</string>

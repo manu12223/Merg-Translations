@@ -107,6 +107,7 @@
     <string name="auto_spectate_killer">হত্যাকারীকে স্বয়ংক্রিয়ভাবে স্পেকটেট করুন</string>
     <string name="cycle_progressbar">XP প্রগ্রেস বারের লেখা পরিবর্তন করুন</string>
     <string name="verbose_in_game_ui">বিস্তারিত ইন-গেম UI</string>
+    <string name="announce_tricks">Announce Tricks</string>
     <string name="jitter_buffer">জিটার বাফার</string>
     <string name="extrapolation">এক্সট্রাপোলেশন</string>
     <string name="no_interpolation">ইন্টারপোলেশন বন্ধ</string>
@@ -577,6 +578,7 @@
     <string name="clan_join_mode_request">Request Only</string>
     <string name="clan_join_mode_private">Private</string>
     <string name="clan_join_mode_abandoned">Abandoned</string>
+    <string name="clan_status_full">Full</string>
     <string name="clan_pending_requests">Join Requests</string>
     <string name="clan_role_owner">Owner</string>
     <string name="clan_role_co_owner">Co-Owner</string>
@@ -767,7 +769,7 @@
     <string name="gamemode_domination">Domination</string>
     <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Classic gameplay on a clock, scored by style! Land tricks on other blobs to earn points, and chain them quickly to grow your combo multiplier. Trick Split: split into a blob you are too small to eat, and grow on the way by eating pieces in your path. Pop Split: feed your split piece to a blob next to a hole so it bursts, then eat one of its pieces. Ice Split: freeze your split piece while it flies, so the blob that tries to eat it pops. Your points stay when you get eaten, and the most points when the timer runs out wins!</string>
+    <string name="description_trick_god">Classic gameplay on a clock, scored by style! Land tricks on other blobs to earn points, and chain them quickly to grow your combo multiplier. Trick Split: split, eat a piece of a blob that is split into 6 or more pieces, then within 0.7 seconds a piece of a different blob, all within a second of your split. You and the blob you ate first both get the points. Pop Split: feed your split piece to a blob next to a hole so it bursts, then eat one of its pieces. Ice Split: freeze your split piece while it flies, so the blob that tries to eat it pops. Tricks on bots are worth a fifth. Your points stay when you get eaten, and the most points when the timer runs out wins!</string>
     <string name="description_classic">Eat smaller players and become the largest blob in the universe! Use your size to dominate the map, but watch out for bigger players who want to eat you!</string>
     <string name="description_teams">Join forces with other players of the same color! Work together to trap enemies and become the dominant team on the leaderboard. Teammates cannot eat each other.</string>
     <string name="description_survival">One life, one round! Collect as much as possible before the grace period ends. After that, death is permanent! Be the last one standing or the biggest when time runs out to win!</string>
@@ -873,7 +875,7 @@
     <string name="clan_sys_demoted">%1$s was demoted to %2$s by %3$s!</string>
     <string name="clan_sys_achievement">%1$s unlocked the achievement %2$s</string>
     <string name="clan_sys_donated">%1$s donated %2$s Voidstones to the Clan!</string>
-    <string name="clan_sys_tier">%1$s has advanced to Tier %2$s!</string>
+    <string name="clan_sys_tier">%1$s has advanced to Tier %2$s</string>
     <string name="chat_message_hint">Type message…</string>
     <string name="chat_send_message">Send Message</string>
     <string name="copy_name">Copy Name</string>
@@ -898,6 +900,8 @@
     <string name="chat_highlight">Highlighted Reply &amp; Mention</string>
     <string name="chat_highlight_desc">Highlights messages that mention you (@ followed by your ID or your name) and replies to your messages.</string>
     <string name="chat_highlight_opacity">Highlighted Opacity</string>
+    <string name="chat_show_system_messages">Show System Messages</string>
+    <string name="chat_show_system_messages_desc">Shows SYSTEM messages in the chat: the room's, your clan's and the game's own. When off they are hidden, and the chat button no longer counts them.</string>
     <string name="chat_show_ids_only">Show IDs Only</string>
     <string name="chat_show_ids_only_desc">Shows only the player ID in front of each message.</string>
     <string name="chat_show_names_only">Show Nicknames Only</string>
@@ -919,6 +923,8 @@
     <string name="stage_clear">Stage %s Clear!</string>
     <string name="stage_failed">Stage %s Failed!</string>
     <string name="restarting_adventure">Restarting adventure…</string>
+    <string name="adventure_lives_left">%s lives left</string>
+    <string name="adventure_one_life_left">1 life left</string>
     <string name="server_in_maintenance">Server Maintenance</string>
     <string name="server_reboot">Server Reboot</string>
     <string name="server_shutdown">Server Shutdown</string>
@@ -977,6 +983,7 @@
     <string name="banned_from_room">Banned from Room!</string>
     <string name="enter_room_name">Enter Room Name</string>
     <string name="room_not_found">Room not found</string>
+    <string name="room_outdated_client">Outdated Client!</string>
     <string name="already_in_room">You are already in a room!</string>
     <string name="room_closed">Room Closed</string>
     <string name="room_name">Room Name</string>
@@ -1474,6 +1481,13 @@
     <string name="options_gameplay">Gameplay</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Force gameplay over Websocket</string>
+    <string name="data_saver_mode">Data Saver Mode</string>
+    <string name="data_saver_off">OFF</string>
+    <string name="data_saver_moderate">Moderate</string>
+    <string name="data_saver_high">High</string>
+    <string name="data_saver_ultra">Ultra</string>
+    <string name="data_saver_latency_warning">Increases latency</string>
+    <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">Daily Reward</string>
     <string name="transaction_clan_tier_daily">Clan Tier %1$s Daily Reward</string>
     <string name="daily_reward_streak_title">%1$d Day Streak</string>

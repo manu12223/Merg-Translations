@@ -107,6 +107,7 @@
     <string name="auto_spectate_killer">Наблюдать за убийцей автоматически</string>
     <string name="cycle_progressbar">Цикличный текст шкалы опыта</string>
     <string name="verbose_in_game_ui">Расширенный интерфейс игры</string>
+    <string name="announce_tricks">Announce Tricks</string>
     <string name="jitter_buffer">Буфер джиттера</string>
     <string name="extrapolation">Экстраполяция</string>
     <string name="no_interpolation">Без интерполяции</string>
@@ -577,6 +578,7 @@
     <string name="clan_join_mode_request">По запросу</string>
     <string name="clan_join_mode_private">Приватный</string>
     <string name="clan_join_mode_abandoned">Заброшенный</string>
+    <string name="clan_status_full">Full</string>
     <string name="clan_pending_requests">Заявки на вступление</string>
     <string name="clan_role_owner">Владелец</string>
     <string name="clan_role_co_owner">Совладелец</string>
@@ -919,6 +921,8 @@
     <string name="stage_clear">Этап %s пройден!</string>
     <string name="stage_failed">Этап %s провален!</string>
     <string name="restarting_adventure">Перезапуск приключения…</string>
+    <string name="adventure_lives_left">%s lives left</string>
+    <string name="adventure_one_life_left">1 life left</string>
     <string name="server_in_maintenance">Техническое обслуживание сервера</string>
     <string name="server_reboot">Перезагрузка сервера</string>
     <string name="server_shutdown">Выключение сервера</string>
@@ -977,6 +981,7 @@
     <string name="banned_from_room">Вы были забанены в комнате!</string>
     <string name="enter_room_name">Введите название комнаты</string>
     <string name="room_not_found">Комната не найдена</string>
+    <string name="room_outdated_client">Outdated Client!</string>
     <string name="already_in_room">Вы уже находитесь в комнате!</string>
     <string name="room_closed">Комната закрыта</string>
     <string name="room_name">Название комнаты</string>
