@@ -1481,6 +1481,13 @@
     <string name="options_gameplay">Jugabilidad</string>
     <string name="options_experimental">Experimental</string>
     <string name="options_force_websocket">Forzar el uso de WebSocket para jugar</string>
+    <string name="data_saver_mode">Data Saver Mode</string>
+    <string name="data_saver_off">OFF</string>
+    <string name="data_saver_moderate">Moderate</string>
+    <string name="data_saver_high">High</string>
+    <string name="data_saver_ultra">Ultra</string>
+    <string name="data_saver_latency_warning">Increases latency</string>
+    <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">Recompensa diaria</string>
     <string name="transaction_clan_tier_daily">Recompensa diaria del nivel de clan %1$s</string>
     <string name="daily_reward_streak_title">Racha de %1$d días</string>
