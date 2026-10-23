@@ -63,7 +63,7 @@
     <string name="control_touch">タッチ</string>
     <string name="control_drag">ドラッグ</string>
     <string name="ignore_multitouch_movement">移動時のマルチタッチを無視</string>
-    <string name="snap_direction_on_stop">Snap direction to 90° on stop 方向をストップ時に90°にスナップ</string>
+    <string name="snap_direction_on_stop">方向をストップ時に90°にスナップ</string>
     <string name="control_mouse">マウス</string>
     <string name="control_keyboard">キーボード</string>
     <string name="button_layout">ボタンのレイアウト</string>
