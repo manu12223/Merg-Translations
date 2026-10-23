@@ -900,6 +900,8 @@
     <string name="chat_highlight">Выделение ответов и упоминаний</string>
     <string name="chat_highlight_desc">Выделяет сообщения с упоминанием вас (@ и ваш ID или имя) и ответы на ваши сообщения.</string>
     <string name="chat_highlight_opacity">Непрозрачность выделения</string>
+    <string name="chat_show_system_messages">Show System Messages</string>
+    <string name="chat_show_system_messages_desc">Shows SYSTEM messages in the chat: the room's, your clan's and the game's own. When off they are hidden, and the chat button no longer counts them.</string>
     <string name="chat_show_ids_only">Показывать только ID</string>
     <string name="chat_show_ids_only_desc">Перед каждым сообщением отображается только ID игрока.</string>
     <string name="chat_show_names_only">Показывать только имена</string>
