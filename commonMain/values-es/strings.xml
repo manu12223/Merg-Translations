@@ -900,6 +900,8 @@
     <string name="chat_highlight">Resaltar Respuestas y Menciones</string>
     <string name="chat_highlight_desc">Resalta los mensajes que te mencionan (@ seguido de tu ID o nombre) y las respuestas a tus mensajes.</string>
     <string name="chat_highlight_opacity">Opacidad del Resaltado</string>
+    <string name="chat_show_system_messages">Show System Messages</string>
+    <string name="chat_show_system_messages_desc">Shows SYSTEM messages in the chat: the room's, your clan's and the game's own. When off they are hidden, and the chat button no longer counts them.</string>
     <string name="chat_show_ids_only">Mostrar Solo IDs</string>
     <string name="chat_show_ids_only_desc">Muestra solamente el ID del jugador antes de cada mensaje.</string>
     <string name="chat_show_names_only">Mostrar Solo Apodos</string>
