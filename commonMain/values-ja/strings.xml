@@ -815,7 +815,7 @@
     <string name="timer_overtime_count">延長戦時間 %d</string>
     <string name="timer_grace">リスポーン可能時間</string>
     <string name="timer_tiebreaker">タイブレーカー時間</string>
-    <string name="timer_sudden_death">サドンデス！</string>
+    <string name="timer_sudden_death">サドンデス</string>
     <string name="trick_split_title">TRICK SPLIT！</string>
     <string name="trick_pop_split_title">POP SPLIT！</string>
     <string name="trick_ice_split_title">ICE SPLIT！</string>
