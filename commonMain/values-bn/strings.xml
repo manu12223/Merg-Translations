@@ -2,24 +2,24 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Singleplayer</string>
-    <string name="lan_multiplayer">LAN Multiplayer</string>
-    <string name="lan">LAN</string>
-    <string name="online_multiplayer">Online Multiplayer</string>
-    <string name="options">Options</string>
+    <string name="singleplayer">একক খেলোয়াড়</string>
+    <string name="lan_multiplayer">লোকাল মাল্টিপ্লেয়ার</string>
+    <string name="lan">আঞ্চলিক নেটওয়ার্ক</string>
+    <string name="online_multiplayer">অনলাইন মাল্টিপ্লেয়ার</string>
+    <string name="options">অপশনসমূহ</string>
     <string name="discord" translatable="false">Discord</string>
 
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
-    <string name="email_copy">Copy Email</string>
-    <string name="email_support">Support Mail:</string>
-    <string name="developer">Developer:</string>
-    <string name="code_contribution">Code Contributions:</string>
-    <string name="skins">Skins:</string>
-    <string name="graphics_icons">Graphics/Icons:</string>
-    <string name="sound_effects_credit">Sound Effects:</string>
-    <string name="translations">Translations:</string>
-    <string name="fonts">Fonts:</string>
+    <string name="email_copy">ইমেইল কপি করুন</string>
+    <string name="email_support">সহায়তা ইমেইল:</string>
+    <string name="developer">ডেভেলপার:</string>
+    <string name="code_contribution">কোড অবদানসমূহ:</string>
+    <string name="skins">পোশাক:</string>
+    <string name="graphics_icons">গ্রাফিক্স/আইকনসমূহ:</string>
+    <string name="sound_effects_credit">শব্দ প্রভাবসমূহ:</string>
+    <string name="translations">অনুবাদসমূহ:</string>
+    <string name="fonts">অক্ষরবিন্যাস:</string>
 
     <!-- Options menu !-->
     <string name="language">ভাষা</string>
@@ -190,59 +190,59 @@
     <string name="friend_request_error_list_full">বন্ধু তালিকা পূর্ণ</string>
 
     <!-- Competitive (ranked 1v1) -->
-    <string name="competitive">Competitive</string>
-    <string name="competitive_menu">COMPETITIVE</string>
-    <string name="competitive_history">Competitive History</string>
-    <string name="rating_label">Rating</string>
-    <string name="unrated">Unrated</string>
-    <string name="find_opponent">FIND OPPONENT</string>
-    <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
-    <string name="searching_ellipsis">Searching…</string>
-    <string name="competitive_entering">Entering…</string>
-    <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
-    <string name="x_searching">%d searching</string>
-    <string name="x_playing">%d playing</string>
-    <string name="global_position">Global #%s</string>
-    <string name="global_label">Global #</string>
-    <string name="wins_draws_losses_winrate">Wins: %1$s · Draws: %2$s · Losses: %3$s · Win rate: %4$s%%</string>
-    <string name="stat_wins_label">Wins: </string>
-    <string name="stat_draws_label"> · Draws: </string>
-    <string name="stat_losses_label"> · Losses: </string>
-    <string name="stat_winrate_label"> · Win rate: </string>
-    <string name="match_starts_in">Match starts in…</string>
-    <string name="vs_label">VS</string>
-    <string name="ongoing_matches">Ongoing matches</string>
-    <string name="match_status_starting">STARTING</string>
-    <string name="match_status_in_progress">IN PROGRESS</string>
-    <string name="match_status_finished">FINISHED</string>
-    <string name="victory">VICTORY</string>
-    <string name="defeat">DEFEAT</string>
-    <string name="draw">DRAW</string>
-    <string name="play_again">Play Again</string>
-    <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
-    <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
-    <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
-    <string name="prizes">Prizes</string>
-    <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
-    <string name="current_season">Current Season</string>
+    <string name="competitive">প্রতিযোগিতামূলক</string>
+    <string name="competitive_menu">প্রতিযোগিতামূলক</string>
+    <string name="competitive_history">প্রতিযোগিতার ইতিহাস</string>
+    <string name="rating_label">জনপ্রিয়তার সূচক</string>
+    <string name="unrated">মূল্যায়নহীন</string>
+    <string name="find_opponent">খেলোয়াড় সন্ধান করুন</string>
+    <string name="leave_matchmaking">ম্যাচমেকিং থেকে বের হয়ে যান </string>
+    <string name="searching_ellipsis">খোঁজা হচ্ছে…</string>
+    <string name="competitive_entering">প্রবেশ করছে…</string>
+    <string name="x_searching_y_playing">%1$s খোঁজা হচ্ছে · %2$s খেলছে</string>
+    <string name="x_searching">%d খোঁজা হচ্ছে</string>
+    <string name="x_playing">%d খেলছে</string>
+    <string name="global_position">বিশ্বব্যাপী #%s</string>
+    <string name="global_label">বিশ্বব্যাপী #</string>
+    <string name="wins_draws_losses_winrate">বিজয়সমূহ: %1$s · ড্রসমূহ: %2$s · হার: %3$s · বিজয়ের শতকরা হার: %4$s%%</string>
+    <string name="stat_wins_label">বিজয়সমূহ: </string>
+    <string name="stat_draws_label"> · ড্রসমূহ: </string>
+    <string name="stat_losses_label"> · হার: </string>
+    <string name="stat_winrate_label"> · বিজয়ের শতকরা হার: </string>
+    <string name="match_starts_in">ম্যাচ শুরু হতে বাকি…</string>
+    <string name="vs_label">বনাম</string>
+    <string name="ongoing_matches">চলমান ম্যাচসমূহ</string>
+    <string name="match_status_starting">শুরু হচ্ছে</string>
+    <string name="match_status_in_progress">কাজ চলছে</string>
+    <string name="match_status_finished">শেষ হয়েছে</string>
+    <string name="victory">বিজয়</string>
+    <string name="defeat">হার</string>
+    <string name="draw">ড্র</string>
+    <string name="play_again">আবার খেলুন</string>
+    <string name="play_x_more_matches_to_rated">রেটিং বা মূল্যায়ন পেতে আরও %dটি ম্যাচ খেলুন!</string>
+    <string name="play_one_more_match_to_rated">রেটিং বা মূল্যায়ন পেতে আরও ১টি ম্যাচ খেলুন!</string>
+    <string name="history_viewer_vs_opponent">%1$s বনাম %2$s</string>
+    <string name="prizes">পুরস্কার</string>
+    <string name="prizes_dialog_intro">প্রতিটি ঋতু রিসেট করার আগে, শীর্ষ খেলোয়াড়দের তাদের কর্মক্ষমতা উপর ভিত্তি করে একটি voidstone পুরস্কার পাবেন!</string>
+    <string name="current_season">বর্তমান ঋতু</string>
 
     <!-- Shop -->
-    <string name="shop">Shop</string>
-    <string name="ticket">Ticket</string>
-    <string name="free_voidstones">Free Voidstones!</string>
-    <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
-    <string name="free_voidstones_won">You got %d voidstones!</string>
-    <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
-    <string name="free_voidstones_left">%d left</string>
-    <string name="pick">Pick</string>
-    <string name="redeem_code">Redeem Code</string>
+    <string name="shop">দোকান</string>
+    <string name="ticket">টিকিট</string>
+    <string name="free_voidstones">বিনামূল্যে voidstones!</string>
+    <string name="free_voidstones_subtitle">একটি বর্গক্ষেত্র চয়ন করুন এবং একটি ছোট ভিডিও বিজ্ঞাপন দেখুন voidstones উপার্জন করতে!</string>
+    <string name="free_voidstones_won">আপনি %d voidstones পেয়েছেন!</string>
+    <string name="free_voidstones_status">%1$d বাকি আছে ⋅ %2$s এ রিসেট হবে</string>
+    <string name="free_voidstones_left">%d বাকি</string>
+    <string name="pick">বাছাই</string>
+    <string name="redeem_code">কোড রিডিম করুন</string>
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_owned">Owned: %1$s</string>
+    <string name="boosters">বুস্টার</string>
+    <string name="booster_permanent_upgrades">স্থায়ী আপগ্রেড</string>
+    <string name="booster_owned">মালিকানাধীন: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="none">কোনোটিই নয়</string>
+    <string name="booster_ad_xp_title">অ্যাড এক্সপি গুণক</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
     <string name="booster_watch_ad">Watch Ad</string>
