@@ -1481,6 +1481,13 @@
     <string name="options_gameplay">Игровой процесс</string>
     <string name="options_experimental">Экспериментальные</string>
     <string name="options_force_websocket">Принудительно использовать WebSocket для игры</string>
+    <string name="data_saver_mode">Data Saver Mode</string>
+    <string name="data_saver_off">OFF</string>
+    <string name="data_saver_moderate">Moderate</string>
+    <string name="data_saver_high">High</string>
+    <string name="data_saver_ultra">Ultra</string>
+    <string name="data_saver_latency_warning">Increases latency</string>
+    <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">Ежедневная награда</string>
     <string name="transaction_clan_tier_daily">Ежедневная награда за уровень клана %1$s</string>
     <string name="daily_reward_streak_title">Серия: %1$d дн.</string>
