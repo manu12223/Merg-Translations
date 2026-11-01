@@ -54,6 +54,8 @@
     <string name="language_turkish">Türkçe | Turečtina</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamčina</string>
     <string name="language_ukrainian">Українська | Ukrajinčina</string>
+    <string name="fps_cap">FPS Cap</string>
+    <string name="fps_cap_unlimited">Unlimited</string>
     <string name="background">Pozadie</string>
     <string name="background_black">Čierna</string>
     <string name="background_white">Biela</string>
@@ -136,6 +138,7 @@
     <string name="max_split_pieces">Max Rozdelených Kusov</string>
     <string name="max_split_128_gold">128: Season Pass Gold</string>
     <string name="max_split_128_needs_gold">128 split pieces needs Season Pass Gold</string>
+    <string name="room_max_split">%1$dx Split</string>
     <string name="quick_merge">SupaDupa Spájanie</string>
     <string name="force_split_on_blob_size">Force split on blob size</string>
     <string name="custom_shot_size_multiplier">Custom shot size multiplier</string>
@@ -164,6 +167,7 @@
     <string name="server_north_america">North America</string>
     <string name="server_south_america">Južná Amerika</string>
     <string name="server_asia">Asia</string>
+    <string name="server_middle_east">Middle East</string>
     <string name="join">Pripojiť sa</string>
     <string name="create">Vytvoriť</string>
     <string name="create_chat_room">VYTVORIŤ CHAT MIESTNOSŤ</string>
@@ -209,6 +213,10 @@
     <string name="stat_draws_label"> · Draws: </string>
     <string name="stat_losses_label"> · Losses: </string>
     <string name="stat_winrate_label"> · Win rate: </string>
+    <string name="competitive_stat_wins">Wins</string>
+    <string name="competitive_stat_draws">Draws</string>
+    <string name="competitive_stat_losses">Losses</string>
+    <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">Match starts in…</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Ongoing matches</string>
@@ -245,6 +253,8 @@
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
+    <string name="booster_ad_voidstone_title">Ad Voidstone Multiplier</string>
+    <string name="booster_ad_voidstone_desc">Watch a video for a temporary Voidstone multiplier!</string>
     <string name="booster_watch_ad">Watch Ad</string>
     <string name="booster_choose_boost">Choose your XP boost</string>
     <string name="booster_active">active</string>
@@ -612,7 +622,7 @@
     <string name="clan_player_invite_list_full">This player already has the maximum number of pending invites.</string>
     <string name="clan_request_list_full">This clan's join request list is full (max 100).</string>
     <string name="clan_donate_voidstones">Donate Voidstones</string>
-    <string name="clan_donate_hint">100 – 100,000</string>
+    <string name="clan_donate_hint">100 – 1,000,000</string>
     <string name="clan_donate_sent">Donation sent!</string>
     <string name="clan_not_a_member">You are not a member of this clan.</string>
     <string name="clan_already_requested">You already have a pending join request to another clan.</string>
@@ -714,6 +724,7 @@
     <string name="stat_stages_cleared">Stages Cleared:</string>
     <string name="stat_highest_stage">Highest Stage:</string>
     <string name="stat_adventures_completed">Adventures Completed:</string>
+    <string name="stat_bonus_longest_survival">Bonus Stage Record:</string>
     <string name="stat_goals_scored">Goals Scored:</string>
     <string name="stat_collisions">Collisions:</string>
     <string name="stat_boosts">Boosts:</string>
@@ -808,9 +819,13 @@
     <string name="adventure_obj_collect_voidstones">Collect %d Voidstones</string>
     <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
     <string name="adventure_obj_boss_fight">Boss Fight</string>
+    <string name="adventure_obj_bonus">Survive as long as you can!</string>
+    <string name="adventure_bonus_stage">Bonus Stage</string>
+    <string name="bonus_stage_survived">Survived %s</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Time</string>
+    <string name="timer_bonus">Bonus</string>
     <string name="timer_overtime">Overtime</string>
     <string name="timer_overtime_count">Overtime %d</string>
     <string name="timer_grace">Grace</string>
@@ -889,6 +904,8 @@
     <string name="replying_to">Replying to %s</string>
     <string name="chat_reply_hint">Type reply…</string>
     <string name="chat_clear_input">Clear</string>
+    <string name="chat_not_connected">Not connected to the server. Your message was not sent.</string>
+    <string name="chat_not_delivered">Your message didn't go through. It is back in the chat box.</string>
     <string name="chat_settings_title">Chat Settings</string>
     <string name="chat_settings_colors">Colors</string>
     <string name="chat_settings_texts">Texts</string>
@@ -914,6 +931,8 @@
     <string name="chat_text_size_desc">The size of the chat messages.</string>
     <string name="chat_expanded">Expanded Chat</string>
     <string name="chat_expanded_desc">Makes the chat window taller so more messages fit. The arrow button under the chat switches it too.</string>
+    <string name="chat_bubbles_above_blobs">Chat Bubbles Above Blobs</string>
+    <string name="chat_bubbles_above_blobs_desc">Room messages also appear for a few seconds in a bubble above the sender's biggest blob.</string>
     <string name="chat_no_hud">No HUD Behind Chat</string>
     <string name="chat_no_hud_desc">While the chat is open, hides the rest of the game screen: the menu, the buttons at the top and bottom, your player info, and the leaderboard / minimap. Only your game buttons (split, shoot, …) stay while you are playing.</string>
 
@@ -949,7 +968,9 @@
     <string name="effective_size">Effective Size: %d</string>
     <string name="effective_size_decimal">Effective Size: %s</string>
     <string name="decay">Decay: %.2f/s</string>
+    <string name="decay_multiplied">Decay: %1$.2f/s (×%2$s)</string>
     <string name="pieces">Pieces: %1d/%2d</string>
+    <string name="culling">Culling: %1$s%%</string>
     <string name="merge">Merge: %ss</string>
     <string name="throw_item_button">Throw item</string>
     <string name="select_throw_item">Select throw item button</string>
@@ -958,6 +979,8 @@
     <string name="level_number">Level %d</string>
     <string name="food">Food</string>
     <string name="voidstones">Voidstones</string>
+    <string name="xp_per_hour">XP/hour</string>
+    <string name="voidstones_per_hour">Voidstones/hour</string>
     <string name="items">Items</string>
     <string name="blobs_eaten">Blobs Eaten</string>
     <string name="session_stat_size_gained">Size Gained</string>
@@ -1004,6 +1027,7 @@
     <string name="dialog_previous">Previous</string>
     <string name="dialog_next">Next</string>
     <string name="dialog_update">Update</string>
+    <string name="whats_new_title">What's new in Merg %1$s</string>
     <string name="toast_please_wait">Please Wait</string>
     <string name="permission_denied">Permission denied</string>
     <string name="dialog_locked">Locked</string>
@@ -1307,7 +1331,7 @@
     <string name="additional_settings">ADDITIONAL SETTINGS</string>
     <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
     <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
-    <string name="desc_custom_shot_size">Sets how big a shot is compared to the mass it costs. The normal value is 0.6667, so a third of the mass is lost. Above 0.6667 and up to 1 the game earns x0.75 XP. Above 1 a shot is bigger than what it cost, so eating your own shots makes you grow (self feed), and nothing is saved: no statistics, XP, voidstones or achievements. Not available in Adventure.</string>
+    <string name="desc_custom_shot_size">Sets how big a shot is compared to the mass it costs. The normal value is 0.6667, so a third of the mass is lost. Above 0.6667 and up to 0.9 the game earns x0.5 XP. Above 0.9 nothing is saved: no statistics, XP, voidstones or achievements. Above 1 a shot is bigger than what it cost, so eating your own shots makes you grow (self feed). Not available in Adventure.</string>
     <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
     <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
     <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
@@ -1337,6 +1361,7 @@
     <string name="achievement_tier_diamond">Diamond</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
     <string name="achievement_next">Next:</string>
+    <string name="achievements_load_failed">Couldn't load achievements, retrying…</string>
     <string name="achievement_secret_title">Secret Achievement</string>
     <string name="achievement_secret_description">???</string>
     <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
@@ -1474,6 +1499,8 @@
     <string name="ach_desc_flawless_stage">Clear Adventure Stages %1$s-1 to %1$s-20 without dying once.</string>
     <string name="ach_title_twins">Twins</string>
     <string name="ach_desc_twins">Eat a player wearing the same skin as you.</string>
+    <string name="ach_title_bonus_survival">Bonus Survival %1$s</string>
+    <string name="ach_desc_bonus_survival">Survive for %1$s minutes in Adventure mode's Bonus Stage.</string>
     <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn't blocked. If you are playing on web, you can ignore this message.</string>
     <string name="net_switched_back_to_udp">Switched back to UDP.</string>
     <string name="options_main">Main</string>
@@ -1493,11 +1520,21 @@
     <string name="daily_reward_streak_title">%1$d Day Streak</string>
     <string name="daily_reward_reward">Reward:</string>
     <string name="daily_reward_xp_multiplier">+%1$d%% XP Multiplier</string>
+    <string name="xp_mult_title">XP Multiplier</string>
+    <string name="xp_mult_room">This Room</string>
+    <string name="xp_mult_you">You</string>
+    <string name="xp_mult_total">Total</string>
+    <string name="xp_mult_none">None</string>
+    <string name="xp_mult_solo">Playing alone</string>
+    <string name="xp_mult_shot_size_no_stats">Shot size too high: no stats</string>
+    <string name="xp_mult_stats_disabled">Stats disabled in this room</string>
+    <string name="xp_mult_other">Other</string>
     <string name="daily_reward_play_to_claim">Play at least once to claim</string>
     <string name="daily_reward_claimed">Claimed!</string>
     <string name="daily_reward_new_day_in">New day in %1$s</string>
     <string name="daily_reward_day">Day %1$d</string>
     <string name="daily_reward_overview_stats">Streak: %1$d ⋅ Best: %2$d ⋅ XP Bonus: +%3$d%%</string>
+    <string name="daily_reward_overview_nostats">Nostats rooms do not count towards the daily streak!</string>
     <string name="daily_reward_overview_hint">Play once a day to receive a reward, but be careful not to miss a day to avoid losing your unlocked skins and XP bonus!</string>
     <string name="daily_skin_locked_dialog">You need a %1$d day streak to unlock this skin. Your current streak is %2$d.</string>
     <string name="options_notifications">Notifications</string>
@@ -1535,4 +1572,8 @@
     <string name="clan_tier_requirement">Required: %1$s and %2$s</string>
     <string name="clan_skin_locked_dialog">This skin unlocks with Clan Tier %1$s. Your Clan is Tier %2$s.</string>
     <string name="clan_skin_locked_no_clan">This skin unlocks with Clan Tier %1$s. You are currently not in a Clan.</string>
+    <string name="log_upload_sent">Log sent to the developers</string>
+    <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
+    <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
+    <string name="log_export_failed">Log export failed: %1$s</string>
 </resources>
