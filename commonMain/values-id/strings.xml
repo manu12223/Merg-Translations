@@ -244,12 +244,10 @@
     <string name="free_voidstones_left">Sisa %d</string>
     <string name="pick">Pilih</string>
     <string name="redeem_code">Tukar Kode</string>
-
     <!-- Boosters -->
     <string name="boosters">Booster</string>
     <string name="booster_permanent_upgrades">Upgrade Permanen</string>
     <string name="booster_owned">Dimiliki: %1$s</string>
-
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">Tidak ada</string>
     <string name="booster_ad_xp_title">Pengali XP Iklan</string>
