@@ -855,7 +855,8 @@
     <string name="select_yinyang">Pilih Tombol Ganti</string>
     <string name="yinyang">Ganti</string>
     <string name="buttons_customize">Sesuaikan Tombol</string>
-    <string name="buttons_orientation_message">Pengaturan tombol untuk mode Potret dan Lanskap disimpan terpisah</string>
+    <string name="buttons_orientation_message">Portrait and Landscape customizations are saved separately</string>
+
 
     <!-- Skins !-->
     <string name="skin">Skin</string>
