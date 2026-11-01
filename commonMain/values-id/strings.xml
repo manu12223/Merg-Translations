@@ -389,7 +389,10 @@
      <string name="season_pass_missed_stage_free">Tahap %1$d (Gratis)</string>
      <string name="season_pass_missed_stage_paid">Tahap %1$d (Berbayar)</string>
 
-     <!-- Season Pass task titles -->
+     <!-- Season Pass task titles — one per event_type. Catalog in
+          season_task_templates table; the client looks these up by
+          event_type at render time. DB `season_tasks.title` stays as
+          canonical English fallback (admin can no longer edit it). -->
      <string name="season_task_food_eaten">Makan makanan</string>
      <string name="season_task_voidstone_any_eaten">Kumpulkan Voidstone</string>
      <string name="season_task_voidstone_regular_eaten">Kumpulkan Voidstone biasa</string>
