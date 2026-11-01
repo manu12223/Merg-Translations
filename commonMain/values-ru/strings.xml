@@ -54,6 +54,8 @@
     <string name="language_turkish">Türkçe | Турецкий</string>
     <string name="language_vietnamese">Tiếng Việt | Вьетнамский</string>
     <string name="language_ukrainian">Українська | Украинский</string>
+    <string name="fps_cap">FPS Cap</string>
+    <string name="fps_cap_unlimited">Unlimited</string>
     <string name="background">Фон</string>
     <string name="background_black">Чёрный</string>
     <string name="background_white">Белый</string>
@@ -136,6 +138,7 @@
     <string name="max_split_pieces">Макс. частей деления</string>
     <string name="max_split_128_gold">128: Золотой сезонный пропуск</string>
     <string name="max_split_128_needs_gold">Для разделения на 128 частей нужен Золотой сезонный пропуск</string>
+    <string name="room_max_split">%1$dx Split</string>
     <string name="quick_merge">Быстрое слияние</string>
     <string name="force_split_on_blob_size">Принудительное разделение при достижении размера</string>
     <string name="custom_shot_size_multiplier">Множитель размера выстрела</string>
@@ -164,6 +167,7 @@
     <string name="server_north_america">Северная Америка</string>
     <string name="server_south_america">Южная Америка</string>
     <string name="server_asia">Азия</string>
+    <string name="server_middle_east">Middle East</string>
     <string name="join">Войти</string>
     <string name="create">Создать</string>
     <string name="create_chat_room">СОЗДАТЬ ЧАТ-КОМНАТУ</string>
@@ -209,6 +213,10 @@
     <string name="stat_draws_label"> · Ничьи: </string>
     <string name="stat_losses_label"> · Поражения: </string>
     <string name="stat_winrate_label"> · Доля побед: </string>
+    <string name="competitive_stat_wins">Wins</string>
+    <string name="competitive_stat_draws">Draws</string>
+    <string name="competitive_stat_losses">Losses</string>
+    <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">Матч начнётся через…</string>
     <string name="vs_label">ПРОТИВ</string>
     <string name="ongoing_matches">Текущие матчи</string>
@@ -245,6 +253,8 @@
     <string name="booster_ad_xp_title">Множитель опыта за рекламу</string>
     <string name="booster_ad_xp_desc">Посмотрите видео, чтобы временно увеличить получаемый опыт!</string>
     <string name="booster_stacks_base_xp">Суммируется с базовым опытом</string>
+    <string name="booster_ad_voidstone_title">Ad Voidstone Multiplier</string>
+    <string name="booster_ad_voidstone_desc">Watch a video for a temporary Voidstone multiplier!</string>
     <string name="booster_watch_ad">Смотреть рекламу</string>
     <string name="booster_choose_boost">Выберите усиление опыта</string>
     <string name="booster_active">активно</string>
@@ -612,7 +622,7 @@
     <string name="clan_player_invite_list_full">У этого игрока уже максимальное количество приглашений.</string>
     <string name="clan_request_list_full">Список заявок на вступление клана заполнен (макс. 100).</string>
     <string name="clan_donate_voidstones">Пожертвовать пустотные камни</string>
-    <string name="clan_donate_hint">100 – 100,000</string>
+    <string name="clan_donate_hint">100 – 1,000,000</string>
     <string name="clan_donate_sent">Пожертвование отправлено!</string>
     <string name="clan_not_a_member">Вы не являетесь участником этого клана.</string>
     <string name="clan_already_requested">У вас уже есть активная заявка на вступление в другой клан.</string>
@@ -714,6 +724,7 @@
     <string name="stat_stages_cleared">Пройдено этапов:</string>
     <string name="stat_highest_stage">Максимальный этап:</string>
     <string name="stat_adventures_completed">Завершённых приключений:</string>
+    <string name="stat_bonus_longest_survival">Bonus Stage Record:</string>
     <string name="stat_goals_scored">Забито голов:</string>
     <string name="stat_collisions">Количество столкновений:</string>
     <string name="stat_boosts">Использовано ускорений:</string>
@@ -808,9 +819,13 @@
     <string name="adventure_obj_collect_voidstones">Собрать войдстоуны: %d</string>
     <string name="adventure_obj_eat_count_bots">Съешьте %d ботов</string>
     <string name="adventure_obj_boss_fight">Битва с боссом</string>
+    <string name="adventure_obj_bonus">Survive as long as you can!</string>
+    <string name="adventure_bonus_stage">Bonus Stage</string>
+    <string name="bonus_stage_survived">Survived %s</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Время</string>
+    <string name="timer_bonus">Bonus</string>
     <string name="timer_overtime">Овертайм</string>
     <string name="timer_overtime_count">Овертайм %d</string>
     <string name="timer_grace">Мир</string>
@@ -889,6 +904,8 @@
     <string name="replying_to">Ответ пользователю %s</string>
     <string name="chat_reply_hint">Ответить…</string>
     <string name="chat_clear_input">Очистить</string>
+    <string name="chat_not_connected">Not connected to the server. Your message was not sent.</string>
+    <string name="chat_not_delivered">Your message didn't go through. It is back in the chat box.</string>
     <string name="chat_settings_title">Настройки чата</string>
     <string name="chat_settings_colors">Цвета</string>
     <string name="chat_settings_texts">Текст</string>
@@ -914,6 +931,8 @@
     <string name="chat_text_size_desc">Размер сообщений в чате.</string>
     <string name="chat_expanded">Расширенный чат</string>
     <string name="chat_expanded_desc">Увеличивает высоту окна чата, чтобы помещалось больше сообщений. Кнопка со стрелкой под чатом также переключает этот режим.</string>
+    <string name="chat_bubbles_above_blobs">Chat Bubbles Above Blobs</string>
+    <string name="chat_bubbles_above_blobs_desc">Room messages also appear for a few seconds in a bubble above the sender's biggest blob.</string>
     <string name="chat_no_hud">Скрыть интерфейс за чатом</string>
     <string name="chat_no_hud_desc">Когда чат открыт, скрывает остальную часть игрового экрана: меню, верхние и нижние кнопки, данные игрока, таблицу лидеров и мини-карту. Во время игры остаются только игровые кнопки (разделение, выстрел и т. п.).</string>
 
@@ -949,7 +968,9 @@
     <string name="effective_size">Эффективный размер: %d</string>
     <string name="effective_size_decimal">Эффективный размер: %s</string>
     <string name="decay">Убывание: %.2f/с</string>
+    <string name="decay_multiplied">Decay: %1$.2f/s (×%2$s)</string>
     <string name="pieces">Части: %1d/%2d</string>
+    <string name="culling">Culling: %1$s%%</string>
     <string name="merge">Слияние: %s с</string>
     <string name="throw_item_button">Бросить предмет</string>
     <string name="select_throw_item">Выбрать кнопку броска предмета</string>
@@ -958,6 +979,8 @@
     <string name="level_number">Уровень %d</string>
     <string name="food">Еда</string>
     <string name="voidstones">Пустотные камни</string>
+    <string name="xp_per_hour">XP/hour</string>
+    <string name="voidstones_per_hour">Voidstones/hour</string>
     <string name="items">Предметы</string>
     <string name="blobs_eaten">Капель съедено</string>
     <string name="session_stat_size_gained">Размер набран</string>
@@ -1004,6 +1027,7 @@
     <string name="dialog_previous">Назад</string>
     <string name="dialog_next">Далее</string>
     <string name="dialog_update">Обновить</string>
+    <string name="whats_new_title">What's new in Merg %1$s</string>
     <string name="toast_please_wait">Пожалуйста, подождите</string>
     <string name="permission_denied">Доступ запрещен</string>
     <string name="dialog_locked">Заблокировано</string>
@@ -1307,7 +1331,7 @@
     <string name="additional_settings">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</string>
     <string name="desc_quick_merge">Убирает задержку слияния при разделении.</string>
     <string name="desc_force_split_on_blob_size">Любой блоб, достигший заданного размера, автоматически делится пополам из центра без импульса запуска. Если блоб уже разделён на максимальное количество частей, вместо этого размер каждой части ограничивается заданным значением. Недоступно в режиме приключения.</string>
-    <string name="desc_custom_shot_size">Определяет размер выстрела относительно затраченной массы. Обычное значение — 0.6667, поэтому теряется треть массы. При значении выше 0.6667 и до 1 игра начисляет x0.75 опыта. При значении выше 1 выстрел больше затраченной массы, поэтому поедание собственных выстрелов увеличивает вас (самокормление), а статистика, опыт, пустотные камни и достижения не сохраняются. Недоступно в режиме приключения.</string>
+    <string name="desc_custom_shot_size">Sets how big a shot is compared to the mass it costs. The normal value is 0.6667, so a third of the mass is lost. Above 0.6667 and up to 0.9 the game earns x0.5 XP. Above 0.9 nothing is saved: no statistics, XP, voidstones or achievements. Above 1 a shot is bigger than what it cost, so eating your own shots makes you grow (self feed). Not available in Adventure.</string>
     <string name="desc_relax">Все игроки (кроме ботов) не могут полностью уничтожить друг друга — у каждого останется хотя бы 1 блоб, как в режиме приключения.</string>
     <string name="desc_gold_holes">Синие дыры с вероятностью %1$s%% появляются вместо этого золотыми и приносят в 4 раза больше.</string>
     <string name="desc_teleport_holes">Если отключить, все телепортационные дыры будут заменены синими.</string>
@@ -1337,6 +1361,7 @@
     <string name="achievement_tier_diamond">Алмаз</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
     <string name="achievement_next">Далее:</string>
+    <string name="achievements_load_failed">Couldn't load achievements, retrying…</string>
     <string name="achievement_secret_title">Секретное достижение</string>
     <string name="achievement_secret_description">???</string>
     <string name="achievement_streak">Текущая: %1$s ⋅ Лучшая: %2$s ⋅ Следующий день через %3$s</string>
@@ -1474,6 +1499,8 @@
     <string name="ach_desc_flawless_stage">Пройдите этапы приключения с %1$s-1 по %1$s-20, ни разу не погибнув.</string>
     <string name="ach_title_twins">Близнецы</string>
     <string name="ach_desc_twins">Съешьте игрока с таким же скином, как у вас.</string>
+    <string name="ach_title_bonus_survival">Bonus Survival %1$s</string>
+    <string name="ach_desc_bonus_survival">Survive for %1$s minutes in Adventure mode's Bonus Stage.</string>
     <string name="net_switched_to_websocket">!! UDP заблокирован, выполнено переключение на WebSocket. Возможна повышенная задержка. Проверьте правила сетевого экрана: UDP-порт 9807 не должен быть заблокирован. Если вы играете в браузере, это сообщение можно игнорировать.</string>
     <string name="net_switched_back_to_udp">Выполнено обратное переключение на UDP.</string>
     <string name="options_main">Основные</string>
@@ -1493,11 +1520,21 @@
     <string name="daily_reward_streak_title">Серия: %1$d дн.</string>
     <string name="daily_reward_reward">Награда:</string>
     <string name="daily_reward_xp_multiplier">Множитель опыта +%1$d%%</string>
+    <string name="xp_mult_title">XP Multiplier</string>
+    <string name="xp_mult_room">This Room</string>
+    <string name="xp_mult_you">You</string>
+    <string name="xp_mult_total">Total</string>
+    <string name="xp_mult_none">None</string>
+    <string name="xp_mult_solo">Playing alone</string>
+    <string name="xp_mult_shot_size_no_stats">Shot size too high: no stats</string>
+    <string name="xp_mult_stats_disabled">Stats disabled in this room</string>
+    <string name="xp_mult_other">Other</string>
     <string name="daily_reward_play_to_claim">Сыграйте хотя бы раз, чтобы забрать награду</string>
     <string name="daily_reward_claimed">Получено!</string>
     <string name="daily_reward_new_day_in">Новый день через %1$s</string>
     <string name="daily_reward_day">День %1$d</string>
     <string name="daily_reward_overview_stats">Серия: %1$d ⋅ Рекорд: %2$d ⋅ Бонус опыта: +%3$d%%</string>
+    <string name="daily_reward_overview_nostats">Nostats rooms do not count towards the daily streak!</string>
     <string name="daily_reward_overview_hint">Играйте раз в день, чтобы получать награду. Не пропускайте дни, иначе потеряете разблокированные скины и бонус опыта!</string>
     <string name="daily_skin_locked_dialog">Для разблокировки этого скина нужна серия в %1$d дней. Ваша текущая серия: %2$d.</string>
     <string name="options_notifications">Уведомления</string>
@@ -1535,4 +1572,8 @@
     <string name="clan_tier_requirement">Требуется: %1$s и %2$s</string>
     <string name="clan_skin_locked_dialog">Этот скин открывается на уровне клана %1$s. Уровень вашего клана: %2$s.</string>
     <string name="clan_skin_locked_no_clan">Этот скин открывается на уровне клана %1$s. Вы сейчас не состоите в клане.</string>
+    <string name="log_upload_sent">Log sent to the developers</string>
+    <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
+    <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
+    <string name="log_export_failed">Log export failed: %1$s</string>
 </resources>
