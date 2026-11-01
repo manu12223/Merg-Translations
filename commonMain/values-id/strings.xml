@@ -875,10 +875,11 @@
     <string name="dismiss">Tutup</string>
     <string name="level_lock">Kunci Level</string>
 
+
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="emotes">Emote</string>
-     <string name="room_commands">Ketik !help untuk melihat daftar perintah</string>
+    <string name="room_commands">Ketik !help untuk melihat daftar perintah</string>
     <string name="chat_close">Tutup Chat</string>
     <string name="chat_channel_public">PUBLIK</string>
     <string name="clan_sys_joined">%1$s telah bergabung ke Klan!</string>
