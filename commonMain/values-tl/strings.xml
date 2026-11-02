@@ -198,6 +198,7 @@
     <string name="competitive_menu">COMPETITIVE</string>
     <string name="competitive_history">Kasaysayan ng Competitive</string>
     <string name="rating_label">Rating</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Unrated</string>
     <string name="find_opponent">MAGHANAP NG KALABAN</string>
     <string name="leave_matchmaking">UMALIS SA MATCHMAKING</string>

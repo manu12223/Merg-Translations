@@ -198,6 +198,7 @@
     <string name="competitive_menu">REKABETÇİ</string>
     <string name="competitive_history">Rekabetçi Geçmişi</string>
     <string name="rating_label">Derece</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Derecesiz</string>
     <string name="find_opponent">RAKİP BUL</string>
     <string name="leave_matchmaking">EŞLEŞMEDEN AYRIL</string>

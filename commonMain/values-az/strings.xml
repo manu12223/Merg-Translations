@@ -198,6 +198,7 @@
     <string name="competitive_menu">RƏQABƏT</string>
     <string name="competitive_history">Rəqabət tarixcəsi</string>
     <string name="rating_label">Reyting</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Reytingsiz</string>
     <string name="find_opponent">RƏQİB TAP</string>
     <string name="leave_matchmaking">RƏQİB AXTARIŞINI DAYANDIR</string>

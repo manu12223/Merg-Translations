@@ -198,6 +198,7 @@
     <string name="competitive_menu">تنافسي</string>
     <string name="competitive_history">السجل التنافسي</string>
     <string name="rating_label">تقييم</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">غير مقيم</string>
     <string name="find_opponent">العثور على خصم</string>
     <string name="leave_matchmaking">مغادرة البحث</string>
