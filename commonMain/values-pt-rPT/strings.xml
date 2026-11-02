@@ -198,6 +198,7 @@
     <string name="competitive_menu">COMPETITIVO</string>
     <string name="competitive_history">Histórico de Competições</string>
     <string name="rating_label">Classificação</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Não Classificado(a)</string>
     <string name="find_opponent">ENCONTRAR ADVERSÁRIO</string>
     <string name="leave_matchmaking">SAIR DO PAREAMENTO</string>

@@ -198,6 +198,7 @@
     <string name="competitive_menu">แข่งขัน</string>
     <string name="competitive_history">ประวัติการแข่งขัน</string>
     <string name="rating_label">เรตติ้ง</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">ยังไม่มีการจัดอันดับ</string>
     <string name="find_opponent">ค้นหาคู่ต่อสู้</string>
     <string name="leave_matchmaking">ออกจากการจับคู่</string>

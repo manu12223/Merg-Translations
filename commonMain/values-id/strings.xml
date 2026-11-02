@@ -197,8 +197,9 @@
     <string name="competitive">Kompetitif</string>
     <string name="competitive_menu">KOMPETITIF</string>
     <string name="competitive_history">Riwayat Kompetitif</string>
-    <string name="rating_label">Peringkat</string>
-    <string name="unrated">Belum diberi peringkat</string>
+    <string name="rating_label">Penilaian</string>
+    <string name="glicko_label">Glicko</string>
+    <string name="unrated">Belum dinilai</string>
     <string name="find_opponent">CARI LAWAN</string>
     <string name="leave_matchmaking">KELUAR MATCHMAKING</string>
     <string name="searching_ellipsis">Mencari…</string>

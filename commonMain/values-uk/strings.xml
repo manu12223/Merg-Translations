@@ -198,6 +198,7 @@
     <string name="competitive_menu">АРЕНА</string>
     <string name="competitive_history">Історія Арен</string>
     <string name="rating_label">Рейтинг</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Без Рейтинг</string>
     <string name="find_opponent">ЗНАЙТИ ОПОНЕНТА</string>
     <string name="leave_matchmaking">ВИЙТИ З МАТЧУ</string>

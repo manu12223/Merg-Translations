@@ -198,6 +198,7 @@
     <string name="competitive_menu">KOMPETITIVNÍ</string>
     <string name="competitive_history">Historie kompetitivních zápasů</string>
     <string name="rating_label">Hodnocení</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Nehodnoceno</string>
     <string name="find_opponent">NAJÍT SOUPEŘE</string>
     <string name="leave_matchmaking">OPUSTIT HLEDÁNÍ</string>

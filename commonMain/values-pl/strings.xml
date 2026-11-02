@@ -198,6 +198,7 @@
     <string name="competitive_menu">RYWALIZACJA</string>
     <string name="competitive_history">Historia Rywalizacji</string>
     <string name="rating_label">Ocena</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Bez oceny</string>
     <string name="find_opponent">ZNAJDŹ PRZECIWNIKA</string>
     <string name="leave_matchmaking">PRZERWIJ WYSZUKIWANIE</string>
