@@ -198,6 +198,7 @@
     <string name="competitive_menu">COMPETITIEF</string>
     <string name="competitive_history">Competitieve geschiedenis</string>
     <string name="rating_label">Beoordeling</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Onbeoordeeld</string>
     <string name="find_opponent">TEGENSTANDER ZOEKEN</string>
     <string name="leave_matchmaking">MATCHMAKING VERLATEN</string>

@@ -198,6 +198,7 @@
     <string name="competitive_menu">प्रतिस्पर्धी</string>
     <string name="competitive_history">प्रतिस्पर्धी इतिहास</string>
     <string name="rating_label">रेटिंग</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">अनरेटेड</string>
     <string name="find_opponent">प्रतिद्वंद्वी खोजें</string>
     <string name="leave_matchmaking">मैचमेकिंग छोड़ें</string>

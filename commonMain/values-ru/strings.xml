@@ -198,6 +198,7 @@
     <string name="competitive_menu">СОРЕВНОВАТЕЛЬНЫЙ РЕЖИМ</string>
     <string name="competitive_history">История соревнований</string>
     <string name="rating_label">Рейтинг</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Без рейтинга</string>
     <string name="find_opponent">НАЙТИ СОПЕРНИКА</string>
     <string name="leave_matchmaking">ПОКИНУТЬ ПОИСК ИГРЫ</string>

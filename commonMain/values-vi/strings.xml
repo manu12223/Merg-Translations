@@ -198,6 +198,7 @@
     <string name="competitive_menu">THI ĐẤU</string>
     <string name="competitive_history">Lịch sử thi đấu</string>
     <string name="rating_label">Xếp hạng</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Chưa xếp hạng</string>
     <string name="find_opponent">TÌM ĐỐI THỦ</string>
     <string name="leave_matchmaking">RỜI KHỎI HÀNG ĐỢI</string>

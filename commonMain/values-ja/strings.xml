@@ -198,6 +198,7 @@
     <string name="competitive_menu">ランクバトル</string>
     <string name="competitive_history">ランクバトルの履歴</string>
     <string name="rating_label">ランキング</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">ランクなし</string>
     <string name="find_opponent">対戦相手を探す</string>
     <string name="leave_matchmaking">マッチメイキングを終了</string>

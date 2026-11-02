@@ -198,6 +198,7 @@
     <string name="competitive_menu">প্রতিযোগিতামূলক</string>
     <string name="competitive_history">প্রতিযোগিতার ইতিহাস</string>
     <string name="rating_label">জনপ্রিয়তার সূচক</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">মূল্যায়নহীন</string>
     <string name="find_opponent">খেলোয়াড় সন্ধান করুন</string>
     <string name="leave_matchmaking">ম্যাচমেকিং থেকে বের হয়ে যান </string>

@@ -198,6 +198,7 @@
     <string name="competitive_menu">COMPETITIVE</string>
     <string name="competitive_history">Competitive History</string>
     <string name="rating_label">Rating</string>
+    <string name="glicko_label">Glicko</string>
     <string name="unrated">Unrated</string>
     <string name="find_opponent">FIND OPPONENT</string>
     <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
