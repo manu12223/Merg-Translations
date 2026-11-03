@@ -1004,7 +1004,7 @@
     <string name="dialog_disconnected">Koneksi Terputus</string>
     <string name="dialog_disconnected_message">Koneksi ke server terputus.</string>
     <string name="kicked_from_room">Di-kick dari Ruangan!</string>
-    <string name="banned_from_room">Dibanned dari Ruangan!</string>
+    <string name="banned_from_room">Dilarang dari Ruangan!</string>
     <string name="enter_room_name">Masukkan Nama Ruangan</string>
     <string name="room_not_found">Ruangan tidak ditemukan</string>
     <string name="room_outdated_client">Client Kedaluwarsa!</string>
