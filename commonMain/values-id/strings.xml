@@ -106,7 +106,7 @@
     <string name="blob_text_size_all">Tampilkan pada Semua Gumpalan</string>
     <string name="blob_text_size_all_warning">Dapat berdampak negatif pada performa aplikasi</string>
     <string name="blob_text_spacing">Spasi Vertikal</string>
-    <string name="auto_spectate_killer">Spektator Otomatis Pembunuh</string>
+    <string name="auto_spectate_killer">Tonton Otomatis Pembunuh</string>
     <string name="cycle_progressbar">Siklus Teks Bilah Kemajuan XP</string>
     <string name="verbose_in_game_ui">Rincian UI Dalam Game</string>
     <string name="announce_tricks">Umumkan Trik</string>
