@@ -1575,6 +1575,6 @@
     <string name="clan_skin_locked_no_clan">Skin ini terbuka pada Tingkat Klan %1$s. Saat ini Anda tidak berada dalam Klan.</string>
     <string name="log_upload_sent">Log terkirim ke developer</string>
     <string name="log_upload_rate_limited">Terlalu banyak upload log, file di ekspor sebagai gantinya</string>
-    <string name="log_upload_failed">Gagal upload log, file diekspor sebagai gantinya</string>
+    <string name="log_upload_failed">Tidak dapat mengunggah log, file diekspor sebagai gantinya</string>
     <string name="log_export_failed">Gagal ekspor log: %1$s</string>
 </resources>
