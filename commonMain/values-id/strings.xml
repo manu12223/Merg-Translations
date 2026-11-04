@@ -1070,35 +1070,35 @@
     <string name="player_list_count_with_spectators">Pemain: %d ⋅ Bot: %d ⋅ Spektator: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Kick Pemain</string>
     <string name="kick_confirm_message">Kick %s dari ruangan ini? Mereka dapat bergabung kembali.</string>
-    <string name="ban_confirm_title">Banned Pemain</string>
-    <string name="ban_confirm_message">Yakin ingin mem-banned %s dari ruangan ini? Mereka tidak akan bisa bergabung kembali dan tindakan ini permanen!</string>
+    <string name="ban_confirm_title">Larang Pemain</string>
+    <string name="ban_confirm_message">Apakah Anda yakin ingin melarang %s dari ruangan ini? Mereka tidak akan dapat bergabung kembali dan tindakan ini tidak dapat dibatalkan!</string>
 
     <!-- Custom Images -->
     <string name="custom_images">Gambar Kustom</string>
     <string name="profile_avatar">Avatar Profil</string>
-    <string name="custom_image_rules">Konten yang Dilarang:\n\n- NSFW / Konten seksual\n- Kekerasan / Darah berlebihan\n- Senjata\n- Simbol kebencian\n- Ujaran kebencian / Diskriminasi\n- Narkoba\n- Konten menjijikkan\n- Karakter/logo berhak cipta\n- Alkohol / Tembakau\n- Horor berlebihan</string>
+    <string name="custom_image_rules">Konten Terlarang secara Eksplisit:\n\n- NSFW / Konten seksual\n- Kekerasan / Darah berlebihan\n- Senjata\n- Simbol kebencian\n- Ujaran kebencian / Diskriminasi\n- Narkoba\n- Konten mengejutkan/menjijikkan\n- Karakter/logo berhak cipta\n- Referensi mengenai alkohol/tembakau\n- Horor berlebihan</string>
     <string name="custom_image_upload">Unggah</string>
     <string name="custom_image_replace">Ganti</string>
     <string name="custom_image_deselect">Batalkan Pilihan</string>
     <string name="custom_image_confirm_title">Unggah Gambar</string>
     <string name="custom_image_confirm_body">Unggah gambar ini seharga %1$s Voidstone?</string>
-    <string name="custom_image_upload_success">Gambar dikirim untuk ditinjau</string>
+    <string name="custom_image_upload_success">Gambar terkirim untuk meninjau</string>
     <string name="custom_image_selected">Avatar dipilih</string>
     <string name="custom_image_deselected">Avatar batal dipilih</string>
     <string name="custom_image_upload_failed">Gagal mengunggah gambar</string>
     <string name="custom_image_read_error">Gagal membaca gambar</string>
     <string name="custom_image_invalid_format">File harus berupa gambar</string>
-    <string name="custom_image_error_size">Ukuran gambar %1$dKB terlalu besar (maks %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Dimensi gambar %1$dx%2$d terlalu besar (maks %3$dx%4$d piksel)</string>
-    <string name="custom_image_error_both">Ukuran %1$dKB / dimensi %3$dx%4$d terlalu besar (maks %2$dKB / %5$dx%6$d piksel)</string>
+    <string name="custom_image_error_size">Gambar Anda yang berukuran %1$dKB terlalu besar (maks %2$dKB)</string>
+    <string name="custom_image_error_dimensions">Gambar Anda yang berukuran %1$dx%2$d terlalu besar (maks %3$dx%4$d piksel)</string>
+    <string name="custom_image_error_both">Gambar Anda yang berukuran %1$dKB / %3$dx%4$d terlalu besar (maks %2$dKB / %5$dx%6$d piksel)</string>
     <string name="custom_image_compress_title">Gambar Terlalu Besar - Kompres?</string>
     <string name="custom_image_compress_accept">Gambar Dikompresi</string>
-    <string name="custom_image_compress_failed">Gambar tidak dapat dikompresi sesuai batas ukuran</string>
+    <string name="custom_image_compress_failed">Gambar tidak dapat dikompresi agar sesuai dengan batas ukuran</string>
     <string name="custom_image_crop_title">Pangkas ke rasio 1:1</string>
     <string name="custom_image_crop_apply">Pangkas &amp; Pakai</string>
     <string name="custom_image_processing">Memproses…</string>
     <string name="custom_image_bought">Unggahan Gambar Kustom</string>
-    <string name="custom_image_refund">Refund Gambar Kustom</string>
+    <string name="custom_image_refund">Pengembalian Gambar Kustom</string>
     <string name="custom_image_slot">Gambar %1$d</string>
 
     <!-- Custom image skin -->
@@ -1113,8 +1113,8 @@
     <string name="report_banner_success">Banner dilaporkan</string>
     <string name="report_banner_failed">Gagal melaporkan banner</string>
 
-    <!-- Custom banners -->
-    <string name="custom_banner_rules">Konten yang Dilarang:\n\n- NSFW / Konten seksual\n- Kekerasan / Darah berlebihan\n- Senjata\n- Simbol kebencian\n- Ujaran kebencian / Diskriminasi\n- Narkoba\n- Konten menjijikkan\n- Karakter/logo berhak cipta\n- Alkohol / Tembakau\n- Horor berlebihan</string>
+    <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
+    <string name="custom_banner_rules">Konten Terlarang secara Eksplisit:\n\n- NSFW / Konten seksual\n- Kekerasan / Darah berlebihan\n- Senjata\n- Simbol kebencian\n- Ujaran kebencian / Diskriminasi\n- Narkoba\n- Konten mengejutkan/menjijikkan\n- Karakter/logo berhak cipta\n- Referensi mengenai alkohol/tembakau\n- Horor berlebihan</string>
     <string name="custom_banner_upload">Unggah</string>
     <string name="custom_banner_replace">Ganti</string>
     <string name="custom_banner_deselect">Batalkan Pilihan</string>
@@ -1126,17 +1126,17 @@
     <string name="custom_banner_upload_failed">Gagal mengunggah banner</string>
     <string name="custom_banner_read_error">Gagal membaca banner</string>
     <string name="custom_banner_invalid_format">File harus berupa gambar</string>
-    <string name="custom_banner_error_size">Ukuran banner %1$dKB terlalu besar (maks %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Dimensi banner %1$dx%2$d terlalu besar (maks %3$dx%4$d piksel)</string>
-    <string name="custom_banner_error_both">Ukuran %1$dKB / dimensi %3$dx%4$d terlalu besar (maks %2$dKB / %5$dx%6$d piksel)</string>
+    <string name="custom_banner_error_size">Banner Anda yang berukuran %1$dKB terlalu besar (maks %2$dKB)</string>
+    <string name="custom_banner_error_dimensions">Banner Anda yang berukuran %1$dx%2$d terlalu besar (maks %3$dx%4$d piksel)</string>
+    <string name="custom_banner_error_both">Banner Anda yang berukuran %1$dKB / %3$dx%4$d terlalu besar (maks %2$dKB / %5$dx%6$d piksel)</string>
     <string name="custom_banner_compress_title">Banner Terlalu Besar - Kompres?</string>
     <string name="custom_banner_compress_accept">Banner Dikompresi</string>
-    <string name="custom_banner_compress_failed">Banner tidak dapat dikompresi sesuai batas ukuran</string>
+    <string name="custom_banner_compress_failed">Banner tidak dapat dikompresi agar sesuai dengan batas ukuran</string>
     <string name="custom_banner_crop_title">Pangkas ke rasio 16:9</string>
     <string name="custom_banner_crop_apply">Pangkas &amp; Pakai</string>
     <string name="custom_banner_processing">Memproses…</string>
     <string name="custom_banner_bought">Unggahan Banner Kustom</string>
-    <string name="custom_banner_refund">Refund Banner Kustom</string>
+    <string name="custom_banner_refund">Pengembalian Banner Kustom</string>
     <string name="custom_banner_slot">Banner %1$d</string>
     <string name="custom_banner_no_approved_image">Tidak ada banner disetujui di slot %1$d</string>
     <string name="custom_media_title_avatar">Pilih Avatar</string>
@@ -1144,21 +1144,21 @@
     <string name="custom_media_title_banner">Pilih Banner</string>
     <string name="custom_media_title_clan_avatar">Avatar Klan</string>
     <string name="custom_media_title_clan_banner">Banner Klan</string>
-    <string name="custom_media_in_review">Dalam Peninjauan</string>
+    <string name="custom_media_in_review">Dalam Tinjauan</string>
     <string name="custom_media_approved">Disetujui</string>
     <string name="custom_media_rejected">Ditolak</string>
     <string name="custom_media_in_use">Digunakan</string>
     <string name="custom_media_use">Pakai</string>
     <string name="custom_media_stop_using">Berhenti Pakai</string>
     <string name="custom_media_delete">Hapus</string>
-    <string name="custom_image_delete_confirm">Hapus gambar ini? Tindakan tidak dapat dibatalkan.</string>
-    <string name="custom_banner_delete_confirm">Hapus banner ini? Tindakan tidak dapat dibatalkan.</string>
+    <string name="custom_image_delete_confirm">Hapus gambar ini? Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="custom_banner_delete_confirm">Hapus banner ini? Tindakan ini tidak dapat dibatalkan.</string>
     <string name="custom_image_deleted">Gambar dihapus</string>
     <string name="custom_banner_deleted">Banner dihapus</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Pemulihan Akun</string>
-    <string name="recovery_info">Memerlukan jaringan Wi-Fi dan perangkat yang sama, jika tidak pemulihan bisa gagal.</string>
+    <string name="recovery_info">Memerlukan jaringan Wi-Fi dan perangkat yang sama; jika tidak, pemulihan mungkin gagal.</string>
     <string name="recovery_continue">Lanjutkan</string>
     <string name="recovery_enter_account_id">Masukkan ID Akun Anda</string>
     <string name="recovery_account_id_placeholder">ID Akun</string>
@@ -1167,16 +1167,16 @@
     <string name="recovery_new_email_placeholder">baru@contoh.com</string>
     <string name="recovery_change_mail">Ubah Email</string>
     <string name="recovery_confirm_title">Ubah Email Akun?</string>
-    <string name="recovery_confirm_body">Anda akan mengubah email akun ini menjadi %1$s. Selanjutnya Anda akan login menggunakan akun Google yang sesuai. Tindakan ini tidak dapat dibatalkan.</string>
-    <string name="recovery_success_body">Email akun diubah menjadi %1$s. Silakan login menggunakan akun Google baru Anda.</string>
-    <string name="recovery_error_invalid_id">Masukkan ID akun yang valid.</string>
-    <string name="recovery_error_invalid_email">Masukkan alamat email yang valid.</string>
-    <string name="recovery_error_invalid_request">Permintaan tidak valid. Coba lagi.</string>
-    <string name="recovery_error_network">Error jaringan. Periksa koneksi dan coba lagi.</string>
-    <string name="recovery_error_fingerprint_mismatch">Perangkat dan jaringan tidak cocok. Pemulihan memerlukan ponsel dan Wi-Fi yang pernah digunakan akun tersebut.</string>
-    <string name="recovery_error_email_taken">Email ini sudah digunakan akun lain. Hapus akun tersebut atau gunakan email lain.</string>
+    <string name="recovery_confirm_body">Anda akan mengubah email akun ini menjadi %1$s. Selanjutnya, Anda akan login menggunakan akun Google yang sesuai. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="recovery_success_body">Email akun diubah menjadi %1$s. Silakan login sekarang menggunakan akun Google baru Anda.</string>
+    <string name="recovery_error_invalid_id">Silakan masukkan ID akun yang valid.</string>
+    <string name="recovery_error_invalid_email">Silakan masukkan alamat email yang valid.</string>
+    <string name="recovery_error_invalid_request">Permintaan tidak valid. Silakan coba lagi.</string>
+    <string name="recovery_error_network">Error atas jaringan. Silakan periksa koneksi Anda dan coba lagi.</string>
+    <string name="recovery_error_fingerprint_mismatch">Perangkat dan jaringan ini tidak cocok dengan akun tersebut. Pemulihan memerlukan ponsel yang sama dan jaringan Wi-Fi yang pernah Anda gunakan dengan akun tersebut sebelumnya.</string>
+    <string name="recovery_error_email_taken">Email ini sudah digunakan oleh akun lain. Hapus akun tersebut atau gunakan email lain.</string>
     <string name="recovery_error_google_taken">Akun Google ini sudah ditautkan ke akun lain.</string>
-    <string name="recovery_error_email_mismatch">Email yang diketik tidak cocok dengan akun Google yang digunakan untuk masuk.</string>
+    <string name="recovery_error_email_mismatch">Email yang Anda ketik tidak cocok dengan akun Google yang Anda gunakan untuk login.</string>
     <string name="recovery_error_cooldown">Akun ini baru saja dipulihkan. Harap tunggu 24 jam sebelum mencoba lagi.</string>
     <string name="recovery_error_banned">Akun ini dilarang dan tidak dapat dipulihkan.</string>
     <string name="recovery_error_not_found">Tidak ada akun yang ditemukan dengan ID tersebut.</string>
@@ -1186,7 +1186,7 @@
     <string name="recovery_error_internal">Terjadi kesalahan di pihak kami. Silakan coba lagi nanti.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">Tidak ada koneksi internet. Periksa pengaturan jaringan Anda.</string>
+    <string name="no_internet_connection">Tidak ada koneksi internet. Periksa pengaturan jaringan perangkat Anda.</string>
     <string name="server_not_running">Server tidak berjalan</string>
     <string name="name_change_reconnect_notice">Agar perubahan nama mulai berlaku, Anda akan dihubungkan ulang ke server.</string>
     <string name="play">Main</string>
