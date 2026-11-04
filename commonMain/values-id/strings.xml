@@ -137,7 +137,7 @@
     <string name="increase_bots">Tambahkan Bot</string>
     <string name="max_split_pieces">Maksimal Split</string>
     <string name="max_split_128_gold">128: Tiket Musiman Emas</string>
-    <string name="max_split_128_needs_gold">x128 split memerlukan Tiket Musiman Emas</string>
+    <string name="max_split_128_needs_gold">Split 128x memerlukan Tiket Musiman Emas</string>
     <string name="room_max_split">%1$dx Split</string>
     <string name="quick_merge">Gabungan Cepat</string>
     <string name="force_split_on_blob_size">Paksa Split pada Ukuran Gumpalan</string>
@@ -188,7 +188,7 @@
     <string name="remove_friend_message">Apakah Anda yakin ingin menghapus "%1$s" (ID: %2$d) dari daftar teman?</string>
     <string name="cancel_request_title">Batalkan Permintaan</string>
     <string name="cancel_request_message">Apakah Anda yakin ingin membatalkan permintaan teman kepada "%1$s" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Tidak dapat mengirim permintaan teman ke diri sendiri</string>
+    <string name="friend_request_error_self">Tidak dapat mengirim permintaan teman kepada diri sendiri</string>
     <string name="friend_request_error_already_sent">Permintaan teman sudah dikirim</string>
     <string name="friend_request_error_already_friends">Sudah berteman</string>
     <string name="friend_request_error_list_full">Daftar teman penuh</string>
@@ -220,7 +220,7 @@
     <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">Pertandingan dimulai dalam…</string>
     <string name="vs_label">VS</string>
-    <string name="ongoing_matches">Pertandingan Aktif</string>
+    <string name="ongoing_matches">Pertandingan aktif</string>
     <string name="match_status_starting">MEMULAI</string>
     <string name="match_status_in_progress">SEDANG BERLANGSUNG</string>
     <string name="match_status_finished">SELESAI</string>
@@ -228,11 +228,11 @@
     <string name="defeat">KALAH</string>
     <string name="draw">SERI</string>
     <string name="play_again">Main Lagi</string>
-    <string name="play_x_more_matches_to_rated">Mainkan %d pertandingan lagi untuk mendapatkan peringkat!</string>
-    <string name="play_one_more_match_to_rated">Mainkan 1 pertandingan lagi untuk mendapatkan peringkat!</string>
+    <string name="play_x_more_matches_to_rated">Mainkan %d pertandingan lagi untuk mendapatkan nilai!</string>
+    <string name="play_one_more_match_to_rated">Mainkan 1 pertandingan lagi untuk mendapatkan nilai!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
     <string name="prizes">Hadiah</string>
-    <string name="prizes_dialog_intro">Sebelum setiap musim direset, pemain papan atas akan menerima hadiah Voidstone berdasarkan performa mereka!</string>
+    <string name="prizes_dialog_intro">Sebelum setiap musim di-reset, pemain papan atas akan menerima hadiah Voidstone berdasarkan performa mereka!</string>
     <string name="current_season">Musim Saat Ini</string>
 
     <!-- Shop -->
@@ -241,7 +241,7 @@
     <string name="free_voidstones">Voidstone Gratis!</string>
     <string name="free_voidstones_subtitle">Pilih satu kotak dan tonton iklan video singkat untuk mendapatkan Voidstone!</string>
     <string name="free_voidstones_won">Anda mendapatkan %d Voidstone!</string>
-    <string name="free_voidstones_status">Sisa %1$d ⋅ Direset dalam %2$s</string>
+    <string name="free_voidstones_status">Sisa %1$d ⋅ Akan di-reset dalam %2$s</string>
     <string name="free_voidstones_left">Sisa %d</string>
     <string name="pick">Pilih</string>
     <string name="redeem_code">Tukar Kode</string>
@@ -285,14 +285,14 @@
     <string name="reward_profile_triple_gradient">Gradien Tiga Warna Profil</string>
     <string name="reward_profile_description_color">Warna Deskripsi Profil</string>
     <string name="reward_name_font">Font Nama</string>
-    <string name="reward_already_owned_compensation">Sudah dimiliki. Dikonversi menjadi Voidstone</string>
+    <string name="reward_already_owned_compensation">Sudah dimiliki. Telah dikonversikan menjadi Voidstone</string>
     <string name="purchase_id">ID Pembelian: %d</string>
     <string name="history">Riwayat</string>
     <string name="voidstone_history">Riwayat Voidstone</string>
     <string name="purchase_history">Riwayat Pembelian</string>
     <string name="no_transactions_yet">Belum ada transaksi</string>
     <string name="admin_reward">Hadiah Admin</string>
-    <string name="in_app_purchase">Pembelian Dalam Game</string>
+    <string name="in_app_purchase">Pembelian dalam aplikasi</string>
     <string name="voidstone_gift_received">Hadiah Voidstone Diterima</string>
     <string name="voidstone_gift_send">Hadiah Voidstone Dikirim</string>
     <string name="skin_bought">Skin</string>
@@ -302,21 +302,21 @@
     <string name="booster_autoshoot_bought">Upgrade Autoshoot</string>
     <string name="booster_spawn_size_bought">Upgrade Ukuran Spawn</string>
     <string name="booster_level_short">Lv %1$d</string>
-    <string name="profile_name_change_bought">Perubahan Nama Profil</string>
-    <string name="profile_name_color_bought">Buka Warna Nama Profil</string>
-    <string name="profile_color_bought">Buka Warna Profil</string>
-    <string name="profile_color_gradient_bought">Buka Gradien Warna Profil</string>
-    <string name="profile_color_gradient_2_bought">Buka Gradien Warna Profil 2</string>
-    <string name="profile_name_font_bought">Buka Font Nama Profil</string>
-    <string name="admin_deduction">Pengurangan Admin</string>
-    <string name="giveaway">Giveaway</string>
+    <string name="profile_name_change_bought">Perubahan nama profil</string>
+    <string name="profile_name_color_bought">Buka warna nama profil</string>
+    <string name="profile_color_bought">Buka warna profil</string>
+    <string name="profile_color_gradient_bought">Buka gradien warna profil</string>
+    <string name="profile_color_gradient_2_bought">Buka gradien warna profil 2</string>
+    <string name="profile_name_font_bought">Buka font nama profil</string>
+    <string name="admin_deduction">Deduksi Admin</string>
+    <string name="giveaway">Hadiah Giveaway</string>
     <string name="admin_reward_sent">Hadiah Admin Terkirim</string>
-    <string name="admin_deduction_sent">Pengurangan Admin Terkirim</string>
+    <string name="admin_deduction_sent">Deduksi Admin Terkirim</string>
     <string name="verify_reward">Hadiah Verifikasi</string>
-    <string name="competitive_season_reward">Hadiah Musim Kompetitif</string>
+    <string name="competitive_season_reward">Hadiah musim kompetitif</string>
     <string name="purchase_remove_ads_label">Hapus Iklan</string>
     <string name="purchase_status_permanent">Permanen</string>
-    <string name="purchase_status_refunded">Direfund</string>
+    <string name="purchase_status_refunded">Dikembalikan</string>
     <string name="purchase_no_ads_gift_received">Hadiah Bebas Iklan dari #%d</string>
     <string name="purchase_no_ads_gift_purchased">Hadiah Bebas Iklan untuk #%d</string>
     <string name="purchase_season_pass_gold_label">Tiket Musiman Emas</string>
@@ -325,10 +325,10 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">Iklan belum dimuat</string>
-    <string name="ad_no_fill">Tidak ada iklan yang tersedia saat ini. Silakan coba lagi nanti.</string>
+    <string name="ad_no_fill">Tidak ada iklan yang tersedia untuk Anda saat ini. Silakan coba lagi nanti.</string>
     <string name="ad_show_failed">Gagal menampilkan iklan</string>
     <string name="ad_load_failed">Gagal memuat iklan</string>
-    <string name="ad_rate_limited">Anda terlalu sering menonton iklan baru-baru ini.
+    <string name="ad_rate_limited">Anda terlalu sering menonton iklan baru-baru ini. Silakan coba lagi dalam %s.</string>
     <string name="time_hrs">jam</string>
     <string name="time_min">mnt</string>
     <string name="time_sec">dtk</string>
@@ -349,7 +349,7 @@
      <string name="october">Oktober</string>
      <string name="november">November</string>
      <string name="december">Desember</string>
-     <string name="season_bag_title">Kantong Musim</string>
+     <string name="season_bag_title">Kantong Uang</string>
      <string name="season_bag_entry">Musim %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Saat Ini</string>
      <string name="season_bag_last">Terakhir</string>
@@ -363,9 +363,9 @@
      <string name="season_pass_admin_cd">Admin</string>
      <string name="season_pass_level_short">Lvl %1$d</string>
      <string name="season_pass_resets_now">Reset sekarang</string>
-     <string name="season_pass_resets_in_dh">Reset dalam %1$dh %2$dj</string>
-     <string name="season_pass_resets_in_hm">Reset dalam %1$dj %2$dm</string>
-     <string name="season_pass_resets_in_m">Reset dalam %1$dm</string>
+     <string name="season_pass_resets_in_dh">Akan di-reset dalam %1$dh %2$dj</string>
+     <string name="season_pass_resets_in_hm">Akan di-reset dalam %1$dj %2$dm</string>
+     <string name="season_pass_resets_in_m">Akan di-reset dalam %1$dm</string>
 
      <string name="season_pass_history_title">RIWAYAT TIKET MUSIMAN</string>
      <string name="season_pass_history_cd">Riwayat</string>
@@ -379,7 +379,7 @@
      <string name="season_pass_history_revoked_stage_paid">Tahap %1$d (Berbayar) — dicabut</string>
      <string name="season_pass_history_revoked_voidstones">Voidstone dihapus</string>
      <string name="season_pass_history_revoked_unlock">Buka kunci dihapus</string>
-     <string name="season_pass_history_revoked_trigger_refund">Tiket Musiman Emas direfund</string>
+     <string name="season_pass_history_revoked_trigger_refund">Tiket Musiman Emas dikembalikan</string>
      <string name="season_pass_history_revoked_trigger_dispute">Tiket Musiman Emas disengketakan</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Chargeback Tiket Musiman Emas</string>
 
@@ -414,8 +414,8 @@
      <string name="season_task_hole_purple_punishment">Terkena lubang ungu</string>
      <string name="season_task_hole_gold_punishment">Terkena lubang emas</string>
      <string name="season_task_win_competitive">Menangkan pertandingan kompetitif</string>
-     <string name="season_task_win_survival">Menangkan pertandingan survival</string>
-     <string name="season_task_win_team_survival">Menangkan pertandingan team survival</string>
+     <string name="season_task_win_survival">Menangkan pertandingan bertahan hidup</string>
+     <string name="season_task_win_team_survival">Menangkan pertandingan tim bertahan hidup</string>
      <string name="season_task_win_knockout">Menangkan pertandingan knockout</string>
      <string name="season_task_win_soccer">Menangkan pertandingan sepak bola</string>
      <string name="season_task_soccer_goal_scored">Cetak gol di sepak bola</string>
@@ -534,9 +534,9 @@
     <string name="youtube">YouTuber</string>
     <string name="tiktok">TikToker</string>
     <string name="translator">Penerjemah</string>
-    <string name="internal_tester">Tester Internal</string>
-    <string name="alpha_tester">Tester Alpha</string>
-    <string name="beta_tester">Tester Beta</string>
+    <string name="internal_tester">Penguji Internal</string>
+    <string name="alpha_tester">Penguji Alfa</string>
+    <string name="beta_tester">Penguji Beta</string>
     <string name="discord_staff">Staf Discord</string>
 
     <!-- Voidstone Transfer -->
@@ -570,14 +570,14 @@
     <string name="clan_request_clans">Klan Berdasarkan Permintaan</string>
     <string name="clan_my_invites">Undangan Saya</string>
     <string name="clan_invite_declined">Undangan ditolak.</string>
-    <string name="clan_joined">Bergabung ke klan!</string>
+    <string name="clan_joined">Bergabung dengan klan!</string>
     <string name="clan_private">Klan ini bersifat pribadi atau sudah tidak aktif.</string>
     <string name="clan_members">Anggota</string>
     <string name="clan_members_count">%1$d / %2$d anggota</string>
     <string name="clan_request_join">Minta Bergabung</string>
-    <string name="clan_leave">Keluar Klan</string>
+    <string name="clan_leave">Keluar dari Klan</string>
     <string name="clan_leave_confirm">Apakah Anda yakin ingin keluar dari klan ini?</string>
-    <string name="clan_owner_must_transfer">Anda harus mentransfer kepemilikan ke anggota lain sebelum keluar.</string>
+    <string name="clan_owner_must_transfer">Anda harus mentransfer kepemilikan kepada anggota lain sebelum keluar.</string>
     <string name="clan_request_sent">Permintaan bergabung terkirim.</string>
     <string name="clan_disband">Bubarkan Klan</string>
     <string name="clan_disband_confirm">Apakah Anda yakin ingin membubarkan klan? Tindakan ini tidak dapat dibatalkan!</string>
@@ -592,7 +592,7 @@
     <string name="clan_status_full">Penuh</string>
     <string name="clan_pending_requests">Permintaan Tertunda</string>
     <string name="clan_role_owner">Pemilik</string>
-    <string name="clan_role_co_owner">Co-Owner</string>
+    <string name="clan_role_co_owner">Wakil Pemilik</string>
     <string name="clan_role_admin">Admin</string>
     <string name="clan_role_elder">Tetua</string>
     <string name="clan_role_member">Anggota</string>
@@ -603,8 +603,8 @@
     <string name="clan_demoted">Diturunkan pangkatnya menjadi %1$s.</string>
     <string name="clan_kick_confirm_title">Kick Anggota</string>
     <string name="clan_kick_confirm_message">Kick "%1$s" (ID: %2$d) dari klan? Mereka dapat bergabung kembali melalui permintaan.</string>
-    <string name="clan_ban_confirm_title">Banned Anggota</string>
-    <string name="clan_ban_confirm_message">Banned "%1$s" (ID: %2$d) dari klan? Mereka tidak akan bisa bergabung kembali.</string>
+    <string name="clan_ban_confirm_title">Larang Anggota</string>
+    <string name="clan_ban_confirm_message">Larang "%1$s" (ID: %2$d) dari klan? Mereka tidak akan dapat bergabung kembali.</string>
     <string name="clan_unban_confirm_title">Unban Anggota</string>
     <string name="clan_unban_confirm_message">Unban "%1$s" (ID: %2$d)? Mereka akan bisa bergabung kembali.</string>
     <string name="clan_unkick_confirm_title">Batalkan Kick Anggota</string>
@@ -614,7 +614,7 @@
     <string name="clan_revoke_invite_confirm_message">Batalkan undangan untuk "%1$s" (ID: %2$d)?</string>
     <string name="clan_invite_sent">Undangan berhasil dikirim!</string>
     <string name="clan_player_not_found">Pemain tidak ditemukan.</string>
-    <string name="clan_player_banned">Pemain ini dibanned dari klan Anda.</string>
+    <string name="clan_player_banned">Pemain ini dilarang bergabung dari klan Anda.</string>
     <string name="clan_already_invited">Pemain sudah diundang atau sudah berada di dalam klan.</string>
     <string name="clan_full">Klan sudah penuh.</string>
     <string name="clan_join_button_full">Klan Penuh</string>
@@ -628,26 +628,26 @@
     <string name="clan_not_a_member">Anda bukan anggota klan ini.</string>
     <string name="clan_already_requested">Anda sudah memiliki permintaan bergabung yang tertunda ke klan lain.</string>
     <string name="clan_copy_tag">Salin Tag</string>
-    <string name="clan_creator">Pembuat</string>
+    <string name="clan_creator">Kreator</string>
     <string name="clan_history">Riwayat Klan</string>
     <string name="clan_history_no_entries">Belum ada riwayat</string>
     <string name="clan_history_event_join">Bergabung</string>
     <string name="clan_history_event_leave">Keluar</string>
     <string name="clan_history_event_kick">Di-kick</string>
-    <string name="clan_history_event_ban">Dibanned</string>
+    <string name="clan_history_event_ban">Dilarang</string>
     <string name="clan_history_event_promote">Dipromosikan</string>
     <string name="clan_history_event_demote">Diturunkan</string>
-    <string name="clan_history_event_donation">Mendonasi</string>
+    <string name="clan_history_event_donation">Mendonasikan</string>
     <string name="clan_history_id">ID Riwayat: %d</string>
     <string name="clan_public_profile">Profil Publik Klan</string>
-    <string name="clan_kicked_banned_players">Pemain yang Di-kick/Dibanned</string>
+    <string name="clan_kicked_banned_players">Pemain yang Di-kick/Dilarang</string>
     <string name="clan_unkick_confirm">Apakah Anda yakin ingin membatalkan kick "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Apakah Anda yakin ingin unban "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Cari berdasarkan ID atau Nama</string>
     <string name="clan_discover">Temukan Klan</string>
     <string name="clan_promote_to_owner">Promosikan ke Pemilik</string>
     <string name="clan_transfer_ownership_title">Transfer Kepemilikan</string>
-    <string name="clan_transfer_ownership_message">Anda akan mempromosikan "%1$s" (ID: %2$d) menjadi Pemilik. Pangkat Anda akan diturunkan menjadi Co-Owner. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk mengonfirmasi:</string>
+    <string name="clan_transfer_ownership_message">Anda akan mempromosikan "%1$s" (ID: %2$d) menjadi Pemilik. Pangkat Anda akan diturunkan menjadi Wakil Pemilik. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk mengonfirmasikan:</string>
     <string name="clan_transfer_ownership_id_mismatch">ID tidak cocok</string>
     <string name="clan_customize_name_color">Warna Nama Klan</string>
     <string name="clan_customize_tag_color">Warna Tag Klan</string>
@@ -678,7 +678,7 @@
     <string name="clan_history_event_purchase_triple_gradient">Membeli Gradien Tiga Warna Klan</string>
     <string name="clan_history_event_purchase_description_color">Membeli Warna Deskripsi Klan</string>
     <string name="clan_history_event_rename">Mengubah Nama Klan</string>
-    <string name="clan_history_event_tier_up">Upgrade Tier Klan</string>
+    <string name="clan_history_event_tier_up">Mengupgrade Tingkat Klan</string>
 
     <!-- Leaderboard !-->
     <string name="leaderboard_type">Jenis Papan Peringkat</string>
@@ -1556,9 +1556,9 @@
     <string name="clan_tier">Tier %1$s</string>
     <string name="clan_tier_full">Tier Klan %1$s</string>
     <string name="clan_tier_upgrade">Upgrade ke Tier %1$s</string>
-    <string name="clan_tier_upgrade_confirm">Gunakan %1$s Voidstone Klan untuk mengupgrade Klan ke Tier %2$s?</string>
-    <string name="clan_tier_max">Tier tertinggi telah tercapai!</string>
-    <string name="clan_tier_roles_only">Hanya Pemilik, Co-Owner, dan Admin yang dapat mengupgrade Tier Klan.</string>
+    <string name="clan_tier_upgrade_confirm">Gunakan %1$s Voidstone Klan untuk mengupgrade Klan ke Tingkat %2$s?</string>
+    <string name="clan_tier_max">Tingkat tertinggi telah dicapai!</string>
+    <string name="clan_tier_roles_only">Hanya Pemilik, Wakil Pemilik, dan Admin yang dapat mengupgrade Tingkat Klan.</string>
     <string name="clan_tier_clan_xp">XP Klan</string>
     <string name="clan_tier_clan_voidstones">Voidstone Klan</string>
     <string name="clan_tier_perks">Perk</string>
@@ -1573,8 +1573,8 @@
     <string name="clan_tier_requirement">Diperlukan: %1$s dan %2$s</string>
     <string name="clan_skin_locked_dialog">Skin ini terbuka pada Tingkat Klan %1$s. Klan Anda berada di Tingkat %2$s.</string>
     <string name="clan_skin_locked_no_clan">Skin ini terbuka pada Tingkat Klan %1$s. Saat ini Anda tidak berada dalam Klan.</string>
-    <string name="log_upload_sent">Log terkirim ke developer</string>
-    <string name="log_upload_rate_limited">Terlalu banyak upload log, file di ekspor sebagai gantinya</string>
+    <string name="log_upload_sent">Log terkirim kepada pengembang</string>
+    <string name="log_upload_rate_limited">Terlalu banyak log unggahan saat ini, file diekspor sebagai gantinya</string>
     <string name="log_upload_failed">Tidak dapat mengunggah log, file diekspor sebagai gantinya</string>
     <string name="log_export_failed">Gagal ekspor log: %1$s</string>
 </resources>
