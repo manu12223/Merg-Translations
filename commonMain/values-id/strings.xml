@@ -872,25 +872,25 @@
     <string name="skin_tab_particles">Partikel</string>
     <string name="level_skin_locked_dialog">Anda harus mencapai level %1$d untuk membuka skin ini. Level Anda saat ini adalah %2$d.</string>
     <string name="skin_tab_achievement">Pencapaian</string>
-    <string name="achievement_skin_locked_dialog">Anda membutuhkan %1$d Poin Pencapaian (AP) untuk membuka skin ini. AP Anda saat ini %2$d.</string>
+    <string name="achievement_skin_locked_dialog">Anda membutuhkan %1$d Poin Pencapaian (AP) untuk membuka skin ini. AP Anda saat ini adalah %2$d.</string>
     <string name="dismiss">Tutup</string>
-    <string name="level_lock">Kunci Level</string>
+    <string name="level_lock">Kunci level</string>
 
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
-    <string name="emotes">Emote</string>
-    <string name="room_commands">Ketik !help untuk melihat daftar perintah</string>
+    <string name="emotes">Emot</string>
+    <string name="room_commands">Ketik !help untuk melihat daftar perintah tersedia</string>
     <string name="chat_close">Tutup Chat</string>
     <string name="chat_channel_public">PUBLIK</string>
-    <string name="clan_sys_joined">%1$s telah bergabung ke Klan!</string>
+    <string name="clan_sys_joined">%1$s telah bergabung dengan Klan!</string>
     <string name="clan_sys_left">%1$s telah keluar dari Klan.</string>
     <string name="clan_sys_kicked">%1$s di-kick dari Klan oleh %2$s</string>
-    <string name="clan_sys_banned">%1$s dibanned dari Klan oleh %2$s</string>
+    <string name="clan_sys_banned">%1$s dilarang dari Klan oleh %2$s</string>
     <string name="clan_sys_promoted">%1$s dipromosikan menjadi %2$s oleh %3$s!</string>
     <string name="clan_sys_demoted">%1$s diturunkan pangkatnya menjadi %2$s oleh %3$s!</string>
     <string name="clan_sys_achievement">%1$s meraih pencapaian %2$s</string>
-    <string name="clan_sys_donated">%1$s mendonasikan %2$s Voidstone ke Klan!</string>
+    <string name="clan_sys_donated">%1$s mendonasikan %2$s Voidstone kepada Klan!</string>
     <string name="clan_sys_tier">%1$s naik ke Tingkat %2$s</string>
     <string name="chat_message_hint">Ketik pesan…</string>
     <string name="chat_send_message">Kirim Pesan</string>
