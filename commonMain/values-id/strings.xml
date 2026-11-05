@@ -891,7 +891,7 @@
     <string name="clan_sys_demoted">%1$s diturunkan pangkatnya menjadi %2$s oleh %3$s!</string>
     <string name="clan_sys_achievement">%1$s meraih pencapaian %2$s</string>
     <string name="clan_sys_donated">%1$s mendonasikan %2$s Voidstone ke Klan!</string>
-    <string name="clan_sys_tier">%1$s naik ke Tier %2$s</string>
+    <string name="clan_sys_tier">%1$s naik ke Tingkat %2$s</string>
     <string name="chat_message_hint">Ketik pesan…</string>
     <string name="chat_send_message">Kirim Pesan</string>
     <string name="copy_name">Salin Nama</string>
@@ -912,22 +912,22 @@
     <string name="chat_settings_texts">Teks</string>
     <string name="chat_settings_layout">Tata Letak</string>
     <string name="chat_bg_opacity">Opasitas Latar Belakang Chat</string>
-    <string name="chat_bg_opacity_desc">Menentukan seberapa transparan jendela chat.</string>
+    <string name="chat_bg_opacity_desc">Seberapa padat jendela chat. Nilai yang lebih rendah akan menampilkan lebih banyak bagian game di baliknya.</string>
     <string name="chat_contrast">Kontras</string>
-    <string name="chat_contrast_desc">Menentukan kontras area pesan terhadap jendela chat.</string>
-    <string name="chat_highlight">Sorot Balasan &amp; Mention</string>
-    <string name="chat_highlight_desc">Menyoroti pesan yang menyebut Anda (@ diikuti ID/nama) dan balasan pesan Anda.</string>
+    <string name="chat_contrast_desc">Seberapa padat area pesan, yang menentukan seberapa mencolok area tersebut dibandingkan jendela chat lainnya.</string>
+    <string name="chat_highlight">Sorot Balasan &amp; Sebutan</string>
+    <string name="chat_highlight_desc">Menyoroti pesan yang menyebut Anda (@ diikuti ID atau nama Anda) dan balasan pesan Anda.</string>
     <string name="chat_highlight_opacity">Opasitas Sorotan</string>
     <string name="chat_show_system_messages">Tampilkan Pesan Sistem</string>
-    <string name="chat_show_system_messages_desc">Menampilkan pesan SYSTEM di chat (ruangan, klan, game). Jika dinonaktifkan, pesan disembunyikan.</string>
+    <string name="chat_show_system_messages_desc">Menampilkan pesan SYSTEM di chat: pesan untuk ruangan, klan Anda, dan game sendiri. Jika dinonaktifkan, pesan tersebut disembunyikan dan tidak lagi dihitung di tombol chat.</string>
     <string name="chat_show_ids_only">Tampilkan ID Saja</string>
     <string name="chat_show_ids_only_desc">Hanya menampilkan ID pemain di depan pesan.</string>
-    <string name="chat_show_names_only">Tampilkan Nama Saja</string>
+    <string name="chat_show_names_only">Tampilkan Nama Panggilan Saja</string>
     <string name="chat_show_names_only_desc">Hanya menampilkan nama pemain di depan pesan.</string>
-    <string name="chat_show_names_ids">Tampilkan Nama &amp; ID</string>
-    <string name="chat_show_names_ids_desc">Menampilkan nama pemain diikuti ID di depan pesan.</string>
-    <string name="chat_styled_names">Nama Bergaya</string>
-    <string name="chat_styled_names_desc">Menampilkan nama dengan warna dan font pemain. Jika nonaktif, nama berwarna putih polos.</string>
+    <string name="chat_show_names_ids">Tampilkan Nama Panggilan &amp; ID</string>
+    <string name="chat_show_names_ids_desc">Menampilkan nama pemain diikuti dengan ID mereka di depan pesan.</string>
+    <string name="chat_styled_names">Nama Panggilan Bergaya</string>
+    <string name="chat_styled_names_desc">Menampilkan nama dengan warna dan font terpilih oleh pemain. Jika dinonaktifkan, nama akan ditampilkan dalam warna putih polos.</string>
     <string name="chat_text_size">Ukuran Teks</string>
     <string name="chat_text_size_desc">Ukuran teks pesan.</string>
     <string name="chat_expanded">Perluas Jendela Chat</string>
@@ -935,11 +935,11 @@
     <string name="chat_bubbles_above_blobs">Chat Bubbles Above Blobs</string>
     <string name="chat_bubbles_above_blobs_desc">Room messages also appear for a few seconds in a bubble above the sender's biggest blob.</string>
     <string name="chat_no_hud">Tanpa HUD di Belakang Chat</string>
-    <string name="chat_no_hud_desc">Menyembunyikan elemen game lain saat chat terbuka. Tombol game utama tetap muncul.</string>
+    <string name="chat_no_hud_desc">Saat chat terbuka, bagian lain dari layar permainan akan disembunyikan: menu, tombol di bagian atas dan bawah, informasi pemain Anda, serta papan peringkat/peta mini. Hanya tombol permainan Anda (split, shoot, …) yang tetap muncul selama Anda bermain.</string>
 
     <!-- Notification box !-->
-    <string name="level_up">NAIK LEVEL! %d</string>
-    <string name="game_over">Game Over!</string>
+    <string name="level_up">NAIK Level! %d</string>
+    <string name="game_over">Permainan Berakhir!</string>
     <string name="stage_clear">Tahap %s Selesai!</string>
     <string name="stage_failed">Tahap %s Gagal!</string>
     <string name="restarting_adventure">Memulai ulang petualangan…</string>
@@ -948,7 +948,7 @@
     <string name="server_in_maintenance">Server Pemeliharaan</string>
     <string name="server_reboot">Reboot Server</string>
     <string name="server_shutdown">Server Ditutup</string>
-    <string name="afk_disconnect">Terputus karena AFK</string>
+    <string name="afk_disconnect">Pemutusan Akibat AFK</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">ke-%d</string>
@@ -984,8 +984,8 @@
     <string name="voidstones_per_hour">Voidstones/hour</string>
     <string name="items">Item</string>
     <string name="blobs_eaten">Gumpalan Dimakan</string>
-    <string name="session_stat_size_gained">Ukuran Didapat</string>
-    <string name="highest_rank">Rank Tertinggi</string>
+    <string name="session_stat_size_gained">Ukuran Didapatkan</string>
+    <string name="highest_rank">Peringkat Tertinggi</string>
     <string name="session_stat_highest_size">Ukuran Terbesar</string>
     <string name="spectate_ball">Bola</string>
     <string name="leaderboard">Papan Peringkat</string>
@@ -1000,21 +1000,21 @@
     <string name="dialog_leave_game">Keluar dari Game?</string>
     <string name="dialog_respawn_warning">Respawn? Anda akan kehilangan seluruh Ukuran Anda.</string>
     <string name="dialog_change_language">Ubah bahasa ke %s? Aplikasi akan dimuat ulang.</string>
-    <string name="dialog_connection_error">Error Koneksi</string>
+    <string name="dialog_connection_error">Error atas Koneksi</string>
     <string name="dialog_disconnected">Koneksi Terputus</string>
     <string name="dialog_disconnected_message">Koneksi ke server terputus.</string>
     <string name="kicked_from_room">Di-kick dari Ruangan!</string>
     <string name="banned_from_room">Dilarang dari Ruangan!</string>
     <string name="enter_room_name">Masukkan Nama Ruangan</string>
     <string name="room_not_found">Ruangan tidak ditemukan</string>
-    <string name="room_outdated_client">Client Kedaluwarsa!</string>
+    <string name="room_outdated_client">Klien Kedaluwarsa!</string>
     <string name="already_in_room">Anda sudah berada di dalam ruangan!</string>
     <string name="room_closed">Ruangan Ditutup</string>
     <string name="room_name">Nama Ruangan</string>
     <string name="reported">Dilaporkan</string>
     <string name="reason">Alasan</string>
-    <string name="room_crash">Room crash: %s</string>
-    <string name="app_crash">App crash: %s</string>
+    <string name="room_crash">Ruangan mengalami crash: %s</string>
+    <string name="app_crash">Aplikasi mengalami crash: %s</string>
     <string name="dialog_reload">MUAT ULANG</string>
     <string name="dialog_yes">YA</string>
     <string name="dialog_no">TIDAK</string>
@@ -1032,8 +1032,8 @@
     <string name="toast_please_wait">Harap tunggu</string>
     <string name="permission_denied">Izin ditolak</string>
     <string name="dialog_locked">Terkunci</string>
-    <string name="duplicate_connection">Akun sudah terhubung!</string>
-    <string name="outdated_client">Client Kedaluwarsa!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
+    <string name="duplicate_connection">Akun sudah dihubungkan!</string>
+    <string name="outdated_client">Klien Kedaluwarsa!\nKlien: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">Pemain Diblokir</string>
@@ -1042,12 +1042,12 @@
     <string name="block_player">Blokir Pemain</string>
     <string name="unblock_player">Unblock Pemain</string>
     <string name="block_confirm_title">Blokir Pemain?</string>
-    <string name="block_confirm_message">Yakin ingin memblokir %s? Kalian tidak akan bisa saling mengirim pesan atau permintaan teman, dan akan dihapus dari daftar teman satu sama lain.</string>
+    <string name="block_confirm_message">Apakah Anda yakin ingin memblokir %s? Kalian tidak akan dapat saling mengirim pesan atau permintaan teman, dan akan dihapus dari daftar teman satu sama lain.</string>
     <string name="player_unblocked">Pemain di-unblock</string>
     <string name="player_blocked">Pemain diblokir</string>
     <string name="you_blocked_user">Anda telah memblokir pengguna ini</string>
     <string name="user_blocked_you">Diblokir</string>
-    <string name="both_blocked">Saling memblokir</string>
+    <string name="both_blocked">Kedua pengguna saling memblokir</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">HOST GAME LOKAL</string>
@@ -1056,18 +1056,18 @@
     <string name="searching_rooms">Mencari ruangan yang tersedia…</string>
     <string name="host">Host</string>
     <string name="enter_ip">Masukkan IP</string>
-    <string name="join_ip_title">Gabung Berdasarkan Alamat IP</string>
+    <string name="join_ip_title">Gabung berdasarkan Alamat IP</string>
     <string name="tap_to_reveal">Ketuk untuk menampilkan</string>
-    <string name="remote_lan_connections">Agar player lain bisa bergabung dari jarak jauh via IP publik, Anda harus melakukan port forwarding UDP %d atau mengaktifkan DMZ di router. Koneksi bisa gagal jika menggunakan Symmetric NAT/CGNAT. Info lebih lanjut kunjungi %s.</string>
+    <string name="remote_lan_connections">Agar klien lain dapat bergabung dari jarak jauh via IP publik, Anda harus melakukan port forwarding untuk UDP %d atau mengaktifkan DMZ bagi perangkat Anda pada pengaturan router. Harap diperhatikan bahwa koneksi akan mungkin gagal jika jaringan Anda menggunakan Symmetric NAT/CGNAT. Untuk informasi lebih lanjut dan untuk memeriksa jenis NAT Anda saat ini, kunjungi %s.</string>
 
     <!-- Player List -->
     <string name="players">Pemain</string>
-    <string name="spectators">Spektator</string>
-    <string name="joined_room">Bergabung ke ruangan %s</string>
+    <string name="spectators">Penonton</string>
+    <string name="joined_room">Bergabung dengan ruangan %s</string>
     <string name="player_list_title">DAFTAR PEMAIN</string>
     <string name="staff_list_title">DAFTAR STAF</string>
     <string name="player_list_count">Pemain: %d ⋅ Bot: %d ⋅ Total: %d</string>
-    <string name="player_list_count_with_spectators">Pemain: %d ⋅ Bot: %d ⋅ Spektator: %d ⋅ Total: %d</string>
+    <string name="player_list_count_with_spectators">Pemain: %d ⋅ Bot: %d ⋅ Penonton: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Kick Pemain</string>
     <string name="kick_confirm_message">Kick %s dari ruangan ini? Mereka dapat bergabung kembali.</string>
     <string name="ban_confirm_title">Larang Pemain</string>
