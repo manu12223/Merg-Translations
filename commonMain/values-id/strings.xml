@@ -209,7 +209,7 @@
     <string name="x_playing">%d bermain</string>
     <string name="global_position">Global #%s</string>
     <string name="global_label">Global #</string>
-    <string name="wins_draws_losses_winrate">Menang: %1$s · Seri: %2$s · Kalah: %3$s · Winrate: %4$s%%</string>
+    <string name="wins_draws_losses_winrate">Menang: %1$s · Seri: %2$s · Kalah: %3$s · Kemenangan: %4$s%%</string>
     <string name="stat_wins_label">Menang: </string>
     <string name="stat_draws_label"> · Seri: </string>
     <string name="stat_losses_label"> · Kalah: </string>
