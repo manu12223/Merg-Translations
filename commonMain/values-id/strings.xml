@@ -684,23 +684,23 @@
     <string name="leaderboard_type">Jenis Papan Peringkat</string>
     <string name="leaderboard_xp_description">Poin pengalaman. Diperlukan untuk naik level. Didapatkan dari melakukan tindakan bermakna apa pun di dalam game.</string>
     <string name="leaderboard_type_ap">AP</string>
-    <string name="leaderboard_ap_description">AP singkatan dari Achievement Points. Dapatkan poin khusus ini dengan menyelesaikan pencapaian! Pencapaian tingkat tinggi memberikan AP lebih banyak.</string>
+    <string name="leaderboard_ap_description">AP, singkatan dari Achievement Points (Poin Pencapaian). Dapatkan poin khusus ini dengan menyelesaikan pencapaian! Pencapaian tingkat tinggi memberikan AP lebih banyak dibandingkan yang lain.</string>
     <string name="leaderboard_competitive_description">Peringkat tangga 1v1. Hanya mencantumkan pemain yang telah menyelesaikan minimal 12 pertandingan kompetitif.</string>
-    <string name="leaderboard_rating">Peringkat</string>
+    <string name="leaderboard_rating">Penilaian</string>
     <string name="leaderboard_period_daily">Harian</string>
     <string name="leaderboard_period_weekly">Mingguan</string>
     <string name="leaderboard_period_monthly">Bulanan</string>
     <string name="leaderboard_period_all_time">Sepanjang Masa</string>
     <string name="leaderboard_score">Skor</string>
     <string name="leaderboard_points">Poin</string>
-    <string name="leaderboard_rank">Rank</string>
+    <string name="leaderboard_rank">Peringkat</string>
     <string name="leaderboard_empty">Belum ada entri</string>
     <string name="leaderboard_load_error">Gagal memuat papan peringkat</string>
 
     <!-- Statistics !-->
     <string name="all">Semua</string>
     <string name="stat_highest_size">Ukuran Tertinggi:</string>
-    <string name="stat_size_gained">Ukuran Didapat:</string>
+    <string name="stat_size_gained">Ukuran Didapatkan:</string>
     <string name="stat_size_lost">Ukuran Hilang:</string>
     <string name="stat_total">Total:</string>
     <string name="stat_regular_value">Biasa (Nilai):</string>
@@ -732,7 +732,7 @@
     <string name="stat_teleports">Teleportasi:</string>
     <string name="stat_rewarded_ads_watched">Iklan Berhadiah Ditonton:</string>
     <string name="stat_items_used">Item Digunakan:</string>
-    <string name="stat_voidstones_gifted">Didiahkan:</string>
+    <string name="stat_voidstones_gifted">Dihadiahkan:</string>
     <string name="stat_opponents_exploded">Lawan Meledak:</string>
     <string name="stat_trick_splits">Trick Split Dilakukan:</string>
     <string name="stat_trick_split_points">Poin Trick Split:</string>
@@ -746,32 +746,32 @@
     <string name="stat_best_trick_combo">Kombo Trik Terbaik:</string>
 
     <!-- Mail !-->
-    <string name="mail">Pesan</string>
-    <string name="sent_mail_to_id">Pesan terkirim ke %d</string>
-    <string name="mail_id">ID Pesan: %d</string>
+    <string name="mail">Surat</string>
+    <string name="sent_mail_to_id">Surat terkirim kepada %d</string>
+    <string name="mail_id">ID Surat: %d</string>
     <string name="no_mail_yet">Belum ada pesan</string>
     <string name="mail_from">Dari:</string>
     <string name="mail_to">Kepada:</string>
     <string name="received">Diterima</string>
     <string name="refresh">Muat Ulang</string>
-    <string name="write_mail">Tulis Pesan</string>
+    <string name="write_mail">Tulis Surat</string>
     <string name="mail_reply">Balas</string>
     <string name="mail_title_hint">Judul</string>
-    <string name="mail_content_hint">Isi Pesan</string>
+    <string name="mail_content_hint">Isi</string>
     <string name="mail_recipient_not_found">Penerima tidak ditemukan</string>
-    <string name="mail_send_to_self">Tidak dapat mengirim pesan ke diri sendiri</string>
+    <string name="mail_send_to_self">Tidak dapat mengirim surat ke diri sendiri</string>
     <string name="mail_title_too_long">Judul terlalu panjang</string>
-    <string name="mail_content_too_long">Isi pesan terlalu panjang</string>
+    <string name="mail_content_too_long">Isi terlalu panjang</string>
     <string name="mail_sent_success">Terkirim</string>
     <string name="mark_unread">Tandai Belum Dibaca</string>
     <string name="copy_verification_code">Salin Kode Verifikasi</string>
-    <string name="code_copied">Kode disalin ke clipboard!</string>
+    <string name="code_copied">Kode disalin ke papan klip!</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">Klasik</string>
     <string name="gamemode_teams">Tim</string>
-    <string name="gamemode_survival">Survival</string>
-    <string name="gamemode_team_survival">Team Survival</string>
+    <string name="gamemode_survival">Bertahan Hidup</string>
+    <string name="gamemode_team_survival">Tim Bertahan Hidup</string>
     <string name="gamemode_knockout">Knockout</string>
     <string name="gamemode_adventure">Petualangan</string>
     <string name="gamemode_soccer">Sepak Bola</string>
@@ -779,19 +779,19 @@
     <string name="gamemode_competitive">Kompetitif</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominasi</string>
-    <string name="description_domination">Mode klasik berpacu dengan waktu di mana ukuran hanya penting jika Anda berada di peringkat 1! Setiap detik yang dihabiskan sebagai gumpalan terbesar menambah satu detik pada skor Anda. Jika dimakan, waktu yang terkumpul tidak hilang. Pemilik waktu terbanyak saat waktu habis keluar sebagai pemenang!</string>
+    <string name="description_domination">Mode klasik berpacu dengan waktu, di mana ukuran hanya penting jika Anda berada di posisi pertama! Setiap detik yang Anda habiskan sebagai gumpalan terbesar di peta akan menambah sedetik pada skor Anda; dan jika dimakan, waktu yang terkumpul tidak hilang. Siapa pun yang terlama menempati posisi pertama saat waktu habis keluar sebagai pemenang!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Mode klasik dengan batas waktu di mana gaya menghasilkan poin! Lakukan trik pada gumpalan lain untuk mendapat poin, lalu rangkai trik secara cepat untuk menaikkan pengali kombo. Trick Split: split, makan potongan dari gumpalan yang ter-split menjadi 6+ bagian, lalu makan bagian pemain lain dalam 0,7 detik (semuanya dalam rentang sedetik sejak split diri). Keduanya memberi poin. Pop Split: berikan pecahan split diri kepada gumpalan dekat lubang agar gumpalan itu meledak, lalu makan pecahannya. Ice Split: bekukan pecahan split saat melayang agar pemangsa meledak. Trik pada bot bernilai seperlima. Poin tetap tersimpan meski dimakan, pemilik poin terbanyak saat waktu habis menang!</string>
-    <string name="description_classic">Santap pemain yang lebih kecil dan jadilah gumpalan terbesar di alam semesta! Manfaatkan ukuran untuk mendominasi peta, tapi waspadai pemain yang lebih besar!</string>
-    <string name="description_teams">Bergabunglah dengan warna tim yang sama! Bekerja samalah menjebak musuh dan dominasi papan peringkat. Anggota satu tim tidak bisa saling memakan.</string>
-    <string name="description_survival">Satu nyawa, satu ronde! Kumpulkan massa sebanyak mungkin sebelum masa tenggang berakhir, setelah itu kematian bersifat permanen! Jadilah yang terakhir bertahan atau terbesar saat waktu habis untuk menang!</string>
-    <string name="description_team_survival">Mode survival beregu! Kerja samalah dengan rekan setim untuk menyingkirkan tim lain. Tim terakhir yang bertahan atau yang memiliki total ukuran terbesar saat waktu habis akan menang!</string>
-    <string name="description_knockout">Bertanding dalam babak eliminasi! Pemain bisa respawn bebas hingga tereliminasi pada interval waktu tertentu. Pemain terkecil di setiap interval akan tereliminasi permanen. Jadilah yang terakhir bertahan untuk menang!</string>
-    <string name="description_adventure">Selesaikan tahap menantang dengan tujuan unik! Hadapi tingkat kesulitan yang meningkat, raih hadiah, dan lihat seberapa jauh Anda bisa melangkah.</string>
+    <string name="description_trick_god">Mode klasik dengan batas waktu, di mana gaya menghasilkan poin! Lakukan trik pada gumpalan lain untuk mendapatkan poin, lalu rangkai trik secara cepat untuk menaikkan pengali kombo Anda. Trick Split: split, makan potongan dari gumpalan yang ter-split menjadi 6+ potongan, lalu makan potongan dari gumpalan lain dalam 0,7 detik (semuanya dalam rentang sedetik sejak Anda melakukan split diri). Anda maupun gumpalan yang Anda makan pertama kali, keduanya memberi poin. Pop Split: berikan potongan split diri kepada gumpalan dekat lubang agar gumpalan itu meledak, lalu makan salah satu potongannya. Ice Split: bekukan potongan split diri Anda saat melayang, sehingga gumpalan yang mencoba memakannya akan meledak. Trik pada bot bernilai seperlima. Poin tetap tersimpan meskipun Anda dimakan, dan pemain dengan poin terbanyak saat waktu habis keluar sebagai pemenang!</string>
+    <string name="description_classic">Santaplah pemain yang lebih kecil dan jadilah gumpalan terbesar di alam semesta! Manfaatkan ukuran untuk mendominasi peta, tetapi waspadalah terhadap pemain lebih besar yang ingin memangsa Anda!</string>
+    <string name="description_teams">Bergabunglah dengan warna tim yang sama! Bekerja samalah untuk menjebak musuh dan dominasilah papan peringkat. Anggota tim tidak bisa saling memakan.</string>
+    <string name="description_survival">Satu nyawa, satu ronde! Kumpulkan massa sebanyak mungkin sebelum masa tenggang berakhir; setelah itu, kematian bersifat permanen! Jadilah pemain terakhir bertahan atau terbesar saat waktu habis untuk menang!</string>
+    <string name="description_team_survival">Mode bertahan hidup beregu! Bekerja samalah dengan anggota tim Anda untuk menyingkirkan tim lain. Tim terakhir yang bertahan atau yang memiliki total ukuran terbesar saat waktu habis akan menang!</string>
+    <string name="description_knockout">Bertandinglah dalam babak eliminasi! Pemain dapat respawn dengan bebas hingga tereliminasi pada jarak waktu tertentu. Pemain terkecil pada setiap jarak waktu akan tereliminasi secara permanen. Jadilah pemain terakhir bertahan untuk menang!</string>
+    <string name="description_adventure">Selesaikan tahap menantang dengan tujuan yang unik! Hadapi tingkat kesulitan yang terus meningkat, raih hadiah, dan lihat seberapa jauh Anda bisa melangkah. Setiap tahap menghadirkan tantangan baru!</string>
     <string name="description_soccer">Ambil bola dan tembakkan ke gawang lawan untuk mencetak skor. Tim dengan gol terbanyak saat waktu habis menang!</string>
     <string name="description_coming_soon">Mode ini akan segera hadir, pantau terus!</string>
-    <string name="description_competitive">Survival 1v1 berperingkat! Dapatkan rating dengan mengalahkan lawan setara. Pertandingan berlangsung selama 3 menit + 2 menit perpanjangan waktu jika tidak ada yang gugur. Menanglah untuk naik rank global!</string>
-    <string name="description_multimerg">Anda memunculkan DUA gumpalan dan berganti kendali menggunakan tombol yin-yang! Hanya gumpalan aktif yang merespons joystick, split, dan shoot. Gumpalan lain bergerak ke arah terakhirnya. Keduanya bisa saling makan saat split, tapi pecahan terakhir terlindungi.</string>
+    <string name="description_competitive">Bertahan hidup 1v1 berperingkat! Dapatkan penilaian dengan mengalahkan lawan setara. Pertandingan berlangsung selama 3 menit, ditambah 2 menit perpanjangan waktu jika tidak ada yang gugur. Menanglah untuk naik di papan peringkat global atau kalah dan turun peringkat; besarnya perubahan penilaian bergantung pada selisih kemampuan antara Anda dan lawan Anda.</string>
+    <string name="description_multimerg">Anda memunculkan DUA gumpalan dan berganti kendali menggunakan tombol yin-yang! Hanya gumpalan aktif yang merespons joystick, split, dan shoot. Gumpalan lainnya terus bergerak ke arah terakhirnya. Keduanya bisa saling makan saat split, tetapi potongan terakhirnya terlindungi.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Mungil</string>
@@ -809,14 +809,14 @@
     <string name="adventure_stage">Tahap</string>
     <string name="adventure_initializing">Menginisialisasi…</string>
     <string name="adventure_obj_eat_all_bots">Makan Semua Bot</string>
-    <string name="adventure_obj_survive">Bertahan Hidup</string>
+    <string name="adventure_obj_survive">Bertahan</string>
     <string name="adventure_obj_high_speed">Kecepatan Tinggi!</string>
     <string name="adventure_obj_more_holes">Lebih Banyak Lubang!</string>
     <string name="adventure_obj_collect_food">Kumpulkan %d Makanan</string>
     <string name="adventure_obj_invisible_bots">Bot Tak Terlihat!</string>
     <string name="adventure_obj_growing_bots">Bot Bertumbuh!</string>
     <string name="adventure_obj_reach_size">Capai Ukuran %d</string>
-    <string name="adventure_obj_finish_first">Finis Peringkat 1</string>
+    <string name="adventure_obj_finish_first">Finis di Posisi 1</string>
     <string name="adventure_obj_collect_voidstones">Kumpulkan %d Voidstone</string>
     <string name="adventure_obj_eat_count_bots">Makan %d Bot</string>
     <string name="adventure_obj_boss_fight">Pertarungan Bos</string>
@@ -831,7 +831,7 @@
     <string name="timer_overtime_count">Waktu Tambahan %d</string>
     <string name="timer_grace">Tenggang</string>
     <string name="timer_tiebreaker">Tiebreaker</string>
-    <string name="timer_sudden_death">SUDDEN DEATH</string>
+    <string name="timer_sudden_death">KEMATIAN MENDADAK</string>
     <string name="trick_split_title">TRICK SPLIT!</string>
     <string name="trick_pop_split_title">POP SPLIT!</string>
     <string name="trick_ice_split_title">ICE SPLIT!</string>
@@ -856,7 +856,7 @@
     <string name="select_yinyang">Pilih Tombol Ganti</string>
     <string name="yinyang">Ganti</string>
     <string name="buttons_customize">Sesuaikan Tombol</string>
-    <string name="buttons_orientation_message">Portrait and Landscape customizations are saved separately</string>
+    <string name="buttons_orientation_message">Penyesuaian untuk mode Potret dan Lanskap disimpan secara terpisah</string>
 
 
     <!-- Skins !-->
@@ -870,7 +870,7 @@
     <string name="skin_tab_voidstones">Voidstone</string>
     <string name="flags">Bendera</string>
     <string name="skin_tab_particles">Partikel</string>
-    <string name="level_skin_locked_dialog">Anda harus mencapai level %1$d untuk membuka skin ini. Level Anda saat ini %2$d.</string>
+    <string name="level_skin_locked_dialog">Anda harus mencapai level %1$d untuk membuka skin ini. Level Anda saat ini adalah %2$d.</string>
     <string name="skin_tab_achievement">Pencapaian</string>
     <string name="achievement_skin_locked_dialog">Anda membutuhkan %1$d Poin Pencapaian (AP) untuk membuka skin ini. AP Anda saat ini %2$d.</string>
     <string name="dismiss">Tutup</string>
