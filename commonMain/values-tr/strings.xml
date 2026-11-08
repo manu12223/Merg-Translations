@@ -979,7 +979,7 @@
     <string name="level">Seviye</string>
     <string name="level_number">Seviye %d</string>
     <string name="food">Yem</string>
-    <string name="voidstones">Boşluk Taşları</string>
+    <string name="voidstones">Voidstone</string>
     <string name="xp_per_hour">XP/saat</string>
     <string name="voidstones_per_hour">Boşluk Taşları/saat</string>
     <string name="items">Eşyalar</string>
@@ -1143,7 +1143,7 @@
     <string name="custom_media_title_skin">Temayı Seçin</string>
     <string name="custom_media_title_banner">Banner Seçin</string>
     <string name="custom_media_title_clan_avatar">Klan Avatarı</string>
-    <string name="custom_media_title_clan_banner">Klan Sancağı</string>
+    <string name="custom_media_title_clan_banner">Klan afişi</string>
     <string name="custom_media_in_review">İncelemede</string>
     <string name="custom_media_approved">Onaylandı</string>
     <string name="custom_media_rejected">Reddedildi</string>
