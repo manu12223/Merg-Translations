@@ -109,7 +109,7 @@
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
     <string name="verbose_in_game_ui">ゲーム内UIの詳細表示</string>
-    <string name="announce_tricks">Announce Tricks</string>
+    <string name="announce_tricks">トリックの通知</string>
     <string name="jitter_buffer">ジッターバッファー</string>
     <string name="extrapolation">外挿</string>
     <string name="no_interpolation">補間なし</string>
@@ -198,7 +198,7 @@
     <string name="competitive_menu">ランクバトル</string>
     <string name="competitive_history">ランクバトルの履歴</string>
     <string name="rating_label">ランキング</string>
-    <string name="glicko_label">Glicko</string>
+    <string name="glicko_label">グリッコ</string>
     <string name="unrated">ランクなし</string>
     <string name="find_opponent">対戦相手を探す</string>
     <string name="leave_matchmaking">マッチメイキングを終了</string>
@@ -214,10 +214,10 @@
     <string name="stat_draws_label"> · 引分回数: </string>
     <string name="stat_losses_label"> · 敗戦回数: </string>
     <string name="stat_winrate_label"> · 勝率: </string>
-    <string name="competitive_stat_wins">Wins</string>
-    <string name="competitive_stat_draws">Draws</string>
-    <string name="competitive_stat_losses">Losses</string>
-    <string name="competitive_stat_win_rate">Win rate</string>
+    <string name="competitive_stat_wins">勝利回数</string>
+    <string name="competitive_stat_draws">引分回数</string>
+    <string name="competitive_stat_losses">敗戦回数</string>
+    <string name="competitive_stat_win_rate">勝率</string>
     <string name="match_starts_in">マッチの開始…</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">進行中マッチ</string>
@@ -252,10 +252,10 @@
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">なし</string>
     <string name="booster_ad_xp_title">広告経験値倍率</string>
-    <string name="booster_ad_xp_desc">広告を視聴して一時的なブーストをゲットしよう！</string>
+    <string name="booster_ad_xp_desc">広告を視聴して一時的な経験値ブーストをゲットしよう！</string>
     <string name="booster_stacks_base_xp">基本経験値と重複</string>
-    <string name="booster_ad_voidstone_title">Ad Voidstone Multiplier</string>
-    <string name="booster_ad_voidstone_desc">Watch a video for a temporary Voidstone multiplier!</string>
+    <string name="booster_ad_voidstone_title">広告ボイドストーン倍率</string>
+    <string name="booster_ad_voidstone_desc">広告を視聴して一時的なボイドストーンブーストをゲットしよう！</string>
     <string name="booster_watch_ad">広告視聴</string>
     <string name="booster_choose_boost">経験値ブーストの選択</string>
     <string name="booster_active">有効</string>
@@ -428,8 +428,8 @@
     <string name="login">ログイン</string>
     <string name="login_google">Google でサインイン</string>
     <string name="login_apple">Apple でサインイン</string>
-    <string name="link_google">Googleのログインを連携</string>
-    <string name="link_apple">Appleのログインを連携</string>
+    <string name="link_google">Google のログインを連携</string>
+    <string name="link_apple">Apple のログインを連携</string>
     <string name="link_success">ログイン方法を連携しました！</string>
     <string name="link_already_linked">このログイン方法はすでにアカウントに連携されています。</string>
     <string name="link_identity_taken">このアカウントはすでに別のMergアカウントに連携されています。アカウントにサインインしてください。</string>
@@ -589,7 +589,7 @@
     <string name="clan_join_mode_request">申請のみ</string>
     <string name="clan_join_mode_private">プライベート</string>
     <string name="clan_join_mode_abandoned">離脱</string>
-    <string name="clan_status_full">Full</string>
+    <string name="clan_status_full">満員</string>
     <string name="clan_pending_requests">保留中加入申請</string>
     <string name="clan_role_owner">オーナー</string>
     <string name="clan_role_co_owner">共同オーナー</string>
@@ -623,7 +623,7 @@
     <string name="clan_player_invite_list_full">このユーザーの保留中招待はすでに上限に達しています。</string>
     <string name="clan_request_list_full">このクランの加入申請リストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーンを寄付</string>
-    <string name="clan_donate_hint">100 – 1,000,000</string>
+    <string name="clan_donate_hint">100枚〜1,000,000枚</string>
     <string name="clan_donate_sent">寄付が完了しました！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
     <string name="clan_already_requested">すでに別のクランとの保留中加入申請があります。</string>
@@ -725,7 +725,7 @@
     <string name="stat_stages_cleared">クリアしたステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
     <string name="stat_adventures_completed">クリアしたアドベンチャー数:</string>
-    <string name="stat_bonus_longest_survival">Bonus Stage Record:</string>
+    <string name="stat_bonus_longest_survival">ボーナスステージで生き残った最長時間：</string>
     <string name="stat_goals_scored">ゴール回数:</string>
     <string name="stat_collisions">衝突数:</string>
     <string name="stat_boosts">ブースト回数:</string>
@@ -1028,7 +1028,7 @@
     <string name="dialog_previous">前へ</string>
     <string name="dialog_next">次へ</string>
     <string name="dialog_update">更新</string>
-    <string name="whats_new_title">What's new in Merg %1$s</string>
+    <string name="whats_new_title">Merg %1$s の新機能</string>
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
@@ -1473,16 +1473,16 @@
     <string name="ach_title_trick_god">Trick GOD</string>
     <string name="ach_desc_tricks">トリックを%1$sつ得点する。</string>
     <string name="ach_title_trick_split">Trick Split %1$s</string>
-    <string name="ach_desc_trick_splits">TRICKスプリットを%1$sつ得点する。</string>
+    <string name="ach_desc_trick_splits">TRICK SPLITを%1$sつ得点する。</string>
     <string name="ach_title_pop_split">Pop Split %1$s</string>
-    <string name="ach_desc_pop_splits">Perform %1$s Pop Splits.</string>
+    <string name="ach_desc_pop_splits">POP SPLITを%1$sつ得点する。</string>
     <string name="ach_title_ice_split">ICEスプリットを%1$sつ得点する。</string>
-    <string name="ach_desc_ice_splits">Perform %1$s Ice Splits.</string>
-    <string name="ach_title_combo_newbie">Combo Newbie</string>
-    <string name="ach_title_combo_apprentice">Combo Apprentice</string>
-    <string name="ach_title_combo_pro">Combo Pro</string>
-    <string name="ach_title_combo_master">Combo Master</string>
-    <string name="ach_title_combo_god">Combo God</string>
+    <string name="ach_desc_ice_splits">ICE SPLITを%1$sつ得点する。</string>
+    <string name="ach_title_combo_newbie">コンボ初心者</string>
+    <string name="ach_title_combo_apprentice">コンボ見習い</string>
+    <string name="ach_title_combo_pro">コンボ上手</string>
+    <string name="ach_title_combo_master">コンボマスター</string>
+    <string name="ach_title_combo_god">コンボ神</string>
     <string name="ach_desc_trick_combo">【トリックゴッド】コンボを%1$sに上達する。</string>
     <string name="ach_title_kotlin_programming">Kotlinプログラミング</string>
     <string name="ach_title_machine_learning">マシーンラーニング</string>
@@ -1491,7 +1491,7 @@
     <string name="ach_title_software_engineering">ソフトウェアエンジニアリング</string>
     <string name="ach_desc_stage15_bot">Clear Adventure Stage 15 on any difficulty while still alive, after the bot %1$s has spawned.</string>
     <string name="ach_title_speedrunner">スピードラナー %1$s</string>
-    <string name="ach_desc_speedrunner">Clear any Adventure stage in less than %1$s seconds.</string>
+    <string name="ach_desc_speedrunner">【アドベンチャー】任意のステージを%1$s秒以内でクリアする。</string>
     <string name="ach_title_flawless_wanderer">Flawless Wanderer</string>
     <string name="ach_title_flawless_explorer">Flawless Explorer</string>
     <string name="ach_title_flawless_adventurer">Flawless Adventurer</string>
