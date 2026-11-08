@@ -647,7 +647,7 @@
     <string name="clan_discover">クランを探す</string>
     <string name="clan_promote_to_owner">オーナーシップを移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップの移転</string>
-    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？役職が共同オーナーに更新されます。これは元に戻せません。\n\nユーザーIDを入力して確認してください：</string>
+    <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？新しい役職は共同オーナーになります。これは元に戻せません。\n\nユーザーIDを入力して確認してください：</string>
     <string name="clan_transfer_ownership_id_mismatch">無効なIDです。</string>
     <string name="clan_customize_name_color">クラン名カラー</string>
     <string name="clan_customize_tag_color">クランタグカラー</string>
