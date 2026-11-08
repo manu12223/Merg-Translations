@@ -935,7 +935,7 @@
     <string name="chat_bubbles_above_blobs">ブロブの上に吹き出しを表示</string>
     <string name="chat_bubbles_above_blobs_desc">吹き出しを数秒間送り主のブロブの上に表示します。</string>
     <string name="chat_no_hud">HUDをチャットを開いて非表示</string>
-    <string name="chat_no_hud_desc">While the chat is open, hides the rest of the game screen: the menu, the buttons at the top and bottom, your player info, and the leaderboard / minimap. Only your game buttons (split, shoot, …) stay while you are playing.</string>
+    <string name="chat_no_hud_desc">チャット中は、ゲーム画面のその他の情報（ゲームメニュー、画面上部と下部のボタン、プレイヤー情報、リーダーボード、ミニマップ）が非表示になり、ゲームボタン（スプリット、イジェクトなど）のみ表示されます。</string>
 
     <!-- Notification box !-->
     <string name="level_up">レベルアップ！ %d</string>
@@ -971,7 +971,7 @@
     <string name="decay">サイズ減少：%.2f/s</string>
     <string name="decay_multiplied">サイズ減少：%1$.2f/s (×%2$s)</string>
     <string name="pieces">スプリット：%1d/%2d</string>
-    <string name="culling">:カリング：%1$s%%</string>
+    <string name="culling">カリング：%1$s%%</string>
     <string name="merge">マージまで：%ss</string>
     <string name="throw_item_button">アイテムを投げる</string>
     <string name="select_throw_item">アイテムを投げるのボタンを選択</string>
@@ -1338,7 +1338,7 @@
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
     <string name="desc_empty">デバッグ用です。ドットとボイドストーンはスポーンしなくなります。</string>
     <string name="desc_room_hidden">ルームはカスタムルームリストに表示しなくなります。他のプレイヤーがルームに参加するには、ルーム名の入力が必要です。</string>
-    <string name="scored">得点！</string>
+    <string name="scored">さんが決めた！</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
     <string name="disconnect_reason_network">たいていはインターネット接続（Wi-FiかモバイルデータかVPN）に関する問題です。</string>
     <string name="reconnect_attempt_succeeded">再接続の試行 #%1$d：OK</string>
@@ -1574,7 +1574,7 @@
     <string name="clan_skin_locked_dialog">このスキンはティア %1$s 達成後にアンロックされます。現在のクランはティア %2$s にいます。</string>
     <string name="clan_skin_locked_no_clan">このスキンはティア %1$s 達成後にアンロックされます。現在はクランにいません。</string>
     <string name="log_upload_sent">ログをデベロッパーへ送信しました。</string>
-    <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
-    <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
+    <string name="log_upload_rate_limited">アップロードログが多すぎるため、代わりにファイルをエキスポートしています</string>
+    <string name="log_upload_failed">ログをアップロードできなかったため、代わりにファイルをエキスポートしています</string>
     <string name="log_export_failed">ログをエキスポートできませんでした：%1$s</string>
 </resources>
