@@ -820,13 +820,13 @@
     <string name="adventure_obj_collect_voidstones">ボイドストーンを%d個集めよう</string>
     <string name="adventure_obj_eat_count_bots">ボットを%dつ食べよう</string>
     <string name="adventure_obj_boss_fight">ボスファイト</string>
-    <string name="adventure_obj_bonus">Survive as long as you can!</string>
-    <string name="adventure_bonus_stage">Bonus Stage</string>
-    <string name="bonus_stage_survived">Survived %s</string>
+    <string name="adventure_obj_bonus">できるだけ長く生き残れ！</string>
+    <string name="adventure_bonus_stage">ボーナスステージ</string>
+    <string name="bonus_stage_survived">生き残った時間 %s</string>
 
     <!-- Timer text !-->
     <string name="timer_time">残り時間</string>
-    <string name="timer_bonus">Bonus</string>
+    <string name="timer_bonus">ボーナス</string>
     <string name="timer_overtime">延長戦時間</string>
     <string name="timer_overtime_count">延長戦時間 %d</string>
     <string name="timer_grace">リスポーン可能時間</string>
@@ -905,8 +905,8 @@
     <string name="replying_to">「%s」さんにリプライ中</string>
     <string name="chat_reply_hint">リプライを書く…</string>
     <string name="chat_clear_input">消去</string>
-    <string name="chat_not_connected">Not connected to the server. Your message was not sent.</string>
-    <string name="chat_not_delivered">Your message didn't go through. It is back in the chat box.</string>
+    <string name="chat_not_connected">サーバーには接続していません。メッセージが送られませんでした。</string>
+    <string name="chat_not_delivered">メッセージが送られませんでした。チャットの入力欄に戻されました。</string>
     <string name="chat_settings_title">チャット設定</string>
     <string name="chat_settings_colors">色</string>
     <string name="chat_settings_texts">テキスト</string>
@@ -914,7 +914,7 @@
     <string name="chat_bg_opacity">チャット背景の不透明度</string>
     <string name="chat_bg_opacity_desc">チャットウィンドウの不透明度設定です。値が低いほど、その背後のゲームがより多く表示されます。</string>
     <string name="chat_contrast">コントラスト</string>
-    <string name="chat_contrast_desc">How solid the message area is, which sets how much it stands out from the rest of the chat window.</string>
+    <string name="chat_contrast_desc">メッセージ領域の不透明度設定です。チャットウィンドウの他の部分に対してメッセージ領域がどれだけ目立つかを決定します。</string>
     <string name="chat_highlight">リプライとメンションのハイライト</string>
     <string name="chat_highlight_desc">メンション（@の後にIDか名前）や、自分のメッセージへのリプライがハイライト表示されます。</string>
     <string name="chat_highlight_opacity">不透明度のハイライト</string>
@@ -932,8 +932,8 @@
     <string name="chat_text_size_desc">チャットメッセージのテキストサイズの設定です。</string>
     <string name="chat_expanded">チャットウィンドウの拡大</string>
     <string name="chat_expanded_desc">チャットウィンドウの高さを広げて、より多くのメッセージを表示できるようにします。矢印ボタンもこの設定を切り替えられます。</string>
-    <string name="chat_bubbles_above_blobs">Chat Bubbles Above Blobs</string>
-    <string name="chat_bubbles_above_blobs_desc">Room messages also appear for a few seconds in a bubble above the sender's biggest blob.</string>
+    <string name="chat_bubbles_above_blobs">ブロブの上に吹き出しを表示</string>
+    <string name="chat_bubbles_above_blobs_desc">吹き出しを数秒間送り主のブロブの上に表示します。</string>
     <string name="chat_no_hud">HUDをチャットを開いて非表示</string>
     <string name="chat_no_hud_desc">While the chat is open, hides the rest of the game screen: the menu, the buttons at the top and bottom, your player info, and the leaderboard / minimap. Only your game buttons (split, shoot, …) stay while you are playing.</string>
 
@@ -969,9 +969,9 @@
     <string name="effective_size">表示サイズ：%d</string>
     <string name="effective_size_decimal">表示サイズ：%s</string>
     <string name="decay">サイズ減少：%.2f/s</string>
-    <string name="decay_multiplied">Decay: %1$.2f/s (×%2$s)</string>
+    <string name="decay_multiplied">サイズ減少：%1$.2f/s (×%2$s)</string>
     <string name="pieces">スプリット：%1d/%2d</string>
-    <string name="culling">Culling: %1$s%%</string>
+    <string name="culling">:カリング：%1$s%%</string>
     <string name="merge">マージまで：%ss</string>
     <string name="throw_item_button">アイテムを投げる</string>
     <string name="select_throw_item">アイテムを投げるのボタンを選択</string>
@@ -980,8 +980,8 @@
     <string name="level_number">レベル：%d</string>
     <string name="food">ドット数</string>
     <string name="voidstones">収集したボイドストーンの数</string>
-    <string name="xp_per_hour">XP/hour</string>
-    <string name="voidstones_per_hour">Voidstones/hour</string>
+    <string name="xp_per_hour">時間あたりの経験値</string>
+    <string name="voidstones_per_hour">時間あたりのボイドストーン</string>
     <string name="items">アイテム</string>
     <string name="blobs_eaten">食べたブロブの数</string>
     <string name="session_stat_size_gained">獲得サイズ量</string>
@@ -1007,7 +1007,7 @@
     <string name="banned_from_room">バンされました！</string>
     <string name="enter_room_name">ルーム名を入力</string>
     <string name="room_not_found">ルームは見つかりませんでした</string>
-    <string name="room_outdated_client">Outdated Client!</string>
+    <string name="room_outdated_client">クライアントの更新が必要です！</string>
     <string name="already_in_room">すでにルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
@@ -1227,8 +1227,8 @@
     <string name="status_picker_label">ステータス</string>
     <string name="name">名前</string>
     <string name="owner">オーナー</string>
-    <string name="kick">キック</string>
-    <string name="ban">バン</string>
+    <string name="kick">KICK</string>
+    <string name="ban">BAN</string>
     <string name="signal">シグナル</string>
     <string name="home">ホーム</string>
     <string name="settings">設定</string>
@@ -1558,7 +1558,7 @@
     <string name="clan_tier_upgrade">ティア %1$s にアップグレード</string>
     <string name="clan_tier_upgrade_confirm">クランをティア %2$s に%1$s枚のボイドストーンでアップグレードしますか？</string>
     <string name="clan_tier_max">最高のティアに上達しました！</string>
-    <string name="clan_tier_roles_only">Only the Owner, Co-Owners and Admins can upgrade the Clan Tier.オーナーと共同オーナーとアドミンのみがクランティアをアップグレードできます。</string>
+    <string name="clan_tier_roles_only">オーナーと共同オーナーとアドミンのみがクランティアをアップグレードできます。</string>
     <string name="clan_tier_clan_xp">クラン経験値</string>
     <string name="clan_tier_clan_voidstones">クランボイドストーン</string>
     <string name="clan_tier_perks">特典</string>
@@ -1573,8 +1573,8 @@
     <string name="clan_tier_requirement">必要ティア： %1$s と %2$s</string>
     <string name="clan_skin_locked_dialog">このスキンはティア %1$s 達成後にアンロックされます。現在のクランはティア %2$s にいます。</string>
     <string name="clan_skin_locked_no_clan">このスキンはティア %1$s 達成後にアンロックされます。現在はクランにいません。</string>
-    <string name="log_upload_sent">Log sent to the developers</string>
+    <string name="log_upload_sent">ログをデベロッパーへ送信しました。</string>
     <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
     <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
-    <string name="log_export_failed">Log export failed: %1$s</string>
+    <string name="log_export_failed">ログをエキスポートできませんでした：%1$s</string>
 </resources>
