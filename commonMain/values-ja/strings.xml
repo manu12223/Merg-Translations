@@ -725,7 +725,7 @@
     <string name="stat_stages_cleared">クリアしたステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
     <string name="stat_adventures_completed">クリアしたアドベンチャー数:</string>
-    <string name="stat_bonus_longest_survival">ボーナスステージで生き残った最長時間：</string>
+    <string name="stat_bonus_longest_survival">ボーナスステージで最長生き残った時間：</string>
     <string name="stat_goals_scored">ゴール回数:</string>
     <string name="stat_collisions">衝突数:</string>
     <string name="stat_boosts">ブースト回数:</string>
@@ -1543,7 +1543,7 @@
     <string name="notifications_daily_reward_reminders">デイリーリワードの通知</string>
     <string name="notifications_send_test_reminder">テスティング中の通知を送信</string>
     <string name="daily_reminder_push_title">現在の%1$d日連続はまもなく失われてしまいます！</string>
-    <string name="daily_reminder_push_body">You haven't claimed today's Daily Reward yet. Play once before the day ends to avoid losing your streak and all its rewards!</string>
+    <string name="daily_reminder_push_body">今日は注目を待っているデイリーaリワードがあります！日が終わる前に、連続を途切れさせず、リワードを逃さないために、1回プレイしましょう！</string>
     <string name="clan_promote">昇格</string>
     <string name="clan_demote">降格</string>
     <string name="clan_stats">クラン統計</string>
