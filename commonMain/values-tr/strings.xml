@@ -1328,7 +1328,7 @@
     <string name="recommended">önerilen</string>
     <string name="support_response_time">Şu sürede yanıtlandı:</string>
     <string name="support_mail">Posta</string>
-    <string name="support_discord_channel">Bilet desteği</string>
+    <string name="support_discord_channel">Discord desteği</string>
     <string name="additional_settings">EK AYARLAR</string>
     <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
     <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
