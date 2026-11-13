@@ -18,6 +18,7 @@
     <string name="skins">スキン：</string>
     <string name="graphics_icons">グラフィックとアイコン：</string>
     <string name="sound_effects_credit">サウンドエフェクト：</string>
+    <string name="suggestions_ideas">Suggestions/Ideas:</string>
     <string name="translations">翻訳：</string>
     <string name="fonts">フォント：</string>
 
@@ -219,6 +220,8 @@
     <string name="competitive_stat_losses">Losses</string>
     <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">マッチの開始…</string>
+    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">進行中マッチ</string>
     <string name="match_status_starting">開始中</string>
@@ -302,12 +305,12 @@
     <string name="booster_autoshoot_bought">オートイジェクトのアップグレード</string>
     <string name="booster_spawn_size_bought">スポーンサイズのアップグレード</string>
     <string name="booster_level_short">Lv %1$d</string>
-    <string name="profile_name_change_bought">名前変更の購入</string>
-    <string name="profile_name_color_bought">ネームカラーの購入</string>
+    <string name="profile_name_change_bought">Name change</string>
+    <string name="profile_name_color_bought">Name color unlock</string>
     <string name="profile_color_bought">プロフィール背景カラーの購入</string>
     <string name="profile_color_gradient_bought">プロフィール背景グラデーションの購入</string>
     <string name="profile_color_gradient_2_bought">プロフィール背景3色のグラデーションの購入</string>
-    <string name="profile_name_font_bought">ネームフォントのアンロック</string>
+    <string name="profile_name_font_bought">Name font unlock</string>
     <string name="admin_deduction">アドミン控除</string>
     <string name="giveaway">プレゼントリワード</string>
     <string name="admin_reward_sent">アドミンリワードの送付</string>
@@ -460,8 +463,8 @@
     <string name="statistics">統計</string>
     <string name="achievements">実績</string>
     <string name="delete_account">アカウント削除</string>
-    <string name="change_profile_name">名前変更</string>
-    <string name="enter_profile_name">名前を入力</string>
+    <string name="change_profile_name">Change Name</string>
+    <string name="enter_profile_name">Enter Name</string>
     <string name="profile_color">プロフィール背景カラー</string>
     <string name="profile_text_color_white">ホワイトテキスト</string>
     <string name="profile_text_color_black">ブラックテキスト</string>
@@ -472,7 +475,7 @@
     <string name="prerequisite_not_met">『%s』をアンロックしてください</string>
     <string name="profile_not_viewed">このプロフィールを表示していいねしてください</string>
     <string name="prerequisite_feature">必要機能</string>
-    <string name="profile_name_color">ネームカラー</string>
+    <string name="profile_name_color">NAME COLOR</string>
     <string name="profile_not_logged_in_error">サインインしてください</string>
     <string name="profile_name_changed_success">名前を「%s」に変更しました</string>
     <string name="profile_name_change_failed">名前が変更できませんでした</string>
@@ -506,7 +509,7 @@
     <string name="unlock_name_fonts_already_unlocked">『ネームフォント』はすでにアンロックされています</string>
     <string name="name_font_save_success">フォントを保存しました！</string>
     <string name="name_fonts_not_unlocked">『ネームフォント』はアンロックされていません</string>
-    <string name="profile_name_font">ネームフォント</string>
+    <string name="profile_name_font">Name Font</string>
     <string name="name_change_success">名前を「%s」に変更しました</string>
     <string name="name_change_invalid_length">名前が長すぎます</string>
     <string name="name_change_taken">名前はすでに使用されています</string>
@@ -538,6 +541,9 @@
     <string name="alpha_tester">アルファテスター</string>
     <string name="beta_tester">ベータテスター</string>
     <string name="discord_staff">Discordサーバーでのスタッフメンバー</string>
+    <string name="bug_scout">Bug Scout</string>
+    <string name="bug_hunter">Bug Hunter</string>
+    <string name="bug_master">Bug Master</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">ボイドストーンを贈る</string>
@@ -763,6 +769,15 @@
     <string name="mail_title_too_long">タイトルが長すぎます</string>
     <string name="mail_content_too_long">テキストが長すぎます</string>
     <string name="mail_sent_success">送信が完了しました！</string>
+    <string name="mail_new_from">New Mail from %1$s</string>
+    <string name="mail_no_title">(no title)</string>
+    <string name="clan_mail">Clan Mail</string>
+    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
+    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
+    <string name="clan_mail_recipients">%1$d members</string>
+    <string name="clan_mail_no_members">No other members to mail</string>
+    <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
+    <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
     <string name="mark_unread">未読にする</string>
     <string name="copy_verification_code">確認コードをコピー</string>
     <string name="code_copied">コードをクリップボードへコピーしました</string>
@@ -779,19 +794,18 @@
     <string name="gamemode_competitive">バトル</string>
     <string name="gamemode_multimerg">マルチマーグ</string>
     <string name="gamemode_domination">ドミネーション</string>
-    <string name="description_domination">クラシックな制限時間ありのゲーム。サイズは1位を保っている間のみカウントされる！マップ上で最大のブロブとして1秒過ごすごとに、スコアに1秒が追加される。1位だった間に獲得した秒数が差し引かれない。最も長く1位を保ったプレイヤーの勝ち！</string>
+    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
     <string name="gamemode_trick_god">トリックゴッド</string>
-    <string name="description_trick_god">クラシックな制限時間ありのゲームで、スキルで得点せよ！相手にトリックを決めて、短時間でたくさんのボットを食ってコンボ倍率を上げろ！TRICK SPLIT：スプリットしてから1秒以内に、6つ以上に分かれている相手のブロブを食い、さらに0.7秒以内に別の相手のブロブを1つ食う。最初の2人のプレイヤーが得点する。POP SPLIT：ホールに近づく相手にスプリットして爆発する。爆発のあと、ブロブを食う。ICE SPLIT：スプリットしたブロブにアイスを決めて相手を弾ける。ボットにトリックは5分の1の得点に値する。現在のスコアは食われたとしても維持される。トリックの得点が最も高いプレイヤーの勝ち！</string>
-    <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになれ！サイズを使ってマップを制せよ。自分より大きなブロブに気をつけろ！</string>
-    <string name="description_teams">同じカラーのプレイヤーに入れ！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにせよ！チームメイトは同じチームのプレイヤーを食べられない。</string>
-    <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
-    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利！</string>
-    <string name="description_knockout">ノックアウトラウンドで競い合え！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝て！</string>
-    <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露せよ！各ステージで難易度が上がる！</string>
-    <string name="description_soccer">相手のゴールにシュートを決めろ！タイムアップ時に得点多いチームの勝ち！</string>
-    <string name="description_coming_soon">このゲームモードは近日公開予定です。続報を待ちましょう！</string>
+    <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
+    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
+    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
+    <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
+    <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
+    <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
+    <string name="description_adventure">Beat stages with unique objectives across rising difficulties, earn rewards and see how far you can go!</string>
+    <string name="description_soccer">Shoot the ball into the enemy goal. The team with the most goals when time runs out wins!</string>
     <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入れ！2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
-    <string name="description_multimerg">2つのブロブを生成し、陰陽ボタンで操作を切り替えよう！ジョイスティック、分裂、射出に反応するのは操作中のブロブだけ。もう片方のブロブは、直前の方向へ進み続ける。分裂時にお互いを食べ合うこともできるが、最後の1匹は守られる（吸収されない）ので安心。</string>
+    <string name="description_multimerg">Control two blobs and swap between them with the yin-yang button. Your split pieces can eat each other, but your last piece is safe.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">最小</string>
@@ -807,6 +821,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">ステージ</string>
+    <string name="adventure_difficulty_easy">Easy</string>
+    <string name="adventure_difficulty_medium">Medium</string>
+    <string name="adventure_difficulty_hard">Hard</string>
+    <string name="adventure_difficulty_very_hard">Very Hard</string>
+    <string name="adventure_difficulty_insane">Insane</string>
+    <string name="adventure_difficulty_extreme">Extreme</string>
     <string name="adventure_initializing">初期化中…</string>
     <string name="adventure_obj_eat_all_bots">ボットをすべて食べよう</string>
     <string name="adventure_obj_survive">生き残ろう</string>
@@ -892,6 +912,7 @@
     <string name="clan_sys_achievement">「%1$s」さんが実績『%2$s』を解除しました</string>
     <string name="clan_sys_donated">「%1$s」さんがクランへボイドストーンを%2$s枚寄付しました！</string>
     <string name="clan_sys_tier">「%1$s」さんがティア %2$s に到達しました！</string>
+    <string name="clan_sys_mail">%1$s sent a Clan Mail</string>
     <string name="chat_message_hint">メッセージを書く…</string>
     <string name="chat_send_message">メッセージを送る</string>
     <string name="copy_name">名前をコピー</string>
@@ -1188,7 +1209,6 @@
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">インターネットに接続されていません。ネットワーク設定をチェックしてください。</string>
     <string name="server_not_running">サーバーが稼働していません</string>
-    <string name="name_change_reconnect_notice">ゲーム内新しい名前が他のプレイヤーに表示されるためには、サーバーに再接続する必要があります。</string>
     <string name="play">プレイ</string>
     <string name="play_one_blob">プレイ（ブロブ 1つ）</string>
     <string name="id">ID:</string>
@@ -1220,12 +1240,14 @@
     <string name="done">完了</string>
     <string name="info">情報</string>
     <string name="empty">空</string>
+    <string name="allow_guests">Allow Guests</string>
     <string name="online">オンライン</string>
     <string name="offline">オフライン</string>
     <string name="status_dnd">DND</string>
     <string name="status_invisible">隠し</string>
     <string name="status_picker_label">ステータス</string>
     <string name="name">名前</string>
+    <string name="no_blob_text">No Text</string>
     <string name="owner">オーナー</string>
     <string name="kick">キック</string>
     <string name="ban">バン</string>
@@ -1252,6 +1274,7 @@
     <string name="size">サイズ</string>
     <string name="shots">イジェクト回数</string>
     <string name="bot">ボット</string>
+    <string name="player_list_guest">Guest</string>
     <string name="bots">ボット数</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
@@ -1294,6 +1317,7 @@
     <string name="muted">MUTE済</string>
     <string name="banned_until">%sまでBAN中です</string>
     <string name="muted_until">%sまでMUTE中です</string>
+    <string name="comp_banned_until">Banned from Competitive until %s</string>
     <string name="server_shutting_down">サーバーがシャットダウンしています</string>
     <string name="server_rebooting">サーバーは再起動中です。まもなく再度お試しください。</string>
     <string name="server_maintenance">サーバーはメンテナンス中です。しばらくお待ちの上、再度お試しください。</string>
@@ -1337,6 +1361,7 @@
     <string name="desc_gold_holes">ブルーホールは%1$s%%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
     <string name="desc_empty">デバッグ用です。ドットとボイドストーンはスポーンしなくなります。</string>
+    <string name="desc_allow_guests">Players who are not logged in can join this room. The room owner and operators can change it later with !guests.</string>
     <string name="desc_room_hidden">ルームはカスタムルームリストに表示しなくなります。他のプレイヤーがルームに参加するには、ルーム名の入力が必要です。</string>
     <string name="scored">得点！</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
@@ -1518,6 +1543,7 @@
     <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">デイリーリワード</string>
     <string name="transaction_clan_tier_daily">Clan Tier %1$s Daily Reward</string>
+    <string name="transaction_clan_mail_sent">Sent Clan Mail</string>
     <string name="daily_reward_streak_title">%1$d日連続</string>
     <string name="daily_reward_reward">リワード：</string>
     <string name="daily_reward_xp_multiplier">経験値倍率 ＋%1$d%%</string>
@@ -1540,6 +1566,7 @@
     <string name="daily_skin_locked_dialog">You need a %1$d day streak to unlock this skin. Your current streak is %2$d.</string>
     <string name="options_notifications">通知</string>
     <string name="notifications_received_mail">受信メール</string>
+    <string name="notifications_received_clan_mail">Received Clan Mail</string>
     <string name="notifications_daily_reward_reminders">デイリーリワードの通知</string>
     <string name="notifications_send_test_reminder">Send test reminder</string>
     <string name="daily_reminder_push_title">Your %1$d Day Streak ends soon!</string>
@@ -1577,4 +1604,18 @@
     <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
     <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
     <string name="log_export_failed">Log export failed: %1$s</string>
+    <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
+    <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
+    <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>
+    <string name="play_online_feature_social">Social Features (Chat, Mail, Friends, Clans)</string>
+    <string name="play_online_feature_ranked">Leaderboards &amp; Competitive</string>
+    <string name="play_online_feature_progress">Saved Progress (Levels, XP, Statistics)</string>
+    <string name="play_online_feature_rewards">Achievements, Season Pass &amp; Daily Rewards</string>
+    <string name="play_online_feature_shop">Voidstones, Shop &amp; Boosters</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="guest_locked_item">You must be logged in to be able to unlock this.</string>
+    <string name="guest_integrity_failed">This device could not be verified, so it cannot play as a guest. Log in to play online.</string>
+    <string name="guest_play_unavailable">Guest play is not available right now. Log in to play online.</string>
+    <string name="guest_slots_full">The server has no free guest slots right now. Try again later or log in.</string>
+    <string name="guests_not_allowed_in_room">This room does not allow guests.</string>
 </resources>
