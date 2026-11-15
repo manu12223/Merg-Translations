@@ -18,6 +18,7 @@
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Đồ họa/Biểu tượng:</string>
     <string name="sound_effects_credit">Sound Effects:</string>
+    <string name="suggestions_ideas">Suggestions/Ideas:</string>
     <string name="translations">Bản dịch:</string>
     <string name="fonts">Fonts:</string>
 
@@ -219,6 +220,8 @@
     <string name="competitive_stat_losses">Losses</string>
     <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">Trận đấu bắt đầu trong…</string>
+    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Trận đấu đang diễn ra</string>
     <string name="match_status_starting">ĐANG BẮT ĐẦU</string>
@@ -302,12 +305,12 @@
     <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
     <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
     <string name="booster_level_short">Lv %1$d</string>
-    <string name="profile_name_change_bought">Đổi tên hồ sơ</string>
-    <string name="profile_name_color_bought">Mở khóa màu tên hồ sơ</string>
+    <string name="profile_name_change_bought">Name change</string>
+    <string name="profile_name_color_bought">Name color unlock</string>
     <string name="profile_color_bought">Mở khóa màu hồ sơ</string>
     <string name="profile_color_gradient_bought">Mở khóa màu hồ sơ Gradient</string>
     <string name="profile_color_gradient_2_bought">Mở khóa màu hồ sơ Gradient 2</string>
-    <string name="profile_name_font_bought">Mở khóa phông chữ tên hồ sơ</string>
+    <string name="profile_name_font_bought">Name font unlock</string>
     <string name="admin_deduction">Khấu trừ bởi Admin</string>
     <string name="giveaway">Phần thưởng GiveAway</string>
     <string name="admin_reward_sent">Đã gửi phần thưởng Admin</string>
@@ -460,8 +463,8 @@
     <string name="statistics">Thống kê</string>
     <string name="achievements">Thành tựu</string>
     <string name="delete_account">XÓA TÀI KHOẢN</string>
-    <string name="change_profile_name">Đổi tên hồ sơ</string>
-    <string name="enter_profile_name">Nhập tên hồ sơ</string>
+    <string name="change_profile_name">Change Name</string>
+    <string name="enter_profile_name">Enter Name</string>
     <string name="profile_color">MÀU HỒ SƠ</string>
     <string name="profile_text_color_white">Văn bản trắng</string>
     <string name="profile_text_color_black">Văn bản đen</string>
@@ -472,7 +475,7 @@
     <string name="prerequisite_not_met">Bạn phải mở khóa %s trước</string>
     <string name="profile_not_viewed">You need to view this profile before you can like it</string>
     <string name="prerequisite_feature">tính năng yêu cầu</string>
-    <string name="profile_name_color">MÀU TÊN HỒ SƠ</string>
+    <string name="profile_name_color">NAME COLOR</string>
     <string name="profile_not_logged_in_error">Chưa đăng nhập. Vui lòng đăng nhập trước.</string>
     <string name="profile_name_changed_success">Đã đổi tên thành %s</string>
     <string name="profile_name_change_failed">Không thể đổi tên</string>
@@ -506,7 +509,7 @@
     <string name="unlock_name_fonts_already_unlocked">Phông chữ tên đã được mở khóa</string>
     <string name="name_font_save_success">Đã lưu phông chữ!</string>
     <string name="name_fonts_not_unlocked">Phông chữ tên chưa được mở khóa</string>
-    <string name="profile_name_font">Phông chữ tên hồ sơ</string>
+    <string name="profile_name_font">Name Font</string>
     <string name="name_change_success">Đã đổi tên thành: %s</string>
     <string name="name_change_invalid_length">Độ dài tên không hợp lệ</string>
     <string name="name_change_taken">Tên đã được sử dụng</string>
@@ -538,6 +541,9 @@
     <string name="alpha_tester">Người thử nghiệm Alpha</string>
     <string name="beta_tester">Người thử nghiệm Beta</string>
     <string name="discord_staff">Nhân viên Discord</string>
+    <string name="bug_scout">Bug Scout</string>
+    <string name="bug_hunter">Bug Hunter</string>
+    <string name="bug_master">Bug Master</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Gửi Voidstones</string>
@@ -763,6 +769,15 @@
     <string name="mail_title_too_long">Tiêu đề quá dài</string>
     <string name="mail_content_too_long">Nội dung quá dài</string>
     <string name="mail_sent_success">Đã gửi</string>
+    <string name="mail_new_from">New Mail from %1$s</string>
+    <string name="mail_no_title">(no title)</string>
+    <string name="clan_mail">Clan Mail</string>
+    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
+    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
+    <string name="clan_mail_recipients">%1$d members</string>
+    <string name="clan_mail_no_members">No other members to mail</string>
+    <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
+    <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
     <string name="mark_unread">Đánh dấu chưa đọc</string>
     <string name="copy_verification_code">Sao chép mã xác minh</string>
     <string name="code_copied">Mã đã được sao chép vào bộ nhớ tạm!</string>
@@ -779,19 +794,18 @@
     <string name="gamemode_competitive">Thi đấu</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Domination</string>
-    <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
+    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Classic gameplay on a clock, scored by style! Land tricks on other blobs to earn points, and chain them quickly to grow your combo multiplier. Trick Split: split, eat a piece of a blob that is split into 6 or more pieces, then within 0.7 seconds a piece of a different blob, all within a second of your split. You and the blob you ate first both get the points. Pop Split: feed your split piece to a blob next to a hole so it bursts, then eat one of its pieces. Ice Split: freeze your split piece while it flies, so the blob that tries to eat it pops. Tricks on bots are worth a fifth. Your points stay when you get eaten, and the most points when the timer runs out wins!</string>
-    <string name="description_classic">Ăn những người chơi nhỏ hơn và trở thành blob lớn nhất vũ trụ! Sử dụng kích thước của bạn để thống trị bản đồ, nhưng hãy cẩn thận với những người chơi lớn hơn muốn ăn bạn!</string>
-    <string name="description_teams">Hợp lực với những người chơi khác cùng màu! Làm việc cùng nhau để bẫy kẻ thù và trở thành đội thống trị trên bảng xếp hạng. Đồng đội không thể ăn thịt lẫn nhau.</string>
-    <string name="description_survival">Một mạng, một vòng! Thu thập càng nhiều càng tốt trước khi thời gian ân hạn kết thúc. Sau đó, cái chết là vĩnh viễn! Hãy là người cuối cùng còn sống hoặc là người lớn nhất khi hết thời gian để chiến thắng!</string>
-    <string name="description_team_survival">Chế độ sinh tồn với các đội! Làm việc với đồng đội để loại bỏ các đội khác. Đội cuối cùng còn sót lại hoặc có tổng kích thước lớn nhất khi hết giờ sẽ thắng!</string>
-    <string name="description_knockout">Cạnh tranh trong các vòng loại trực tiếp! Người chơi có thể hồi sinh tự do cho đến khi bị loại theo định kỳ. Những người chơi nhỏ nhất tại mỗi khoảng thời gian sẽ bị loại vĩnh viễn. Hãy là người cuối cùng còn sống để giành chiến thắng!</string>
-    <string name="description_adventure">Hoàn thành các màn chơi đầy thử thách với các mục tiêu độc đáo! Tiến triển qua các độ khó ngày càng tăng, kiếm phần thưởng và xem bạn có thể đi bao xa. Mỗi màn chơi đều mang đến những thử thách mới!</string>
-    <string name="description_soccer">Bắt lấy bóng và sút vào khung thành đối phương để ghi bàn. Đội có nhiều bàn thắng nhất khi hết giờ sẽ thắng!</string>
-    <string name="description_coming_soon">Chế độ này sắp ra mắt, hãy chờ xem!</string>
+    <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
+    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
+    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
+    <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
+    <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
+    <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
+    <string name="description_adventure">Beat stages with unique objectives across rising difficulties, earn rewards and see how far you can go!</string>
+    <string name="description_soccer">Shoot the ball into the enemy goal. The team with the most goals when time runs out wins!</string>
     <string name="description_competitive">Sinh tồn xếp hạng 1v1! Kiếm xếp hạng bằng cách đánh bại đối thủ có kỹ năng tương đương. Một trận đấu 3 phút với 2 phút bù giờ nếu không người chơi nào bị hạ. Thắng để leo lên bảng xếp hạng toàn cầu, thua và tụt hạng, nhưng mức độ thay đổi xếp hạng phụ thuộc vào khoảng cách giữa bạn và đối thủ.</string>
-    <string name="description_multimerg">Bạn sinh ra HAI blob và chuyển đổi quyền điều khiển giữa chúng bằng nút âm-dương! Chỉ blob đang hoạt động mới phản ứng với cần điều khiển, tách và sút của bạn. Blob kia tiếp tục di chuyển theo hướng cuối cùng của nó. Hai blob của bạn có thể ăn thịt lẫn nhau nếu tách ra, nhưng mảnh cuối cùng được bảo vệ.</string>
+    <string name="description_multimerg">Control two blobs and swap between them with the yin-yang button. Your split pieces can eat each other, but your last piece is safe.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Cực nhỏ</string>
@@ -807,6 +821,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">Màn</string>
+    <string name="adventure_difficulty_easy">Easy</string>
+    <string name="adventure_difficulty_medium">Medium</string>
+    <string name="adventure_difficulty_hard">Hard</string>
+    <string name="adventure_difficulty_very_hard">Very Hard</string>
+    <string name="adventure_difficulty_insane">Insane</string>
+    <string name="adventure_difficulty_extreme">Extreme</string>
     <string name="adventure_initializing">Đang khởi tạo…</string>
     <string name="adventure_obj_eat_all_bots">Ăn tất cả bot</string>
     <string name="adventure_obj_survive">Sinh tồn</string>
@@ -892,6 +912,7 @@
     <string name="clan_sys_achievement">%1$s unlocked the achievement %2$s</string>
     <string name="clan_sys_donated">%1$s donated %2$s Voidstones to the Clan!</string>
     <string name="clan_sys_tier">%1$s has advanced to Tier %2$s</string>
+    <string name="clan_sys_mail">%1$s sent a Clan Mail</string>
     <string name="chat_message_hint">Nhập tin nhắn…</string>
     <string name="chat_send_message">Gửi tin nhắn</string>
     <string name="copy_name">Sao chép tên</string>
@@ -1188,7 +1209,6 @@
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">Không có kết nối internet. Kiểm tra cài đặt mạng của thiết bị.</string>
     <string name="server_not_running">Máy chủ không hoạt động</string>
-    <string name="name_change_reconnect_notice">Để việc đổi tên có hiệu lực, bạn sẽ được kết nối lại với máy chủ.</string>
     <string name="play">Chơi</string>
     <string name="play_one_blob">Play (1 blob)</string>
     <string name="id">ID:</string>
@@ -1220,12 +1240,14 @@
     <string name="done">Xong</string>
     <string name="info">Thông tin</string>
     <string name="empty">Trống</string>
+    <string name="allow_guests">Allow Guests</string>
     <string name="online">Trực tuyến</string>
     <string name="offline">Ngoại tuyến</string>
     <string name="status_dnd">Do Not Disturb</string>
     <string name="status_invisible">Invisible</string>
     <string name="status_picker_label">Status</string>
     <string name="name">Tên</string>
+    <string name="no_blob_text">No Text</string>
     <string name="owner">Chủ sở hữu</string>
     <string name="kick">Đá</string>
     <string name="ban">Cấm</string>
@@ -1252,6 +1274,7 @@
     <string name="size">Kích thước</string>
     <string name="shots">Lượt sút</string>
     <string name="bot">Bot</string>
+    <string name="player_list_guest">Guest</string>
     <string name="bots">Bot</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
@@ -1294,6 +1317,7 @@
     <string name="muted">Đã bị tắt tiếng</string>
     <string name="banned_until">Đã bị cấm đến %s</string>
     <string name="muted_until">Đã bị tắt tiếng đến %s</string>
+    <string name="comp_banned_until">Banned from Competitive until %s</string>
     <string name="server_shutting_down">Máy chủ đang tắt</string>
     <string name="server_rebooting">Máy chủ đang khởi động lại. Vui lòng thử lại sau giây lát.</string>
     <string name="server_maintenance">Máy chủ đang được bảo trì. Vui lòng thử lại sau.</string>
@@ -1337,6 +1361,7 @@
     <string name="desc_gold_holes">Blue holes have a %1$s%% chance to spawn as Gold holes instead, worth 4 times as much.</string>
     <string name="desc_teleport_holes">If disabled, all Teleport holes are replaced by Blue holes.</string>
     <string name="desc_empty">Does not spawn any Food or Voidstones, for debugging purposes.</string>
+    <string name="desc_allow_guests">Players who are not logged in can join this room. The room owner and operators can change it later with !guests.</string>
     <string name="desc_room_hidden">Your room will not appear to people in the private rooms list, it can only be joined by specifying its exact name.</string>
     <string name="scored">scored!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
@@ -1518,6 +1543,7 @@
     <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">Daily Reward</string>
     <string name="transaction_clan_tier_daily">Clan Tier %1$s Daily Reward</string>
+    <string name="transaction_clan_mail_sent">Sent Clan Mail</string>
     <string name="daily_reward_streak_title">%1$d Day Streak</string>
     <string name="daily_reward_reward">Reward:</string>
     <string name="daily_reward_xp_multiplier">+%1$d%% XP Multiplier</string>
@@ -1540,6 +1566,7 @@
     <string name="daily_skin_locked_dialog">You need a %1$d day streak to unlock this skin. Your current streak is %2$d.</string>
     <string name="options_notifications">Notifications</string>
     <string name="notifications_received_mail">Received Mail</string>
+    <string name="notifications_received_clan_mail">Received Clan Mail</string>
     <string name="notifications_daily_reward_reminders">Daily Reward reminders</string>
     <string name="notifications_send_test_reminder">Send test reminder</string>
     <string name="daily_reminder_push_title">Your %1$d Day Streak ends soon!</string>
@@ -1577,4 +1604,18 @@
     <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
     <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
     <string name="log_export_failed">Log export failed: %1$s</string>
+    <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
+    <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
+    <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>
+    <string name="play_online_feature_social">Social Features (Chat, Mail, Friends, Clans)</string>
+    <string name="play_online_feature_ranked">Leaderboards &amp; Competitive</string>
+    <string name="play_online_feature_progress">Saved Progress (Levels, XP, Statistics)</string>
+    <string name="play_online_feature_rewards">Achievements, Season Pass &amp; Daily Rewards</string>
+    <string name="play_online_feature_shop">Voidstones, Shop &amp; Boosters</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="guest_locked_item">You must be logged in to be able to unlock this.</string>
+    <string name="guest_integrity_failed">This device could not be verified, so it cannot play as a guest. Log in to play online.</string>
+    <string name="guest_play_unavailable">Guest play is not available right now. Log in to play online.</string>
+    <string name="guest_slots_full">The server has no free guest slots right now. Try again later or log in.</string>
+    <string name="guests_not_allowed_in_room">This room does not allow guests.</string>
 </resources>

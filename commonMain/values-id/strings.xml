@@ -18,6 +18,7 @@
     <string name="skins">Skin:</string>
     <string name="graphics_icons">Grafik/Ikon:</string>
     <string name="sound_effects_credit">Efek Suara:</string>
+    <string name="suggestions_ideas">Suggestions/Ideas:</string>
     <string name="translations">Terjemahan:</string>
     <string name="fonts">Font:</string>
 
@@ -219,6 +220,8 @@
     <string name="competitive_stat_losses">Losses</string>
     <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">Pertandingan dimulai dalam…</string>
+    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Pertandingan aktif</string>
     <string name="match_status_starting">MEMULAI</string>
@@ -302,12 +305,12 @@
     <string name="booster_autoshoot_bought">Upgrade Autoshoot</string>
     <string name="booster_spawn_size_bought">Upgrade Ukuran Spawn</string>
     <string name="booster_level_short">Lv %1$d</string>
-    <string name="profile_name_change_bought">Perubahan nama profil</string>
-    <string name="profile_name_color_bought">Buka warna nama profil</string>
+    <string name="profile_name_change_bought">Name change</string>
+    <string name="profile_name_color_bought">Name color unlock</string>
     <string name="profile_color_bought">Buka warna profil</string>
     <string name="profile_color_gradient_bought">Buka gradien warna profil</string>
     <string name="profile_color_gradient_2_bought">Buka gradien warna profil 2</string>
-    <string name="profile_name_font_bought">Buka font nama profil</string>
+    <string name="profile_name_font_bought">Name font unlock</string>
     <string name="admin_deduction">Deduksi Admin</string>
     <string name="giveaway">Hadiah Giveaway</string>
     <string name="admin_reward_sent">Hadiah Admin Terkirim</string>
@@ -460,8 +463,8 @@
     <string name="statistics">Statistik</string>
     <string name="achievements">Pencapaian</string>
     <string name="delete_account">HAPUS AKUN</string>
-    <string name="change_profile_name">Ubah Nama Profil</string>
-    <string name="enter_profile_name">Masukkan Nama Profil</string>
+    <string name="change_profile_name">Change Name</string>
+    <string name="enter_profile_name">Enter Name</string>
     <string name="profile_color">WARNA PROFIL</string>
     <string name="profile_text_color_white">Teks putih</string>
     <string name="profile_text_color_black">Teks hitam</string>
@@ -472,7 +475,7 @@
     <string name="prerequisite_not_met">Anda harus membuka kunci %s terlebih dahulu</string>
     <string name="profile_not_viewed">Anda harus melihat profil ini sebelum dapat menyukainya</string>
     <string name="prerequisite_feature">fitur yang diperlukan</string>
-    <string name="profile_name_color">WARNA NAMA PROFIL</string>
+    <string name="profile_name_color">NAME COLOR</string>
     <string name="profile_not_logged_in_error">Belum login. Silakan login terlebih dahulu.</string>
     <string name="profile_name_changed_success">Nama diubah menjadi %s</string>
     <string name="profile_name_change_failed">Gagal mengubah nama</string>
@@ -506,7 +509,7 @@
     <string name="unlock_name_fonts_already_unlocked">Font nama sudah dibuka</string>
     <string name="name_font_save_success">Font berhasil disimpan!</string>
     <string name="name_fonts_not_unlocked">Font nama belum dibuka</string>
-    <string name="profile_name_font">Font Nama Profil</string>
+    <string name="profile_name_font">Name Font</string>
     <string name="name_change_success">Nama diubah menjadi: %s</string>
     <string name="name_change_invalid_length">Panjang nama tidak valid</string>
     <string name="name_change_taken">Nama sudah digunakan</string>
@@ -538,6 +541,9 @@
     <string name="alpha_tester">Penguji Alfa</string>
     <string name="beta_tester">Penguji Beta</string>
     <string name="discord_staff">Staf Discord</string>
+    <string name="bug_scout">Bug Scout</string>
+    <string name="bug_hunter">Bug Hunter</string>
+    <string name="bug_master">Bug Master</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Kirim Voidstone</string>
@@ -763,6 +769,15 @@
     <string name="mail_title_too_long">Judul terlalu panjang</string>
     <string name="mail_content_too_long">Isi terlalu panjang</string>
     <string name="mail_sent_success">Terkirim</string>
+    <string name="mail_new_from">New Mail from %1$s</string>
+    <string name="mail_no_title">(no title)</string>
+    <string name="clan_mail">Clan Mail</string>
+    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
+    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
+    <string name="clan_mail_recipients">%1$d members</string>
+    <string name="clan_mail_no_members">No other members to mail</string>
+    <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
+    <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
     <string name="mark_unread">Tandai Belum Dibaca</string>
     <string name="copy_verification_code">Salin Kode Verifikasi</string>
     <string name="code_copied">Kode disalin ke papan klip!</string>
@@ -779,19 +794,18 @@
     <string name="gamemode_competitive">Kompetitif</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominasi</string>
-    <string name="description_domination">Mode klasik berpacu dengan waktu, di mana ukuran hanya penting jika Anda berada di posisi pertama! Setiap detik yang Anda habiskan sebagai gumpalan terbesar di peta akan menambah sedetik pada skor Anda; dan jika dimakan, waktu yang terkumpul tidak hilang. Siapa pun yang terlama menempati posisi pertama saat waktu habis keluar sebagai pemenang!</string>
+    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Mode klasik dengan batas waktu, di mana gaya menghasilkan poin! Lakukan trik pada gumpalan lain untuk mendapatkan poin, lalu rangkai trik secara cepat untuk menaikkan pengali kombo Anda. Trick Split: split, makan potongan dari gumpalan yang ter-split menjadi 6+ potongan, lalu makan potongan dari gumpalan lain dalam 0,7 detik (semuanya dalam rentang sedetik sejak Anda melakukan split diri). Anda maupun gumpalan yang Anda makan pertama kali, keduanya memberi poin. Pop Split: berikan potongan split diri kepada gumpalan dekat lubang agar gumpalan itu meledak, lalu makan salah satu potongannya. Ice Split: bekukan potongan split diri Anda saat melayang, sehingga gumpalan yang mencoba memakannya akan meledak. Trik pada bot bernilai seperlima. Poin tetap tersimpan meskipun Anda dimakan, dan pemain dengan poin terbanyak saat waktu habis keluar sebagai pemenang!</string>
-    <string name="description_classic">Santaplah pemain yang lebih kecil dan jadilah gumpalan terbesar di alam semesta! Manfaatkan ukuran untuk mendominasi peta, tetapi waspadalah terhadap pemain lebih besar yang ingin memangsa Anda!</string>
-    <string name="description_teams">Bergabunglah dengan warna tim yang sama! Bekerja samalah untuk menjebak musuh dan dominasilah papan peringkat. Anggota tim tidak bisa saling memakan.</string>
-    <string name="description_survival">Satu nyawa, satu ronde! Kumpulkan massa sebanyak mungkin sebelum masa tenggang berakhir; setelah itu, kematian bersifat permanen! Jadilah pemain terakhir bertahan atau terbesar saat waktu habis untuk menang!</string>
-    <string name="description_team_survival">Mode bertahan hidup beregu! Bekerja samalah dengan anggota tim Anda untuk menyingkirkan tim lain. Tim terakhir yang bertahan atau yang memiliki total ukuran terbesar saat waktu habis akan menang!</string>
-    <string name="description_knockout">Bertandinglah dalam babak eliminasi! Pemain dapat respawn dengan bebas hingga tereliminasi pada jarak waktu tertentu. Pemain terkecil pada setiap jarak waktu akan tereliminasi secara permanen. Jadilah pemain terakhir bertahan untuk menang!</string>
-    <string name="description_adventure">Selesaikan tahap menantang dengan tujuan yang unik! Hadapi tingkat kesulitan yang terus meningkat, raih hadiah, dan lihat seberapa jauh Anda bisa melangkah. Setiap tahap menghadirkan tantangan baru!</string>
-    <string name="description_soccer">Ambil bola dan tembakkan ke gawang lawan untuk mencetak skor. Tim dengan gol terbanyak saat waktu habis menang!</string>
-    <string name="description_coming_soon">Mode ini akan segera hadir, pantau terus!</string>
+    <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
+    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
+    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
+    <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
+    <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
+    <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
+    <string name="description_adventure">Beat stages with unique objectives across rising difficulties, earn rewards and see how far you can go!</string>
+    <string name="description_soccer">Shoot the ball into the enemy goal. The team with the most goals when time runs out wins!</string>
     <string name="description_competitive">Bertahan hidup 1v1 berperingkat! Dapatkan penilaian dengan mengalahkan lawan setara. Pertandingan berlangsung selama 3 menit, ditambah 2 menit perpanjangan waktu jika tidak ada yang gugur. Menanglah untuk naik di papan peringkat global atau kalah dan turun peringkat; besarnya perubahan penilaian bergantung pada selisih kemampuan antara Anda dan lawan Anda.</string>
-    <string name="description_multimerg">Anda memunculkan DUA gumpalan dan berganti kendali menggunakan tombol yin-yang! Hanya gumpalan aktif yang merespons joystick, split, dan shoot. Gumpalan lainnya terus bergerak ke arah terakhirnya. Keduanya bisa saling makan saat split, tetapi potongan terakhirnya terlindungi.</string>
+    <string name="description_multimerg">Control two blobs and swap between them with the yin-yang button. Your split pieces can eat each other, but your last piece is safe.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Mungil</string>
@@ -807,6 +821,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">Tahap</string>
+    <string name="adventure_difficulty_easy">Easy</string>
+    <string name="adventure_difficulty_medium">Medium</string>
+    <string name="adventure_difficulty_hard">Hard</string>
+    <string name="adventure_difficulty_very_hard">Very Hard</string>
+    <string name="adventure_difficulty_insane">Insane</string>
+    <string name="adventure_difficulty_extreme">Extreme</string>
     <string name="adventure_initializing">Menginisialisasi…</string>
     <string name="adventure_obj_eat_all_bots">Makan Semua Bot</string>
     <string name="adventure_obj_survive">Bertahan</string>
@@ -892,6 +912,7 @@
     <string name="clan_sys_achievement">%1$s meraih pencapaian %2$s</string>
     <string name="clan_sys_donated">%1$s mendonasikan %2$s Voidstone kepada Klan!</string>
     <string name="clan_sys_tier">%1$s naik ke Tingkat %2$s</string>
+    <string name="clan_sys_mail">%1$s sent a Clan Mail</string>
     <string name="chat_message_hint">Ketik pesan…</string>
     <string name="chat_send_message">Kirim Pesan</string>
     <string name="copy_name">Salin Nama</string>
@@ -1188,7 +1209,6 @@
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">Tidak ada koneksi internet. Periksa pengaturan jaringan perangkat Anda.</string>
     <string name="server_not_running">Server tidak berjalan</string>
-    <string name="name_change_reconnect_notice">Agar perubahan nama mulai berlaku, Anda akan dihubungkan ulang ke server.</string>
     <string name="play">Main</string>
     <string name="play_one_blob">Main (1 Gumpalan)</string>
     <string name="id">ID:</string>
@@ -1220,12 +1240,14 @@
     <string name="done">Selesai</string>
     <string name="info">Info</string>
     <string name="empty">Kosong</string>
+    <string name="allow_guests">Allow Guests</string>
     <string name="online">Online</string>
     <string name="offline">Offline</string>
     <string name="status_dnd">Jangan Ganggu</string>
     <string name="status_invisible">Tak Terlihat</string>
     <string name="status_picker_label">Status</string>
     <string name="name">Nama</string>
+    <string name="no_blob_text">No Text</string>
     <string name="owner">Pemilik</string>
     <string name="kick">Kick</string>
     <string name="ban">Larang</string>
@@ -1252,6 +1274,7 @@
     <string name="size">Ukuran</string>
     <string name="shots">Tembakan</string>
     <string name="bot">Bot</string>
+    <string name="player_list_guest">Guest</string>
     <string name="bots">Bot</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
@@ -1294,6 +1317,7 @@
     <string name="muted">Dibisu</string>
     <string name="banned_until">Dilarang hingga %s</string>
     <string name="muted_until">Dibisu hingga %s</string>
+    <string name="comp_banned_until">Banned from Competitive until %s</string>
     <string name="server_shutting_down">Server sedang dimatikan</string>
     <string name="server_rebooting">Server sedang reboot. Silakan coba lagi sebentar lagi.</string>
     <string name="server_maintenance">Server sedang dalam pemeliharaan. Silakan coba lagi nanti.</string>
@@ -1337,6 +1361,7 @@
     <string name="desc_gold_holes">Lubang biru memiliki peluang %1$s%% untuk muncul sebagai Lubang emas, yang bernilai 4 kali lipatnya.</string>
     <string name="desc_teleport_holes">Jika dinonaktifkan, semua Lubang teleportasi digantikan oleh Lubang biru.</string>
     <string name="desc_empty">Tidak memunculkan Makanan atau Voidstone apa pun, untuk keperluan debugging.</string>
+    <string name="desc_allow_guests">Players who are not logged in can join this room. The room owner and operators can change it later with !guests.</string>
     <string name="desc_room_hidden">Ruangan Anda tidak akan muncul dalam daftar ruangan pribadi bagi orang lain, akses ke ruangan tersebut hanya dapat dilakukan dengan memasukkan nama yang tepat.</string>
     <string name="scored">dicetak!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
@@ -1518,6 +1543,7 @@
     <string name="data_saver_latency_warning_high">Meningkatkan latensi secara signifikan</string>
     <string name="daily_reward_title">Hadiah Harian</string>
     <string name="transaction_clan_tier_daily">Hadiah Harian Tingkat Klan %1$s</string>
+    <string name="transaction_clan_mail_sent">Sent Clan Mail</string>
     <string name="daily_reward_streak_title">Rentetan %1$d Hari</string>
     <string name="daily_reward_reward">Hadiah:</string>
     <string name="daily_reward_xp_multiplier">+%1$d%% Pengali XP</string>
@@ -1540,6 +1566,7 @@
     <string name="daily_skin_locked_dialog">Anda memerlukan rentetan %1$d hari untuk membuka skin ini. Rentetan Anda saat ini adalah %2$d.</string>
     <string name="options_notifications">Notifikasi</string>
     <string name="notifications_received_mail">Surat Diterima</string>
+    <string name="notifications_received_clan_mail">Received Clan Mail</string>
     <string name="notifications_daily_reward_reminders">Pengingat Hadiah Harian</string>
     <string name="notifications_send_test_reminder">Kirim pengingat tes</string>
     <string name="daily_reminder_push_title">Rentetan %1$d Hari Anda akan segera berakhir!</string>
@@ -1577,4 +1604,18 @@
     <string name="log_upload_rate_limited">Terlalu banyak log unggahan saat ini, file diekspor sebagai gantinya</string>
     <string name="log_upload_failed">Tidak dapat mengunggah log, file diekspor sebagai gantinya</string>
     <string name="log_export_failed">Gagal ekspor log: %1$s</string>
+    <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
+    <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
+    <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>
+    <string name="play_online_feature_social">Social Features (Chat, Mail, Friends, Clans)</string>
+    <string name="play_online_feature_ranked">Leaderboards &amp; Competitive</string>
+    <string name="play_online_feature_progress">Saved Progress (Levels, XP, Statistics)</string>
+    <string name="play_online_feature_rewards">Achievements, Season Pass &amp; Daily Rewards</string>
+    <string name="play_online_feature_shop">Voidstones, Shop &amp; Boosters</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="guest_locked_item">You must be logged in to be able to unlock this.</string>
+    <string name="guest_integrity_failed">This device could not be verified, so it cannot play as a guest. Log in to play online.</string>
+    <string name="guest_play_unavailable">Guest play is not available right now. Log in to play online.</string>
+    <string name="guest_slots_full">The server has no free guest slots right now. Try again later or log in.</string>
+    <string name="guests_not_allowed_in_room">This room does not allow guests.</string>
 </resources>

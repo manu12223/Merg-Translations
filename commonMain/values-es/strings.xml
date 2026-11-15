@@ -18,6 +18,7 @@
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Iconos:</string>
     <string name="sound_effects_credit">Efectos de Sonido:</string>
+    <string name="suggestions_ideas">Suggestions/Ideas:</string>
     <string name="translations">Traducciones:</string>
     <string name="fonts">Fuentes Tipográficas:</string>
 
@@ -219,6 +220,8 @@
     <string name="competitive_stat_losses">Losses</string>
     <string name="competitive_stat_win_rate">Win rate</string>
     <string name="match_starts_in">La Batalla Empieza en…</string>
+    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Batallas en Curso</string>
     <string name="match_status_starting">EMPEZANDO BATALLA</string>
@@ -302,12 +305,12 @@
     <string name="booster_autoshoot_bought">Autodisparo Mejorado</string>
     <string name="booster_spawn_size_bought">Tamaño de reaparición Mejorado</string>
     <string name="booster_level_short">Nvl %1$d</string>
-    <string name="profile_name_change_bought">Cambio de Nombre Comprado</string>
-    <string name="profile_name_color_bought">Color de Nombre Comprado</string>
+    <string name="profile_name_change_bought">Name change</string>
+    <string name="profile_name_color_bought">Name color unlock</string>
     <string name="profile_color_bought">Color del Perfil Comprado</string>
     <string name="profile_color_gradient_bought">Degradado del Perfil Comprado</string>
     <string name="profile_color_gradient_2_bought">Degradado Doble del Perfil Comprado</string>
-    <string name="profile_name_font_bought">Fuente de Nombre Desbloqueada</string>
+    <string name="profile_name_font_bought">Name font unlock</string>
     <string name="admin_deduction">Deducción (STAFF)</string>
     <string name="giveaway">Premio de Giveaway</string>
     <string name="admin_reward_sent">Bonificación (STAFF) Enviada</string>
@@ -460,8 +463,8 @@
     <string name="statistics">Estadísticas</string>
     <string name="achievements">Logros</string>
     <string name="delete_account">ELIMINAR CUENTA</string>
-    <string name="change_profile_name">Cambiar el Nombre</string>
-    <string name="enter_profile_name">Introduce un Nombre</string>
+    <string name="change_profile_name">Change Name</string>
+    <string name="enter_profile_name">Enter Name</string>
     <string name="profile_color">Color de Perfil</string>
     <string name="profile_text_color_white">Texto Blanco</string>
     <string name="profile_text_color_black">Texto Negro</string>
@@ -472,7 +475,7 @@
     <string name="prerequisite_not_met">Debes Desbloquear %s Primero</string>
     <string name="profile_not_viewed">Debes ver este perfil antes de poder darle me gusta</string>
     <string name="prerequisite_feature">Característica Requerida</string>
-    <string name="profile_name_color">COLOR DE NOMBRE</string>
+    <string name="profile_name_color">NAME COLOR</string>
     <string name="profile_not_logged_in_error">No has iniciado sesión. Por favor, inicia sesión primero.</string>
     <string name="profile_name_changed_success">El Nombre fue cambiado a %s</string>
     <string name="profile_name_change_failed">No se pudo cambiar el Nombre</string>
@@ -506,7 +509,7 @@
     <string name="unlock_name_fonts_already_unlocked">Ups, la Fuente de Nombre ya fue Desbloqueada.</string>
     <string name="name_font_save_success">¡Fuente Guardada!</string>
     <string name="name_fonts_not_unlocked">Ups, la Fuente de Nombre no ha sido Desbloqueada.</string>
-    <string name="profile_name_font">Fuente de Nombre</string>
+    <string name="profile_name_font">Name Font</string>
     <string name="name_change_success">El Nombre Cambió a: %s</string>
     <string name="name_change_invalid_length">Tamaño del Nombre no Válido</string>
     <string name="name_change_taken">Ups, este Nombre ya está en uso.</string>
@@ -538,6 +541,9 @@
     <string name="alpha_tester">Evaluador(a) Alfa</string>
     <string name="beta_tester">Evaluador(a) Beta</string>
     <string name="discord_staff">Discord Merg Staff</string>
+    <string name="bug_scout">Bug Scout</string>
+    <string name="bug_hunter">Bug Hunter</string>
+    <string name="bug_master">Bug Master</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Regalar Voidstones</string>
@@ -763,6 +769,15 @@
     <string name="mail_title_too_long">Ups, el Asunto es demasiado largo.</string>
     <string name="mail_content_too_long">Ups, el Mensaje es demasiado largo.</string>
     <string name="mail_sent_success">Correo Enviado</string>
+    <string name="mail_new_from">New Mail from %1$s</string>
+    <string name="mail_no_title">(no title)</string>
+    <string name="clan_mail">Clan Mail</string>
+    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
+    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
+    <string name="clan_mail_recipients">%1$d members</string>
+    <string name="clan_mail_no_members">No other members to mail</string>
+    <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
+    <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
     <string name="mark_unread">No Leído</string>
     <string name="copy_verification_code">Copiar Código de Verificación</string>
     <string name="code_copied">¡El Código de Verificación se Copió con Éxito!</string>
@@ -779,19 +794,18 @@
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominio</string>
-    <string name="description_domination">¡Juego clásico contrarreloj, donde el tamaño solo cuenta mientras mantengas el primer puesto! Cada segundo que pasas siendo el blob más grande del mapa suma tiempo a tu puntuación, y ser devorado no te quitará el tiempo que hayas acumulado. ¡Gana quien haya aguantado más tiempo en primer lugar al agotarse el tiempo!</string>
+    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Jugabilidad clásica contrarreloj, ¡donde el estilo se convierte en puntos! Usa Tricks(Trucos) sobre otros blobs para ganar puntos y encadénalos rápidamente para aumentar tu multiplicador de combo. Trick Split: divídete para lanzarte contra un blob que eres demasiado pequeño para comerte y crece por el camino devorando las piezas que encuentres. Pop Split: lanza tu pieza dividida contra un blob situado junto a un agujero para hacerlo explotar y después cómete una de sus piezas. Ice Split: congela tu pieza dividida mientras vuela para hacer explotar al blob que intente comérsela. ¡Conservas tus puntos incluso si te comen! Cuando se agote el tiempo, gana quien haya conseguido la mayor puntuación.</string>
-    <string name="description_classic">¡Cómete a jugadores más pequeños y conviértete en el blob más grande del universo! Usa tu tamaño para dominar en el mapa, ¡pero ten cuidado, los jugadores más grandes te quieren comer!</string>
-    <string name="description_teams">¡Une fuerzas con otros jugadores del mismo color! Trabajen juntos para comerse a los enemigos y convertirse en el equipo que domine la clasificación. Los compañeros de equipo no pueden comerse entre sí.</string>
-    <string name="description_survival">¡Una vida, una ronda! Recoge todo lo que puedas antes de que se acabe el periodo de gracia. Después de eso, ¡la muerte es definitiva! ¡Sé el último en pie o el más grande cuando se acabe el tiempo para ganar!</string>
-    <string name="description_team_survival">¡Modo Supervivencia por equipos! Trabaja con tus compañeros para eliminar a otros equipos. ¡El último equipo en pie o con la mayor puntuación total al agotarse el tiempo gana!</string>
-    <string name="description_knockout">¡Compite en rondas eliminatorias! Los jugadores pueden reaparecer libremente hasta ser eliminados en Intervalos Regulares. Los jugadores más pequeños en cada intervalo son eliminados permanentemente. ¡Sé el último en pie para ganar!</string>
-    <string name="description_adventure">¡Completa etapas desafiantes con objetivos únicos! Avanza por niveles de dificultad creciente, gana recompensas y descubre hasta dónde puedes llegar. ¡Cada etapa trae nuevos desafíos!</string>
-    <string name="description_soccer">Captura el balón y lánzalo a la portería contraria para anotar. ¡El equipo con más goles al finalizar el tiempo gana!</string>
-    <string name="description_coming_soon">¡Este Modo estará Disponible Próximamente, no te lo pierdas!</string>
+    <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
+    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
+    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
+    <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
+    <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
+    <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
+    <string name="description_adventure">Beat stages with unique objectives across rising difficulties, earn rewards and see how far you can go!</string>
+    <string name="description_soccer">Shoot the ball into the enemy goal. The team with the most goals when time runs out wins!</string>
     <string name="description_competitive">¡Supervivencia Clasificatoria 1vs1! Gana Puntos de Clasificación al vencer a oponentes de habilidad similar. Partida de 3 minutos con 2 minutos de prórroga si ninguno de los Jugadores muere. Si ganas, subirás en la Clasificación Mundial; si pierdes, bajarás. La diferencia en la Clasificación depende de la diferencia de Nivel entre tú y tu oponente.</string>
-    <string name="description_multimerg">Apareces con DOS blobs y puedes alternar el control entre ellas utilizando el botón del Yin-Yang! Solo el blob activo responde cuando mueves el joystick, te divides o disparas masa. El otro seguirá moviéndose en su última dirección. Tus dos blobs pueden comerse entre sí tras divirse, pero el último blob estará protegido.</string>
+    <string name="description_multimerg">Control two blobs and swap between them with the yin-yang button. Your split pieces can eat each other, but your last piece is safe.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Enano</string>
@@ -807,6 +821,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">Etapa de Aventura</string>
+    <string name="adventure_difficulty_easy">Easy</string>
+    <string name="adventure_difficulty_medium">Medium</string>
+    <string name="adventure_difficulty_hard">Hard</string>
+    <string name="adventure_difficulty_very_hard">Very Hard</string>
+    <string name="adventure_difficulty_insane">Insane</string>
+    <string name="adventure_difficulty_extreme">Extreme</string>
     <string name="adventure_initializing">Iniciando Aventura…</string>
     <string name="adventure_obj_eat_all_bots">Come a todos los Bots</string>
     <string name="adventure_obj_survive">Sobrevivir</string>
@@ -892,6 +912,7 @@
     <string name="clan_sys_achievement">%1$s desbloqueo el logro %2$s</string>
     <string name="clan_sys_donated">%1$s regaló %2$s Voidstones al Clan!</string>
     <string name="clan_sys_tier">%1$s ha alcanzado el Nivel %2$s!</string>
+    <string name="clan_sys_mail">%1$s sent a Clan Mail</string>
     <string name="chat_message_hint">Escribe un Mensaje…</string>
     <string name="chat_send_message">Enviar Mensaje</string>
     <string name="copy_name">Copiar Nombre</string>
@@ -1188,7 +1209,6 @@
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">No tienes conexión a Internet. Revisa tu conexión en los ajustes de tu dispositivo</string>
     <string name="server_not_running">El Servidor no responde.</string>
-    <string name="name_change_reconnect_notice">Para cambiar de nombre correctamente, deberás conectarte nuevamente al Servidor.</string>
     <string name="play">Jugar</string>
     <string name="play_one_blob">Jugar (1 blob)</string>
     <string name="id">ID:</string>
@@ -1220,12 +1240,14 @@
     <string name="done">Hecho</string>
     <string name="info">Información</string>
     <string name="empty">Vacío</string>
+    <string name="allow_guests">Allow Guests</string>
     <string name="online">Conectado(a)</string>
     <string name="offline">Desconectado(a)</string>
     <string name="status_dnd">No molestar</string>
     <string name="status_invisible">Invisible</string>
     <string name="status_picker_label">Estado</string>
     <string name="name">Nombre</string>
+    <string name="no_blob_text">No Text</string>
     <string name="owner">Creador(a)</string>
     <string name="kick">Expulsar</string>
     <string name="ban">Banear</string>
@@ -1252,6 +1274,7 @@
     <string name="size">Tamaño</string>
     <string name="shots">Disparos</string>
     <string name="bot">Bot</string>
+    <string name="player_list_guest">Guest</string>
     <string name="bots">Bots</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
@@ -1294,6 +1317,7 @@
     <string name="muted">Muteado(a)</string>
     <string name="banned_until">Baneado(a) hasta %s</string>
     <string name="muted_until">Muteado(a) hasta %s</string>
+    <string name="comp_banned_until">Banned from Competitive until %s</string>
     <string name="server_shutting_down">El Servidor se está Cerrando…</string>
     <string name="server_rebooting">El Servidor se está Reiniciando. Por favor, intenta de nuevo en breve.</string>
     <string name="server_maintenance">Ups, el Servidor está en Mantenimiento. Por favor, intenta de nuevo más tarde.</string>
@@ -1337,6 +1361,7 @@
     <string name="desc_gold_holes">Los agujeros azules tienen una probabilidad del %1$s%% de aparecer como agujeros dorados (valen 4 veces más).</string>
     <string name="desc_teleport_holes">Si están desactivados, todos los portales se reemplazarán por agujeros azules.</string>
     <string name="desc_empty">No genera comida ni voidstones, con fines de depuración.</string>
+    <string name="desc_allow_guests">Players who are not logged in can join this room. The room owner and operators can change it later with !guests.</string>
     <string name="desc_room_hidden">Tu sala no aparecerá en la lista de salas privadas; solo se puede acceder a ella especificando su nombre exacto.</string>
     <string name="scored">anotó!</string>
     <!-- Soft hint shown under the raw error in the Disconnected dialog when the drop looks like a lost network connection (not a deliberate server disconnect). Worded as "usually" on purpose - a socket error can't be proven client-vs-server. -->
@@ -1518,6 +1543,7 @@
     <string name="data_saver_latency_warning_high">Greatly increases latency</string>
     <string name="daily_reward_title">Recompensa diaria</string>
     <string name="transaction_clan_tier_daily">Recompensa diaria del nivel de clan %1$s</string>
+    <string name="transaction_clan_mail_sent">Sent Clan Mail</string>
     <string name="daily_reward_streak_title">Racha de %1$d días</string>
     <string name="daily_reward_reward">Recompensa:</string>
     <string name="daily_reward_xp_multiplier">+%1$d%% de multip. EXP</string>
@@ -1540,6 +1566,7 @@
     <string name="daily_skin_locked_dialog">Necesitas una racha de %1$d días para desbloquear esta apariencia. Tu racha actual es de %2$d días.</string>
     <string name="options_notifications">Notificaciones</string>
     <string name="notifications_received_mail">Correo recibido</string>
+    <string name="notifications_received_clan_mail">Received Clan Mail</string>
     <string name="notifications_daily_reward_reminders">Recordatorio de recompensas diarias</string>
     <string name="notifications_send_test_reminder">Enviar recordatorio de prueba</string>
     <string name="daily_reminder_push_title">¡Tu racha de %1$d días está a punto de terminar!</string>
@@ -1577,4 +1604,18 @@
     <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
     <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
     <string name="log_export_failed">Log export failed: %1$s</string>
+    <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
+    <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
+    <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>
+    <string name="play_online_feature_social">Social Features (Chat, Mail, Friends, Clans)</string>
+    <string name="play_online_feature_ranked">Leaderboards &amp; Competitive</string>
+    <string name="play_online_feature_progress">Saved Progress (Levels, XP, Statistics)</string>
+    <string name="play_online_feature_rewards">Achievements, Season Pass &amp; Daily Rewards</string>
+    <string name="play_online_feature_shop">Voidstones, Shop &amp; Boosters</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="guest_locked_item">You must be logged in to be able to unlock this.</string>
+    <string name="guest_integrity_failed">This device could not be verified, so it cannot play as a guest. Log in to play online.</string>
+    <string name="guest_play_unavailable">Guest play is not available right now. Log in to play online.</string>
+    <string name="guest_slots_full">The server has no free guest slots right now. Try again later or log in.</string>
+    <string name="guests_not_allowed_in_room">This room does not allow guests.</string>
 </resources>
