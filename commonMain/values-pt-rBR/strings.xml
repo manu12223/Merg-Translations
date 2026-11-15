@@ -18,7 +18,7 @@
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Ícones:</string>
     <string name="sound_effects_credit">Efeitos Sonoros:</string>
-    <string name="suggestions_ideas">Suggestions/Ideas:</string>
+    <string name="suggestions_ideas">Sugestões/Ideias:</string>
     <string name="translations">Traduções:</string>
     <string name="fonts">Fontes:</string>
 
@@ -220,7 +220,7 @@
     <string name="competitive_stat_losses">Derrotas</string>
     <string name="competitive_stat_win_rate">Taxa de vitórias</string>
     <string name="match_starts_in">Partida começando em…</string>
-    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="comp_matches_played">%1$d/%2$d partidas jogadas</string>
     <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Partidas em andamento</string>
@@ -305,12 +305,12 @@
     <string name="booster_autoshoot_bought">Aprimorou Auto-eject</string>
     <string name="booster_spawn_size_bought">Aprimorou Incremento de Tamanho</string>
     <string name="booster_level_short">Nv. %1$d</string>
-    <string name="profile_name_change_bought">Name change</string>
-    <string name="profile_name_color_bought">Name color unlock</string>
+    <string name="profile_name_change_bought">Alterou o nome</string>
+    <string name="profile_name_color_bought">Desbloqueou cores para o nome</string>
     <string name="profile_color_bought">Item "Alteração de cores do perfil" adquirido</string>
     <string name="profile_color_gradient_bought">Item "Gradiente para perfil" adquirido</string>
     <string name="profile_color_gradient_2_bought">Item "Gradiente 2 para perfil" adquirido</string>
-    <string name="profile_name_font_bought">Name font unlock</string>
+    <string name="profile_name_font_bought">Desbloqueou fontes para o nome</string>
     <string name="admin_deduction">Decisão Administrativa</string>
     <string name="giveaway">Prêmio do Sorteio</string>
     <string name="admin_reward_sent">Recompensa para Administrador Enviada</string>
@@ -463,8 +463,8 @@
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
     <string name="delete_account">EXCLUIR CONTA</string>
-    <string name="change_profile_name">Change Name</string>
-    <string name="enter_profile_name">Enter Name</string>
+    <string name="change_profile_name">Alterar Nome</string>
+    <string name="enter_profile_name">Insira um nome</string>
     <string name="profile_color">COR DO PERFIL</string>
     <string name="profile_text_color_white">Texto branco</string>
     <string name="profile_text_color_black">Texto preto</string>
@@ -475,7 +475,7 @@
     <string name="prerequisite_not_met">Desbloqueie %s primeiro</string>
     <string name="profile_not_viewed">É preciso ver este perfil para curtir</string>
     <string name="prerequisite_feature">Recurso necessário</string>
-    <string name="profile_name_color">NAME COLOR</string>
+    <string name="profile_name_color">CORES DO NOME</string>
     <string name="profile_not_logged_in_error">Não conectado(a). Faça login primeiro.</string>
     <string name="profile_name_changed_success">Nome alterado para %s</string>
     <string name="profile_name_change_failed">Falha na alteração do nome</string>
@@ -509,7 +509,7 @@
     <string name="unlock_name_fonts_already_unlocked">Fontes para o nome já desbloqueadas</string>
     <string name="name_font_save_success">Fonte aplicada!</string>
     <string name="name_fonts_not_unlocked">Fontes para o nome não desbloqueadas</string>
-    <string name="profile_name_font">Name Font</string>
+    <string name="profile_name_font">Fonte do Nome</string>
     <string name="name_change_success">Nome alterado para: %s</string>
     <string name="name_change_invalid_length">Nome muito longo</string>
     <string name="name_change_taken">Nome em uso</string>
@@ -541,9 +541,9 @@
     <string name="alpha_tester">Testador(a) da Versão Alpha</string>
     <string name="beta_tester">Testador(a) da Versão Beta</string>
     <string name="discord_staff">Membro Staff no Servidor do Discord</string>
-    <string name="bug_scout">Bug Scout</string>
-    <string name="bug_hunter">Bug Hunter</string>
-    <string name="bug_master">Bug Master</string>
+    <string name="bug_scout">Investigador(a) de bugs</string>
+    <string name="bug_hunter">Caçador(a) de bugs</string>
+    <string name="bug_master">Mestre dos bugs</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Presentear Voidstones</string>
@@ -769,15 +769,15 @@
     <string name="mail_title_too_long">Conteúdo do título muito longo</string>
     <string name="mail_content_too_long">Conteúdo do texto muito longo</string>
     <string name="mail_sent_success">Enviado</string>
-    <string name="mail_new_from">New Mail from %1$s</string>
-    <string name="mail_no_title">(no title)</string>
-    <string name="clan_mail">Clan Mail</string>
-    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
-    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
-    <string name="clan_mail_recipients">%1$d members</string>
-    <string name="clan_mail_no_members">No other members to mail</string>
-    <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
-    <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
+    <string name="mail_new_from">Nova mensagem de %1$s</string>
+    <string name="mail_no_title">(sem título)</string>
+    <string name="clan_mail">Mensagem do Clã</string>
+    <string name="clan_mail_new_from">Nova mensagem do clã de %1$s</string>
+    <string name="clan_mail_push_title">Mensagem do clã de %1$s</string>
+    <string name="clan_mail_recipients">%1$d membros</string>
+    <string name="clan_mail_no_members">Não há membros para enviar mensagem</string>
+    <string name="clan_mail_not_allowed">Apenas o(a) dono(a), vice-donos e admins podem enviar mensagens afiliadas ao clã</string>
+    <string name="clan_mail_price_changed">O seu clã foi alterado, agora esta mensagem afiliada ao clã custará %1$s voidstones. Pressione "Enviar" novamente para confirmar o envio.</string>
     <string name="mark_unread">Marcar como Não Lida</string>
     <string name="copy_verification_code">Copiar Código de Verificação</string>
     <string name="code_copied">Código copiado para a área de transferência!</string>
@@ -794,11 +794,11 @@
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominação</string>
-    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
+    <string name="description_domination">Cada segundo passado como o maior blob do mapa adiciona à sua pontuação; sua pontuação atual não será desfeita caso seja absorvido(a). Que estiver em 1º por mais tempo será o(a) vencedor(a)!</string>
     <string name="gamemode_trick_god">Trick God</string>
     <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
-    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
-    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
+    <string name="description_classic">Absorva blobs menores para crescer e torne-se o o maior blob do mapa. Cuidado com os jogadores que estiverem maiores do que você!</string>
+    <string name="description_teams">Equipes separadas por cores: os companheiros de equipe não poderão absorver uns aos outros. Junte massa capturando os rivais e faça a sua equipe ser a maior do mapa!</string>
     <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
     <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
     <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
