@@ -12,15 +12,15 @@
     <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">نسخ البريد</string>
-    <string name="email_support">بريد الدعم:</string>
-    <string name="developer">المطور:</string>
-    <string name="code_contribution">مساهمات الكود:</string>
-    <string name="skins">الجلود:</string>
-    <string name="graphics_icons">الرسوم/الايقونات:</string>
-    <string name="sound_effects_credit">المؤثرات الصوتية:</string>
-    <string name="suggestions_ideas">Suggestions/Ideas:</string>
-    <string name="translations">المترجمون:</string>
-    <string name="fonts">الخطوط:</string>
+    <string name="email_support">:بريد الدعم</string>
+    <string name="developer">:المطور</string>
+    <string name="code_contribution">:مساهمات الكود</string>
+    <string name="skins">:الجلود</string>
+    <string name="graphics_icons">:الرسوم/الايقونات</string>
+    <string name="sound_effects_credit">:المؤثرات الصوتية</string>
+    <string name="suggestions_ideas">:الاقتراحات / الأفكار</string>
+    <string name="translations">:المترجمون</string>
+    <string name="fonts">:الخطوط</string>
 
     <!-- Options menu !-->
     <string name="language">اللغة</string>
@@ -56,7 +56,7 @@
     <string name="language_vietnamese">Tiếng Việt | الفيتنامية</string>
     <string name="language_ukrainian">Українська | الأوكرانية</string>
     <string name="fps_cap">FPS Cap</string>
-    <string name="fps_cap_unlimited">Unlimited</string>
+    <string name="fps_cap_unlimited">غير محدود</string>
     <string name="background">الخلفية</string>
     <string name="background_black">أسود</string>
     <string name="background_white">أبيض</string>
@@ -72,9 +72,9 @@
     <string name="button_layout">تصميم الأزرار</string>
     <string name="customize">تخصيص</string>
     <string name="opacity">الشفافية</string>
-    <string name="top_button_position">Top Button Position</string>
-    <string name="top_button_position_left">Left</string>
-    <string name="top_button_position_right">Right</string>
+    <string name="top_button_position">موضع الزر العلوي</string>
+    <string name="top_button_position_left">يسار</string>
+    <string name="top_button_position_right">يمين</string>
     <string name="leaderboard_size">حجم لوحة الصدارة</string>
     <string name="sound_effects">المؤثرات الصوتية</string>
     <string name="sound_volume">مستوى الصوت</string>
@@ -88,23 +88,23 @@
     <string name="skin_outlines">حواف الدائرة</string>
     <string name="multimerg_blob2_opposite_color">الكتلة الثانية في MultiMerg بلون معاكس</string>
     <string name="delayed_auto_fire">تأخير الانقسام التلقائي/الإطلاق</string>
-    <string name="zoom_lens_size">Zoom Lens Size</string>
+    <string name="zoom_lens_size">حجم عدسة التكبير</string>
     <string name="direction_arrow">اتجاه السهم</string>
     <string name="border_above_entities">حافة الخريطة</string>
     <string name="map_border_visible">إظهار حافة الخريطة</string>
     <string name="star_background_enabled">النجوم</string>
     <string name="star_color_white">أبيض</string>
     <string name="star_color_black">أسود</string>
-    <string name="text_position">Text Position</string>
+    <string name="text_position">موضع النص</string>
     <string name="name_position_above">فوق</string>
     <string name="name_position_center">وسط</string>
     <string name="name_position_below">أسفل</string>
-    <string name="text_scale">Text Scale</string>
-    <string name="blob_text_header">Blob Text</string>
-    <string name="blob_text_ap">Achievement Points (AP)</string>
-    <string name="blob_text_connection">Connection Quality</string>
+    <string name="text_scale">حجم النص</string>
+    <string name="blob_text_header">نص الدائرة</string>
+    <string name="blob_text_ap">نقاط الإنجازات (AP)</string>
+    <string name="blob_text_connection">جودة الاتصال</string>
     <string name="blob_text_multimerg_number">MultiMerg Blob Number</string>
-    <string name="blob_text_size_all">Show on all blobs</string>
+    <string name="blob_text_size_all">إظهارها على جميع الدوائر</string>
     <string name="blob_text_size_all_warning">May negatively impact app performance</string>
     <string name="blob_text_spacing">Vertical Spacing</string>
     <string name="auto_spectate_killer">اظهار القاتل تلقائيا</string>
@@ -137,8 +137,8 @@
     <string name="decrease_bots">تقليل الروبوتات</string>
     <string name="increase_bots">زيادة الروبوتات</string>
     <string name="max_split_pieces">الحد الأقصى للانقسامات</string>
-    <string name="max_split_128_gold">128: Season Pass Gold</string>
-    <string name="max_split_128_needs_gold">128 split pieces needs Season Pass Gold</string>
+    <string name="max_split_128_gold">قسمة ١٢٨: تذكرة الموسم الذهبية</string>
+    <string name="max_split_128_needs_gold">١٢٨ قسمة: يتطلب فتح تذكرة الموسم الذهبية</string>
     <string name="room_max_split">%1$dx Split</string>
     <string name="quick_merge">تجمع سريع</string>
     <string name="force_split_on_blob_size">انقسام إجباري عند حجم معين</string>
@@ -165,10 +165,10 @@
     <string name="connected">متصل</string>
     <string name="select_server">اختيار السيرفر</string>
     <string name="server_europe">أوروبا</string>
-    <string name="server_north_america">North America</string>
+    <string name="server_north_america">أمريكا الشمالية</string>
     <string name="server_south_america">أمريكا الجنوبية</string>
     <string name="server_asia">آسيا</string>
-    <string name="server_middle_east">Middle East</string>
+    <string name="server_middle_east">الشرق الأوسط</string>
     <string name="join">دخول</string>
     <string name="create">إنشاء</string>
     <string name="create_chat_room">إنشاء غرفة دردشة</string>
@@ -215,10 +215,10 @@
     <string name="stat_draws_label"> · تعادل: </string>
     <string name="stat_losses_label"> · خسارة: </string>
     <string name="stat_winrate_label"> · معدل الفوز: </string>
-    <string name="competitive_stat_wins">Wins</string>
-    <string name="competitive_stat_draws">Draws</string>
-    <string name="competitive_stat_losses">Losses</string>
-    <string name="competitive_stat_win_rate">Win rate</string>
+    <string name="competitive_stat_wins">الانتصارات</string>
+    <string name="competitive_stat_draws">التعادلات</string>
+    <string name="competitive_stat_losses">الهزائم</string>
+    <string name="competitive_stat_win_rate">معدل الفوز</string>
     <string name="match_starts_in">المباراة تبدأ خلال…</string>
     <string name="comp_matches_played">%1$d/%2$d matches played</string>
     <string name="win_rate_na">N/A</string>
@@ -246,19 +246,20 @@
     <string name="free_voidstones_won">لقد حصلت على %d فويدستون!</string>
     <string name="free_voidstones_status">متبقي %1$d ⋅ يعاد كل %2$s</string>
     <string name="free_voidstones_left">متبقي: %d</string>
+    <string name="free_voidstones_resets_in">Resets in %1$s</string>
     <string name="pick">يختار</string>
     <string name="redeem_code">استرداد الرمز</string>
     <!-- Boosters -->
     <string name="boosters">التعزيزات</string>
     <string name="booster_permanent_upgrades">ترقيات دائمة</string>
-    <string name="booster_owned">Owned: %1$s</string>
+    <string name="booster_owned">مملوك: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">لا يوجد</string>
     <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
     <string name="booster_ad_xp_desc">شاهد فيديو للحصول على تعزيز مؤقت لنقاط الخبره!</string>
     <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
-    <string name="booster_ad_voidstone_title">Ad Voidstone Multiplier</string>
-    <string name="booster_ad_voidstone_desc">Watch a video for a temporary Voidstone multiplier!</string>
+    <string name="booster_ad_voidstone_title">مضاعفة الفويدستون عند مشاهدة الإعلانات</string>
+    <string name="booster_ad_voidstone_desc">!شاهد إعلاناً للحصول على مضاعف مؤقت للفويدستون</string>
     <string name="booster_watch_ad">شاهد إعلاناً</string>
     <string name="booster_choose_boost">اختر تعزيز نقاط الخبرة الخاص بك</string>
     <string name="booster_active">نشط</string>
@@ -268,6 +269,10 @@
     <string name="booster_autosplit">انقسام تلقائي</string>
     <string name="booster_autoshoot">مسرع الضغط</string>
     <string name="booster_spawn_size">حجم الظهور</string>
+    <string name="booster_pet_items">Pets Can Hold Items</string>
+    <string name="pet_items_none">No</string>
+    <string name="pet_items_pet1">Pet 1 Only</string>
+    <string name="pet_items_both">Pets 1 &amp; 2</string>
     <string name="speed_none">لا يوجد</string>
     <string name="speed_slow">بطيء (5/ث)</string>
     <string name="speed_medium">متوسط (10/ث)</string>
@@ -304,13 +309,14 @@
     <string name="booster_autosplit_bought">ترقية الانقسام التلقائي</string>
     <string name="booster_autoshoot_bought">ترقية الإطلاق التلقائي</string>
     <string name="booster_spawn_size_bought">ترقية حجم الظهور</string>
+    <string name="booster_pet_items_bought">Pets Can Hold Items Upgrade</string>
     <string name="booster_level_short">مستوى %1$d</string>
-    <string name="profile_name_change_bought">Name change</string>
-    <string name="profile_name_color_bought">Name color unlock</string>
+    <string name="profile_name_change_bought">تغيير الاسم</string>
+    <string name="profile_name_color_bought">فتح لون الاسم</string>
     <string name="profile_color_bought">تم شراء لون الملف الشخصي</string>
     <string name="profile_color_gradient_bought">تم شراء تدرج لون الملف الشخصي</string>
     <string name="profile_color_gradient_2_bought">تم شراء تدرج لون الملف الشخصي 2</string>
-    <string name="profile_name_font_bought">Name font unlock</string>
+    <string name="profile_name_font_bought">فتح خط الاسم</string>
     <string name="admin_deduction">خصم إداري</string>
     <string name="giveaway">جائزة السحب</string>
     <string name="admin_reward_sent">تم إرسال مكافأة الإدارة</string>
@@ -463,8 +469,8 @@
     <string name="statistics">الإحصائيات</string>
     <string name="achievements">الإنجازات</string>
     <string name="delete_account">حذف الحساب</string>
-    <string name="change_profile_name">Change Name</string>
-    <string name="enter_profile_name">Enter Name</string>
+    <string name="change_profile_name">تغيير الاسم</string>
+    <string name="enter_profile_name">أدخل الاسم</string>
     <string name="profile_color">لون الملف الشخصي</string>
     <string name="profile_text_color_white">نص أبيض</string>
     <string name="profile_text_color_black">نص أسود</string>
@@ -473,9 +479,9 @@
     <string name="profile_animated_gradient">تدرج متحرك</string>
     <string name="profile_animated_circle_gradient">تدرج دائري متحرك</string>
     <string name="prerequisite_not_met">يجب عليك فتح %s أولا</string>
-    <string name="profile_not_viewed">You need to view this profile before you can like it</string>
+    <string name="profile_not_viewed">يجب عليك رؤية هذا الملف الشخصي قبل أن تتمكن من الإعجاب به</string>
     <string name="prerequisite_feature">الميزات المطلوبة</string>
-    <string name="profile_name_color">NAME COLOR</string>
+    <string name="profile_name_color">لون الاسم</string>
     <string name="profile_not_logged_in_error">غير مسجل دخول. يرجى تسجيل الدخول أولا.</string>
     <string name="profile_name_changed_success">تم تغيير الاسم الى %s</string>
     <string name="profile_name_change_failed">فشل تغيير الاسم</string>
@@ -509,7 +515,7 @@
     <string name="unlock_name_fonts_already_unlocked">خطوط الاسم مفتوح بالفعل</string>
     <string name="name_font_save_success">تم حفظ الخط!</string>
     <string name="name_fonts_not_unlocked">لم يتم فتح خطوط الاسم</string>
-    <string name="profile_name_font">Name Font</string>
+    <string name="profile_name_font">خط الاسم</string>
     <string name="name_change_success">تم تغيير الاسم الى: %s</string>
     <string name="name_change_invalid_length">طول الاسم غير صالح</string>
     <string name="name_change_taken">الاسم مأخوذ</string>
@@ -541,9 +547,9 @@
     <string name="alpha_tester">مختبر نسخة ألفا</string>
     <string name="beta_tester">مختبر نسخة بيتا</string>
     <string name="discord_staff">طاقم الديسكورد</string>
-    <string name="bug_scout">Bug Scout</string>
-    <string name="bug_hunter">Bug Hunter</string>
-    <string name="bug_master">Bug Master</string>
+    <string name="bug_scout">كاشف الأخطاء البرمجية</string>
+    <string name="bug_hunter">صائد الأخطاء البرمجية</string>
+    <string name="bug_master">خبير الأخطاء البرمجية</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">إرسال فويدستون</string>
@@ -560,7 +566,7 @@
 
     <!-- Search Profile -->
     <string name="search_account">البحث عن حساب</string>
-    <string name="search_clan">Search Clan</string>
+    <string name="search_clan">البحث عن عشيرة</string>
     <string name="search_account_by_id_or_name">البحث عن حساب بواسطة رقم الهوية او الاسم</string>
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
@@ -595,7 +601,7 @@
     <string name="clan_join_mode_request">بالطلب فقط</string>
     <string name="clan_join_mode_private">خاصة</string>
     <string name="clan_join_mode_abandoned">مهجورة</string>
-    <string name="clan_status_full">Full</string>
+    <string name="clan_status_full">ممتلئة</string>
     <string name="clan_pending_requests">طلبات الانضمام</string>
     <string name="clan_role_owner">المالك</string>
     <string name="clan_role_co_owner">مساعد القائد</string>
@@ -650,7 +656,7 @@
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
     <string name="clan_unban_confirm">هل أنت متأكد أنك تريد إلغاء حظر "%1$s" (الهوية: %2$d)؟</string>
     <string name="clan_search_hint">البحث بالهوية أو الاسم</string>
-    <string name="clan_discover">Discover Clans</string>
+    <string name="clan_discover">عرض العشائر</string>
     <string name="clan_promote_to_owner">ترقية إلى مالك</string>
     <string name="clan_transfer_ownership_title">نقل الملكية</string>
     <string name="clan_transfer_ownership_message">أنت على وشك ترقية "%1$s" (الهوية: %2$d) إلى مالك. سيتم تخفيض رتبتك إلى مساعد القائد. لا يمكن التراجع عن هذا.\n\nاكتب هوية اللاعب للتأكيد:</string>
@@ -821,12 +827,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">المراحل</string>
-    <string name="adventure_difficulty_easy">Easy</string>
-    <string name="adventure_difficulty_medium">Medium</string>
-    <string name="adventure_difficulty_hard">Hard</string>
-    <string name="adventure_difficulty_very_hard">Very Hard</string>
-    <string name="adventure_difficulty_insane">Insane</string>
-    <string name="adventure_difficulty_extreme">Extreme</string>
+    <string name="adventure_difficulty_easy">سهل</string>
+    <string name="adventure_difficulty_medium">متوسط</string>
+    <string name="adventure_difficulty_hard">صعب</string>
+    <string name="adventure_difficulty_very_hard">صعب جدًا</string>
+    <string name="adventure_difficulty_insane">جنوني</string>
+    <string name="adventure_difficulty_extreme">الصعوبة القصوى</string>
     <string name="adventure_initializing">تهيئة…</string>
     <string name="adventure_obj_eat_all_bots">التهم جميع الروبوتات</string>
     <string name="adventure_obj_survive">انجو</string>
@@ -840,13 +846,13 @@
     <string name="adventure_obj_collect_voidstones">اجمع %d من الفويدستون</string>
     <string name="adventure_obj_eat_count_bots">التهم %d من الروبوتات</string>
     <string name="adventure_obj_boss_fight">معركة الزعيم</string>
-    <string name="adventure_obj_bonus">Survive as long as you can!</string>
-    <string name="adventure_bonus_stage">Bonus Stage</string>
+    <string name="adventure_obj_bonus">!ابقَ على قيد الحياة لأطول فترة ممكنة</string>
+    <string name="adventure_bonus_stage">مرحلة إضافية</string>
     <string name="bonus_stage_survived">Survived %s</string>
 
     <!-- Timer text !-->
     <string name="timer_time">الوقت</string>
-    <string name="timer_bonus">Bonus</string>
+    <string name="timer_bonus">وقت إضافي</string>
     <string name="timer_overtime">الوقت المتأخر</string>
     <string name="timer_overtime_count">الوقت المتأخر %d</string>
     <string name="timer_grace">جمال</string>
@@ -902,17 +908,17 @@
     <string name="emotes">التعبيرات</string>
     <string name="room_commands">اكتب !help للحصول على قائمة بالأوامر المتاحة</string>
     <string name="chat_close">إغلاق الدردشة</string>
-    <string name="chat_channel_public">PUBLIC</string>
-    <string name="clan_sys_joined">%1$s has joined the Clan!</string>
-    <string name="clan_sys_left">%1$s has left the Clan.</string>
-    <string name="clan_sys_kicked">%1$s was kicked from the Clan by %2$s</string>
-    <string name="clan_sys_banned">%1$s was banned from the Clan by %2$s</string>
+    <string name="chat_channel_public">عام</string>
+    <string name="clan_sys_joined">%1$s انضم إلى العشيرة!</string>
+    <string name="clan_sys_left">%1$s غادر العشيرة.</string>
+    <string name="clan_sys_kicked">%1$s تم طرده من العشيرة بواسطة %2$s</string>
+    <string name="clan_sys_banned">%1$s تم حظره من العشيرة بواسطة %2$s</string>
     <string name="clan_sys_promoted">%1$s was promoted to %2$s by %3$s!</string>
     <string name="clan_sys_demoted">%1$s was demoted to %2$s by %3$s!</string>
     <string name="clan_sys_achievement">%1$s unlocked the achievement %2$s</string>
     <string name="clan_sys_donated">%1$s donated %2$s Voidstones to the Clan!</string>
     <string name="clan_sys_tier">%1$s has advanced to Tier %2$s</string>
-    <string name="clan_sys_mail">%1$s sent a Clan Mail</string>
+    <string name="clan_sys_mail">%1$s أرسل بريدًا إلى العشيرة</string>
     <string name="chat_message_hint">اكتب رسالة…</string>
     <string name="chat_send_message">ارسل الرسالة</string>
     <string name="copy_name">نسخ الاسم</string>
@@ -924,13 +930,13 @@
     <string name="chat_paused">تم إيقاف المحادثة مؤقتاً</string>
     <string name="reply">رد</string>
     <string name="replying_to">الرد على %s</string>
-    <string name="chat_reply_hint">Type reply…</string>
-    <string name="chat_clear_input">Clear</string>
-    <string name="chat_not_connected">Not connected to the server. Your message was not sent.</string>
-    <string name="chat_not_delivered">Your message didn't go through. It is back in the chat box.</string>
-    <string name="chat_settings_title">Chat Settings</string>
-    <string name="chat_settings_colors">Colors</string>
-    <string name="chat_settings_texts">Texts</string>
+    <string name="chat_reply_hint">اكتب ردًا…</string>
+    <string name="chat_clear_input">مسح</string>
+    <string name="chat_not_connected">.غير متصل بالسيرفر. لم يتم إرسال رسالتك</string>
+    <string name="chat_not_delivered">.تعذّر إرسال رسالتك. تمت إعادتها إلى مربع الدردشة</string>
+    <string name="chat_settings_title">إعدادات الدردشة</string>
+    <string name="chat_settings_colors">الألوان</string>
+    <string name="chat_settings_texts">النصوص</string>
     <string name="chat_settings_layout">Layout</string>
     <string name="chat_bg_opacity">Chat Background Opacity</string>
     <string name="chat_bg_opacity_desc">How solid the chat window is. Lower values show more of the game behind it.</string>
@@ -964,8 +970,8 @@
     <string name="stage_clear">المرحلة %s تم مسح!</string>
     <string name="stage_failed">فشلت المرحلة %s!</string>
     <string name="restarting_adventure">إعادة بدء المغامرة…</string>
-    <string name="adventure_lives_left">%s lives left</string>
-    <string name="adventure_one_life_left">1 life left</string>
+    <string name="adventure_lives_left">%s المحاولات المتبقية</string>
+    <string name="adventure_one_life_left">1 محاولة متبقية</string>
     <string name="server_in_maintenance">صيانة السيرفر</string>
     <string name="server_reboot">إعادة تشغيل السيرفر</string>
     <string name="server_shutdown">إيقاف تشغيل السيرفر</string>
@@ -1001,8 +1007,8 @@
     <string name="level_number">المستوى %d</string>
     <string name="food">الطعام</string>
     <string name="voidstones">فويدستون</string>
-    <string name="xp_per_hour">XP/hour</string>
-    <string name="voidstones_per_hour">Voidstones/hour</string>
+    <string name="xp_per_hour">نقاط الخبرة / ساعة</string>
+    <string name="voidstones_per_hour">الفويدستون / ساعة</string>
     <string name="items">العناصر</string>
     <string name="blobs_eaten">الدوائر المأكولة</string>
     <string name="session_stat_size_gained">الحجم الذي تم أكله</string>
@@ -1049,7 +1055,7 @@
     <string name="dialog_previous">السابق</string>
     <string name="dialog_next">التالي</string>
     <string name="dialog_update">تحديث</string>
-    <string name="whats_new_title">What's new in Merg %1$s</string>
+    <string name="whats_new_title">ما الجديد في Merg؟ %1$s</string>
     <string name="toast_please_wait">الرجاء الانتظار</string>
     <string name="permission_denied">تم رفض الاذن</string>
     <string name="dialog_locked">مقفول</string>
@@ -1069,6 +1075,7 @@
     <string name="you_blocked_user">انت حظرت هذا اللاعب</string>
     <string name="user_blocked_you">محظور</string>
     <string name="both_blocked">قام كلا المستخدمين بحظر الاخر</string>
+    <string name="blocked_list_full">Your blocked players list is full (max 500).</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">استضافة لعبة محلية</string>
@@ -1160,22 +1167,22 @@
     <string name="custom_banner_refund">استرداد الغلاف المخصص</string>
     <string name="custom_banner_slot">غلاف %1$d</string>
     <string name="custom_banner_no_approved_image">لا يوجد غلاف معتمد في الخانة %1$d</string>
-    <string name="custom_media_title_avatar">Choose Avatar</string>
-    <string name="custom_media_title_skin">Choose Skin</string>
-    <string name="custom_media_title_banner">Choose Banner</string>
-    <string name="custom_media_title_clan_avatar">Clan Avatar</string>
-    <string name="custom_media_title_clan_banner">Clan Banner</string>
-    <string name="custom_media_in_review">In Review</string>
-    <string name="custom_media_approved">Approved</string>
-    <string name="custom_media_rejected">Rejected</string>
-    <string name="custom_media_in_use">In Use</string>
-    <string name="custom_media_use">Use</string>
-    <string name="custom_media_stop_using">Stop Using</string>
-    <string name="custom_media_delete">Delete</string>
-    <string name="custom_image_delete_confirm">Delete this image? This cannot be undone.</string>
-    <string name="custom_banner_delete_confirm">Delete this banner? This cannot be undone.</string>
-    <string name="custom_image_deleted">Image deleted</string>
-    <string name="custom_banner_deleted">Banner deleted</string>
+    <string name="custom_media_title_avatar">اختر صورة العرض</string>
+    <string name="custom_media_title_skin">اختر الجِلْد</string>
+    <string name="custom_media_title_banner">اختر الغلاف</string>
+    <string name="custom_media_title_clan_avatar">صورة العرض للعشيرة</string>
+    <string name="custom_media_title_clan_banner">غلاف العشيرة</string>
+    <string name="custom_media_in_review">قيد المراجعة</string>
+    <string name="custom_media_approved">تمت الموافقة</string>
+    <string name="custom_media_rejected">تم الرفض</string>
+    <string name="custom_media_in_use">قيد الاستخدام</string>
+    <string name="custom_media_use">استخدام</string>
+    <string name="custom_media_stop_using">توقف عن الاستخدام</string>
+    <string name="custom_media_delete">حذف</string>
+    <string name="custom_image_delete_confirm">.هل تريد حذف هذه الصورة؟ لا يمكن التراجع عن ذلك</string>
+    <string name="custom_banner_delete_confirm">.هل تريد حذف هذا الغلاف؟ لا يمكن التراجع عن ذلك</string>
+    <string name="custom_image_deleted">تم حذف الصورة</string>
+    <string name="custom_banner_deleted">تم حذف الغلاف</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">استعادة الحساب</string>
@@ -1527,7 +1534,7 @@
     <string name="ach_desc_twins">Eat a player wearing the same skin as you.</string>
     <string name="ach_title_bonus_survival">Bonus Survival %1$s</string>
     <string name="ach_desc_bonus_survival">Survive for %1$s minutes in Adventure mode's Bonus Stage.</string>
-    <string name="net_switched_to_websocket">!! تم حظر UDP، تم التحويل إلى Websocket. توقع زمن استجابة أعلى. تحقق من قواعد جدار الحماية لشبكتك، وتأكد من أن منفذ UDP رقم 9807 غير محظور. إذا كنت تلعب عبر الويب، يمكنك تجاهل هذه الرسالة.</string>
+    <string name="net_switched_to_websocket">Switched to Websocket.</string>
     <string name="net_switched_back_to_udp">تم التحويل مرة أخرى إلى UDP.</string>
     <string name="options_main">الرئيسية</string>
     <string name="options_graphics">الرسومات</string>
@@ -1604,6 +1611,38 @@
     <string name="log_upload_rate_limited">Too many log uploads right now, exporting the file instead</string>
     <string name="log_upload_failed">Could not upload the log, exporting the file instead</string>
     <string name="log_export_failed">Log export failed: %1$s</string>
+    <!-- Shop: Buy Voidstones (Google Play / App Store packs, web: shop.merg.gg) -->
+    <string name="buy_voidstones">Buy Voidstones</string>
+    <string name="iap_bonus">+%1$s Bonus</string>
+    <string name="iap_event_bonus">+%1$s Event Bonus</string>
+    <string name="iap_event_ends_in">Ends in %1$s</string>
+    <string name="iap_first_purchase_bonus">+%1$s First Purchase Bonus</string>
+    <string name="iap_voidstones_received">You received %1$s voidstones!</string>
+    <string name="iap_purchase_complete">Purchase complete</string>
+    <string name="iap_breakdown_base">Voidstones: %1$s</string>
+    <string name="iap_breakdown_bonus">Bonus: %1$s</string>
+    <string name="iap_breakdown_first">First purchase bonus: %1$s</string>
+    <string name="iap_purchase_pending">Your payment is pending. The voidstones are added as soon as it is complete.</string>
+    <string name="iap_purchase_saved">Your purchase is saved and will be added the next time you open the shop.</string>
+    <string name="iap_purchase_other_account">This purchase belongs to another Merg account on this device. Log in to that account to receive it.</string>
+    <string name="iap_purchase_test_refused">Test purchases only work on test accounts.</string>
+    <string name="iap_purchase_invalid">The store could not confirm this purchase.</string>
+    <string name="iap_purchase_failed">The purchase could not be completed. Please try again.</string>
+    <string name="iap_website_checkout_opened">The checkout opened in a new tab. Your voidstones are added automatically after payment.</string>
+    <string name="iap_website_payment_note">Payment on shop.merg.gg</string>
+    <string name="iap_store_unavailable">The store is not available right now. Please try again later.</string>
+    <string name="iap_no_packs">No voidstone packs are available right now.</string>
+    <string name="iap_gold_desc">Unlocks the Gold rewards of this season.</string>
+    <string name="iap_remove_ads_done">Ads are removed on this account.</string>
+    <string name="iap_gold_done">Season Pass Gold is unlocked for this season.</string>
+    <string name="iap_already_owned_play">You already have this, so nothing changed. Google Play refunds this purchase automatically within 3 days.</string>
+    <string name="iap_already_owned_apple">You already have this, so nothing changed. You can ask Apple for a refund at reportaproblem.apple.com.</string>
+    <string name="iap_website_item_checkout_opened">The checkout opened in a new tab. Your purchase is added automatically after payment.</string>
+    <string name="iap_owned">Owned</string>
+    <string name="iap_save_percent">Save %1$s%%</string>
+    <string name="iap_price_per_1k">%1$s / 1k</string>
+    <string name="iap_more_for_account">More for your account</string>
+    <string name="iap_flag_no_ads">No Ads</string>
     <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
     <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
     <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>

@@ -246,6 +246,7 @@
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
     <string name="free_voidstones_left">残り%d件</string>
+    <string name="free_voidstones_resets_in">Resets in %1$s</string>
     <string name="pick">選ぶ</string>
     <string name="redeem_code">コードを利用</string>
     <!-- Boosters -->
@@ -268,6 +269,10 @@
     <string name="booster_autosplit">オートスプリット</string>
     <string name="booster_autoshoot">オートイジェクト</string>
     <string name="booster_spawn_size">スポーンサイズ</string>
+    <string name="booster_pet_items">Pets Can Hold Items</string>
+    <string name="pet_items_none">No</string>
+    <string name="pet_items_pet1">Pet 1 Only</string>
+    <string name="pet_items_both">Pets 1 &amp; 2</string>
     <string name="speed_none">なし</string>
     <string name="speed_slow">スロー (5回／秒)</string>
     <string name="speed_medium">ミディアム (10回／秒)</string>
@@ -304,6 +309,7 @@
     <string name="booster_autosplit_bought">オートスプリットのアップグレード</string>
     <string name="booster_autoshoot_bought">オートイジェクトのアップグレード</string>
     <string name="booster_spawn_size_bought">スポーンサイズのアップグレード</string>
+    <string name="booster_pet_items_bought">Pets Can Hold Items Upgrade</string>
     <string name="booster_level_short">Lv %1$d</string>
     <string name="profile_name_change_bought">Name change</string>
     <string name="profile_name_color_bought">Name color unlock</string>
@@ -1069,6 +1075,7 @@
     <string name="you_blocked_user">プレイヤーをブロックしました</string>
     <string name="user_blocked_you">プレイヤーにブロックされています</string>
     <string name="both_blocked">両方のプレイヤーがブロックし合いました</string>
+    <string name="blocked_list_full">Your blocked players list is full (max 500).</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">ローカルゲームをホスト</string>
@@ -1527,7 +1534,7 @@
     <string name="ach_desc_twins">同じスキンを使っているプレイヤーを食う。</string>
     <string name="ach_title_bonus_survival">ボーナスサバイバル %1$s</string>
     <string name="ach_desc_bonus_survival">【アドベンチャー】ボーナスステージで%1$s分間生き残る。</string>
-    <string name="net_switched_to_websocket">!! UDPはブロックされ、WebSocketに切り替えました。LATが大きくなる可能性があります。UDP ポート 9807 がブロックされていないことを確認するには、ネットワークのファイアウォールルールをチェックしてください。ウェブ版でプレイしている場合は、このメッセージを無視して構いません。</string>
+    <string name="net_switched_to_websocket">WebSocketに切り替えました。</string>
     <string name="net_switched_back_to_udp">UDPに戻りました。</string>
     <string name="options_main">メイン</string>
     <string name="options_graphics">グラフィック</string>
@@ -1604,6 +1611,38 @@
     <string name="log_upload_rate_limited">アップロードログが多すぎるため、代わりにファイルをエキスポートしています</string>
     <string name="log_upload_failed">ログをアップロードできなかったため、代わりにファイルをエキスポートしています</string>
     <string name="log_export_failed">ログをエキスポートできませんでした：%1$s</string>
+    <!-- Shop: Buy Voidstones (Google Play / App Store packs, web: shop.merg.gg) -->
+    <string name="buy_voidstones">Buy Voidstones</string>
+    <string name="iap_bonus">+%1$s Bonus</string>
+    <string name="iap_event_bonus">+%1$s Event Bonus</string>
+    <string name="iap_event_ends_in">Ends in %1$s</string>
+    <string name="iap_first_purchase_bonus">+%1$s First Purchase Bonus</string>
+    <string name="iap_voidstones_received">You received %1$s voidstones!</string>
+    <string name="iap_purchase_complete">Purchase complete</string>
+    <string name="iap_breakdown_base">Voidstones: %1$s</string>
+    <string name="iap_breakdown_bonus">Bonus: %1$s</string>
+    <string name="iap_breakdown_first">First purchase bonus: %1$s</string>
+    <string name="iap_purchase_pending">Your payment is pending. The voidstones are added as soon as it is complete.</string>
+    <string name="iap_purchase_saved">Your purchase is saved and will be added the next time you open the shop.</string>
+    <string name="iap_purchase_other_account">This purchase belongs to another Merg account on this device. Log in to that account to receive it.</string>
+    <string name="iap_purchase_test_refused">Test purchases only work on test accounts.</string>
+    <string name="iap_purchase_invalid">The store could not confirm this purchase.</string>
+    <string name="iap_purchase_failed">The purchase could not be completed. Please try again.</string>
+    <string name="iap_website_checkout_opened">The checkout opened in a new tab. Your voidstones are added automatically after payment.</string>
+    <string name="iap_website_payment_note">Payment on shop.merg.gg</string>
+    <string name="iap_store_unavailable">The store is not available right now. Please try again later.</string>
+    <string name="iap_no_packs">No voidstone packs are available right now.</string>
+    <string name="iap_gold_desc">Unlocks the Gold rewards of this season.</string>
+    <string name="iap_remove_ads_done">Ads are removed on this account.</string>
+    <string name="iap_gold_done">Season Pass Gold is unlocked for this season.</string>
+    <string name="iap_already_owned_play">You already have this, so nothing changed. Google Play refunds this purchase automatically within 3 days.</string>
+    <string name="iap_already_owned_apple">You already have this, so nothing changed. You can ask Apple for a refund at reportaproblem.apple.com.</string>
+    <string name="iap_website_item_checkout_opened">The checkout opened in a new tab. Your purchase is added automatically after payment.</string>
+    <string name="iap_owned">Owned</string>
+    <string name="iap_save_percent">Save %1$s%%</string>
+    <string name="iap_price_per_1k">%1$s / 1k</string>
+    <string name="iap_more_for_account">More for your account</string>
+    <string name="iap_flag_no_ads">No Ads</string>
     <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
     <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
     <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>
