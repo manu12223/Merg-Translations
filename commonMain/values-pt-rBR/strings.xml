@@ -18,7 +18,7 @@
     <string name="skins">Skins:</string>
     <string name="graphics_icons">Gráficos/Ícones:</string>
     <string name="sound_effects_credit">Efeitos Sonoros:</string>
-    <string name="suggestions_ideas">Suggestions/Ideas:</string>
+    <string name="suggestions_ideas">Sugestões/Ideias:</string>
     <string name="translations">Traduções:</string>
     <string name="fonts">Fontes:</string>
 
@@ -220,7 +220,7 @@
     <string name="competitive_stat_losses">Derrotas</string>
     <string name="competitive_stat_win_rate">Taxa de vitórias</string>
     <string name="match_starts_in">Partida começando em…</string>
-    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="comp_matches_played">%1$d/%2$d partidas jogadas</string>
     <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Partidas em andamento</string>
@@ -246,7 +246,7 @@
     <string name="free_voidstones_won">%d Voidstones foram adicionadas à conta!</string>
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
-    <string name="free_voidstones_resets_in">Resets in %1$s</string>
+    <string name="free_voidstones_resets_in">Reinicia em %1$s</string>
     <string name="pick">Escolher</string>
     <string name="redeem_code">Resgatar Código</string>
     <!-- Boosters -->
@@ -269,10 +269,10 @@
     <string name="booster_autosplit">Auto-split</string>
     <string name="booster_autoshoot">Auto-eject</string>
     <string name="booster_spawn_size">Incremento de Tamanho</string>
-    <string name="booster_pet_items">Pets Can Hold Items</string>
-    <string name="pet_items_none">No</string>
-    <string name="pet_items_pet1">Pet 1 Only</string>
-    <string name="pet_items_both">Pets 1 &amp; 2</string>
+    <string name="booster_pet_items">Mascotes seguram ítens</string>
+    <string name="pet_items_none">Não</string>
+    <string name="pet_items_pet1">Apenas mascote 1</string>
+    <string name="pet_items_both">Mascotes 1 &amp; 2</string>
     <string name="speed_none">Nenhum</string>
     <string name="speed_slow">Lento (5/seg)</string>
     <string name="speed_medium">Médio (10/seg)</string>
@@ -306,17 +306,17 @@
     <string name="skin_bought">Skin adquirida</string>
     <string name="booster_base_xp_bought">Aprimorou Multiplicador de XP de Base</string>
     <string name="transaction_achievement_reward">Recompensa por Conquista</string>
-    <string name="booster_autosplit_bought">Aprimorou Auto-split</string>
-    <string name="booster_autoshoot_bought">Aprimorou Auto-eject</string>
-    <string name="booster_spawn_size_bought">Aprimorou Incremento de Tamanho</string>
-    <string name="booster_pet_items_bought">Pets Can Hold Items Upgrade</string>
+    <string name="booster_autosplit_bought">Aprimorou auto-split</string>
+    <string name="booster_autoshoot_bought">Aprimorou auto-eject</string>
+    <string name="booster_spawn_size_bought">Aprimorou incremento de tamanho</string>
+    <string name="booster_pet_items_bought">Aprimorou mascotes podem segurar ítens</string>
     <string name="booster_level_short">Nv. %1$d</string>
-    <string name="profile_name_change_bought">Name change</string>
-    <string name="profile_name_color_bought">Name color unlock</string>
+    <string name="profile_name_change_bought">Alterou o nome</string>
+    <string name="profile_name_color_bought">Desbloqueou cores para o nome</string>
     <string name="profile_color_bought">Item "Alteração de cores do perfil" adquirido</string>
     <string name="profile_color_gradient_bought">Item "Gradiente para perfil" adquirido</string>
     <string name="profile_color_gradient_2_bought">Item "Gradiente 2 para perfil" adquirido</string>
-    <string name="profile_name_font_bought">Name font unlock</string>
+    <string name="profile_name_font_bought">Desbloqueou fontes para o nome</string>
     <string name="admin_deduction">Decisão Administrativa</string>
     <string name="giveaway">Prêmio do Sorteio</string>
     <string name="admin_reward_sent">Recompensa para Administrador Enviada</string>
@@ -469,8 +469,8 @@
     <string name="statistics">Estatísticas</string>
     <string name="achievements">Conquistas</string>
     <string name="delete_account">EXCLUIR CONTA</string>
-    <string name="change_profile_name">Change Name</string>
-    <string name="enter_profile_name">Enter Name</string>
+    <string name="change_profile_name">Alterar Nome</string>
+    <string name="enter_profile_name">Insira um nome</string>
     <string name="profile_color">COR DO PERFIL</string>
     <string name="profile_text_color_white">Texto branco</string>
     <string name="profile_text_color_black">Texto preto</string>
@@ -481,7 +481,7 @@
     <string name="prerequisite_not_met">Desbloqueie %s primeiro</string>
     <string name="profile_not_viewed">É preciso ver este perfil para curtir</string>
     <string name="prerequisite_feature">Recurso necessário</string>
-    <string name="profile_name_color">NAME COLOR</string>
+    <string name="profile_name_color">CORES DO NOME</string>
     <string name="profile_not_logged_in_error">Não conectado(a). Faça login primeiro.</string>
     <string name="profile_name_changed_success">Nome alterado para %s</string>
     <string name="profile_name_change_failed">Falha na alteração do nome</string>
@@ -515,7 +515,7 @@
     <string name="unlock_name_fonts_already_unlocked">Fontes para o nome já desbloqueadas</string>
     <string name="name_font_save_success">Fonte aplicada!</string>
     <string name="name_fonts_not_unlocked">Fontes para o nome não desbloqueadas</string>
-    <string name="profile_name_font">Name Font</string>
+    <string name="profile_name_font">Fonte do Nome</string>
     <string name="name_change_success">Nome alterado para: %s</string>
     <string name="name_change_invalid_length">Nome muito longo</string>
     <string name="name_change_taken">Nome em uso</string>
@@ -547,9 +547,9 @@
     <string name="alpha_tester">Testador(a) da Versão Alpha</string>
     <string name="beta_tester">Testador(a) da Versão Beta</string>
     <string name="discord_staff">Membro Staff no Servidor do Discord</string>
-    <string name="bug_scout">Bug Scout</string>
-    <string name="bug_hunter">Bug Hunter</string>
-    <string name="bug_master">Bug Master</string>
+    <string name="bug_scout">Investigador(a) de bugs</string>
+    <string name="bug_hunter">Caçador(a) de bugs</string>
+    <string name="bug_master">Mestre dos bugs</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Presentear Voidstones</string>
@@ -775,15 +775,15 @@
     <string name="mail_title_too_long">Conteúdo do título muito longo</string>
     <string name="mail_content_too_long">Conteúdo do texto muito longo</string>
     <string name="mail_sent_success">Enviado</string>
-    <string name="mail_new_from">New Mail from %1$s</string>
-    <string name="mail_no_title">(no title)</string>
-    <string name="clan_mail">Clan Mail</string>
-    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
-    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
-    <string name="clan_mail_recipients">%1$d members</string>
-    <string name="clan_mail_no_members">No other members to mail</string>
-    <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
-    <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
+    <string name="mail_new_from">Nova mensagem de %1$s</string>
+    <string name="mail_no_title">(sem título)</string>
+    <string name="clan_mail">Mensagem do Clã</string>
+    <string name="clan_mail_new_from">Nova mensagem do clã de %1$s</string>
+    <string name="clan_mail_push_title">Mensagem do clã de %1$s</string>
+    <string name="clan_mail_recipients">%1$d membros</string>
+    <string name="clan_mail_no_members">Não há membros para enviar mensagens</string>
+    <string name="clan_mail_not_allowed">Apenas o(a) dono(a), vice-donos e admins podem enviar mensagens afiliadas ao clã.</string>
+    <string name="clan_mail_price_changed">O seu clã foi alterado, agora esta mensagem afiliada ao clã custará %1$s voidstones. Pressione "Enviar" novamente para confirmar o envio.</string>
     <string name="mark_unread">Marcar como Não Lida</string>
     <string name="copy_verification_code">Copiar Código de Verificação</string>
     <string name="code_copied">Código copiado para a área de transferência!</string>
@@ -800,18 +800,18 @@
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="gamemode_domination">Dominação</string>
-    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
+    <string name="description_domination">Cada segundo passado como o maior blob do mapa adiciona à sua pontuação; sua pontuação atual não será desfeita caso seja absorvido(a). Que estiver em 1º por mais tempo será o(a) vencedor(a)!</string>
     <string name="gamemode_trick_god">Trick God</string>
-    <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
-    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
-    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
-    <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
-    <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
-    <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
-    <string name="description_adventure">Beat stages with unique objectives across rising difficulties, earn rewards and see how far you can go!</string>
-    <string name="description_soccer">Shoot the ball into the enemy goal. The team with the most goals when time runs out wins!</string>
+    <string name="description_trick_god">Pontue com Trick, Pop e Ice Splits nos blobs; faça-os em sequência para combos maiores. Quem estiver com a maior pontuação do placar quando o tempo ganhar será o(a) vencedor(a)!</string>
+    <string name="description_classic">Absorva blobs menores para crescer e torne-se o o maior blob do mapa. Cuidado com os jogadores que estiverem maiores do que você!</string> 
+    <string name="description_teams">Equipes separadas por cores: os companheiros de equipe não poderão absorver uns aos outros. Junte massa capturando os rivais e faça a sua equipe ser a maior do mapa!</string>
+    <string name="description_survival">Cresça enquanto o tempo de tolerância não acaba; quando acabar, cada morte será a última jogada da partida. Seja o(a) último(a) restante ou o(a) maior quando o tempo acabar!</string>
+    <string name="description_team_survival">Sobrevivência em equipes. A última equipe restante ou a equipe com a maior massa combinada quando o tempo acabar será a vencedora!</string>
+    <string name="description_knockout">Poderá renascer livremente, mas os menores jogadores ficarão de fora do jogo de vez a cada intervalo. Seja o(a) último(a) restante!</string>
+    <string name="description_adventure">Conclua fases com objetivos únicos no decorrer de que a dificuldade aumenta, obtenha recompensas e prove sua capacidade!</string>
+    <string name="description_soccer">Chute a bola para o gol do time adversário. O time com o maior número de gols quando o tempo acabar será o vencedor!</string>
     <string name="description_competitive">Sobrevivência classificatória 1v1! Obtenha classificação derrotando adversários com habilidades semelhantes. Uma partida de 3 minutos com um acréscimo de 2 minutos começará se ambos os jogadores sobreviverem. Cada vitória fará subir no ranking global, enquanto cada derrota fará cair, mas a variação da classificação dependerá na diferença de habilidade entre você e o(a) adversário(a).</string>
-    <string name="description_multimerg">Control two blobs and swap between them with the yin-yang button. Your split pieces can eat each other, but your last piece is safe.</string>
+    <string name="description_multimerg">Controle dois blobs e alterne entre ambos usando o botão de Yin Yang. As partes divididas podem absorver umas às outras, exceto o último blob.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Minúsculo</string>
@@ -827,12 +827,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">Fase</string>
-    <string name="adventure_difficulty_easy">Easy</string>
-    <string name="adventure_difficulty_medium">Medium</string>
-    <string name="adventure_difficulty_hard">Hard</string>
-    <string name="adventure_difficulty_very_hard">Very Hard</string>
-    <string name="adventure_difficulty_insane">Insane</string>
-    <string name="adventure_difficulty_extreme">Extreme</string>
+    <string name="adventure_difficulty_easy">Fácil</string>
+    <string name="adventure_difficulty_medium">Média</string>
+    <string name="adventure_difficulty_hard">Difícil</string>
+    <string name="adventure_difficulty_very_hard">Muito difícil</string>
+    <string name="adventure_difficulty_insane">Absurda</string>
+    <string name="adventure_difficulty_extreme">Extrema</string>
     <string name="adventure_initializing">Inicializando…</string>
     <string name="adventure_obj_eat_all_bots">Absorva todos os bots</string>
     <string name="adventure_obj_survive">Sobreviva</string>
@@ -908,7 +908,7 @@
     <string name="emotes">Emotes</string>
     <string name="room_commands">Digite !help para exibir uma lista de comandos disponíveis</string>
     <string name="chat_close">Fechar Chat</string>
-    <string name="chat_channel_public">PUBLIC</string>
+    <string name="chat_channel_public">PÚBLICO</string>
     <string name="clan_sys_joined">%1$s entrou no clã!</string>
     <string name="clan_sys_left">%1$s saiu do clã.</string>
     <string name="clan_sys_kicked">%1$s foi expulso(a) do clã por %2$s</string>
@@ -918,7 +918,7 @@
     <string name="clan_sys_achievement">%1$s desbloqueou a conquista %2$s</string>
     <string name="clan_sys_donated">%1$s doou %2$s Voidstones para o clã!</string>
     <string name="clan_sys_tier">%1$s avançou para o Nível %2$s</string>
-    <string name="clan_sys_mail">%1$s sent a Clan Mail</string>
+    <string name="clan_sys_mail">%1$s enviou uma mensagem destinada ao clã</string>
     <string name="chat_message_hint">Digite uma mensagem…</string>
     <string name="chat_send_message">Enviar Mensagem</string>
     <string name="copy_name">Copiar Nome</string>
@@ -1075,7 +1075,7 @@
     <string name="you_blocked_user">Você bloqueou</string>
     <string name="user_blocked_you">Você foi bloqueado(a)</string>
     <string name="both_blocked">Ambos se bloquearam</string>
-    <string name="blocked_list_full">Your blocked players list is full (max 500).</string>
+    <string name="blocked_list_full">A sua lista de jogadores bloqueados está cheia (máx. 500).</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">HOSPEDAR LOCALMENTE</string>
@@ -1281,7 +1281,7 @@
     <string name="size">Tamanho</string>
     <string name="shots">Ejeções</string>
     <string name="bot">Bot</string>
-    <string name="player_list_guest">Guest</string>
+    <string name="player_list_guest">Convidado(a)</string>
     <string name="bots">Bots</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
@@ -1324,12 +1324,12 @@
     <string name="muted">Silenciado(a)</string>
     <string name="banned_until">Banido(a) até %s</string>
     <string name="muted_until">Silenciado(a) até %s</string>
-    <string name="comp_banned_until">Banned from Competitive until %s</string>
+    <string name="comp_banned_until">Banido(a) das competições até %s</string>
     <string name="server_shutting_down">O servidor está sendo encerrado</string>
     <string name="server_rebooting">O servidor está sendo reiniciado. Tente novamente em breve.</string>
     <string name="server_maintenance">O servidor está em manutenção. Tente novamente mais tarde.</string>
     <string name="server_overloaded">Servidor sobrecarregado</string>
-    <string name="forbidden">Proibido(a)</string>
+    <string name="forbidden">Proibido</string>
     <string name="internal_server_error">Erro Interno do Servidor</string>
     <string name="unknown_error_code">Erro desconhecido. Código %d</string>
     <string name="page_x_of_y">Página %s de %s</string>
@@ -1534,7 +1534,7 @@
     <string name="ach_desc_twins">Absorva um(a) jogador(a) que estiver usando a mesma skin que você.</string>
     <string name="ach_title_bonus_survival">Sobrevivência Bônus %1$s</string>
     <string name="ach_desc_bonus_survival">Sobreviva por %1$s minutos na fase bônus do modo Aventura.</string>
-    <string name="net_switched_to_websocket">Switched to Websocket.</string>
+    <string name="net_switched_to_websocket">Alterado para Websocket.</string>
     <string name="net_switched_back_to_udp">Alterado de volta para UDP.</string>
     <string name="options_main">Principal</string>
     <string name="options_graphics">Gráficos</string>
@@ -1612,49 +1612,49 @@
     <string name="log_upload_failed">Não foi possível enviar o log, exportando arquivo</string>
     <string name="log_export_failed">Não foi possível exportar o log: %1$s</string>
     <!-- Shop: Buy Voidstones (Google Play / App Store packs, web: shop.merg.gg) -->
-    <string name="buy_voidstones">Buy Voidstones</string>
-    <string name="iap_bonus">+%1$s Bonus</string>
-    <string name="iap_event_bonus">+%1$s Event Bonus</string>
-    <string name="iap_event_ends_in">Ends in %1$s</string>
-    <string name="iap_first_purchase_bonus">+%1$s First Purchase Bonus</string>
-    <string name="iap_voidstones_received">You received %1$s voidstones!</string>
-    <string name="iap_purchase_complete">Purchase complete</string>
+    <string name="buy_voidstones">Comprar Voidstones</string>
+    <string name="iap_bonus">+%1$s de bônus</string>
+    <string name="iap_event_bonus">+%1$s de bônus de evento</string>
+    <string name="iap_event_ends_in">Termina em %1$s</string>
+    <string name="iap_first_purchase_bonus">+%1$s de bônus de primeira aquisição</string>
+    <string name="iap_voidstones_received">Você recebeu %1$s voidstones!</string>
+    <string name="iap_purchase_complete">Compra concluída</string>
     <string name="iap_breakdown_base">Voidstones: %1$s</string>
-    <string name="iap_breakdown_bonus">Bonus: %1$s</string>
-    <string name="iap_breakdown_first">First purchase bonus: %1$s</string>
-    <string name="iap_purchase_pending">Your payment is pending. The voidstones are added as soon as it is complete.</string>
-    <string name="iap_purchase_saved">Your purchase is saved and will be added the next time you open the shop.</string>
-    <string name="iap_purchase_other_account">This purchase belongs to another Merg account on this device. Log in to that account to receive it.</string>
-    <string name="iap_purchase_test_refused">Test purchases only work on test accounts.</string>
-    <string name="iap_purchase_invalid">The store could not confirm this purchase.</string>
-    <string name="iap_purchase_failed">The purchase could not be completed. Please try again.</string>
-    <string name="iap_website_checkout_opened">The checkout opened in a new tab. Your voidstones are added automatically after payment.</string>
-    <string name="iap_website_payment_note">Payment on shop.merg.gg</string>
-    <string name="iap_store_unavailable">The store is not available right now. Please try again later.</string>
-    <string name="iap_no_packs">No voidstone packs are available right now.</string>
-    <string name="iap_gold_desc">Unlocks the Gold rewards of this season.</string>
-    <string name="iap_remove_ads_done">Ads are removed on this account.</string>
-    <string name="iap_gold_done">Season Pass Gold is unlocked for this season.</string>
-    <string name="iap_already_owned_play">You already have this, so nothing changed. Google Play refunds this purchase automatically within 3 days.</string>
-    <string name="iap_already_owned_apple">You already have this, so nothing changed. You can ask Apple for a refund at reportaproblem.apple.com.</string>
-    <string name="iap_website_item_checkout_opened">The checkout opened in a new tab. Your purchase is added automatically after payment.</string>
-    <string name="iap_owned">Owned</string>
-    <string name="iap_save_percent">Save %1$s%%</string>
+    <string name="iap_breakdown_bonus">Bônus: %1$s</string>
+    <string name="iap_breakdown_first">Bônus de primeira aquisição: %1$s</string>
+    <string name="iap_purchase_pending">Pagamento pendente. Os voidstones serão adicionados na conclusão do pagamento.</string>
+    <string name="iap_purchase_saved">O seu pagamento está salvo e será adicionado na próxima vez que você visitar a loja.</string>
+    <string name="iap_purchase_other_account">Esta compra pentence a uma outra conta do Merg neste dispositivo. Entre nessa conta para obtê-la.</string>
+    <string name="iap_purchase_test_refused">Compras de teste funcionam apenas nas contas de teste.</string>
+    <string name="iap_purchase_invalid">Não foi possível confirmar esta compra pela loja.</string>
+    <string name="iap_purchase_failed">Não foi possível concluir esta compra. Tente novamentec.</string>
+    <string name="iap_website_checkout_opened">O caixa abriu em uma nova aba. Os voidstones serão adicionados automaticamente após o pagamento.</string>
+    <string name="iap_website_payment_note">Pagamento em shop.merg.gg</string>
+    <string name="iap_store_unavailable">No momento, a loja está indisponível. Tente novamente mais tarde.</string>
+    <string name="iap_no_packs">No momento, não há pacotes de voidstones disponíveis.</string>
+    <string name="iap_gold_desc">Desbloqueia as recompensas do Gold nesta temporada.</string>
+    <string name="iap_remove_ads_done">Os anúncios foram removidos nesta conta.</string>
+    <string name="iap_gold_done">O Passe de Temporada Gold está desbloqueado nesta temporada.</string>
+    <string name="iap_already_owned_play">Você já possui este item. O Google Play reembolsará esta compra automaticamente em um prazo de 3 dias.</string>
+    <string name="iap_already_owned_apple">Você já possui este item. É possível solicitar um reembolso à Apple em reportaproblem.apple.com.</string>
+    <string name="iap_website_item_checkout_opened">O caixa abriu em uma nova aba. A sua compra será adicionada automaticamente após o pagamento.</string>
+    <string name="iap_owned">Possui</string>
+    <string name="iap_save_percent">Poupe %1$s%%</string>
     <string name="iap_price_per_1k">%1$s / 1k</string>
-    <string name="iap_more_for_account">More for your account</string>
-    <string name="iap_flag_no_ads">No Ads</string>
-    <string name="play_online_intro">Log in or create a free account to have access to ALL these features:</string>
-    <string name="play_online_feature_customization">Name &amp; Profile Customization</string>
-    <string name="play_online_feature_cosmetics">%1$d Unique Skins, Pets and Particles, plus your own Custom Skin</string>
-    <string name="play_online_feature_social">Social Features (Chat, Mail, Friends, Clans)</string>
-    <string name="play_online_feature_ranked">Leaderboards &amp; Competitive</string>
-    <string name="play_online_feature_progress">Saved Progress (Levels, XP, Statistics)</string>
-    <string name="play_online_feature_rewards">Achievements, Season Pass &amp; Daily Rewards</string>
-    <string name="play_online_feature_shop">Voidstones, Shop &amp; Boosters</string>
-    <string name="continue_as_guest">Continue as Guest</string>
-    <string name="guest_locked_item">You must be logged in to be able to unlock this.</string>
-    <string name="guest_integrity_failed">This device could not be verified, so it cannot play as a guest. Log in to play online.</string>
-    <string name="guest_play_unavailable">Guest play is not available right now. Log in to play online.</string>
-    <string name="guest_slots_full">The server has no free guest slots right now. Try again later or log in.</string>
-    <string name="guests_not_allowed_in_room">This room does not allow guests.</string>
+    <string name="iap_more_for_account">Mais para a sua conta</string>
+    <string name="iap_flag_no_ads">Remover Anúncios</string>
+    <string name="play_online_intro">Entre ou crie uma conta gratuitamente para obter acesso a TODOS os recursos abaixo:</string>
+    <string name="play_online_feature_customization">Personalização do nome e perfil</string>
+    <string name="play_online_feature_cosmetics">%1$d skins, mascotes e partículas únicos e a possibilidade de envio das suas próprias</string>
+    <string name="play_online_feature_social">Recursos de comunicação (chat, e-mail, amigos, clãs)</string>
+    <string name="play_online_feature_ranked">Placar de líderes e partidas competitivas</string>
+    <string name="play_online_feature_progress">Salvamento do progresso (nível, XP, estatísticas)</string>
+    <string name="play_online_feature_rewards">Conquistas, Passe de Temporada e recompensas diárias</string>
+    <string name="play_online_feature_shop">Voidstones, loja e incrementos</string>
+    <string name="continue_as_guest">Continuar como Convidado(a)</string>
+    <string name="guest_locked_item">É necessário entrar em uma conta para desbloquear este item.</string>
+    <string name="guest_integrity_failed">Não foi possível verificar este dispositivo e, portanto, não é possível entrar como convidado(a). Conecte-se a uma conta para jogar online.</string>
+    <string name="guest_play_unavailable">No momento, não é possível jogar como convidado(a). Conecte-se a uma conta para jogar online.</string>
+    <string name="guest_slots_full">No momento, não há vagas disponíveis para convidados no servidor atual. Tente novamente mais tarde ou conecte-se a uma conta.</string>
+    <string name="guests_not_allowed_in_room">Esta sala não permite convidados.</string>
 </resources>
