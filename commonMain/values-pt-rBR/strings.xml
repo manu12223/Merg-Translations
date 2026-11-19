@@ -309,7 +309,7 @@
     <string name="booster_autosplit_bought">Aprimorou auto-split</string>
     <string name="booster_autoshoot_bought">Aprimorou auto-eject</string>
     <string name="booster_spawn_size_bought">Aprimorou incremento de tamanho</string>
-    <string name="booster_pet_items_bought">Aprimorou mascotes podem segurar ítens</string>
+    <string name="booster_pet_items_bought">Aprimorou mascotes seguram ítens</string>
     <string name="booster_level_short">Nv. %1$d</string>
     <string name="profile_name_change_bought">Alterou o nome</string>
     <string name="profile_name_color_bought">Desbloqueou cores para o nome</string>
