@@ -303,8 +303,8 @@
     <string name="in_app_purchase">Compras no app</string>
     <string name="voidstone_gift_received">Presente de Voidstones recebido</string>
     <string name="voidstone_gift_send">Enviar Voidstones</string>
-    <string name="skin_bought">Skin adquirida</string>
-    <string name="booster_base_xp_bought">Aprimorou Multiplicador de XP de Base</string>
+    <string name="skin_bought">Adquiriu skin</string>
+    <string name="booster_base_xp_bought">Aprimorou multiplicador de XP de base</string>
     <string name="transaction_achievement_reward">Recompensa por Conquista</string>
     <string name="booster_autosplit_bought">Aprimorou auto-split</string>
     <string name="booster_autoshoot_bought">Aprimorou auto-eject</string>
@@ -313,9 +313,9 @@
     <string name="booster_level_short">Nv. %1$d</string>
     <string name="profile_name_change_bought">Alterou o nome</string>
     <string name="profile_name_color_bought">Desbloqueou cores para o nome</string>
-    <string name="profile_color_bought">Item "Alteração de cores do perfil" adquirido</string>
-    <string name="profile_color_gradient_bought">Item "Gradiente para perfil" adquirido</string>
-    <string name="profile_color_gradient_2_bought">Item "Gradiente 2 para perfil" adquirido</string>
+    <string name="profile_color_bought">Desbloqueou cores do perfil</string>
+    <string name="profile_color_gradient_bought">Desbloqueou gradiente para o qperfil</string>
+    <string name="profile_color_gradient_2_bought">Desbloqueou gradiente 2 para o perfil</string>
     <string name="profile_name_font_bought">Desbloqueou fontes para o nome</string>
     <string name="admin_deduction">Decisão Administrativa</string>
     <string name="giveaway">Prêmio do Sorteio</string>
