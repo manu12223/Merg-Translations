@@ -55,8 +55,8 @@
     <string name="language_turkish">Türkçe｜トルコ語</string>
     <string name="language_vietnamese">Tiếng Việt｜ベトナム語</string>
     <string name="language_ukrainian">Українська｜ウクライナ語</string>
-    <string name="fps_cap">FPS Cap</string>
-    <string name="fps_cap_unlimited">Unlimited</string>
+    <string name="fps_cap">FPSの上限</string>
+    <string name="fps_cap_unlimited">無制限</string>
     <string name="background">背景</string>
     <string name="background_black">黒</string>
     <string name="background_white">白</string>
@@ -110,7 +110,7 @@
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
     <string name="verbose_in_game_ui">ゲーム内UIの詳細表示</string>
-    <string name="announce_tricks">Announce Tricks</string>
+    <string name="announce_tricks">トリックの通知</string>
     <string name="jitter_buffer">ジッターバッファー</string>
     <string name="extrapolation">外挿</string>
     <string name="no_interpolation">補間なし</string>
@@ -138,8 +138,8 @@
     <string name="increase_bots">ボット量を上げる</string>
     <string name="max_split_pieces">最大スプリット数:</string>
     <string name="max_split_128_gold">128：シーズンパスGoldの機能</string>
-    <string name="max_split_128_needs_gold">128スプリットがシーズンパスGoldの機能です</string>
-    <string name="room_max_split">%1$dx Split</string>
+    <string name="max_split_128_needs_gold">スプリット ×128 がシーズンパスGoldの機能です</string>
+    <string name="room_max_split">スプリット ×%1$d</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="force_split_on_blob_size">ブロブのサイズで強制スプリット</string>
     <string name="custom_shot_size_multiplier">カスタムイジェクトサイズ倍率を使用</string>
@@ -168,7 +168,7 @@
     <string name="server_north_america">北米</string>
     <string name="server_south_america">南米</string>
     <string name="server_asia">アジア</string>
-    <string name="server_middle_east">Middle East</string>
+    <string name="server_middle_east">中東</string>
     <string name="join">参加</string>
     <string name="create">作成</string>
     <string name="create_chat_room">チャットルームの作成</string>
@@ -215,12 +215,12 @@
     <string name="stat_draws_label"> · 引分回数: </string>
     <string name="stat_losses_label"> · 敗戦回数: </string>
     <string name="stat_winrate_label"> · 勝率: </string>
-    <string name="competitive_stat_wins">Wins</string>
-    <string name="competitive_stat_draws">Draws</string>
-    <string name="competitive_stat_losses">Losses</string>
-    <string name="competitive_stat_win_rate">Win rate</string>
+    <string name="competitive_stat_wins">勝利回数</string>
+    <string name="competitive_stat_draws">引分回数</string>
+    <string name="competitive_stat_losses">敗戦回数</string>
+    <string name="competitive_stat_win_rate">勝率</string>
     <string name="match_starts_in">マッチの開始…</string>
-    <string name="comp_matches_played">%1$d/%2$d matches played</string>
+    <string name="comp_matches_played">試合数：%1$d/%2$d</string>
     <string name="win_rate_na">N/A</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">進行中マッチ</string>
@@ -256,10 +256,10 @@
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">なし</string>
     <string name="booster_ad_xp_title">広告経験値倍率</string>
-    <string name="booster_ad_xp_desc">広告を視聴して一時的なブーストをゲットしよう！</string>
+    <string name="booster_ad_xp_desc">広告を視聴して一時的な経験値ブーストをゲットしましょう！</string>
     <string name="booster_stacks_base_xp">基本経験値と重複</string>
-    <string name="booster_ad_voidstone_title">Ad Voidstone Multiplier</string>
-    <string name="booster_ad_voidstone_desc">Watch a video for a temporary Voidstone multiplier!</string>
+    <string name="booster_ad_voidstone_title">広告ボイドストーン倍率</string>
+    <string name="booster_ad_voidstone_desc">広告を視聴して一時的なボイドストーンブーストをゲットしましょう！</string>
     <string name="booster_watch_ad">広告視聴</string>
     <string name="booster_choose_boost">経験値ブーストの選択</string>
     <string name="booster_active">有効</string>
@@ -269,10 +269,10 @@
     <string name="booster_autosplit">オートスプリット</string>
     <string name="booster_autoshoot">オートイジェクト</string>
     <string name="booster_spawn_size">スポーンサイズ</string>
-    <string name="booster_pet_items">Pets Can Hold Items</string>
-    <string name="pet_items_none">No</string>
-    <string name="pet_items_pet1">Pet 1 Only</string>
-    <string name="pet_items_both">Pets 1 &amp; 2</string>
+    <string name="booster_pet_items">アイテムを持っているペット</string>
+    <string name="pet_items_none">OFF</string>
+    <string name="pet_items_pet1">ペット 1 のみ</string>
+    <string name="pet_items_both">両方</string>
     <string name="speed_none">なし</string>
     <string name="speed_slow">スロー (5回／秒)</string>
     <string name="speed_medium">ミディアム (10回／秒)</string>
@@ -309,14 +309,14 @@
     <string name="booster_autosplit_bought">オートスプリットのアップグレード</string>
     <string name="booster_autoshoot_bought">オートイジェクトのアップグレード</string>
     <string name="booster_spawn_size_bought">スポーンサイズのアップグレード</string>
-    <string name="booster_pet_items_bought">Pets Can Hold Items Upgrade</string>
+    <string name="booster_pet_items_bought">アイテムを持っているペットのアップグレード</string>
     <string name="booster_level_short">Lv %1$d</string>
-    <string name="profile_name_change_bought">Name change</string>
-    <string name="profile_name_color_bought">Name color unlock</string>
+    <string name="profile_name_change_bought">ネームの変更</string>
+    <string name="profile_name_color_bought">ネームカラーのアンロック</string>
     <string name="profile_color_bought">プロフィール背景カラーの購入</string>
     <string name="profile_color_gradient_bought">プロフィール背景グラデーションの購入</string>
     <string name="profile_color_gradient_2_bought">プロフィール背景3色のグラデーションの購入</string>
-    <string name="profile_name_font_bought">Name font unlock</string>
+    <string name="profile_name_font_bought">ネームフォントのアンロック</string>
     <string name="admin_deduction">アドミン控除</string>
     <string name="giveaway">プレゼントリワード</string>
     <string name="admin_reward_sent">アドミンリワードの送付</string>
@@ -469,8 +469,8 @@
     <string name="statistics">統計</string>
     <string name="achievements">実績</string>
     <string name="delete_account">アカウント削除</string>
-    <string name="change_profile_name">Change Name</string>
-    <string name="enter_profile_name">Enter Name</string>
+    <string name="change_profile_name">名前変更</string>
+    <string name="enter_profile_name">名前の入力</string>
     <string name="profile_color">プロフィール背景カラー</string>
     <string name="profile_text_color_white">ホワイトテキスト</string>
     <string name="profile_text_color_black">ブラックテキスト</string>
@@ -481,7 +481,7 @@
     <string name="prerequisite_not_met">『%s』をアンロックしてください</string>
     <string name="profile_not_viewed">このプロフィールを表示していいねしてください</string>
     <string name="prerequisite_feature">必要機能</string>
-    <string name="profile_name_color">NAME COLOR</string>
+    <string name="profile_name_color">ネームカラー</string>
     <string name="profile_not_logged_in_error">サインインしてください</string>
     <string name="profile_name_changed_success">名前を「%s」に変更しました</string>
     <string name="profile_name_change_failed">名前が変更できませんでした</string>
@@ -547,9 +547,9 @@
     <string name="alpha_tester">アルファテスター</string>
     <string name="beta_tester">ベータテスター</string>
     <string name="discord_staff">Discordサーバーでのスタッフメンバー</string>
-    <string name="bug_scout">Bug Scout</string>
-    <string name="bug_hunter">Bug Hunter</string>
-    <string name="bug_master">Bug Master</string>
+    <string name="bug_scout">バグスカウト</string>
+    <string name="bug_hunter">バグハンター</string>
+    <string name="bug_master">バグマスター</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">ボイドストーンを贈る</string>
@@ -635,7 +635,7 @@
     <string name="clan_player_invite_list_full">このユーザーの保留中招待はすでに上限に達しています。</string>
     <string name="clan_request_list_full">このクランの加入申請リストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーンを寄付</string>
-    <string name="clan_donate_hint">100 – 1,000,000</string>
+    <string name="clan_donate_hint">100枚〜1,000,000枚</string>
     <string name="clan_donate_sent">寄付が完了しました！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
     <string name="clan_already_requested">すでに別のクランとの保留中加入申請があります。</string>
@@ -737,7 +737,7 @@
     <string name="stat_stages_cleared">クリアしたステージ数:</string>
     <string name="stat_highest_stage">最高ステージ:</string>
     <string name="stat_adventures_completed">クリアしたアドベンチャー数:</string>
-    <string name="stat_bonus_longest_survival">Bonus Stage Record:</string>
+    <string name="stat_bonus_longest_survival">ボーナスステージの最長生き残った時間：</string>
     <string name="stat_goals_scored">ゴール回数:</string>
     <string name="stat_collisions">衝突数:</string>
     <string name="stat_boosts">ブースト回数:</string>
@@ -775,13 +775,13 @@
     <string name="mail_title_too_long">タイトルが長すぎます</string>
     <string name="mail_content_too_long">テキストが長すぎます</string>
     <string name="mail_sent_success">送信が完了しました！</string>
-    <string name="mail_new_from">New Mail from %1$s</string>
-    <string name="mail_no_title">(no title)</string>
-    <string name="clan_mail">Clan Mail</string>
-    <string name="clan_mail_new_from">New Clan Mail from %1$s</string>
-    <string name="clan_mail_push_title">Clan Mail from %1$s</string>
-    <string name="clan_mail_recipients">%1$d members</string>
-    <string name="clan_mail_no_members">No other members to mail</string>
+    <string name="mail_new_from">「%1$s」さんからの新着メール</string>
+    <string name="mail_no_title">（タイトルなし）</string>
+    <string name="clan_mail">グランメール</string>
+    <string name="clan_mail_new_from">「%1$s」さんからの新着クランメール</string>
+    <string name="clan_mail_push_title">「%1$s」さんからのクランメール</string>
+    <string name="clan_mail_recipients">メンバー数 %1$d人</string>
+    <string name="clan_mail_no_members">メールを送信できるメンバーはありません</string>
     <string name="clan_mail_not_allowed">Only the clan owner, co-owners and admins can send Clan Mail</string>
     <string name="clan_mail_price_changed">Your clan changed, so this Clan Mail now costs %1$s voidstones. Tap Send again to send it.</string>
     <string name="mark_unread">未読にする</string>
@@ -827,12 +827,12 @@
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">ステージ</string>
-    <string name="adventure_difficulty_easy">Easy</string>
-    <string name="adventure_difficulty_medium">Medium</string>
-    <string name="adventure_difficulty_hard">Hard</string>
-    <string name="adventure_difficulty_very_hard">Very Hard</string>
-    <string name="adventure_difficulty_insane">Insane</string>
-    <string name="adventure_difficulty_extreme">Extreme</string>
+    <string name="adventure_difficulty_easy">易しい</string>
+    <string name="adventure_difficulty_medium">普通</string>
+    <string name="adventure_difficulty_hard">難しい</string>
+    <string name="adventure_difficulty_very_hard">難しすぎ</string>
+    <string name="adventure_difficulty_insane">クレイジー</string>
+    <string name="adventure_difficulty_extreme">エクストリーム</string>
     <string name="adventure_initializing">初期化中…</string>
     <string name="adventure_obj_eat_all_bots">ボットをすべて食べよう</string>
     <string name="adventure_obj_survive">生き残ろう</string>
@@ -846,13 +846,13 @@
     <string name="adventure_obj_collect_voidstones">ボイドストーンを%d個集めよう</string>
     <string name="adventure_obj_eat_count_bots">ボットを%dつ食べよう</string>
     <string name="adventure_obj_boss_fight">ボスファイト</string>
-    <string name="adventure_obj_bonus">Survive as long as you can!</string>
-    <string name="adventure_bonus_stage">Bonus Stage</string>
-    <string name="bonus_stage_survived">Survived %s</string>
+    <string name="adventure_obj_bonus">できるだけ長く生き残れ！</string>
+    <string name="adventure_bonus_stage">ボーナスステージ</string>
+    <string name="bonus_stage_survived">生き残った時間 %s</string>
 
     <!-- Timer text !-->
     <string name="timer_time">残り時間</string>
-    <string name="timer_bonus">Bonus</string>
+    <string name="timer_bonus">ボーナス</string>
     <string name="timer_overtime">延長戦時間</string>
     <string name="timer_overtime_count">延長戦時間 %d</string>
     <string name="timer_grace">リスポーン可能時間</string>
@@ -996,9 +996,9 @@
     <string name="effective_size">表示サイズ：%d</string>
     <string name="effective_size_decimal">表示サイズ：%s</string>
     <string name="decay">サイズ減少：%.2f/s</string>
-    <string name="decay_multiplied">Decay: %1$.2f/s (×%2$s)</string>
+    <string name="decay_multiplied">サイズ減少：%1$.2f/s (×%2$s)</string>
     <string name="pieces">スプリット：%1d/%2d</string>
-    <string name="culling">Culling: %1$s%%</string>
+    <string name="culling">カリング：%1$s%%</string>
     <string name="merge">マージまで：%ss</string>
     <string name="throw_item_button">アイテムを投げる</string>
     <string name="select_throw_item">アイテムを投げるのボタンを選択</string>
@@ -1034,7 +1034,7 @@
     <string name="banned_from_room">バンされました！</string>
     <string name="enter_room_name">ルーム名を入力</string>
     <string name="room_not_found">ルームは見つかりませんでした</string>
-    <string name="room_outdated_client">Outdated Client!</string>
+    <string name="room_outdated_client">クライアントの更新が必要です！</string>
     <string name="already_in_room">すでにルームにいます！</string>
     <string name="room_closed">ルームが閉まっています</string>
     <string name="room_name">ルーム名</string>
@@ -1055,7 +1055,7 @@
     <string name="dialog_previous">前へ</string>
     <string name="dialog_next">次へ</string>
     <string name="dialog_update">更新</string>
-    <string name="whats_new_title">What's new in Merg %1$s</string>
+    <string name="whats_new_title">Merg %1$s の新機能</string>
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
@@ -1075,7 +1075,7 @@
     <string name="you_blocked_user">プレイヤーをブロックしました</string>
     <string name="user_blocked_you">プレイヤーにブロックされています</string>
     <string name="both_blocked">両方のプレイヤーがブロックし合いました</string>
-    <string name="blocked_list_full">Your blocked players list is full (max 500).</string>
+    <string name="blocked_list_full">ブロックリストが満員です。（最大500人）</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">ローカルゲームをホスト</string>
