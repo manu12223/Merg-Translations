@@ -1635,9 +1635,9 @@
     <string name="iap_gold_desc">Goldリワードを現在のシーズンにアンロックする</string>
     <string name="iap_remove_ads_done">現在のアカウントの広告は非表示されています</string>
     <string name="iap_gold_done">現在のシーズンにシーズンパスGoldがアンロックしています</string>
-    <string name="iap_already_owned_play">You already have this, so nothing changed. Google Play refunds this purchase automatically within 3 days.</string>
-    <string name="iap_already_owned_apple">You already have this, so nothing changed. You can ask Apple for a refund at reportaproblem.apple.com.</string>
-    <string name="iap_website_item_checkout_opened">The checkout opened in a new tab. Your purchase is added automatically after payment.</string>
+    <string name="iap_already_owned_play">既にこのアイテムをお待ちです。Google Playが3日以内に自動的に購入代金を返金します。</string>
+    <string name="iap_already_owned_apple">既にこのアイテムをお待ちです。Appleに返金を次のURLにアクセスすることでリクエストできます。</string>
+    <string name="iap_website_item_checkout_opened">精算が新しいタブで開きました。お支払いの完了後、購入を獲得します。</string>
     <string name="iap_owned">購入済</string>
     <string name="iap_save_percent">%1$s%% オフ</string>
     <string name="iap_price_per_1k">%1$s／1k</string>
@@ -1654,7 +1654,7 @@
     <string name="continue_as_guest">ゲストでプレイ</string>
     <string name="guest_locked_item">機能をサインインしてアンロックしてください。</string>
     <string name="guest_integrity_failed">デバイスを確認できなかったので、ゲストでプレイできません。サインインしてオンラインでプレイしてください。</string>
-    <string name="guest_play_unavailable">Guest play is not available right now. Log in to play online.</string>
-    <string name="guest_slots_full">The server has no free guest slots right now. Try again later or log in.</string>
-    <string name="guests_not_allowed_in_room">This room does not allow guests.</string>
+    <string name="guest_play_unavailable">現在、ゲストでプレイできません。サインインしてオンラインでプレイしてください。</string>
+    <string name="guest_slots_full">現在、選択したサーバーに空いているゲストスロットはありません。後で再度お試し、またはサインインしてください。</string>
+    <string name="guests_not_allowed_in_room">このルームではゲストでプレイできません。</string>
 </resources>
