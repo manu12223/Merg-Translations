@@ -1613,7 +1613,7 @@
     <string name="log_export_failed">ログをエキスポートできませんでした：%1$s</string>
     <!-- Shop: Buy Voidstones (Google Play / App Store packs, web: shop.merg.gg) -->
     <string name="buy_voidstones">ボイドストーンの購入</string>
-    <string name="iap_bonus">ポーナス ＋%1$s</string>
+    <string name="iap_bonus">ボーナス ＋%1$s</string>
     <string name="iap_event_bonus">イベントボーナス ＋%1$s</string>
     <string name="iap_event_ends_in">イベント終了までの残り時間 %1$s</string>
     <string name="iap_first_purchase_bonus">初回購入ボーナス ＋%1$s</string>
