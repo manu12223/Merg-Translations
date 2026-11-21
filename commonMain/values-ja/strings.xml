@@ -1635,8 +1635,8 @@
     <string name="iap_gold_desc">Goldリワードを現在のシーズンにアンロックする</string>
     <string name="iap_remove_ads_done">現在のアカウントの広告は非表示されています</string>
     <string name="iap_gold_done">現在のシーズンにシーズンパスGoldがアンロックしています</string>
-    <string name="iap_already_owned_play">既にこのアイテムをお待ちです。Google Playが3日以内に自動的に購入代金を返金します。</string>
-    <string name="iap_already_owned_apple">既にこのアイテムをお待ちです。Appleに返金を次のURLにアクセスすることでリクエストできます。</string>
+    <string name="iap_already_owned_play">既にこのアイテムをお持ちです。Google Playが3日以内に自動的に購入代金を返金します。</string>
+    <string name="iap_already_owned_apple">既にこのアイテムをお持ちです。Appleに返金を次のURLにアクセスすることでリクエストできます。</string>
     <string name="iap_website_item_checkout_opened">精算が新しいタブで開きました。お支払いの完了後、購入を獲得します。</string>
     <string name="iap_owned">購入済</string>
     <string name="iap_save_percent">%1$s%% オフ</string>
