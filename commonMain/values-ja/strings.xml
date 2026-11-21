@@ -1645,7 +1645,7 @@
     <string name="iap_flag_no_ads">広告を非表示</string>
     <string name="play_online_intro">ログインまたは無料で新しいアカウントを作成すると、以下の機能をお楽しみいただけます！</string>
     <string name="play_online_feature_customization">名前やプロフィールのカスタマイズ</string>
-    <string name="play_online_feature_cosmetics">%1$d種の素晴らしいスキン、ペット、パーティクルこら選ぶか、カスタムスキンをアップロードする</string>
+    <string name="play_online_feature_cosmetics">%1$d種の素晴らしいスキン、ペット、パーティクルから選ぶか、カスタムスキンをアップロードする</string>
     <string name="play_online_feature_social">チャット、メール、フレンド、クラン</string>
     <string name="play_online_feature_ranked">リーダーボード、ランクバトル</string>
     <string name="play_online_feature_progress">進捗状況のライブ更新（レベル、経験値、情報）</string>
