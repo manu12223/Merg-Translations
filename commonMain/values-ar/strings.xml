@@ -16,7 +16,7 @@
     <string name="developer">:المطور</string>
     <string name="code_contribution">:مساهمات الكود</string>
     <string name="skins">:الجلود</string>
-    <string name="graphics_icons">:الرسوم/الايقونات</string>
+    <string name="credits_design">Design:</string>
     <string name="sound_effects_credit">:المؤثرات الصوتية</string>
     <string name="suggestions_ideas">:الاقتراحات / الأفكار</string>
     <string name="translations">:المترجمون</string>
@@ -139,6 +139,11 @@
     <string name="max_split_pieces">الحد الأقصى للانقسامات</string>
     <string name="max_split_128_gold">قسمة ١٢٨: تذكرة الموسم الذهبية</string>
     <string name="max_split_128_needs_gold">١٢٨ قسمة: يتطلب فتح تذكرة الموسم الذهبية</string>
+    <string name="adventure_lives">Lives</string>
+    <string name="adventure_hardcore">Hardcore</string>
+    <string name="adventure_lives_4_gold">4: Season Pass Gold</string>
+    <string name="adventure_lives_4_needs_gold">4 lives needs Season Pass Gold</string>
+    <string name="desc_adventure_lives">How many times the room can fail a stage and replay it before the adventure restarts. Fewer lives give more XP.\n\nHardcore: no lives. Whoever dies waits until the adventure restarts or the difficulty changes, and so does whoever joins after the first stage. When nobody is left alive the adventure restarts. Hardcore gives x1.50 XP and, online, x1.50 Voidstones.</string>
     <string name="room_max_split">%1$dx Split</string>
     <string name="quick_merge">تجمع سريع</string>
     <string name="force_split_on_blob_size">انقسام إجباري عند حجم معين</string>
@@ -247,6 +252,16 @@
     <string name="free_voidstones_status">متبقي %1$d ⋅ يعاد كل %2$s</string>
     <string name="free_voidstones_left">متبقي: %d</string>
     <string name="free_voidstones_resets_in">Resets in %1$s</string>
+    <string name="free_voidstones_step_pick">Pick a square</string>
+    <string name="free_voidstones_step_watch">Watch an ad</string>
+    <string name="free_voidstones_step_win">Win what is inside</string>
+    <string name="free_voidstones_watch_ad">Watch Ad</string>
+    <string name="free_voidstones_card_title">Free</string>
+    <string name="rarity_common">Common</string>
+    <string name="rarity_uncommon">Uncommon</string>
+    <string name="rarity_rare">Rare</string>
+    <string name="rarity_epic">Epic</string>
+    <string name="rarity_legendary">Legendary</string>
     <string name="pick">يختار</string>
     <string name="redeem_code">استرداد الرمز</string>
     <!-- Boosters -->
@@ -398,6 +413,13 @@
      <string name="season_pass_missed_cd">المكافآت الفائتة</string>
      <string name="season_pass_missed_stage_free">Stage %1$d (مجانية)</string>
      <string name="season_pass_missed_stage_paid">Stage %1$d (مدفوعة)</string>
+    <string name="season_pass_missed_total">Total missed</string>
+     <string name="season_pass_rewards">Stage rewards</string>
+     <string name="season_pass_lane_free">Free</string>
+     <string name="season_pass_lane_gold">Gold</string>
+     <string name="season_pass_ready_to_claim">%1$d to claim</string>
+     <string name="season_pass_missions">Missions</string>
+     <string name="season_pass_no_tasks">No tasks active</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -972,6 +994,7 @@
     <string name="restarting_adventure">إعادة بدء المغامرة…</string>
     <string name="adventure_lives_left">%s المحاولات المتبقية</string>
     <string name="adventure_one_life_left">1 محاولة متبقية</string>
+    <string name="hardcore_out_notice">Hardcore: you are out until the adventure restarts or the difficulty changes.</string>
     <string name="server_in_maintenance">صيانة السيرفر</string>
     <string name="server_reboot">إعادة تشغيل السيرفر</string>
     <string name="server_shutdown">إيقاف تشغيل السيرفر</string>
@@ -1238,6 +1261,9 @@
     <string name="send">ارسال</string>
     <string name="sending">إرسال…</string>
     <string name="buy">شراء</string>
+    <string name="go">Go</string>
+    <string name="version_history">Version History</string>
+    <string name="latest">Latest</string>
     <string name="buying">جاري الشراء…</string>
     <string name="search">بحث</string>
     <string name="cancel">إلغاء</string>
@@ -1311,6 +1337,27 @@
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
     <string name="not_enough_voidstones">لا توجد ما يكفي من الفويدستون</string>
+    <string name="voidstones_cost">Cost</string>
+    <string name="voidstones_you_have">You have</string>
+    <string name="voidstones_clan_bank_has">Clan bank has</string>
+    <string name="voidstones_more_needed">%1$s more needed</string>
+    <string name="season_pass_stage_not_reached">You haven't reached this stage yet.</string>
+    <string name="not_enough_clan_bank_hint">Any clan member can donate voidstones to the clan bank from the clan's profile.</string>
+    <string name="negative_balance_title">Negative voidstone balance</string>
+    <string name="negative_balance_your_balance">Your balance</string>
+    <string name="negative_balance_to_zero">%1$s needed to reach zero</string>
+    <string name="negative_balance_body">Voidstones were taken back from your account after a refund, a correction or a penalty, and some had already been spent. Voidstones you earn or buy go towards this first. You can't spend voidstones until your balance is back at zero.</string>
+    <string name="negative_balance_view_history">View history</string>
+    <string name="contact_support_mistake">Think this is a mistake? Contact support.</string>
+    <string name="ban_window_comp_title">Banned from Competitive</string>
+    <string name="ban_window_body">You can't play online or use online features until the ban ends.</string>
+    <string name="ban_window_body_permanent">You can't play online or use online features.</string>
+    <string name="ban_window_comp_body">You can't play Competitive until the ban ends. Every other mode is still open.</string>
+    <string name="ban_window_comp_body_permanent">You can't play Competitive. Every other mode is still open.</string>
+    <string name="ban_window_until">Until</string>
+    <string name="ban_window_time_left">Time left</string>
+    <string name="ban_window_permanent">Permanent</string>
+    <string name="ban_window_reason">Reason</string>
     <string name="ok">حسناً</string>
     <string name="unlock_skin">فتح</string>
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
@@ -1534,6 +1581,10 @@
     <string name="ach_desc_twins">Eat a player wearing the same skin as you.</string>
     <string name="ach_title_bonus_survival">Bonus Survival %1$s</string>
     <string name="ach_desc_bonus_survival">Survive for %1$s minutes in Adventure mode's Bonus Stage.</string>
+    <string name="ach_title_clean_slate">Clean Slate %1$s</string>
+    <string name="ach_desc_clean_slate">Eat all bots in Adventure Stage %1$s.</string>
+    <string name="ach_title_full_house">Full House %1$s</string>
+    <string name="ach_desc_full_house">Defeat the Adventure Stage %1$s Boss with 8 players alive.</string>
     <string name="net_switched_to_websocket">Switched to Websocket.</string>
     <string name="net_switched_back_to_udp">تم التحويل مرة أخرى إلى UDP.</string>
     <string name="options_main">الرئيسية</string>
@@ -1563,10 +1614,17 @@
     <string name="xp_mult_shot_size_no_stats">Shot size too high: no stats</string>
     <string name="xp_mult_stats_disabled">Stats disabled in this room</string>
     <string name="xp_mult_other">Other</string>
+    <string name="mult_title">Multipliers</string>
+    <string name="vs_mult_title">Voidstone Multiplier</string>
+    <string name="vs_mult_online_only">Voidstone multipliers only count in online games.</string>
+    <string name="xp_mult_hardcore">Hardcore Adventure</string>
+    <string name="xp_mult_lives_one">Adventure with 1 life</string>
+    <string name="xp_mult_lives_two">Adventure with 2 lives</string>
     <string name="daily_reward_play_to_claim">Play at least once to claim</string>
     <string name="daily_reward_claimed">Claimed!</string>
     <string name="daily_reward_new_day_in">New day in %1$s</string>
     <string name="daily_reward_day">Day %1$d</string>
+    <string name="daily_reward_view">View</string>
     <string name="daily_reward_overview_stats">Streak: %1$d ⋅ Best: %2$d ⋅ XP Bonus: +%3$d%%</string>
     <string name="daily_reward_overview_nostats">Nostats rooms do not count towards the daily streak!</string>
     <string name="daily_reward_overview_hint">Play once a day to receive a reward, but be careful not to miss a day to avoid losing your unlocked skins and XP bonus!</string>
@@ -1613,6 +1671,7 @@
     <string name="log_export_failed">Log export failed: %1$s</string>
     <!-- Shop: Buy Voidstones (Google Play / App Store packs, web: shop.merg.gg) -->
     <string name="buy_voidstones">Buy Voidstones</string>
+    <string name="get_voidstones">Get Voidstones</string>
     <string name="iap_bonus">+%1$s Bonus</string>
     <string name="iap_event_bonus">+%1$s Event Bonus</string>
     <string name="iap_event_ends_in">Ends in %1$s</string>
@@ -1635,6 +1694,18 @@
     <string name="iap_gold_desc">Unlocks the Gold rewards of this season.</string>
     <string name="iap_remove_ads_done">Ads are removed on this account.</string>
     <string name="iap_gold_done">Season Pass Gold is unlocked for this season.</string>
+    <string name="gold_perk_voidstones">%1$s Total from Season Pass Tiers</string>
+    <string name="gold_perk_128_splits">Create 128x Split rooms</string>
+    <string name="gold_perk_xp">×1.25 %1$s Multiplier in game</string>
+    <string name="gold_perk_voidstone_multiplier">×1.25 %1$s Multiplier in game</string>
+    <string name="gold_window_needs">This needs Season Pass Gold</string>
+    <string name="gold_window_perks">What you get</string>
+    <string name="gold_window_until">Season Pass Gold lasts until the end of this season.</string>
+    <string name="gold_perk_4_lives">Create Adventure rooms with 4 lives</string>
+    <string name="gold_perk_chat_id">Gold [ID] Gradient Colour in Chat</string>
+    <string name="gold_perk_chat_id_info">Your [ID] in chat is gold while you have Season Pass Gold.</string>
+    <string name="gold_perk_chat_id_order">A YouTube, TikTok or Translator [ID] colour comes first: with one of those tags, your [ID] keeps that colour. Gold comes before the Discord Verified colour.</string>
+    <string name="gold_perk_profile_tag">%1$s Tag in your Profile</string>
     <string name="iap_already_owned_play">You already have this, so nothing changed. Google Play refunds this purchase automatically within 3 days.</string>
     <string name="iap_already_owned_apple">You already have this, so nothing changed. You can ask Apple for a refund at reportaproblem.apple.com.</string>
     <string name="iap_website_item_checkout_opened">The checkout opened in a new tab. Your purchase is added automatically after payment.</string>
