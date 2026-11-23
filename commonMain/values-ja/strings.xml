@@ -16,7 +16,7 @@
     <string name="developer">デベロッパー：</string>
     <string name="code_contribution">コードヘルパー：</string>
     <string name="skins">スキン：</string>
-    <string name="credits_design">Design:</string>
+    <string name="credits_design">デザイン：</string>
     <string name="sound_effects_credit">サウンドエフェクト：</string>
     <string name="suggestions_ideas">提案やアイデア：</string>
     <string name="translations">翻訳：</string>
@@ -139,10 +139,10 @@
     <string name="max_split_pieces">最大スプリット数:</string>
     <string name="max_split_128_gold">128：シーズンパスGoldの機能</string>
     <string name="max_split_128_needs_gold">スプリット ×128 がシーズンパスGoldの機能です</string>
-    <string name="adventure_lives">Lives</string>
-    <string name="adventure_hardcore">Hardcore</string>
-    <string name="adventure_lives_4_gold">4: Season Pass Gold</string>
-    <string name="adventure_lives_4_needs_gold">4 lives needs Season Pass Gold</string>
+    <string name="adventure_lives">ライフ</string>
+    <string name="adventure_hardcore">ハードコア</string>
+    <string name="adventure_lives_4_gold">4：シーズンパスGoldの機能</string>
+    <string name="adventure_lives_4_needs_gold">ライフ 4つ がシーズンパスGoldの機能です</string>
     <string name="desc_adventure_lives">How many times the room can fail a stage and replay it before the adventure restarts. Fewer lives give more XP.\n\nHardcore: no lives. Whoever dies waits until the adventure restarts or the difficulty changes, and so does whoever joins after the first stage. When nobody is left alive the adventure restarts. Hardcore gives x1.50 XP and, online, x1.50 Voidstones.</string>
     <string name="room_max_split">スプリット ×%1$d</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
@@ -204,7 +204,7 @@
     <string name="competitive_menu">ランクバトル</string>
     <string name="competitive_history">ランクバトルの履歴</string>
     <string name="rating_label">ランキング</string>
-    <string name="glicko_label">Glicko</string>
+    <string name="glicko_label">グリッコ</string>
     <string name="unrated">ランクなし</string>
     <string name="find_opponent">対戦相手を探す</string>
     <string name="leave_matchmaking">マッチメイキングを終了</string>
@@ -251,17 +251,17 @@
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
     <string name="free_voidstones_left">残り%d件</string>
-    <string name="free_voidstones_resets_in">Resets in %1$s</string>
-    <string name="free_voidstones_step_pick">Pick a square</string>
-    <string name="free_voidstones_step_watch">Watch an ad</string>
-    <string name="free_voidstones_step_win">Win what is inside</string>
-    <string name="free_voidstones_watch_ad">Watch Ad</string>
-    <string name="free_voidstones_card_title">Free</string>
-    <string name="rarity_common">Common</string>
-    <string name="rarity_uncommon">Uncommon</string>
-    <string name="rarity_rare">Rare</string>
-    <string name="rarity_epic">Epic</string>
-    <string name="rarity_legendary">Legendary</string>
+    <string name="free_voidstones_resets_in">%1$s後にリセット</string>
+    <string name="free_voidstones_step_pick">マスを選ぶ</string>
+    <string name="free_voidstones_step_watch">広告を視聴する</string>
+    <string name="free_voidstones_step_win">マスの中でリワードをゲットする</string>
+    <string name="free_voidstones_watch_ad">広告を視聴</string>
+    <string name="free_voidstones_card_title">無料</string>
+    <string name="rarity_common">コモン</string>
+    <string name="rarity_uncommon">アンコモン</string>
+    <string name="rarity_rare">レア</string>
+    <string name="rarity_epic">エピック</string>
+    <string name="rarity_legendary">レジェンド</string>
     <string name="pick">選ぶ</string>
     <string name="redeem_code">コードを利用</string>
     <!-- Boosters -->
@@ -413,13 +413,13 @@
      <string name="season_pass_missed_cd">未ゲットリワード</string>
      <string name="season_pass_missed_stage_free">ステージ %1$d (無料)</string>
      <string name="season_pass_missed_stage_paid">ステージ %1$d (有料)</string>
-    <string name="season_pass_missed_total">Total missed</string>
-     <string name="season_pass_rewards">Stage rewards</string>
-     <string name="season_pass_lane_free">Free</string>
+    <string name="season_pass_missed_total">未ゲット合計</string>
+     <string name="season_pass_rewards">ステージリワード</string>
+     <string name="season_pass_lane_free">無料</string>
      <string name="season_pass_lane_gold">Gold</string>
-     <string name="season_pass_ready_to_claim">%1$d to claim</string>
-     <string name="season_pass_missions">Missions</string>
-     <string name="season_pass_no_tasks">No tasks active</string>
+     <string name="season_pass_ready_to_claim">ゲットできる %1$d件</string>
+     <string name="season_pass_missions">クエスト</string>
+     <string name="season_pass_no_tasks">クエストはこちらに表示されます</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -459,8 +459,8 @@
     <string name="login">ログイン</string>
     <string name="login_google">Google でサインイン</string>
     <string name="login_apple">Apple でサインイン</string>
-    <string name="link_google">Googleのログインを連携</string>
-    <string name="link_apple">Appleのログインを連携</string>
+    <string name="link_google">Google のログインを連携</string>
+    <string name="link_apple">Apple のログインを連携</string>
     <string name="link_success">ログイン方法を連携しました！</string>
     <string name="link_already_linked">このログイン方法はすでにアカウントに連携されています。</string>
     <string name="link_identity_taken">このアカウントはすでに別のMergアカウントに連携されています。アカウントにサインインしてください。</string>
@@ -537,7 +537,7 @@
     <string name="unlock_name_fonts_already_unlocked">『ネームフォント』はすでにアンロックされています</string>
     <string name="name_font_save_success">フォントを保存しました！</string>
     <string name="name_fonts_not_unlocked">『ネームフォント』はアンロックされていません</string>
-    <string name="profile_name_font">Name Font</string>
+    <string name="profile_name_font">ネームフォント</string>
     <string name="name_change_success">名前を「%s」に変更しました</string>
     <string name="name_change_invalid_length">名前が長すぎます</string>
     <string name="name_change_taken">名前はすでに使用されています</string>
@@ -768,12 +768,12 @@
     <string name="stat_items_used">使ったアイテムの数：</string>
     <string name="stat_voidstones_gifted">贈った量：</string>
     <string name="stat_opponents_exploded">ホールで攻撃した相手の数：</string>
-    <string name="stat_trick_splits">得点TRICKスプリットの数：</string>
-    <string name="stat_trick_split_points">TRICKスプリットのポイント：</string>
-    <string name="stat_pop_splits">得点POPスプリットの数：</string>
-    <string name="stat_pop_split_points">POPスプリットのポイント：</string>
-    <string name="stat_ice_splits">得点ICEスプリットの数：</string>
-    <string name="stat_ice_split_points">ICEスプリットのポイント</string>
+    <string name="stat_trick_splits">得点TRICK SPLITの数：</string>
+    <string name="stat_trick_split_points">TRICK SPLITのポイント：</string>
+    <string name="stat_pop_splits">得点POP SPLITの数：</string>
+    <string name="stat_pop_split_points">POP SPLITのポイント：</string>
+    <string name="stat_ice_splits">得点ICE SPLITの数：</string>
+    <string name="stat_ice_split_points">ICE SPLITのポイント</string>
     <string name="stat_tricks_total">合計得点トリックの数：</string>
     <string name="stat_trick_points_total">合計トリックのポイント：</string>
     <string name="stat_trick_god_high_score">トリックゴッドの最高得点：</string>
@@ -928,7 +928,7 @@
     <!-- Chat !-->
     <string name="chat">チャット</string>
     <string name="emotes">エモート</string>
-    <string name="room_commands">「!help」を入力して使用可能なコマンドを表示</string>
+    <string name="room_commands">「!help」と入力して使用可能なコマンドを表示</string>
     <string name="chat_close">チャットを閉じる</string>
     <string name="chat_channel_public">パブリック</string>
     <string name="clan_sys_joined">「%1$s」さんがクランに参加しました！</string>
@@ -994,7 +994,7 @@
     <string name="restarting_adventure">アドベンチャーが再起動中…</string>
     <string name="adventure_lives_left">残りライフ %s</string>
     <string name="adventure_one_life_left">残りライフ 1</string>
-    <string name="hardcore_out_notice">Hardcore: you are out until the adventure restarts or the difficulty changes.</string>
+    <string name="hardcore_out_notice">ハードコア：アドベンチャーが再起動するか難易度が変わるまでお待ちください</string>
     <string name="server_in_maintenance">サーバーはメンテナンス中です</string>
     <string name="server_reboot">サーバー再起動</string>
     <string name="server_shutdown">サーバーシャットダウン</string>
@@ -1307,7 +1307,7 @@
     <string name="size">サイズ</string>
     <string name="shots">イジェクト回数</string>
     <string name="bot">ボット</string>
-    <string name="player_list_guest">Guest</string>
+    <string name="player_list_guest">ゲスト</string>
     <string name="bots">ボット数</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
@@ -1327,7 +1327,7 @@
     <string name="unknown">不明</string>
     <string name="invalid_selection">無効な選択です！</string>
     <string name="invalid_name">無効な名前です！</string>
-    <string name="content_blocked">ブロックされたコンテンツが含まれています</string>
+    <string name="content_blocked">ブロックされているコンテンツが含まれています</string>
     <string name="connecting">接続中%s</string>
     <string name="error">エラー</string>
     <string name="error_with_string">エラー: %s</string>
@@ -1337,27 +1337,27 @@
     <string name="rate_limited">%d秒ほどお待ちの上、再度お試しください。</string>
     <string name="nonexistent_user">このユーザーは見つかりませんでした</string>
     <string name="not_enough_voidstones">ボイドストーンが足りません</string>
-    <string name="voidstones_cost">Cost</string>
-    <string name="voidstones_you_have">You have</string>
-    <string name="voidstones_clan_bank_has">Clan bank has</string>
-    <string name="voidstones_more_needed">%1$s more needed</string>
-    <string name="season_pass_stage_not_reached">You haven't reached this stage yet.</string>
+    <string name="voidstones_cost">価格：</string>
+    <string name="voidstones_you_have">現在の残高：</string>
+    <string name="voidstones_clan_bank_has">クランの残高：</string>
+    <string name="voidstones_more_needed">%1$s枚が必要です</string>
+    <string name="season_pass_stage_not_reached">ステージにはまだ到達していません。</string>
     <string name="not_enough_clan_bank_hint">Any clan member can donate voidstones to the clan bank from the clan's profile.</string>
-    <string name="negative_balance_title">Negative voidstone balance</string>
-    <string name="negative_balance_your_balance">Your balance</string>
-    <string name="negative_balance_to_zero">%1$s needed to reach zero</string>
+    <string name="negative_balance_title">ボイドストーン残高がマイナス</string>
+    <string name="negative_balance_your_balance">現在の残高</string>
+    <string name="negative_balance_to_zero">ゼロにするには%1$s枚が必要です</string>
     <string name="negative_balance_body">Voidstones were taken back from your account after a refund, a correction or a penalty, and some had already been spent. Voidstones you earn or buy go towards this first. You can't spend voidstones until your balance is back at zero.</string>
-    <string name="negative_balance_view_history">View history</string>
+    <string name="negative_balance_view_history">履歴を表示</string>
     <string name="contact_support_mistake">Think this is a mistake? Contact support.</string>
-    <string name="ban_window_comp_title">Banned from Competitive</string>
+    <string name="ban_window_comp_title">ランクバトルからBAN済</string>
     <string name="ban_window_body">You can't play online or use online features until the ban ends.</string>
     <string name="ban_window_body_permanent">You can't play online or use online features.</string>
     <string name="ban_window_comp_body">You can't play Competitive until the ban ends. Every other mode is still open.</string>
     <string name="ban_window_comp_body_permanent">You can't play Competitive. Every other mode is still open.</string>
-    <string name="ban_window_until">Until</string>
-    <string name="ban_window_time_left">Time left</string>
-    <string name="ban_window_permanent">Permanent</string>
-    <string name="ban_window_reason">Reason</string>
+    <string name="ban_window_until">期間まで</string>
+    <string name="ban_window_time_left">残り時間</string>
+    <string name="ban_window_permanent">永久</string>
+    <string name="ban_window_reason">理由</string>
     <string name="ok">OK</string>
     <string name="unlock_skin">アンロック</string>
     <string name="database_write_fail">データベースが書き込めませんでした</string>
@@ -1581,8 +1581,8 @@
     <string name="ach_desc_twins">同じスキンを使っているプレイヤーを食う。</string>
     <string name="ach_title_bonus_survival">ボーナスサバイバル %1$s</string>
     <string name="ach_desc_bonus_survival">【アドベンチャー】ボーナスステージで%1$s分間生き残る。</string>
-    <string name="ach_title_clean_slate">Clean Slate %1$s</string>
-    <string name="ach_desc_clean_slate">Eat all bots in Adventure Stage %1$s.</string>
+    <string name="ach_title_clean_slate">心機一転 %1$s</string>
+    <string name="ach_desc_clean_slate">【アドベンチャー】ステージ %1$s でボットをすべて食う。</string>
     <string name="ach_title_full_house">Full House %1$s</string>
     <string name="ach_desc_full_house">Defeat the Adventure Stage %1$s Boss with 8 players alive.</string>
     <string name="net_switched_to_websocket">WebSocketに切り替えました。</string>
