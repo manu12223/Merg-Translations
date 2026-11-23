@@ -267,7 +267,7 @@
     <!-- Boosters -->
     <string name="boosters">التعزيزات</string>
     <string name="booster_permanent_upgrades">ترقيات دائمة</string>
-    <string name="booster_owned">مملوك: %1$s</string>
+    <string name="booster_owned">مملوك: ‎%1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
     <string name="none">لا يوجد</string>
     <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
