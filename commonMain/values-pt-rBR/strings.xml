@@ -16,7 +16,7 @@
     <string name="developer">Desenvolvedores:</string>
     <string name="code_contribution">Contribuidores do Código:</string>
     <string name="skins">Skins:</string>
-    <string name="graphics_icons">Gráficos/Ícones:</string>
+    <string name="credits_design">Design:</string>
     <string name="sound_effects_credit">Efeitos Sonoros:</string>
     <string name="suggestions_ideas">Sugestões/Ideias:</string>
     <string name="translations">Traduções:</string>
@@ -139,6 +139,11 @@
     <string name="max_split_pieces">Núm. máx. de splits</string>
     <string name="max_split_128_gold">128: Passe de Temporada Gold</string>
     <string name="max_split_128_needs_gold">A função de 128 splits requer o Passe de Temporada Gold</string>
+    <string name="adventure_lives">Lives</string>
+    <string name="adventure_hardcore">Hardcore</string>
+    <string name="adventure_lives_4_gold">4: Season Pass Gold</string>
+    <string name="adventure_lives_4_needs_gold">4 lives needs Season Pass Gold</string>
+    <string name="desc_adventure_lives">How many times the room can fail a stage and replay it before the adventure restarts. Fewer lives give more XP.\n\nHardcore: no lives. Whoever dies waits until the adventure restarts or the difficulty changes, and so does whoever joins after the first stage. When nobody is left alive the adventure restarts. Hardcore gives x1.50 XP and, online, x1.50 Voidstones.</string>
     <string name="room_max_split">Divisão em %1$dx</string>
     <string name="quick_merge">Juntar-se rapidamente</string>
     <string name="force_split_on_blob_size">Forçar divisão do blob</string>
@@ -247,6 +252,16 @@
     <string name="free_voidstones_status">%1$d restante(s) ⋅ Atualiza em %2$s</string>
     <string name="free_voidstones_left">%d restantes</string>
     <string name="free_voidstones_resets_in">Reinicia em %1$s</string>
+    <string name="free_voidstones_step_pick">Pick a square</string>
+    <string name="free_voidstones_step_watch">Watch an ad</string>
+    <string name="free_voidstones_step_win">Win what is inside</string>
+    <string name="free_voidstones_watch_ad">Watch Ad</string>
+    <string name="free_voidstones_card_title">Free</string>
+    <string name="rarity_common">Common</string>
+    <string name="rarity_uncommon">Uncommon</string>
+    <string name="rarity_rare">Rare</string>
+    <string name="rarity_epic">Epic</string>
+    <string name="rarity_legendary">Legendary</string>
     <string name="pick">Escolher</string>
     <string name="redeem_code">Resgatar Código</string>
     <!-- Boosters -->
@@ -398,6 +413,13 @@
      <string name="season_pass_missed_cd">Recompensas Não-resgatadas</string>
      <string name="season_pass_missed_stage_free">Fase %1$d (Grátis)</string>
      <string name="season_pass_missed_stage_paid">Fase %1$d (Pago)</string>
+    <string name="season_pass_missed_total">Total missed</string>
+     <string name="season_pass_rewards">Stage rewards</string>
+     <string name="season_pass_lane_free">Free</string>
+     <string name="season_pass_lane_gold">Gold</string>
+     <string name="season_pass_ready_to_claim">%1$d to claim</string>
+     <string name="season_pass_missions">Missions</string>
+     <string name="season_pass_no_tasks">No tasks active</string>
 
      <!-- Season Pass task titles — one per event_type. Catalog in
           season_task_templates table; the client looks these up by
@@ -803,7 +825,7 @@
     <string name="description_domination">Cada segundo passado como o maior blob do mapa adiciona à sua pontuação; sua pontuação atual não será desfeita caso seja absorvido(a). Que estiver em 1º por mais tempo será o(a) vencedor(a)!</string>
     <string name="gamemode_trick_god">Trick God</string>
     <string name="description_trick_god">Pontue com Trick, Pop e Ice Splits nos blobs; faça-os em sequência para combos maiores. Quem estiver com a maior pontuação do placar quando o tempo ganhar será o(a) vencedor(a)!</string>
-    <string name="description_classic">Absorva blobs menores para crescer e torne-se o o maior blob do mapa. Cuidado com os jogadores que estiverem maiores do que você!</string> 
+    <string name="description_classic">Absorva blobs menores para crescer e torne-se o o maior blob do mapa. Cuidado com os jogadores que estiverem maiores do que você!</string>
     <string name="description_teams">Equipes separadas por cores: os companheiros de equipe não poderão absorver uns aos outros. Junte massa capturando os rivais e faça a sua equipe ser a maior do mapa!</string>
     <string name="description_survival">Cresça enquanto o tempo de tolerância não acaba; quando acabar, cada morte será a última jogada da partida. Seja o(a) último(a) restante ou o(a) maior quando o tempo acabar!</string>
     <string name="description_team_survival">Sobrevivência em equipes. A última equipe restante ou a equipe com a maior massa combinada quando o tempo acabar será a vencedora!</string>
@@ -972,6 +994,7 @@
     <string name="restarting_adventure">Reiniciando aventura…</string>
     <string name="adventure_lives_left">%s vidas restantes</string>
     <string name="adventure_one_life_left">1 vida restante</string>
+    <string name="hardcore_out_notice">Hardcore: you are out until the adventure restarts or the difficulty changes.</string>
     <string name="server_in_maintenance">Manutenção do Servidor</string>
     <string name="server_reboot">Reinício do Servidor</string>
     <string name="server_shutdown">Encerramento do Servidor</string>
@@ -1238,6 +1261,9 @@
     <string name="send">Enviar</string>
     <string name="sending">Enviando…</string>
     <string name="buy">Comprar</string>
+    <string name="go">Go</string>
+    <string name="version_history">Version History</string>
+    <string name="latest">Latest</string>
     <string name="buying">Comprando…</string>
     <string name="search">Procurar</string>
     <string name="cancel">Cancelar</string>
@@ -1311,6 +1337,27 @@
     <string name="rate_limited">Aguarde %d segundo(s) e tente novamente.</string>
     <string name="nonexistent_user">Usuário não encontrado</string>
     <string name="not_enough_voidstones">Voidstones insuficientes</string>
+    <string name="voidstones_cost">Cost</string>
+    <string name="voidstones_you_have">You have</string>
+    <string name="voidstones_clan_bank_has">Clan bank has</string>
+    <string name="voidstones_more_needed">%1$s more needed</string>
+    <string name="season_pass_stage_not_reached">You haven't reached this stage yet.</string>
+    <string name="not_enough_clan_bank_hint">Any clan member can donate voidstones to the clan bank from the clan's profile.</string>
+    <string name="negative_balance_title">Negative voidstone balance</string>
+    <string name="negative_balance_your_balance">Your balance</string>
+    <string name="negative_balance_to_zero">%1$s needed to reach zero</string>
+    <string name="negative_balance_body">Voidstones were taken back from your account after a refund, a correction or a penalty, and some had already been spent. Voidstones you earn or buy go towards this first. You can't spend voidstones until your balance is back at zero.</string>
+    <string name="negative_balance_view_history">View history</string>
+    <string name="contact_support_mistake">Think this is a mistake? Contact support.</string>
+    <string name="ban_window_comp_title">Banned from Competitive</string>
+    <string name="ban_window_body">You can't play online or use online features until the ban ends.</string>
+    <string name="ban_window_body_permanent">You can't play online or use online features.</string>
+    <string name="ban_window_comp_body">You can't play Competitive until the ban ends. Every other mode is still open.</string>
+    <string name="ban_window_comp_body_permanent">You can't play Competitive. Every other mode is still open.</string>
+    <string name="ban_window_until">Until</string>
+    <string name="ban_window_time_left">Time left</string>
+    <string name="ban_window_permanent">Permanent</string>
+    <string name="ban_window_reason">Reason</string>
     <string name="ok">OK</string>
     <string name="unlock_skin">Desbloquear</string>
     <string name="database_write_fail">Falha no salvamento do banco de dados</string>
@@ -1534,6 +1581,10 @@
     <string name="ach_desc_twins">Absorva um(a) jogador(a) que estiver usando a mesma skin que você.</string>
     <string name="ach_title_bonus_survival">Sobrevivência Bônus %1$s</string>
     <string name="ach_desc_bonus_survival">Sobreviva por %1$s minutos na fase bônus do modo Aventura.</string>
+    <string name="ach_title_clean_slate">Clean Slate %1$s</string>
+    <string name="ach_desc_clean_slate">Eat all bots in Adventure Stage %1$s.</string>
+    <string name="ach_title_full_house">Full House %1$s</string>
+    <string name="ach_desc_full_house">Defeat the Adventure Stage %1$s Boss with 8 players alive.</string>
     <string name="net_switched_to_websocket">Alterado para Websocket.</string>
     <string name="net_switched_back_to_udp">Alterado de volta para UDP.</string>
     <string name="options_main">Principal</string>
@@ -1563,10 +1614,17 @@
     <string name="xp_mult_shot_size_no_stats">Tamanho da ejeção elevado: nenhuma estatística</string>
     <string name="xp_mult_stats_disabled">Estatísticas desativadas nesta sala</string>
     <string name="xp_mult_other">Outros</string>
+    <string name="mult_title">Multipliers</string>
+    <string name="vs_mult_title">Voidstone Multiplier</string>
+    <string name="vs_mult_online_only">Voidstone multipliers only count in online games.</string>
+    <string name="xp_mult_hardcore">Hardcore Adventure</string>
+    <string name="xp_mult_lives_one">Adventure with 1 life</string>
+    <string name="xp_mult_lives_two">Adventure with 2 lives</string>
     <string name="daily_reward_play_to_claim">Jogue pelo menos uma vez para obter</string>
     <string name="daily_reward_claimed">Resgatado!</string>
     <string name="daily_reward_new_day_in">Próximo dia em %1$s</string>
     <string name="daily_reward_day">Dia %1$d</string>
+    <string name="daily_reward_view">View</string>
     <string name="daily_reward_overview_stats">Ofensiva: %1$d ⋅ Melhor: %2$d ⋅ Bônus de XP: +%3$d%%</string>
     <string name="daily_reward_overview_nostats">As salas sem estatísticas não contarão para a ofensiva diária!</string>
     <string name="daily_reward_overview_hint">Jogue uma vez por dia para obter recompensas, mas cuidado para não passar um dia para não perder as skins desbloqueadas e o bônus de XP!</string>
@@ -1613,6 +1671,7 @@
     <string name="log_export_failed">Não foi possível exportar o log: %1$s</string>
     <!-- Shop: Buy Voidstones (Google Play / App Store packs, web: shop.merg.gg) -->
     <string name="buy_voidstones">Comprar Voidstones</string>
+    <string name="get_voidstones">Get Voidstones</string>
     <string name="iap_bonus">+%1$s de bônus</string>
     <string name="iap_event_bonus">+%1$s de bônus de evento</string>
     <string name="iap_event_ends_in">Termina em %1$s</string>
@@ -1635,6 +1694,18 @@
     <string name="iap_gold_desc">Desbloqueia as recompensas do Gold nesta temporada.</string>
     <string name="iap_remove_ads_done">Os anúncios foram removidos nesta conta.</string>
     <string name="iap_gold_done">O Passe de Temporada Gold está desbloqueado nesta temporada.</string>
+    <string name="gold_perk_voidstones">%1$s Total from Season Pass Tiers</string>
+    <string name="gold_perk_128_splits">Create 128x Split rooms</string>
+    <string name="gold_perk_xp">×1.25 %1$s Multiplier in game</string>
+    <string name="gold_perk_voidstone_multiplier">×1.25 %1$s Multiplier in game</string>
+    <string name="gold_window_needs">This needs Season Pass Gold</string>
+    <string name="gold_window_perks">What you get</string>
+    <string name="gold_window_until">Season Pass Gold lasts until the end of this season.</string>
+    <string name="gold_perk_4_lives">Create Adventure rooms with 4 lives</string>
+    <string name="gold_perk_chat_id">Gold [ID] Gradient Colour in Chat</string>
+    <string name="gold_perk_chat_id_info">Your [ID] in chat is gold while you have Season Pass Gold.</string>
+    <string name="gold_perk_chat_id_order">A YouTube, TikTok or Translator [ID] colour comes first: with one of those tags, your [ID] keeps that colour. Gold comes before the Discord Verified colour.</string>
+    <string name="gold_perk_profile_tag">%1$s Tag in your Profile</string>
     <string name="iap_already_owned_play">Você já possui este item. O Google Play reembolsará esta compra automaticamente em um prazo de 3 dias.</string>
     <string name="iap_already_owned_apple">Você já possui este item. É possível solicitar um reembolso à Apple em reportaproblem.apple.com.</string>
     <string name="iap_website_item_checkout_opened">O caixa abriu em uma nova aba. A sua compra será adicionada automaticamente após o pagamento.</string>
