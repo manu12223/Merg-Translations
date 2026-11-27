@@ -1261,9 +1261,9 @@
     <string name="send">送信</string>
     <string name="sending">送信中…</string>
     <string name="buy">購入</string>
-    <string name="go">Go</string>
-    <string name="version_history">Version History</string>
-    <string name="latest">Latest</string>
+    <string name="go">ゲット</string>
+    <string name="version_history">バージョンの履歴</string>
+    <string name="latest">最新</string>
     <string name="buying">購入中…</string>
     <string name="search">検索</string>
     <string name="cancel">キャンセル</string>
@@ -1624,7 +1624,7 @@
     <string name="daily_reward_claimed">ゲットしました！</string>
     <string name="daily_reward_new_day_in">次の日 %1$s</string>
     <string name="daily_reward_day">%1$d日</string>
-    <string name="daily_reward_view">View</string>
+    <string name="daily_reward_view">表示</string>
     <string name="daily_reward_overview_stats">運続：%1$d日・最高：%2$d日・経験値ボーナス：＋%3$d%%</string>
     <string name="daily_reward_overview_nostats">統計の更新がオフになっているルームはデイリー連続記録の対象外です！</string>
     <string name="daily_reward_overview_hint">1日1回プレイしてリワードを受け取りましょう。1日でも欠かすとスキンや経験値ボーナスを途切れさせないように気をつけましょう！</string>
