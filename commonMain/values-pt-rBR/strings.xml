@@ -1339,7 +1339,7 @@
     <string name="not_enough_voidstones">Voidstones insuficientes</string>
     <string name="voidstones_cost">Custa</string>
     <string name="voidstones_you_have">Você possui</string>
-    <string name="voidstones_clan_bank_has">O cofre do clã está</string>
+    <string name="voidstones_clan_bank_has">No cofre do clã há</string>
     <string name="voidstones_more_needed">Colete mais %1$s</string>
     <string name="season_pass_stage_not_reached">Você ainda não está nesta fase.</string>
     <string name="not_enough_clan_bank_hint">Qualquer membro poderá doar voidstones para o cofre do clã a partir do perfil do clã.</string>
