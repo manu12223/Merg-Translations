@@ -143,7 +143,7 @@
     <string name="adventure_hardcore">ハードコア</string>
     <string name="adventure_lives_4_gold">4：シーズンパスGoldの機能</string>
     <string name="adventure_lives_4_needs_gold">ライフ 4つ がシーズンパスGoldの機能です</string>
-    <string name="desc_adventure_lives">How many times the room can fail a stage and replay it before the adventure restarts. Fewer lives give more XP.\n\nHardcore: no lives. Whoever dies waits until the adventure restarts or the difficulty changes, and so does whoever joins after the first stage. When nobody is left alive the adventure restarts. Hardcore gives x1.50 XP and, online, x1.50 Voidstones.</string>
+    <string name="desc_adventure_lives">ステージで何回負けて、再度プレイできるよう設定です。ライフの数が少ないほど、獲得できる経験値は多くなります。\n\nハードコア：ライフなしモードでプレイします。ステージで負けた者は、アドベンチャーが再起動するか、難易度が変わるまで待つことになります。すべてのプレイヤーが負けた場合、アドベンチャーは再起動します。ハードコアでは、経験値が×1.50獲得でき、オンラインでボイドストーンが×1.50獲得できます。</string>
     <string name="room_max_split">スプリット ×%1$d</string>
     <string name="quick_merge">ブロブを即座にマージ</string>
     <string name="force_split_on_blob_size">ブロブのサイズで強制スプリット</string>
@@ -822,18 +822,18 @@
     <string name="gamemode_competitive">バトル</string>
     <string name="gamemode_multimerg">マルチマーグ</string>
     <string name="gamemode_domination">ドミネーション</string>
-    <string name="description_domination">Every second you spend as the biggest blob adds to your score, and getting eaten never takes it away. The most time at #1 wins!</string>
+    <string name="description_domination">マップ上で最大のブロブとして1秒過ごすごとに、スコアに1秒が追加される。1位だった間に獲得した秒数は食われても差し引かれない。最も長く1位を保ったプレイヤーの勝ち！</string>
     <string name="gamemode_trick_god">トリックゴッド</string>
-    <string name="description_trick_god">Score points with Trick, Pop and Ice Splits on other blobs, and chain them for bigger combos. The most points when time runs out wins!</string>
-    <string name="description_classic">Eat smaller blobs to grow and become the biggest on the map. Watch out for anyone bigger than you!</string>
-    <string name="description_teams">Team up by color: teammates can't eat each other. Trap your rivals and make your team the biggest!</string>
-    <string name="description_survival">Grow during the grace period, then every death is final. Be the last one standing, or the biggest when time runs out!</string>
-    <string name="description_team_survival">Survival in teams. The last team standing, or the biggest combined when time runs out, wins!</string>
-    <string name="description_knockout">Respawn freely, but at every interval the smallest players are knocked out for good. Be the last one standing!</string>
-    <string name="description_adventure">Beat stages with unique objectives across rising difficulties, earn rewards and see how far you can go!</string>
-    <string name="description_soccer">Shoot the ball into the enemy goal. The team with the most goals when time runs out wins!</string>
+    <string name="description_trick_god">ブロブを食ってTRICK SPLIT、POP SPLIT、ICE SPLITを得点する。より大きなコンボを狙うためにチェーンを作れ！最も高いスコアを保持しているプレイヤーの勝ち！</string>
+    <string name="description_classic">小さなブロブを食って最大のブロブになる。自分より大きなプレイヤーに気をつけよう！</string>
+    <string name="description_teams">色ごとにチームに入り、同じチームのプレイヤーは互いに食い合えない。相手チームのプレイヤーを捕まえて、自分のチームを最も大きくせよ！</string>
+    <string name="description_survival">リスポーンできるうちに大きくなる。リスポーン可能時間が切れると、最プレイできなくなる。最後まで生き残ったプレイヤーになるか、時間が切れたら最大のブロブになれ！</string>
+    <string name="description_team_survival">チームでのサバイバル。最後まで残ったチーム、あるいは合計ブロブサイズが最も大きいチームの勝ち！</string>
+    <string name="description_knockout">自由にリスポーンできる。各インターバルが終わるたびに、すべてのプレイヤーは完全に脱落する。最後まで残ったプレイヤーになれ！</string>
+    <string name="description_adventure">難易度が徐々に上がっているステージをクリアし、リワードをゲットする。実力を試してみろ！</string>
+    <string name="description_soccer">ボールを相手チームのゴールに決める。最も多くゴールを決めたチームの勝ち！</string>
     <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入れ！2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
-    <string name="description_multimerg">Control two blobs and swap between them with the yin-yang button. Your split pieces can eat each other, but your last piece is safe.</string>
+    <string name="description_multimerg">2つのブロブを操作して、陰陽ボタンで切り替える。スプリットされたブロブは、互いに食い合うことができるが、最後の1つは安心。</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">最小</string>
@@ -1339,16 +1339,16 @@
     <string name="not_enough_voidstones">ボイドストーンが足りません</string>
     <string name="voidstones_cost">価格：</string>
     <string name="voidstones_you_have">現在の残高：</string>
-    <string name="voidstones_clan_bank_has">クランの残高：</string>
+    <string name="voidstones_clan_bank_has">クラン残高：</string>
     <string name="voidstones_more_needed">%1$s枚が必要です</string>
     <string name="season_pass_stage_not_reached">ステージにはまだ到達していません。</string>
-    <string name="not_enough_clan_bank_hint">Any clan member can donate voidstones to the clan bank from the clan's profile.</string>
+    <string name="not_enough_clan_bank_hint">どのメンバーでも、ボイドストーンをクラン残高へ寄付できます。</string>
     <string name="negative_balance_title">ボイドストーン残高がマイナス</string>
     <string name="negative_balance_your_balance">現在の残高</string>
     <string name="negative_balance_to_zero">ゼロにするには%1$s枚が必要です</string>
-    <string name="negative_balance_body">Voidstones were taken back from your account after a refund, a correction or a penalty, and some had already been spent. Voidstones you earn or buy go towards this first. You can't spend voidstones until your balance is back at zero.</string>
+    <string name="negative_balance_body">払い戻し、訂正、またはペナルティの適用により、アカウントからボイドストーンが引き落とされましたが、その一部は既に使用されていました。獲得または購入ボイドストーンは、まずこの分へ充当に充てられます。残高がゼロになるまでは、ボイドストーンでアイテムを購入できません。</string>
     <string name="negative_balance_view_history">履歴を表示</string>
-    <string name="contact_support_mistake">Think this is a mistake? Contact support.</string>
+    <string name="contact_support_mistake">間違いだと思いますか？サポートへお問い合わせください。</string>
     <string name="ban_window_comp_title">ランクバトルからBAN済</string>
     <string name="ban_window_body">You can't play online or use online features until the ban ends.</string>
     <string name="ban_window_body_permanent">You can't play online or use online features.</string>
@@ -1410,7 +1410,7 @@
     <string name="additional_settings">その他の設定</string>
     <string name="desc_quick_merge">マージ時間なしゲームになります。</string>
     <string name="desc_force_split_on_blob_size">任意のブロブが設定サイズに達すると、ブロブの中央から、発射の勢いなく自動で半分にスプリットします。最大スプリット数に達しているブロブは、スプリットブロブはそのサイズを上限とします。アドベンチャーモードではこの設定は無効です。</string>
-    <string name="desc_custom_shot_size">Sets how big a shot is compared to the mass it costs. The normal value is 0.6667, so a third of the mass is lost. Above 0.6667 and up to 0.9 the game earns x0.5 XP. Above 0.9 nothing is saved: no statistics, XP, voidstones or achievements. Above 1 a shot is bigger than what it cost, so eating your own shots makes you grow (self feed). Not available in Adventure.</string>
+    <string name="desc_custom_shot_size">ブロブサイズと比較して、イジェクトサイズを設定します。普通の値は0.6667なので、質量の3分の1をイジェクトします。その値が0.6667より大きく、かつ0.9以下の場合は、獲得できる経験値が×0.5になり、0.9以上は情報の更新が無効になります。値が1より大きい場合、イジェクトサイズは現在のブロブサイズより大きくなります。アドベンチャーモードにはこの機能は使用できません。</string>
     <string name="desc_relax">アドベンチャーと同じように、他のプレイヤー（ボットを除く）の最後のブロブを食べられなくなります。</string>
     <string name="desc_gold_holes">ブルーホールは%1$s%%の確率にゴールドホールとしてスポーンし、質量の4倍になります。</string>
     <string name="desc_teleport_holes">無効にしている場合、ブルーホールとブラックホールのみはスポーンします。</string>
